@@ -1,0 +1,320 @@
+---
+title: "Varis"
+output: 
+  md_document:
+    variant: "markdown_github"
+knit: (function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_file = "README.md" )})
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TP
+
+## Recuperation des données
+
+```{r}
+load("../../shiny/data_varis/dfvaris_litter.Rdata")
+```
+
+### Forme des données
+
+```{r}
+dim(dfvaris_litter) # 1340 portées
+```
+
+```{r}
+names(dfvaris_litter)
+```
+
+```{r}
+str(dfvaris_litter) # types des variables
+```
+
+```{r}
+summary(dfvaris_litter)
+```
+
+```{r}
+length(unique(dfvaris_litter$species)) # nb d'espèces
+unique(dfvaris_litter$species)
+```
+
+```{r}
+library(dplyr)
+sub_dfvaris_litter <- dfvaris_litter %>% dplyr::group_by(species) %>% dplyr::sample_n(100) %>% as.data.frame
+```
+
+```{r}
+# creation d'une colonne nommée PAD 
+dfvaris_litter$PAD <- dfvaris_litter$agesire - dfvaris_litter$agedam
+# dfvaris_litter$PAD <- dplyr::mutate(dfvaris_litter, PAD = agesire - agedam)
+```
+
+Il est possible d'executer cette opération sans utiliser des boucles *for* car **R** c'est un langage vectorisé.
+
+## Les fonctions
+
+```{r}
+info_vect <- function(vect) {
+  if(!is.vector(vect)) {
+    stop("'vect' doit être un vecteur")
+  }
+  l <- list()
+  l[[1]] <- class(vect)
+  l[[2]] <- length(vect)
+  l[[3]] <- summary(vect)
+  l[[4]] <- sum(is.na(vect))
+  
+  names(l) <- c("class", "dim", "summary", "na")
+  return(l)
+}
+```
+
+```{r}
+survlitter48h_list <- info_vect(dfvaris_litter$survlitter48h)
+```
+
+```{r}
+info_vect_from_df <- function(df) {
+  if(!is.data.frame(df)) {
+    stop("'df' doit être un dataframe")
+  }
+  
+  linfo <- list()
+  for (i in 1:length(df)) {
+  linfo[[i]] <- info_vect(df[, i])
+  }
+  
+  return(linfo)
+}
+```
+
+```{r}
+# dfvaris_as_list <- info_vect_from_df(dfvaris_litter)
+
+```
+
+```{r}
+info_vect_by_lapply <- function (df) {
+  return(lapply(df, function(x) info_vect(as.vector(x))))
+}
+```
+
+```{r}
+dfvaris_as_list <- info_vect_from_df(dfvaris_litter)
+```
+
+## Les graphiques dans R
+
+-   [data to viz](https://www.data-to-viz.com/)
+-   [Rcolor](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+
+```{r}
+par(pty = "s", ask = FALSE)
+
+minlim <- min(dfvaris_litter$agedam, dfvaris_litter$agesire)
+minlim <- max(dfvaris_litter$agedam, dfvaris_litter$agesire)
+
+plot(dfvaris_litter$agesire ~ dfvaris_litter$agedam, 
+     main = "Relation entre l'âge du père et l'âge de la mère chez les varis: \nles femelles les plus âgées sont généralement associée",
+     xlab = "Maternal age (years)", 
+     ylab = "Paternal age (years)", 
+     pch = ifelse(dfvaris_litter$species == "Vrubra", 2, 1), #c(2, 1)[as.numeric(dfvaris_litter$species)],
+     col = ifelse(dfvaris_litter$species == "Vrubra", "grey51", "black"),
+     xlim = c(0, 40),
+     ylim = c(0, 40)
+     )
+
+fit <- lm(dfvaris_litter$agesire ~ dfvaris_litter$agedam)
+abline(fit, col="dark green")
+# mtext("formule", side = 4)
+# plot.new()
+```
+
+```{r}
+# Distribution de l'âge des mères
+
+# Création de l'histogramme de l'âge des mères
+h_agedam <- hist(dfvaris_litter$agedam, freq = FALSE, 
+                 main = "Distribution de l'âge des mères",
+                 xlab = "Age de la mère en années", ylab = "Densité")
+
+# Ajout d'une courbe de densité
+dens_agedam <- density(dfvaris_litter$agedam)
+lines(dens_agedam)
+
+# Ajout d'une ligne verticale ayant pour abscisse l'âge moyen des mères
+abline(v = mean(dfvaris_litter$agedam), col = "red")
+
+# Coloration de l'aire sous la courbe de densité pour les valeurs inférieures au 1er quartile
+qrtle1 <- summary(dfvaris_litter$agedam)["1st Qu."]
+qrtle3 <- summary(dfvaris_litter$agedam)["3rd Qu."]
+
+polygon(c(0, dens_agedam$x[dens_agedam$x <= qrtle1]),
+        c(dens_agedam$y[dens_agedam$x <= qrtle1], 0),
+        col = rgb(1, 0, 0, alpha = 0.3))
+polygon(c(dens_agedam$x[dens_agedam$x >= qrtle3], qrtle3),
+        c(0, dens_agedam$y[dens_agedam$x >= qrtle3]),
+        col = rgb(1, 0, 0, alpha = 0.3))
+```
+
+```{r}
+# Distribution de l'âge des mères et des pères en fonction de l'espèce
+
+# Préparation d'une zone graphique à deux lignes et deux colonnes
+par(mfrow = c(2, 2))
+
+# Création d'un vecteur contenant l'âge des mères de l'espèce V. Rubra
+dfagedam_vr <- dfvaris_litter$agedam[dfvaris_litter$species == "Vrubra"]
+# Création de l'histogramme de l'âge des mères de l'espèce V. Rubra
+hist(dfagedam_vr, freq = FALSE, main = "Distribution de l'âge des mères\nde l'espèce V. Rubra", 
+     xlab = "Age de la mère", ylab = "Densité", col = "#69b3a2")
+# Ajout de la courbe de densité de l'âge des mères de l'espèce V. Rubra
+lines(density(dfagedam_vr))
+
+# Création d'un vecteur contenant l'âge des mères de l'espèce V. Variegata
+dfagedam_vv <- dfvaris_litter$agedam[dfvaris_litter$species == "Vvariegata"]
+# Création de l'histogramme de l'âge des mères de l'espèce V. Variegata
+hist(dfagedam_vv, freq = FALSE, main = "Distribution de l'âge des mères\nde l'espèce V. Variegata", 
+     xlab = "Age de la mère", ylab = "", col = "#404080")
+# Ajout de la courbe de densité de l'âge des mères de l'espèce V. Variegata
+lines(density(dfagedam_vv))
+
+# Création d'un vecteur contenant l'âge des pères de l'espèce V. Rubra
+dfagesire_vr <- dfvaris_litter$agesire[dfvaris_litter$species == "Vrubra"]
+# Création de l'histogramme de l'âge des pères de l'espèce V. Rubra
+hist(dfagesire_vr, freq = FALSE, main = "Distribution de l'âge des pères\nde l'espèce V. Rubra",
+     xlab = "Age du père", ylab = "Densité", col = "#69b3a2")
+# Ajout de la courbe de densité de l'âge des pères de l'espèce V. Rubra
+lines(density(dfagesire_vr))
+```
+
+```{r}
+
+```
+
+## ggplot2
+
+-   Paradigme propre différent de celui de `R`
+
+-   La sigle *gg* indique *grammar of graphics*
+
+```{r}
+# Distribution de l'âge des mères (voir onglet A du chapitre 3.2)
+
+# Chargement de la librairie ggplot2
+library(ggplot2)
+
+# Création d'un data.frame contenant les coordonnées de la courbe de densité de l'âge des mères
+df_dens_agedam <- as.data.frame(cbind(x = dens_agedam$x, y = dens_agedam$y))
+
+# Création et affichage de l'histogramme de l'âge des mères
+(gg_hist_agedam <- ggplot(data = dfvaris_litter, aes(x = agedam)) + 
+    ggtitle("Distribution de l'âge des mères") + 
+    xlab("Age de la mère en années") + ylab("Densité") +
+    geom_histogram(alpha = 0.4, breaks = h_agedam$breaks, aes(y = ..density..), colour = "black") +
+    geom_vline(xintercept = mean(dfvaris_litter$agedam), colour = "red") +
+    geom_density(alpha = 0.2) +
+    geom_ribbon(data = subset(df_dens_agedam, x <= qrtle1), aes(x = x, ymax = y), ymin = 0, fill = "red", alpha = 0.3) +
+    geom_ribbon(data = subset(df_dens_agedam, x >= qrtle3), aes(x = x, ymax = y), ymin = 0, fill = "red", alpha = 0.3)
+)
+```
+
+```{r}
+# Distribution de l’âge des mères et des pères en fonction de l'espèce (voir onglet B du chapitre 3.2)
+
+# Chargement des librairies ggplot2 et gridExtra
+library(ggplot2)
+library(gridExtra)
+
+# Préparation d'une liste qui contiendra les graphiques à afficher
+gg_hist_age_spe <- list()
+
+# Création de l'histogramme de l'âge des mères pour les deux espèces
+gg_hist_age_spe[[1]] <- ggplot(data = dfvaris_litter, aes(x = agedam)) + 
+  ggtitle("") + xlab("Age de la mère en années") + ylab("Densité") +
+  geom_histogram(alpha = 0.4, aes(y = ..density.., fill = species), bins = 15, color = "grey30") +
+  geom_density(alpha = 0.2) +
+  scale_fill_manual(values = c("#69b3a2", "#404080")) +
+  facet_wrap(~ species) +
+  theme(legend.position = "none")
+
+# Création de l'histogramme de l'âge des pères pour les deux espèces
+gg_hist_age_spe[[2]] <- ggplot(data = dfvaris_litter, aes(x = agesire)) + 
+  ggtitle("") + xlab("Age du père en années") + ylab("Densité") +
+  geom_histogram(alpha = 0.4, aes(y = ..density.., fill = species), bins = 10, color = "grey30") +
+  geom_density(alpha = 0.2) +
+  scale_fill_manual(values = c("#69b3a2", "#404080")) +
+  facet_wrap(~ species) +
+  theme(legend.position = "none")
+
+# Organisation et affichage des quatre graphiques
+do.call(grid.arrange, c(gg_hist_age_spe, nrow = 2))
+```
+
+```{r}
+# Distribution de la taille des portées en fonction de l'espèce (voir onglet C du chapitre 3.2)
+
+# Chargement des librairies ggplot2 et gridExtra
+library(ggplot2)
+
+# Création du boxplot de la taille des portées en fonction de l'espèce
+(gg_bxplt_ls_spe <- ggplot(dfvaris_litter, aes(x = species, y = littersizebirth)) + 
+   xlab("") + ylab("Taille de la portée") +
+   geom_boxplot(fill = c("#69b3a2", "#404080")))
+```
+
+```{r}
+# Création du 'violin plot' de la taille des portées en fonction de l'espèce
+(gg_violin_ls_spe <- ggplot(dfvaris_litter, aes(x = species, y = littersizebirth, fill = species)) + 
+    xlab("") + ylab("Taille de la portée") +
+    geom_violin(alpha = 0.2) +
+    scale_fill_manual(values = c("#69b3a2", "#404080")))
+```
+
+```{r}
+# Création du boxplot (avec les points) de la taille des portées en fonction de l'espèce
+(gg_jitter_ls_spe <- ggplot(dfvaris_litter, aes(x = species, y = littersizebirth)) + 
+    xlab("") + ylab("Taille de la portée") +
+    geom_boxplot(fill = c("#69b3a2", "#404080"), alpha = 0.2) + 
+    geom_jitter(color = "black", size = 0.4, alpha = 0.9))
+```
+
+```{r}
+library(ggplot2)
+(rel_plot <- ggplot(dfvaris_litter, aes(x = agedam, y = agesire, shape = species)) +
+  # geom_point(data = meansire, mapping = aes(x = agedam, y = agemeansire), shape = c(rep(17, sum(meansire$species == "Vrubra")), rep(16, sum(meansire$species == "Vvariegata")))) +
+  xlab("Age de la mère (années)") +
+  ylab("Age du père (années)") +
+  scale_shape_manual(values = c(2, 1),
+                     labels = c("V. rubra", "V. variegata")) +
+  ggtitle("Rélation entre l'âge du père et l'âge de la mère chez les varis: ",
+          subtitle = "les femmes les plus âgées sont généralement associées avec des males plus \njeune qu'elles") +
+  theme(legend.justification = c(1, 1), 
+        legend.position = c(1, 1), 
+        legend.title = element_blank(), 
+        plot.subtitle = element_text(size = 10)) +
+    geom_point()
+  )
+```
+
+```{r}
+# Relation entre l'âge du père et l'âge de la mère chez deux espèces de varis
+# Attention : certains éléments graphiques du ggplot initial ne sont pas conservés par ggplotly (cf le sous-titre qui a disparu).
+
+library(plotly)
+## 
+## Attachement du package : 'plotly'
+## L'objet suivant est masqué depuis 'package:ggplot2':
+## 
+##     last_plot
+## L'objet suivant est masqué depuis 'package:stats':
+## 
+##     filter
+## L'objet suivant est masqué depuis 'package:graphics':
+## 
+##     layout
+ggplotly(rel_plot)
+```

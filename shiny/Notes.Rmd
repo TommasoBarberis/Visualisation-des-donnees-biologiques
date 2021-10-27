@@ -1,0 +1,32 @@
+---
+title: "Notes"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+-   **CRAN**: depôt officiel des packages R
+-   **bioconductor**: depôt pour les packages bio-informatiques
+
+Dans les travaux de master et de stage il est indispensable de citer **R** ainsi que les packages utilisés.
+
+## Données
+
+Fonctions qui permettent d'importer des données propres à R:
+
+    data()
+    load()
+
+Il fuat tojours vérifier les données après les avoir importées. <br/> Pour exporter les données:
+
+    save()
+    write.table()
+
+**IMPORTANT**: R est un language non-typé
+
+```{r}
+library(ade4)
+data(doubs)
+```
