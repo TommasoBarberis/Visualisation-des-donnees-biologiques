@@ -319,3 +319,54 @@ library(plotly)
 ##     layout
 ggplotly(rel_plot)
 ```
+
+## Shiny
+
+```{r}
+shiny::runExample("04_mpg")
+```
+
+```{r}
+# lancement d'une application définie par une partie 'ui' et une partie 'serveur'
+
+library(shiny)
+
+shinyApp(
+  
+  ui = fluidPage(
+    selectInput("region", "Region:",
+                choices = colnames(WorldPhones)),
+    plotOutput("phonePlot")
+  ),
+  
+  server = function(input, output) {
+    output$phonePlot = renderPlot({
+      barplot(WorldPhones[,input$region]*1000,
+              ylab = "Number of Telephones", xlab = "Year")
+    })
+  },
+  
+  options = list(height = 500)
+)
+```
+
+```{r}
+library(shiny)
+
+app <- shinyApp(
+  ui = fluidPage(
+    numericInput("n", "n", 1),
+    plotOutput("plot")
+  ),
+  server = function(input, output) {
+    output$plot <- renderPlot( plot(head(cars, input$n)) )
+  }
+)
+
+runApp(app)
+```
+
+```{r}
+setwd("../")
+plot(dfvaris_litter)
+```
