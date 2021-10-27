@@ -1,9 +1,10 @@
 ---
 title: "Varis"
 output: 
-  md_document:
-    variant: "markdown_github"
-knit: (function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_file = "README.md" )})
+  html_document
+  # md_document:
+    # variant: "markdown_github"
+# knit: (function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_file = "README.md" )})
 ---
 
 ```{r setup, include=FALSE}
@@ -103,7 +104,7 @@ info_vect_by_lapply <- function (df) {
 ```
 
 ```{r}
-dfvaris_as_list <- info_vect_from_df(dfvaris_litter)
+# dfvaris_as_list <- info_vect_from_df(dfvaris_litter)
 ```
 
 ## Les graphiques dans R
