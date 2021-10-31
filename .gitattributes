@@ -1,0 +1,2 @@
+# linguist overrides
+*.Rmd linguist-detetable=true
