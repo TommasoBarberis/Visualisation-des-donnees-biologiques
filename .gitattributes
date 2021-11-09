@@ -1,2 +1,2 @@
 # linguist overrides
-*.Rmd linguist-detetable=true
+*.Rmd linguist-detectable=true
