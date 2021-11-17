@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-06-05" version="116">
+<accession>P0A8N7</accession>
+<accession>P03812</accession>
+<accession>P78141</accession>
+<accession>Q2M6E7</accession>
+<accession>Q8XDP9</accession>
+<name>EPMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Elongation factor P--(R)-beta-lysine ligase</fullName>
+<shortName evidence="3">EF-P--(R)-beta-lysine ligase</shortName>
+<ecNumber evidence="3">6.3.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="3">EF-P post-translational modification enzyme A</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="3">EF-P-lysine lysyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>GX</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">epmA</name>
+<name type="synonym">genX</name>
+<name type="synonym">poxA</name>
+<name type="synonym">yjeA</name>
+<name type="ordered locus">b4155</name>
+<name type="ordered locus">JW4116</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Gene" volume="108" first="163" last="164">
+<title>Evidence for a new Escherichia coli protein resembling a lysyl-tRNA synthetase.</title>
+<authorList>
+<person name="Kong L."/>
+<person name="Fromant M."/>
+<person name="Blanquet S."/>
+<person name="Plateau P."/>
+</authorList>
+<dbReference type="PubMed" id="1761227"/>
+<dbReference type="DOI" id="10.1016/0378-1119(91)90503-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1982" name="Eur. J. Biochem." volume="122" first="479" last="484">
+<title>Nucleotide sequence coding for the flavoprotein subunit of the fumarate reductase of Escherichia coli.</title>
+<authorList>
+<person name="Cole S.T."/>
+</authorList>
+<dbReference type="PubMed" id="7037404"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-152</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1982" name="J. Bacteriol." volume="151" first="1279" last="1289">
+<title>Mapping nonselectable genes of Escherichia coli by using transposon Tn10: location of a gene affecting pyruvate oxidase.</title>
+<authorList>
+<person name="Chang Y.-Y."/>
+<person name="Cronan J.E. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="6286595"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1989" name="Proc. Natl. Acad. Sci. U.S.A." volume="86" first="6023" last="6027">
+<title>Homology of aspartyl- and lysyl-tRNA synthetases.</title>
+<authorList>
+<person name="Gampel A."/>
+<person name="Tzagoloff A."/>
+</authorList>
+<dbReference type="PubMed" id="2668951"/>
+<dbReference type="DOI" id="10.1073/pnas.86.16.6023"/>
+</citation>
+<scope>SIMILARITY TO CLASS-II AA-TRNA SYNTHETASES</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2010" name="Acta Crystallogr. F" volume="66" first="1115" last="1118">
+<title>Crystallization and preliminary X-ray crystallographic study of GenX, a lysyl-tRNA synthetase paralogue from Escherichia coli, in complex with translation elongation factor P.</title>
+<authorList>
+<person name="Sumida T."/>
+<person name="Yanagisawa T."/>
+<person name="Ishii R."/>
+<person name="Yokoyama S."/>
+</authorList>
+<dbReference type="PubMed" id="20823541"/>
+<dbReference type="DOI" id="10.1107/S1744309110032008"/>
+</citation>
+<scope>CRYSTALLIZATION</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Biol. Direct" volume="5" first="3" last="3">
+<title>Predicting the pathway involved in post-translational modification of Elongation factor P in a subset of bacterial species.</title>
+<authorList>
+<person name="Bailly M."/>
+<person name="de Crecy-Lagard V."/>
+</authorList>
+<dbReference type="PubMed" id="20070887"/>
+<dbReference type="DOI" id="10.1186/1745-6150-5-3"/>
+</citation>
+<scope>POSSIBLE FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="Nat. Chem. Biol." volume="7" first="667" last="669">
+<title>The tRNA synthetase paralog PoxA modifies elongation factor-P with (R)-beta-lysine.</title>
+<authorList>
+<person name="Roy H."/>
+<person name="Zou S.B."/>
+<person name="Bullwinkle T.J."/>
+<person name="Wolfe B.S."/>
+<person name="Gilreath M.S."/>
+<person name="Forsyth C.J."/>
+<person name="Navarre W.W."/>
+<person name="Ibba M."/>
+</authorList>
+<dbReference type="PubMed" id="21841797"/>
+<dbReference type="DOI" id="10.1038/nchembio.632"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>KINETIC PARAMETERS</scope>
+<scope>MUTAGENESIS OF SER-76 AND ALA-298</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="2579" last="2590">
+<title>Post-translational modification by beta-lysylation is required for activity of Escherichia coli elongation factor P (EF-P).</title>
+<authorList>
+<person name="Park J.H."/>
+<person name="Johansson H.E."/>
+<person name="Aoki H."/>
+<person name="Huang B.X."/>
+<person name="Kim H.Y."/>
+<person name="Ganoza M.C."/>
+<person name="Park M.H."/>
+</authorList>
+<dbReference type="PubMed" id="22128152"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.309633"/>
+</citation>
+<scope>FUNCTION IN EF-P BETA-LYSYLATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2012" name="Nat. Chem. Biol." volume="8" first="695" last="697">
+<title>Lys34 of translation elongation factor EF-P is hydroxylated by YfcM.</title>
+<authorList>
+<person name="Peil L."/>
+<person name="Starosta A.L."/>
+<person name="Virumae K."/>
+<person name="Atkinson G.C."/>
+<person name="Tenson T."/>
+<person name="Remme J."/>
+<person name="Wilson D.N."/>
+</authorList>
+<dbReference type="PubMed" id="22706199"/>
+<dbReference type="DOI" id="10.1038/nchembio.1001"/>
+</citation>
+<scope>GENE NAME</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2013" name="Science" volume="339" first="82" last="85">
+<title>Translation elongation factor EF-P alleviates ribosome stalling at polyproline stretches.</title>
+<authorList>
+<person name="Ude S."/>
+<person name="Lassak J."/>
+<person name="Starosta A.L."/>
+<person name="Kraxenberger T."/>
+<person name="Wilson D.N."/>
+<person name="Jung K."/>
+</authorList>
+<dbReference type="PubMed" id="23239623"/>
+<dbReference type="DOI" id="10.1126/science.1228985"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="1136" last="1143">
+<title>A paralog of lysyl-tRNA synthetase aminoacylates a conserved lysine residue in translation elongation factor P.</title>
+<authorList>
+<person name="Yanagisawa T."/>
+<person name="Sumida T."/>
+<person name="Ishii R."/>
+<person name="Takemoto C."/>
+<person name="Yokoyama S."/>
+</authorList>
+<dbReference type="PubMed" id="20729861"/>
+<dbReference type="DOI" id="10.1038/nsmb.1889"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEXES WITH LYSYL-ADENYLATE ANALOG AND EF-P</scope>
+<scope>FUNCTION IN EF-P LYSYLATION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ASP-50; ARG-100; GLU-102; GLU-103; HIS-108; GLU-185; GLN-193; GLU-244; ASN-247 AND ARG-303</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4 6 7">With EpmB is involved in the beta-lysylation step of the post-translational modification of translation elongation factor P (EF-P) on 'Lys-34'. Catalyzes the ATP-dependent activation of (R)-beta-lysine produced by EpmB, forming a lysyl-adenylate, from which the beta-lysyl moiety is then transferred to the epsilon-amino group of EF-P 'Lys-34'. (R)-beta-lysine is 100-fold more efficient as a substrate than either (S)-beta-lysine or L-alpha-lysine. Cannot ligate lysine to any tRNA.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="6">213 uM for (R)-beta-lysine</KM>
+<KM evidence="6">8600 uM for L-alpha-lysine</KM>
+<KM evidence="6">6950 uM for (S)-beta-lysine</KM>
+<KM evidence="6">206 uM for ATP</KM>
+<text>kcat is 36 min(-1) for the amino acid activation reaction with (R)-beta-lysine as substrate.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-562598"/>
+<interactant intactId="EBI-542683">
+<id>P0AFG8</id>
+<label>aceE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 8 9">Cells have a reduced pyruvate oxidase activity and a reduced growth rate. Cells lack CadA activity (lysine decarboxylase).</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the class-II aminoacyl-tRNA synthetase family. EpmA subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="11">Was originally suggested to be a tRNA synthase, however its lack of an anticodon-binding domain made this highly unlikely.</text>
+</comment>
+<comment type="sequence caution" evidence="10">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA97054" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="6.3.1.-" evidence="3"/>
+<dbReference type="EMBL" id="X59988">
+<property type="protein sequence ID" value="CAA42604.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97054.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77115.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78159.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J01611">
+<property type="protein sequence ID" value="AAA23436.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S56383">
+<property type="entry name" value="S56383"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418579.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000004771.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3A5Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D=1-325"/>
+</dbReference>
+<dbReference type="PDB" id="3A5Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/C/E/G=1-325"/>
+</dbReference>
+<dbReference type="PDBsum" id="3A5Y"/>
+<dbReference type="PDBsum" id="3A5Z"/>
+<dbReference type="SMR" id="P0A8N7"/>
+<dbReference type="BioGrid" id="4260877">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10535N"/>
+<dbReference type="IntAct" id="P0A8N7">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4155"/>
+<dbReference type="jPOST" id="P0A8N7"/>
+<dbReference type="PaxDb" id="P0A8N7"/>
+<dbReference type="PRIDE" id="P0A8N7"/>
+<dbReference type="EnsemblBacteria" id="AAC77115">
+<property type="protein sequence ID" value="AAC77115"/>
+<property type="gene ID" value="b4155"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78159">
+<property type="protein sequence ID" value="BAE78159"/>
+<property type="gene ID" value="BAE78159"/>
+</dbReference>
+<dbReference type="GeneID" id="948672"/>
+<dbReference type="KEGG" id="ecj:JW4116"/>
+<dbReference type="KEGG" id="eco:b4155"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2543"/>
+<dbReference type="EchoBASE" id="EB1196"/>
+<dbReference type="EcoGene" id="EG11211">
+<property type="gene designation" value="epmA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CAP">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2269">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000236579"/>
+<dbReference type="InParanoid" id="P0A8N7"/>
+<dbReference type="KO" id="K04568"/>
+<dbReference type="PhylomeDB" id="P0A8N7"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11211-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4116-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11211-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A8N7"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016880">
+<property type="term" value="F:acid-ammonia (or amide) ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004824">
+<property type="term" value="F:lysine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052868">
+<property type="term" value="F:protein-lysine lysyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006430">
+<property type="term" value="P:lysyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071915">
+<property type="term" value="P:protein-lysine lysylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072581">
+<property type="term" value="P:protein-N6-(L-lysyl)-L-lysine modification to protein-N6-(beta-lysyl)-L-lysine"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00174">
+<property type="entry name" value="EF_P_modif_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004364">
+<property type="entry name" value="aa-tRNA-synt_II"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006195">
+<property type="entry name" value="aa-tRNA-synth_II"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004525">
+<property type="entry name" value="EpmA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018149">
+<property type="entry name" value="Lys-tRNA-synth_II_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00152">
+<property type="entry name" value="tRNA-synt_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00982">
+<property type="entry name" value="TRNASYNTHLYS"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00462">
+<property type="entry name" value="genX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50862">
+<property type="entry name" value="AA_TRNA_LIGASE_II"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Elongation factor P--(R)-beta-lysine ligase" id="PRO_0000152719">
+<location>
+<begin position="1"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="244"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via amide nitrogen and carbonyl oxygen">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via amide nitrogen">
+<location>
+<position position="300"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on lysylation activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of catalytic activity." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of lysylation activity." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on lysylation activity." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of lysylation activity." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severe reduction in lysylation activity." evidence="4">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in lysylation activity." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in lysylation activity." evidence="4">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of lysylation activity." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="244"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of lysylation activity." evidence="4">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="247"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="96% increase in the affinity for L-alpha-lysine. 4-fold decrease in the catalytic efficiency of the (R)-beta-lysine activation reaction." evidence="6">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="298"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of lysylation activity." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="303"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23436." ref="5" evidence="10">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23436." ref="5" evidence="10">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="13"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="42"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="63"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="69"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="78"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="91"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="110"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="145"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="149"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="161"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="166"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="172"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="179"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="190"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="201"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="204"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="210"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="217"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="232"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="243"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="255"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="281"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="293"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="301"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="314"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="318"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="322"/>
+<end position="324"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3A5Y"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3A5Z"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00174"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20729861"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20823541"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21841797"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22128152"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23239623"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6286595"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1761227"/>
+</source>
+</evidence>
+<sequence length="325" mass="36976" checksum="F72B535CCA23E4CC" modified="2005-06-07" version="1">
+MSETASWQPSASIPNLLKRAAIMAEIRRFFADRGVLEVETPCMSQATVTDIHLVPFETRF
+VGPGHSQGMNLWLMTSPEYHMKRLLVAGCGPVFQLCRSFRNEEMGRYHNPEFTMLEWYRP
+HYDMYRLMNEVDDLLQQVLDCPAAESLSYQQAFLRYLEIDPLSADKTQLREVAAKLDLSN
+VADTEEDRDTLLQLLFTFGVEPNIGKEKPTFVYHFPASQASLAQISTEDHRVAERFEVYY
+KGIELANGFHELTDAREQQQRFEQDNRKRAARGLPQHPIDQNLIEALKVGMPDCSGVALG
+VDRLVMLALGAETLAEVIAFSVDRA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

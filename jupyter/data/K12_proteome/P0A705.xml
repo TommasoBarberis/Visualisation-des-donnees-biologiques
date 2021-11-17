@@ -1,0 +1,1182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="126">
+<accession>P0A705</accession>
+<accession>O32548</accession>
+<accession>O32549</accession>
+<accession>O32550</accession>
+<accession>O34379</accession>
+<accession>O34415</accession>
+<accession>O34603</accession>
+<accession>P02995</accession>
+<accession>Q2M942</accession>
+<accession>Q9EUZ4</accession>
+<accession>Q9EUZ5</accession>
+<accession>Q9EUZ6</accession>
+<accession>Q9EUZ8</accession>
+<accession>Q9EUZ9</accession>
+<accession>Q9EV00</accession>
+<name>IF2_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Translation initiation factor IF-2</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">infB</name>
+<name type="synonym">gicD</name>
+<name type="synonym">ssyG</name>
+<name type="ordered locus">b3168</name>
+<name type="ordered locus">JW3137</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Proc. Natl. Acad. Sci. U.S.A." volume="81" first="7787" last="7791">
+<title>Sequence of the initiation factor IF2 gene: unusual protein features and homologies with elongation factors.</title>
+<authorList>
+<person name="Sacerdot C."/>
+<person name="Dessen P."/>
+<person name="Hershey J.W.B."/>
+<person name="Plumbridge J.A."/>
+<person name="Grunberg-Manago M."/>
+</authorList>
+<dbReference type="PubMed" id="6096856"/>
+<dbReference type="DOI" id="10.1073/pnas.81.24.7787"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="419" first="281" last="284">
+<title>E. coli translation initiation factor IF2--an extremely conserved protein. Comparative sequence analysis of the infB gene in clinical isolates of E. coli.</title>
+<authorList>
+<person name="Steffensen S.A.D.A."/>
+<person name="Poulsen A.B."/>
+<person name="Mortensen K.K."/>
+<person name="Sperling-Petersen H.U."/>
+</authorList>
+<dbReference type="PubMed" id="9428651"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(97)01472-5"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>Various clinical strains</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1999-02" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of the infB gene from Escherichia coli strain IQ489 and IQ490.</title>
+<authorList>
+<person name="Hedegaard J."/>
+<person name="Kristensen J.E."/>
+<person name="Nakamura Y."/>
+<person name="Sperling-Petersen H.U."/>
+<person name="Mortensen K.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>IQ489</strain>
+<strain>IQ490</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1984" name="Nucleic Acids Res." volume="12" first="3333" last="3342">
+<title>The nucleotide sequence of the cloned nusA gene and its flanking region of Escherichia coli.</title>
+<authorList>
+<person name="Ishii S."/>
+<person name="Ihara M."/>
+<person name="Maekawa T."/>
+<person name="Nakamura Y."/>
+<person name="Uchida H."/>
+<person name="Imamoto F."/>
+</authorList>
+<dbReference type="PubMed" id="6326058"/>
+<dbReference type="DOI" id="10.1093/nar/12.7.3333"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-22</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1985" name="EMBO J." volume="4" first="223" last="229">
+<title>Two translational initiation sites in the infB gene are used to express initiation factor IF2 alpha and IF2 beta in Escherichia coli.</title>
+<authorList>
+<person name="Plumbridge J.A."/>
+<person name="Deville F."/>
+<person name="Sacerdot C."/>
+<person name="Petersen H.U."/>
+<person name="Cenatiempo Y."/>
+<person name="Cozzone A."/>
+<person name="Grunberg-Manago M."/>
+<person name="Hershey J.W."/>
+</authorList>
+<dbReference type="PubMed" id="3894004"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-11 AND 159-174 (ISOFORMS ALPHA AND BETA)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="10803" last="10816">
+<title>The existence of two genes between infB and rpsO in the Escherichia coli genome: DNA sequencing and S1 nuclease mapping.</title>
+<authorList>
+<person name="Sands J.F."/>
+<person name="Regnier P."/>
+<person name="Cummings H.S."/>
+<person name="Grunberg-Manago M."/>
+<person name="Hershey J.W.B."/>
+</authorList>
+<dbReference type="PubMed" id="2849753"/>
+<dbReference type="DOI" id="10.1093/nar/16.22.10803"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 864-890</scope>
+<scope>INDUCTION</scope>
+<scope>OPERON</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1991" name="Biochem. Biophys. Res. Commun." volume="181" first="1572" last="1579">
+<title>Tandem translation of E. coli initiation factor IF2 beta: purification and characterization in vitro of two active forms.</title>
+<authorList>
+<person name="Nyengaard N.R."/>
+<person name="Mortensen K.K."/>
+<person name="Lassen S.F."/>
+<person name="Hershey J.W.B."/>
+<person name="Sperling-Petersen H.U."/>
+</authorList>
+<dbReference type="PubMed" id="1764105"/>
+<dbReference type="DOI" id="10.1016/0006-291X(91)92118-4"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 159-174 AND 166-174 (ISOFORMS BETA AND BETA')</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1992" name="J. Mol. Biol." volume="225" first="67" last="80">
+<title>Both forms of translational initiation factor IF2 (alpha and beta) are required for maximal growth of Escherichia coli. Evidence for two translational initiation codons for IF2 beta.</title>
+<authorList>
+<person name="Sacerdot C."/>
+<person name="Vachon G."/>
+<person name="Laalami S."/>
+<person name="Morel-Deville F."/>
+<person name="Cenatiempo Y."/>
+<person name="Grunberg-Manago M."/>
+</authorList>
+<dbReference type="PubMed" id="1374802"/>
+<dbReference type="DOI" id="10.1016/0022-2836(92)91026-L"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 159-169 AND 166-171 (ISOFORMS BETA AND BETA')</scope>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF VAL-158 AND MET-165</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1987" name="Biochemistry" volume="26" first="5070" last="5076">
+<title>The protein synthesis initiation factor 2 G-domain. Study of a functionally active C-terminal 65-kilodalton fragment of IF2 from Escherichia coli.</title>
+<authorList>
+<person name="Cenatiempo Y."/>
+<person name="Deville F."/>
+<person name="Dondon J."/>
+<person name="Grunberg-Manago M."/>
+<person name="Sacerdot C."/>
+<person name="Hershey J.W."/>
+<person name="Hansen H.F."/>
+<person name="Petersen H.U."/>
+<person name="Clark B.F."/>
+<person name="Kjeldgaard M."/>
+</authorList>
+<dbReference type="PubMed" id="2444251"/>
+<dbReference type="DOI" id="10.1021/bi00390a028"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 290-304</scope>
+<scope>FUNCTION</scope>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1991" name="Biochimie" volume="73" first="1557" last="1566">
+<title>Structural and functional domains of E coli initiation factor IF2.</title>
+<authorList>
+<person name="Laalami S."/>
+<person name="Sacerdot C."/>
+<person name="Vachon G."/>
+<person name="Mortensen K."/>
+<person name="Sperling-Petersen H.U."/>
+<person name="Cenatiempo Y."/>
+<person name="Grunberg-Manago M."/>
+</authorList>
+<dbReference type="PubMed" id="1805969"/>
+<dbReference type="DOI" id="10.1016/0300-9084(91)90191-3"/>
+</citation>
+<scope>DOMAIN STRUCTURE</scope>
+<scope>REVIEW</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="2537" last="2545">
+<title>Genetic interaction screens with ordered overexpression and deletion clone sets implicate the Escherichia coli GTPase YjeQ in late ribosome biogenesis.</title>
+<authorList>
+<person name="Campbell T.L."/>
+<person name="Brown E.D."/>
+</authorList>
+<dbReference type="PubMed" id="18223068"/>
+<dbReference type="DOI" id="10.1128/JB.01744-07"/>
+</citation>
+<scope>PARTIALLY SUPPRESSES A RSGA MUTANT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="215" last="225">
+<title>Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Sprung R."/>
+<person name="Pei J."/>
+<person name="Tan X."/>
+<person name="Kim S."/>
+<person name="Zhu H."/>
+<person name="Liu C.F."/>
+<person name="Grishin N.V."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="18723842"/>
+<dbReference type="DOI" id="10.1074/mcp.M800187-MCP200"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-808</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / JW1106</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2010" name="EMBO Rep." volume="11" first="312" last="316">
+<title>The ribosome-bound initiation factor 2 recruits initiator tRNA to the 30S initiation complex.</title>
+<authorList>
+<person name="Milon P."/>
+<person name="Carotti M."/>
+<person name="Konevega A.L."/>
+<person name="Wintermeyer W."/>
+<person name="Rodnina M.V."/>
+<person name="Gualerzi C.O."/>
+</authorList>
+<dbReference type="PubMed" id="20224578"/>
+<dbReference type="DOI" id="10.1038/embor.2010.12"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2012" name="Nat. Struct. Mol. Biol." volume="19" first="609" last="615">
+<title>Real-time assembly landscape of bacterial 30S translation initiation complex.</title>
+<authorList>
+<person name="Milon P."/>
+<person name="Maracci C."/>
+<person name="Filonava L."/>
+<person name="Gualerzi C.O."/>
+<person name="Rodnina M.V."/>
+</authorList>
+<dbReference type="PubMed" id="22562136"/>
+<dbReference type="DOI" id="10.1038/nsmb.2285"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2012" name="Crit. Rev. Biochem. Mol. Biol." volume="47" first="334" last="348">
+<title>Kinetic control of translation initiation in bacteria.</title>
+<authorList>
+<person name="Milon P."/>
+<person name="Rodnina M.V."/>
+</authorList>
+<dbReference type="PubMed" id="22515367"/>
+<dbReference type="DOI" id="10.3109/10409238.2012.678284"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="16320" last="16328">
+<title>A conserved structural motif at the N terminus of bacterial translation initiation factor IF2.</title>
+<authorList>
+<person name="Laursen B.S."/>
+<person name="Mortensen K.K."/>
+<person name="Sperling-Petersen H.U."/>
+<person name="Hoffman D.W."/>
+</authorList>
+<dbReference type="PubMed" id="12600987"/>
+<dbReference type="DOI" id="10.1074/jbc.M212960200"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 2-50</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2011" name="PLoS Biol." volume="9" first="E1001095" last="E1001095">
+<title>The cryo-EM structure of a complete 30S translation initiation complex from Escherichia coli.</title>
+<authorList>
+<person name="Julian P."/>
+<person name="Milon P."/>
+<person name="Agirrezabala X."/>
+<person name="Lasso G."/>
+<person name="Gil D."/>
+<person name="Rodnina M.V."/>
+<person name="Valle M."/>
+</authorList>
+<dbReference type="PubMed" id="21750663"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1001095"/>
+</citation>
+<scope>MODEL BY ELECTRON MICROSCOPY (18.3 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="4 7 9 10">One of the essential components for the initiation of protein synthesis. May protect N-formylmethionyl-tRNA(fMet) from spontaneous hydrolysis. Promotes N-formylmethionyl-tRNA(fMet) binding to the 30S pre-initiation complex (PIC) (PubMed:1764105, PubMed:20224578). Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex. Upon addition of the 50S ribosomal subunit, IF-1, IF-2 and IF-3 are released leaving the mature 70S translation initiation complex.</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 8 9">Component of the 30S ribosomal translation pre-initiation complex which assembles on the 30S ribosome in the order IF-2 and IF-3, IF-1 and N-formylmethionyl-tRNA(fMet); mRNA recruitment can occur at any time during PIC assembly.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative initiation"/>
+<isoform>
+<id>P0A705-1</id>
+<name evidence="12">Alpha</name>
+<sequence type="displayed"/>
+<text evidence="14">Isoform alpha is approximately 2-fold more abundant than the combined beta isoforms. Optimal growth requires both alpha and beta IF2.</text>
+</isoform>
+<isoform>
+<id>P0A705-2</id>
+<name evidence="3 4 12">Beta</name>
+<sequence type="described" ref="VSP_018758 VSP_018759"/>
+<text evidence="14">Also called beta1.</text>
+</isoform>
+<isoform>
+<id>P0A705-3</id>
+<name evidence="3 4">Beta'</name>
+<sequence type="described" ref="VSP_018760"/>
+<text evidence="14">Also called beta2.</text>
+</isoform>
+</comment>
+<comment type="induction">
+<text evidence="11">Part of the metY operon that extends to pnp (PubMed:2849753).</text>
+</comment>
+<comment type="PTM">
+<text evidence="10">A proteolyzed form, called IF2 gamma (begins with residue 290), can be detected during purification which has all the activities expected for this protein, although it is slightly less efficient than full-length protein. It is not clear if it exists in vivo.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">Essential, it cannot be deleted. The C-terminal region (residues 165-890) is sufficient for growth at 42 degrees Celsius, although it grows more slowly at 37 degrees and is cold-sensitive at 30 degrees Celsius (PubMed:1374802).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">When overexpressed partially suppresses the slow growth and decreased 70S ribosome phenotype of an rsgA knockout; RsgA may be involved in 30S ribosomal subunit biogenesis.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="3">Silent mutations of codon 158, which no longer function as alternative start codons, decrease beta isoform expression to 31 to 50%, the strongest mutation is GUG to GUC.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. IF-2 subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="X00513">
+<property type="protein sequence ID" value="CAA25201.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X00513">
+<property type="protein sequence ID" value="CAA25202.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57971.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76202.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77214.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002537">
+<property type="protein sequence ID" value="CAA05529.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002537">
+<property type="protein sequence ID" value="CAA05530.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002537">
+<property type="protein sequence ID" value="CAA05531.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002538">
+<property type="protein sequence ID" value="CAA05532.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002538">
+<property type="protein sequence ID" value="CAA05533.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002538">
+<property type="protein sequence ID" value="CAA05534.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002539">
+<property type="protein sequence ID" value="CAA05535.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002539">
+<property type="protein sequence ID" value="CAA05536.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002539">
+<property type="protein sequence ID" value="CAA05537.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002540">
+<property type="protein sequence ID" value="CAA05538.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002540">
+<property type="protein sequence ID" value="CAA05539.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002540">
+<property type="protein sequence ID" value="CAA05540.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002541">
+<property type="protein sequence ID" value="CAA05541.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002541">
+<property type="protein sequence ID" value="CAA05542.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002541">
+<property type="protein sequence ID" value="CAA05543.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002542">
+<property type="protein sequence ID" value="CAA05544.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002542">
+<property type="protein sequence ID" value="CAA05545.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002542">
+<property type="protein sequence ID" value="CAA05546.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002402">
+<property type="protein sequence ID" value="CAA05386.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002403">
+<property type="protein sequence ID" value="CAA05387.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002404">
+<property type="protein sequence ID" value="CAA05388.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002405">
+<property type="protein sequence ID" value="CAA05389.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002406">
+<property type="protein sequence ID" value="CAA05390.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002407">
+<property type="protein sequence ID" value="CAA05391.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002408">
+<property type="protein sequence ID" value="CAA05392.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002409">
+<property type="protein sequence ID" value="CAA05393.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002410">
+<property type="protein sequence ID" value="CAA05394.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002411">
+<property type="protein sequence ID" value="CAA05395.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002412">
+<property type="protein sequence ID" value="CAA05396.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ002413">
+<property type="protein sequence ID" value="CAA05397.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132861">
+<property type="protein sequence ID" value="CAC20126.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132861">
+<property type="protein sequence ID" value="CAC20127.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132861">
+<property type="protein sequence ID" value="CAC20128.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132862">
+<property type="protein sequence ID" value="CAC20130.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132862">
+<property type="protein sequence ID" value="CAC20131.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132862">
+<property type="protein sequence ID" value="CAC20132.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X13775">
+<property type="protein sequence ID" value="CAA32019.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65107">
+<property type="entry name" value="FIEC2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417637.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000133044.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1ND9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-50"/>
+</dbReference>
+<dbReference type="PDB" id="1ZO1">
+<property type="method" value="EM"/>
+<property type="resolution" value="13.80"/>
+<property type="chains" value="I=388-888"/>
+</dbReference>
+<dbReference type="PDB" id="3JCJ">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.70"/>
+<property type="chains" value="f=1-890"/>
+</dbReference>
+<dbReference type="PDB" id="3JCN">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.60"/>
+<property type="chains" value="b=1-890"/>
+</dbReference>
+<dbReference type="PDB" id="5ME0">
+<property type="method" value="EM"/>
+<property type="resolution" value="13.50"/>
+<property type="chains" value="W=1-890"/>
+</dbReference>
+<dbReference type="PDB" id="5ME1">
+<property type="method" value="EM"/>
+<property type="resolution" value="13.50"/>
+<property type="chains" value="W=1-890"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ND9"/>
+<dbReference type="PDBsum" id="1ZO1"/>
+<dbReference type="PDBsum" id="3JCJ"/>
+<dbReference type="PDBsum" id="3JCN"/>
+<dbReference type="PDBsum" id="5ME0"/>
+<dbReference type="PDBsum" id="5ME1"/>
+<dbReference type="SMR" id="P0A705"/>
+<dbReference type="BioGrid" id="4262436">
+<property type="interactions" value="45"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2244">
+<property type="entry name" value="Translation initiation factor complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36182N"/>
+<dbReference type="IntAct" id="P0A705">
+<property type="interactions" value="51"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3168"/>
+<dbReference type="iPTMnet" id="P0A705"/>
+<dbReference type="EPD" id="P0A705"/>
+<dbReference type="jPOST" id="P0A705"/>
+<dbReference type="PaxDb" id="P0A705"/>
+<dbReference type="PRIDE" id="P0A705"/>
+<dbReference type="EnsemblBacteria" id="AAC76202">
+<property type="protein sequence ID" value="AAC76202"/>
+<property type="gene ID" value="b3168"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77214">
+<property type="protein sequence ID" value="BAE77214"/>
+<property type="gene ID" value="BAE77214"/>
+</dbReference>
+<dbReference type="GeneID" id="947684"/>
+<dbReference type="KEGG" id="ecj:JW3137"/>
+<dbReference type="KEGG" id="eco:b3168"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3263"/>
+<dbReference type="EchoBASE" id="EB0500"/>
+<dbReference type="EcoGene" id="EG10505">
+<property type="gene designation" value="infB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107QHU">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0532">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="P0A705"/>
+<dbReference type="KO" id="K02519"/>
+<dbReference type="PhylomeDB" id="P0A705"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10505-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3137-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A705"/>
+<dbReference type="PRO" id="PR:P0A705"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097216">
+<property type="term" value="F:guanosine tetraphosphate binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043024">
+<property type="term" value="F:ribosomal small subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003743">
+<property type="term" value="F:translation initiation factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006413">
+<property type="term" value="P:translational initiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10050">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00100_B">
+<property type="entry name" value="IF_2_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009061">
+<property type="entry name" value="DNA-bd_dom_put_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013575">
+<property type="entry name" value="IF2_assoc_dom_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006847">
+<property type="entry name" value="IF2_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005225">
+<property type="entry name" value="Small_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000795">
+<property type="entry name" value="TF_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000178">
+<property type="entry name" value="TF_IF2_bacterial-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015760">
+<property type="entry name" value="TIF_IF2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023115">
+<property type="entry name" value="TIF_IF2_dom3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036925">
+<property type="entry name" value="TIF_IF2_dom3_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009000">
+<property type="entry name" value="Transl_B-barrel_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43381">
+<property type="entry name" value="PTHR43381"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00009">
+<property type="entry name" value="GTP_EFTU"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11987">
+<property type="entry name" value="IF-2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08364">
+<property type="entry name" value="IF2_assoc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04760">
+<property type="entry name" value="IF2_N"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46955">
+<property type="entry name" value="SSF46955"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50447">
+<property type="entry name" value="SSF50447"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52156">
+<property type="entry name" value="SSF52156"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00487">
+<property type="entry name" value="IF-2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00231">
+<property type="entry name" value="small_GTP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51722">
+<property type="entry name" value="G_TR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01176">
+<property type="entry name" value="IF2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0024">Alternative initiation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0396">Initiation factor</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Translation initiation factor IF-2" id="PRO_0000238785">
+<location>
+<begin position="1"/>
+<end position="890"/>
+</location>
+</feature>
+<feature type="domain" description="tr-type G">
+<location>
+<begin position="389"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="398"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="444"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="498"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="region of interest" description="1">
+<location>
+<begin position="1"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="region of interest" description="2">
+<location>
+<begin position="104"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="region of interest" description="3">
+<location>
+<begin position="288"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="region of interest" description="G1" evidence="2">
+<location>
+<begin position="398"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="region of interest" description="G2" evidence="2">
+<location>
+<begin position="423"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="region of interest" description="G3" evidence="2">
+<location>
+<begin position="444"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="region of interest" description="G4" evidence="2">
+<location>
+<begin position="498"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="region of interest" description="G5" evidence="2">
+<location>
+<begin position="534"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="region of interest" description="5">
+<location>
+<begin position="541"/>
+<end position="668"/>
+</location>
+</feature>
+<feature type="region of interest" description="6">
+<location>
+<begin position="669"/>
+<end position="890"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Ala/Arg/Glu/Lys-rich">
+<location>
+<begin position="167"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="6">
+<location>
+<position position="808"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Beta'." id="VSP_018760" evidence="3 4 13">
+<location>
+<begin position="1"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Beta." id="VSP_018758" evidence="3 4 12 13">
+<location>
+<begin position="1"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Beta." id="VSP_018759" evidence="15 16">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: IQ489.">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: IQ490.">
+<original>G</original>
+<variation>GG</variation>
+<location>
+<position position="423"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: ECOAU9326.">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="432"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: ECOAU9302, ECOAU9306, ECOAU9307 and ECOAU9309.">
+<original>Q</original>
+<variation>G</variation>
+<location>
+<position position="490"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: ECOAU9306.">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="684"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Produces 35% of isoform beta (i.e. only beta2)." evidence="3">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Produces 70% of isoform beta (i.e. only beta2)." evidence="3">
+<original>V</original>
+<variation>E</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Produces 66% of isoform beta (i.e. only beta2)." evidence="3">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Produces reduces amount of isoform beta (i.e. only beta1). Reduced growth at 37 degrees Celsius, greatly reduced growth at 30 degrees Celsius. Growth is more impaired; when associated with silent V-158 GUG to GUC." evidence="3">
+<original>M</original>
+<variation>I</variation>
+<variation>T</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="8"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="14"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="17"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="41"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="49"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ND9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1374802"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1764105"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18223068"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18723842"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20224578"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21750663"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22562136"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2444251"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2849753"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3894004"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1374802"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1764105"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3894004"/>
+</source>
+</evidence>
+<sequence length="890" mass="97350" checksum="86B9F9B2AE773DDE" modified="2005-06-07" version="1">
+MTDVTIKTLAAERQTSVERLVQQFADAGIRKSADDSVSAQEKQTLIDHLNQKNSGPDKLT
+LQRKTRSTLNIPGTGGKSKSVQIEVRKKRTFVKRDPQEAERLAAEEQAQREAEEQARREA
+EESAKREAQQKAEREAAEQAKREAAEQAKREAAEKDKVSNQQDDMTKNAQAEKARREQEA
+AELKRKAEEEARRKLEEEARRVAEEARRMAEENKWTDNAEPTEDSSDYHVTTSQHARQAE
+DESDREVEGGRGRGRNAKAARPKKGNKHAESKADREEARAAVRGGKGGKRKGSSLQQGFQ
+KPAQAVNRDVVIGETITVGELANKMAVKGSQVIKAMMKLGAMATINQVIDQETAQLVAEE
+MGHKVILRRENELEEAVMSDRDTGAAAEPRAPVVTIMGHVDHGKTSLLDYIRSTKVASGE
+AGGITQHIGAYHVETENGMITFLDTPGHAAFTSMRARGAQATDIVVLVVAADDGVMPQTI
+EAIQHAKAAQVPVVVAVNKIDKPEADPDRVKNELSQYGILPEEWGGESQFVHVSAKAGTG
+IDELLDAILLQAEVLELKAVRKGMASGAVIESFLDKGRGPVATVLVREGTLHKGDIVLCG
+FEYGRVRAMRNELGQEVLEAGPSIPVEILGLSGVPAAGDEVTVVRDEKKAREVALYRQGK
+FREVKLARQQKSKLENMFANMTEGEVHEVNIVLKADVQGSVEAISDSLLKLSTDEVKVKI
+IGSGVGGITETDATLAAASNAILVGFNVRADASARKVIEAESLDLRYYSVIYNLIDEVKA
+AMSGMLSPELKQQIIGLAEVRDVFKSPKFGAIAGCMVTEGVVKRHNPIRVLRDNVVIYEG
+ELESLRRFKDDVNEVRNGMECGIGVKNYNDVRTGDVIEVFEIIEIQRTIA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

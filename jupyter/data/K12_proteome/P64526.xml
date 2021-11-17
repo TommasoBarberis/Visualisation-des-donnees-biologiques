@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2019-05-08" version="76">
+<accession>P64526</accession>
+<accession>A0A385XJK2</accession>
+<accession>P76366</accession>
+<accession>Q2MAZ0</accession>
+<accession>Q8X8U5</accession>
+<name>YEEW_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protein YeeW</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yeeW</name>
+<name type="ordered locus">b2006</name>
+<name type="ordered locus">JW1988</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-9146863"/>
+<interactant intactId="EBI-549153">
+<id>P28630</id>
+<label>holA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="miscellaneous">
+<text evidence="1">Encoded by the CP4-44 prophage.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="1">Might be missing up to 100 C-terminal residues compared to orthologs.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AYC08225.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76566.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64965">
+<property type="entry name" value="E64965"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259165">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="IntAct" id="P64526">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="316407.85675187"/>
+<dbReference type="jPOST" id="P64526"/>
+<dbReference type="PRIDE" id="P64526"/>
+<dbReference type="EnsemblBacteria" id="BAE76566">
+<property type="protein sequence ID" value="BAE76566"/>
+<property type="gene ID" value="BAE76566"/>
+</dbReference>
+<dbReference type="KEGG" id="ecj:JW1988"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.247"/>
+<dbReference type="EchoBASE" id="EB3171"/>
+<dbReference type="EcoGene" id="EG13390">
+<property type="gene designation" value="yeeW"/>
+</dbReference>
+<dbReference type="BioCyc" id="EcoCyc:G7086-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1988-MONOMER"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Protein YeeW" id="PRO_0000169118">
+<location>
+<begin position="1"/>
+<end position="64"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="64" mass="6959" checksum="E624CB3F6DD65831" modified="2004-10-11" version="1">
+MMTLEADSVNVQALDMGHIVVDIDGVNITELINKAAENGYSLRVVDDRDSTETPATYASP
+HQLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-25" modified="2019-07-03" version="101">
+<accession>P0ABS8</accession>
+<accession>P28689</accession>
+<name>HOLE_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA polymerase III subunit theta</fullName>
+<ecNumber>2.7.7.7</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">holE</name>
+<name type="ordered locus">b1842</name>
+<name type="ordered locus">JW1831</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="11785" last="11791">
+<title>DNA polymerase III accessory proteins. V. Theta encoded by holE.</title>
+<authorList>
+<person name="Studwell-Vaughan P.S."/>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="8505306"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3281" last="3286">
+<title>Isolation, sequencing and overexpression of the gene encoding the theta subunit of DNA polymerase III holoenzyme.</title>
+<authorList>
+<person name="Carter J.R."/>
+<person name="Franden M.A."/>
+<person name="Aebersold R.H."/>
+<person name="Kim D.R."/>
+<person name="McHenry C.S."/>
+</authorList>
+<dbReference type="PubMed" id="8341603"/>
+<dbReference type="DOI" id="10.1093/nar/21.14.3281"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-23; 44-49 AND 69-73</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="Bioessays" volume="14" first="105" last="111">
+<title>Accessory protein function in the DNA polymerase III holoenzyme from E. coli.</title>
+<authorList>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="1575709"/>
+<dbReference type="DOI" id="10.1002/bies.950140206"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<comment type="function">
+<text>DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity.</text>
+</comment>
+<comment type="function">
+<text>The exact function of the theta subunit is unknown.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>a 2'-deoxyribonucleoside 5'-triphosphate + DNA(n) = diphosphate + DNA(n+1)</text>
+<dbReference type="Rhea" id="RHEA:22508"/>
+<dbReference type="Rhea" id="RHEA-COMP:11130"/>
+<dbReference type="Rhea" id="RHEA-COMP:11131"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:61560"/>
+<dbReference type="ChEBI" id="CHEBI:83828"/>
+<dbReference type="EC" id="2.7.7.7"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>The DNA polymerase holoenzyme is a complex that contains 10 different types of subunits. These subunits are organized into 3 functionally essential subassemblies: the pol III core, the beta sliding clamp processivity factor and the clamp-loading complex. The pol III core (subunits alpha,epsilon and theta) contains the polymerase and the 3'-5' exonuclease proofreading activities. The polymerase is tethered to the template via the sliding clamp processivity factor. The clamp-loading complex assembles the beta processivity factor onto the primer template and plays a central role in the organization and communication at the replication fork. This complex contains delta, delta', psi and chi, and copies of either or both of two different DnaX proteins, gamma and tau. The composition of the holoenzyme is, therefore: (alpha,epsilon,theta)[2]-(gamma/tau)[3]-delta,delta', psi,chi-beta[4].</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549182"/>
+<interactant intactId="EBI-549131">
+<id>P03007</id>
+<label>dnaQ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>13</experiments>
+</comment>
+<dbReference type="EC" id="2.7.7.7"/>
+<dbReference type="EMBL" id="L04572">
+<property type="protein sequence ID" value="AAA23697.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L05381">
+<property type="protein sequence ID" value="AAA23982.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74912.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15650.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S34951">
+<property type="entry name" value="S34951"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416356.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000916763.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1DU2">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2AE9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2AXD">
+<property type="method" value="NMR"/>
+<property type="chains" value="S=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2XY8">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5M1S">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.70"/>
+<property type="chains" value="F=10-65"/>
+</dbReference>
+<dbReference type="PDBsum" id="1DU2"/>
+<dbReference type="PDBsum" id="2AE9"/>
+<dbReference type="PDBsum" id="2AXD"/>
+<dbReference type="PDBsum" id="2XY8"/>
+<dbReference type="PDBsum" id="5M1S"/>
+<dbReference type="SMR" id="P0ABS8"/>
+<dbReference type="BioGrid" id="4260361">
+<property type="interactions" value="41"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1925">
+<property type="entry name" value="DNA polymerase III proofreading complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-39982N"/>
+<dbReference type="IntAct" id="P0ABS8">
+<property type="interactions" value="29"/>
+</dbReference>
+<dbReference type="MINT" id="P0ABS8"/>
+<dbReference type="STRING" id="511145.b1842"/>
+<dbReference type="jPOST" id="P0ABS8"/>
+<dbReference type="PaxDb" id="P0ABS8"/>
+<dbReference type="PRIDE" id="P0ABS8"/>
+<dbReference type="EnsemblBacteria" id="AAC74912">
+<property type="protein sequence ID" value="AAC74912"/>
+<property type="gene ID" value="b1842"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15650">
+<property type="protein sequence ID" value="BAA15650"/>
+<property type="gene ID" value="BAA15650"/>
+</dbReference>
+<dbReference type="GeneID" id="947471"/>
+<dbReference type="KEGG" id="ecj:JW1831"/>
+<dbReference type="KEGG" id="eco:b1842"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.1920"/>
+<dbReference type="EchoBASE" id="EB1468"/>
+<dbReference type="EcoGene" id="EG11505">
+<property type="gene designation" value="holE"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105MPK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111UZC">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000219272"/>
+<dbReference type="KO" id="K02345"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11505-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1831-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11505-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0ABS8"/>
+<dbReference type="PRO" id="PR:P0ABS8"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044776">
+<property type="term" value="C:DNA polymerase III, core complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003887">
+<property type="term" value="F:DNA-directed DNA polymerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.58.250">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009052">
+<property type="entry name" value="DNA_pol_III_theta_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036745">
+<property type="entry name" value="PolIII_theta_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06440">
+<property type="entry name" value="DNA_pol3_theta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0239">DNA-directed DNA polymerase</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="DNA polymerase III subunit theta" id="PRO_0000105522">
+<location>
+<begin position="1"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="5"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="11"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="23"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="27"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="38"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="47"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1DU2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2AE9"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2AXD"/>
+</source>
+</evidence>
+<sequence length="76" mass="8846" checksum="3667D87327E96556" modified="2005-10-25" version="1">
+MLKNLAKLDQTEMDKVNVDLAAAGVAFKERYNMPVIAEAVEREQPEHLRSWFRERLIAHR
+LASVNLSRLPYEPKLK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

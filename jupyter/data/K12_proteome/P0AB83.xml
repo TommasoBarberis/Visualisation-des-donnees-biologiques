@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-08" modified="2019-05-08" version="121">
+<accession>P0AB83</accession>
+<accession>P20625</accession>
+<name>END3_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Endonuclease III</fullName>
+<ecNumber evidence="2">4.2.99.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">DNA-(apurinic or apyrimidinic site) lyase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">nth</name>
+<name type="ordered locus">b1633</name>
+<name type="ordered locus">JW1625</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Biochemistry" volume="28" first="4444" last="4449">
+<title>Purification and characterization of Escherichia coli endonuclease III from the cloned nth gene.</title>
+<authorList>
+<person name="Asahara H."/>
+<person name="Wistort P.M."/>
+<person name="Bank J.F."/>
+<person name="Bakerian R.H."/>
+<person name="Cunningham R.P."/>
+</authorList>
+<dbReference type="PubMed" id="2669955"/>
+<dbReference type="DOI" id="10.1021/bi00436a048"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1984" name="J. Biol. Chem." volume="259" first="5543" last="5548">
+<title>DNA glycosylase activities for thymine residues damaged by ring saturation, fragmentation, or ring contraction are functions of endonuclease III in Escherichia coli.</title>
+<authorList>
+<person name="Breimer L.H."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="6371006"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="1135" last="1141">
+<title>The mechanisms of action of E. coli endonuclease III and T4 UV endonuclease (endonuclease V) at AP sites.</title>
+<authorList>
+<person name="Kim J."/>
+<person name="Linn S."/>
+</authorList>
+<dbReference type="PubMed" id="2449657"/>
+<dbReference type="DOI" id="10.1093/nar/16.3.1135"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Ann. N. Y. Acad. Sci." volume="726" first="215" last="222">
+<title>Structure and function of Escherichia coli endonuclease III.</title>
+<authorList>
+<person name="Cunningham R.P."/>
+<person name="Ahern H."/>
+<person name="Xing D."/>
+<person name="Thayer M.M."/>
+<person name="Tainer J.A."/>
+</authorList>
+<dbReference type="PubMed" id="8092678"/>
+<dbReference type="DOI" id="10.1111/j.1749-6632.1994.tb52818.x"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1992" name="Science" volume="258" first="434" last="440">
+<title>Atomic structure of the DNA repair [4Fe-4S] enzyme endonuclease III.</title>
+<authorList>
+<person name="Kuo C.-F."/>
+<person name="McRee D."/>
+<person name="Fisher C.L."/>
+<person name="O'Handley S.F."/>
+<person name="Cunningham R.P."/>
+<person name="Tainer J.A."/>
+</authorList>
+<dbReference type="PubMed" id="1411536"/>
+<dbReference type="DOI" id="10.1126/science.1411536"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1995" name="EMBO J." volume="14" first="4108" last="4120">
+<title>Novel DNA binding motifs in the DNA repair enzyme endonuclease III crystal structure.</title>
+<authorList>
+<person name="Thayer M.M."/>
+<person name="Ahern H."/>
+<person name="Xing D."/>
+<person name="Cunningham R.P."/>
+<person name="Tainer J.A."/>
+</authorList>
+<dbReference type="PubMed" id="7664751"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR (4FE-4S)</scope>
+<scope>COFACTOR</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF LYS-120; ASP-138 AND LYS-191</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5">DNA repair enzyme that has both DNA N-glycosylase activity and AP-lyase activity. The DNA N-glycosylase activity releases various damaged pyrimidines from DNA by cleaving the N-glycosidic bond, leaving an AP (apurinic/apyrimidinic) site. The AP-lyase activity cleaves the phosphodiester bond 3' to the AP site by a beta-elimination, leaving a 3'-terminal unsaturated sugar and a product with a terminal 5'-phosphate.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 3">
+<text>The C-O-P bond 3' to the apurinic or apyrimidinic site in DNA is broken by a beta-elimination reaction, leaving a 3'-terminal unsaturated sugar and a product with a terminal 5'-phosphate.</text>
+<dbReference type="EC" id="4.2.99.18"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2 6 7">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="2 6 7">Binds 1 [4Fe-4S] cluster. The cluster does not appear to play a role in catalysis, but is probably involved in DNA-binding and proper positioning of the enzyme along the DNA strand.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-555213"/>
+<interactant intactId="EBI-542683">
+<id>P0AFG8</id>
+<label>aceE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the Nth/MutY family.</text>
+</comment>
+<dbReference type="EC" id="4.2.99.18" evidence="2"/>
+<dbReference type="EMBL" id="J02857">
+<property type="protein sequence ID" value="AAA24227.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74705.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15387.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A32412">
+<property type="entry name" value="A32412"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416150.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001030339.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2ABK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDBsum" id="2ABK"/>
+<dbReference type="SMR" id="P0AB83"/>
+<dbReference type="BioGrid" id="4262186">
+<property type="interactions" value="123"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48071N"/>
+<dbReference type="IntAct" id="P0AB83">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1633"/>
+<dbReference type="jPOST" id="P0AB83"/>
+<dbReference type="PaxDb" id="P0AB83"/>
+<dbReference type="PRIDE" id="P0AB83"/>
+<dbReference type="EnsemblBacteria" id="AAC74705">
+<property type="protein sequence ID" value="AAC74705"/>
+<property type="gene ID" value="b1633"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15387">
+<property type="protein sequence ID" value="BAA15387"/>
+<property type="gene ID" value="BAA15387"/>
+</dbReference>
+<dbReference type="GeneID" id="947122"/>
+<dbReference type="KEGG" id="ecj:JW1625"/>
+<dbReference type="KEGG" id="eco:b1633"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.628"/>
+<dbReference type="EchoBASE" id="EB0656"/>
+<dbReference type="EcoGene" id="EG10662">
+<property type="gene designation" value="nth"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CSM">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0177">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000252206"/>
+<dbReference type="InParanoid" id="P0AB83"/>
+<dbReference type="KO" id="K10773"/>
+<dbReference type="PhylomeDB" id="P0AB83"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10662-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1625-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10662-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0AB83"/>
+<dbReference type="PRO" id="PR:P0AB83"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0140078">
+<property type="term" value="F:class I DNA-(apurinic or apyrimidinic site) endonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019104">
+<property type="term" value="F:DNA N-glycosylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003906">
+<property type="term" value="F:DNA-(apurinic or apyrimidinic site) endonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000703">
+<property type="term" value="F:oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006285">
+<property type="term" value="P:base-excision repair, AP site formation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034644">
+<property type="term" value="P:cellular response to UV"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00056">
+<property type="entry name" value="ENDO3c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1670.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00942">
+<property type="entry name" value="Nth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011257">
+<property type="entry name" value="DNA_glycosylase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004036">
+<property type="entry name" value="Endonuclease-III-like_CS2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003651">
+<property type="entry name" value="Endonuclease3_FeS-loop_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004035">
+<property type="entry name" value="Endouclease-III_FeS-bd_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003265">
+<property type="entry name" value="HhH-GPD_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000445">
+<property type="entry name" value="HhH_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023170">
+<property type="entry name" value="HTH_base_excis_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005759">
+<property type="entry name" value="Nth"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10576">
+<property type="entry name" value="EndIII_4Fe-2S"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00633">
+<property type="entry name" value="HHH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00730">
+<property type="entry name" value="HhH-GPD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00478">
+<property type="entry name" value="ENDO3c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00525">
+<property type="entry name" value="FES"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48150">
+<property type="entry name" value="SSF48150"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01083">
+<property type="entry name" value="nth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00764">
+<property type="entry name" value="ENDONUCLEASE_III_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01155">
+<property type="entry name" value="ENDONUCLEASE_III_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0326">Glycosidase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0456">Lyase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Endonuclease III" id="PRO_0000102210">
+<location>
+<begin position="1"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="domain" description="HhH" evidence="2">
+<location>
+<begin position="108"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1 6">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1 6">
+<location>
+<position position="194"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1 6">
+<location>
+<position position="197"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1 6">
+<location>
+<position position="203"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="100000-fold decrease in activity and slight decrease in substrate affinity." evidence="6">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="100-fold decrease in activity and 4-fold increase in substrate affinity." evidence="6">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight decrease in activity and 130-fold increase in substrate affinity." evidence="6">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="3"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="29"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="39"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="55"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="61"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="82"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="99"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="108"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="119"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="139"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="156"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="169"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="172"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="175"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="194"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="200"/>
+<end position="202"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ABK"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00942"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2449657"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2669955"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6371006"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7664751"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8092678"/>
+</source>
+</evidence>
+<sequence length="211" mass="23562" checksum="FF4245823B7F902B" modified="2005-11-08" version="1">
+MNKAKRLEILTRLRENNPHPTTELNFSSPFELLIAVLLSAQATDVSVNKATAKLYPVANT
+PAAMLELGVEGVKTYIKTIGLYNSKAENIIKTCRILLEQHNGEVPEDRAALEALPGVGRK
+TANVVLNTAFGWPTIAVDTHIFRVCNRTQFAPGKNVEQVEEKLLKVVPAEFKVDCHHWLI
+LHGRYTCIARKPRCGSCIIEDLCEYKEKVDI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

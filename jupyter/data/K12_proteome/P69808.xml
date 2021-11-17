@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-05-10" modified="2019-06-05" version="98">
+<accession>P69808</accession>
+<accession>P76525</accession>
+<accession>P78264</accession>
+<name>PTFB1_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">PTS system fructose-like EIIB component 1</fullName>
+<ecNumber evidence="2">2.7.1.202</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">Fructose-like phosphotransferase enzyme IIB component 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">fryB</name>
+<name type="synonym">ypdH</name>
+<name type="ordered locus">b2387</name>
+<name type="ordered locus">JW5389</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2010-06" db="PDB data bank">
+<title>Solution structure of Enzyme IIB subunit of PTS system from Escherichia coli K12, Northeast structural genomics consortium target ER315/Ontario center for structural proteomics target ec0544.</title>
+<authorList>
+<person name="Wu B."/>
+<person name="Yee A."/>
+<person name="Gutmanas A."/>
+<person name="Semest A."/>
+<person name="Arrowsmith C.H."/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<comment type="function">
+<text evidence="2">The phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS), a major carbohydrate active transport system, catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. The enzyme II FryABC PTS system is involved in fructose transport.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>D-fructose(out) + N(pros)-phospho-L-histidyl-[protein] = D-fructose 1-phosphate(in) + L-histidyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:49252"/>
+<dbReference type="Rhea" id="RHEA-COMP:9745"/>
+<dbReference type="Rhea" id="RHEA-COMP:9746"/>
+<dbReference type="ChEBI" id="CHEBI:29979"/>
+<dbReference type="ChEBI" id="CHEBI:37721"/>
+<dbReference type="ChEBI" id="CHEBI:58674"/>
+<dbReference type="ChEBI" id="CHEBI:64837"/>
+<dbReference type="EC" id="2.7.1.202"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="3">The PTS EIIB type-2 domain is phosphorylated by phospho-EIIA on a cysteinyl residue. Then, it transfers the phosphoryl group to the sugar substrate concomitantly with the sugar uptake processed by the PTS EIIC type-2 domain.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.202" evidence="2"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75446.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16257.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65012">
+<property type="entry name" value="H65012"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416888.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000038456.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2KYR">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-108"/>
+</dbReference>
+<dbReference type="PDBsum" id="2KYR"/>
+<dbReference type="SMR" id="P69808"/>
+<dbReference type="BioGrid" id="4260782">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2387"/>
+<dbReference type="TCDB" id="4.A.2.1.11">
+<property type="family name" value="the pts fructose-mannitol (fru) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P69808"/>
+<dbReference type="PRIDE" id="P69808"/>
+<dbReference type="EnsemblBacteria" id="AAC75446">
+<property type="protein sequence ID" value="AAC75446"/>
+<property type="gene ID" value="b2387"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16257">
+<property type="protein sequence ID" value="BAA16257"/>
+<property type="gene ID" value="BAA16257"/>
+</dbReference>
+<dbReference type="GeneID" id="949087"/>
+<dbReference type="KEGG" id="ecj:JW5389"/>
+<dbReference type="KEGG" id="eco:b2387"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4341"/>
+<dbReference type="EchoBASE" id="EB3907"/>
+<dbReference type="EcoGene" id="EG14155">
+<property type="gene designation" value="fryB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105R6B">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1445">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000231313"/>
+<dbReference type="KO" id="K11202"/>
+<dbReference type="PhylomeDB" id="P69808"/>
+<dbReference type="BioCyc" id="EcoCyc:G7250-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5389-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P69808"/>
+<dbReference type="PRO" id="PR:P69808"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022877">
+<property type="term" value="F:protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090582">
+<property type="term" value="F:protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009401">
+<property type="term" value="P:phosphoenolpyruvate-dependent sugar phosphotransferase system"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd05569">
+<property type="entry name" value="PTS_IIB_fructose"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036095">
+<property type="entry name" value="PTS_EIIB-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013011">
+<property type="entry name" value="PTS_EIIB_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003501">
+<property type="entry name" value="PTS_EIIB_2/3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003353">
+<property type="entry name" value="PTS_IIB_fruc"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02302">
+<property type="entry name" value="PTS_IIB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52794">
+<property type="entry name" value="SSF52794"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00829">
+<property type="entry name" value="FRU"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51099">
+<property type="entry name" value="PTS_EIIB_TYPE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0598">Phosphotransferase system</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0762">Sugar transport</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="PTS system fructose-like EIIB component 1" id="PRO_0000186700">
+<location>
+<begin position="1"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="domain" description="PTS EIIB type-2" evidence="3">
+<location>
+<begin position="1"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="active site" description="Phosphocysteine intermediate" evidence="2 4">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphocysteine; by EIIA" evidence="3">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="4"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="15"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="33"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="45"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="52"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="80"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="87"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="92"/>
+<end position="107"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2KYR"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P20966"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00422"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="108" mass="11735" checksum="EADDEFB237FB72A9" modified="2005-05-10" version="1">
+MSKKLIALCACPMGLAHTFMAAQALEEAAVEAGYEVKIETQGADGIQNRLTAQDIAEATI
+IIHSVAVTPEDNERFESRDVYEITLQDAIKNAAGIIKEIEEMIASEQQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

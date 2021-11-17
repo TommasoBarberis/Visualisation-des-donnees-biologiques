@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2019-07-03" version="109">
+<accession>P67701</accession>
+<accession>P42594</accession>
+<accession>Q2M9C4</accession>
+<name>HIGA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Antitoxin HigA</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">higA</name>
+<name type="synonym">ygjM</name>
+<name type="ordered locus">b3082</name>
+<name type="ordered locus">JW3053</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="75" first="333" last="348">
+<title>Three new RelE-homologous mRNA interferases of Escherichia coli differentially induced by environmental stresses.</title>
+<authorList>
+<person name="Christensen-Dalsgaard M."/>
+<person name="Jorgensen M.G."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="19943910"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2009.06969.x"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>INDUCTION</scope>
+<scope>OPERON STRUCTURE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3">Antitoxin component of a type II toxin-antitoxin (TA) system. Functions as an mRNA interferase antitoxin; overexpression prevents HigB-mediated cessation of cell growth and inhibition of cell proliferation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Probably forms a complex with the mRNA interferase HigB which inhibits the mRNA interferase activity.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Induced by amino acid starvation and when translation is blocked. Induction is decreased in the absence of the Lon protease suggesting, by homology to other toxin-antitoxin systems, that Lon may degrade the HigA antitoxin. Transcription is negatively regulated by the cognate locus, probably by this protein. A member of the higB-higA operon.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the HigA antitoxin family.</text>
+</comment>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57883.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76117.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77132.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65096">
+<property type="entry name" value="G65096"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417553.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000560266.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5IFG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B/D=1-138"/>
+</dbReference>
+<dbReference type="PDB" id="6JQ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-138"/>
+</dbReference>
+<dbReference type="PDBsum" id="5IFG"/>
+<dbReference type="PDBsum" id="6JQ4"/>
+<dbReference type="SMR" id="P67701"/>
+<dbReference type="BioGrid" id="4262401">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="IntAct" id="P67701">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3082"/>
+<dbReference type="PaxDb" id="P67701"/>
+<dbReference type="PRIDE" id="P67701"/>
+<dbReference type="EnsemblBacteria" id="AAC76117">
+<property type="protein sequence ID" value="AAC76117"/>
+<property type="gene ID" value="b3082"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77132">
+<property type="protein sequence ID" value="BAE77132"/>
+<property type="gene ID" value="BAE77132"/>
+</dbReference>
+<dbReference type="GeneID" id="947593"/>
+<dbReference type="KEGG" id="ecj:JW3053"/>
+<dbReference type="KEGG" id="eco:b3082"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3647"/>
+<dbReference type="EchoBASE" id="EB2583"/>
+<dbReference type="EcoGene" id="EG12724">
+<property type="gene designation" value="higA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108Z3N">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5499">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000026115"/>
+<dbReference type="KO" id="K18831"/>
+<dbReference type="BioCyc" id="EcoCyc:G7601-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3053-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7601-MONOMER"/>
+<dbReference type="PRO" id="PR:P67701"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00093">
+<property type="entry name" value="HTH_XRE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039060">
+<property type="entry name" value="Antitox_HigA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001387">
+<property type="entry name" value="Cro/C1-type_HTH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010982">
+<property type="entry name" value="Lambda_DNA-bd_dom_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR40455">
+<property type="entry name" value="PTHR40455"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01381">
+<property type="entry name" value="HTH_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00530">
+<property type="entry name" value="HTH_XRE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47413">
+<property type="entry name" value="SSF47413"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50943">
+<property type="entry name" value="HTH_CROC1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Antitoxin HigA" id="PRO_0000149763">
+<location>
+<begin position="1"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="domain" description="HTH cro/C1-type" evidence="2">
+<location>
+<begin position="84"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="2">
+<location>
+<begin position="95"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="6"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="19"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="27"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="48"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="68"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="81"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="107"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="123"/>
+<end position="125"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5IFG"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00257"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19943910"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="138" mass="14995" checksum="4A14D9E43480DCB5" modified="2004-10-11" version="1">
+MIAIADILQAGEKLTAVAPFLAGIQNEEQYTQALELVDHLLLNDPENPLLDLVCAKITAW
+EESAPEFAEFNAMAQAMPGGIAVIRTLMDQYGLTLSDLPEIGSKSMVSRVLSGKRKLTLE
+HAKKLATRFGISPALFID
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,830 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-11-01" modified="2019-05-08" version="169">
+<accession>P05852</accession>
+<accession>Q2M9E1</accession>
+<name>TSAD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">tRNA N6-adenosine threonylcarbamoyltransferase</fullName>
+<ecNumber evidence="2 9">2.3.1.234</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">N6-L-threonylcarbamoyladenine synthase</fullName>
+<shortName evidence="2">t(6)A synthase</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">tRNA threonylcarbamoyladenosine biosynthesis protein TsaD</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">tsaD</name>
+<name type="synonym">gcp</name>
+<name type="synonym">ygjD</name>
+<name type="ordered locus">b3064</name>
+<name type="ordered locus">JW3036</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Gene" volume="51" first="149" last="161">
+<title>Possible new genes as revealed by molecular analysis of a 5-kb Escherichia coli chromosomal region 5' to the rpsU-dnaG-rpoD macromolecular-synthesis operon.</title>
+<authorList>
+<person name="Nesin M."/>
+<person name="Lupski J.R."/>
+<person name="Svec P."/>
+<person name="Godson G.N."/>
+</authorList>
+<dbReference type="PubMed" id="3297921"/>
+<dbReference type="DOI" id="10.1016/0378-1119(87)90303-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Nat. Biotechnol." volume="16" first="851" last="856">
+<title>A genome-based approach for the identification of essential bacterial genes.</title>
+<authorList>
+<person name="Arigoni F."/>
+<person name="Talabot F."/>
+<person name="Peitsch M.C."/>
+<person name="Edgerton M.D."/>
+<person name="Meldrum E."/>
+<person name="Allet E."/>
+<person name="Fish R."/>
+<person name="Jamotte T."/>
+<person name="Curchod M.-L."/>
+<person name="Loferer H."/>
+</authorList>
+<dbReference type="PubMed" id="9743119"/>
+<dbReference type="DOI" id="10.1038/nbt0998-851"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Nucleic Acids Res." volume="37" first="5343" last="5352">
+<title>Qri7/OSGEPL, the mitochondrial version of the universal Kae1/YgjD protein, is essential for mitochondrial genome maintenance.</title>
+<authorList>
+<person name="Oberto J."/>
+<person name="Breuil N."/>
+<person name="Hecker A."/>
+<person name="Farina F."/>
+<person name="Brochier-Armanet C."/>
+<person name="Culetto E."/>
+<person name="Forterre P."/>
+</authorList>
+<dbReference type="PubMed" id="19578062"/>
+<dbReference type="DOI" id="10.1093/nar/gkp557"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="4732" last="4749">
+<title>Conserved network of proteins essential for bacterial viability.</title>
+<authorList>
+<person name="Handford J.I."/>
+<person name="Ize B."/>
+<person name="Buchanan G."/>
+<person name="Butland G.P."/>
+<person name="Greenblatt J."/>
+<person name="Emili A."/>
+<person name="Palmer T."/>
+</authorList>
+<dbReference type="PubMed" id="19376873"/>
+<dbReference type="DOI" id="10.1128/JB.00136-09"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH TSAB</scope>
+<scope>CLEAVAGE BY TSAB</scope>
+<scope>LACK OF GLYCOPROTEASE ACTIVITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2010" name="BMC Genomics" volume="11" first="470" last="470">
+<title>The Escherichia coli K-12 ORFeome: a resource for comparative molecular microbiology.</title>
+<authorList>
+<person name="Rajagopala S.V."/>
+<person name="Yamamoto N."/>
+<person name="Zweifel A.E."/>
+<person name="Nakamichi T."/>
+<person name="Huang H.K."/>
+<person name="Mendez-Rios J.D."/>
+<person name="Franca-Koh J."/>
+<person name="Boorgula M.P."/>
+<person name="Fujita K."/>
+<person name="Suzuki K."/>
+<person name="Hu J.C."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Uetz P."/>
+</authorList>
+<dbReference type="PubMed" id="20701780"/>
+<dbReference type="DOI" id="10.1186/1471-2164-11-470"/>
+</citation>
+<scope>INTERACTION WITH TSAB</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2010" name="MBio" volume="1" first="E195" last="E195">
+<title>The ubiquitous conserved glycopeptidase gcp prevents accumulation of toxic glycated proteins.</title>
+<authorList>
+<person name="Katz C."/>
+<person name="Cohen-Or I."/>
+<person name="Gophna U."/>
+<person name="Ron E.Z."/>
+</authorList>
+<dbReference type="PubMed" id="20824107"/>
+<dbReference type="DOI" id="10.1128/mBio.00195-10"/>
+</citation>
+<scope>FUNCTION IN METABOLISM OF GLYCATED PROTEINS</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="EMBO J." volume="30" first="873" last="881">
+<title>The highly conserved KEOPS/EKC complex is essential for a universal tRNA modification, t6A.</title>
+<authorList>
+<person name="Srinivasan M."/>
+<person name="Mehta P."/>
+<person name="Yu Y."/>
+<person name="Prugar E."/>
+<person name="Koonin E.V."/>
+<person name="Karzai A.W."/>
+<person name="Sternglanz R."/>
+</authorList>
+<dbReference type="PubMed" id="21183954"/>
+<dbReference type="DOI" id="10.1038/emboj.2010.343"/>
+</citation>
+<scope>FUNCTION IN T(6)A37 FORMATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="EMBO J." volume="30" first="882" last="893">
+<title>A role for the universal Kae1/Qri7/YgjD (COG0533) family in tRNA modification.</title>
+<authorList>
+<person name="El Yacoubi B."/>
+<person name="Hatin I."/>
+<person name="Deutsch C."/>
+<person name="Kahveci T."/>
+<person name="Rousset J.P."/>
+<person name="Iwata-Reuyl D."/>
+<person name="Murzin A.G."/>
+<person name="de Crecy-Lagard V."/>
+</authorList>
+<dbReference type="PubMed" id="21285948"/>
+<dbReference type="DOI" id="10.1038/emboj.2010.363"/>
+</citation>
+<scope>PROPOSED FUNCTION AS A LIGASE</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="13666" last="13673">
+<title>Biosynthesis of threonylcarbamoyl adenosine (t6A), a universal tRNA nucleoside.</title>
+<authorList>
+<person name="Deutsch C."/>
+<person name="El Yacoubi B."/>
+<person name="de Crecy-Lagard V."/>
+<person name="Iwata-Reuyl D."/>
+</authorList>
+<dbReference type="PubMed" id="22378793"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.344028"/>
+</citation>
+<scope>FUNCTION IN T(6)A37 FORMATION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>GENE NAME</scope>
+<scope>INTERACTION WITH TSAB AND TSAC</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="6 7 9">Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. Is probably involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37, together with TsaE and TsaB. TsaD likely plays a direct catalytic role in this reaction. May also be involved in the metabolism of glycated proteins, but does not show sialoglycoprotease activity against glycophorin A.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 9">
+<text>adenosine(37) in tRNA + L-threonylcarbamoyladenylate = AMP + H(+) + N(6)-L-threonylcarbamoyladenosine(37) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:37059"/>
+<dbReference type="Rhea" id="RHEA-COMP:10162"/>
+<dbReference type="Rhea" id="RHEA-COMP:10163"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:73682"/>
+<dbReference type="ChEBI" id="CHEBI:74411"/>
+<dbReference type="ChEBI" id="CHEBI:74418"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="2.3.1.234"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>Fe(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+</cofactor>
+<text evidence="2">Binds 1 Fe(2+) ion per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5 8 9">Homodimer. Interacts with TsaB; may form a heterodimer with TsaB. Also interacts with TsaC.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-561994"/>
+<interactant intactId="EBI-560669">
+<id>P76256</id>
+<label>tsaB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="3">Can be proteolytically processed in vitro by TsaB.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 4 7 10">Appears essential for growth, since no null mutants can be obtained. Conditional depletion of this gene prevents t(6)A37 modification, and leads to pleiotropic phenotypes including increased or reduced cell size, unusual distribution of DNA around the cell periphery, nucleoid loss, and membrane/cell envelope defects. These phenotypes could be indirect effects of severe translation defects. The TsaD depletion phenotype is suppressed by overexpressing the response regulator RstA.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="13">TsaBCDE are necessary and sufficient for tRNA(NNU) t(6)A37 threonylcarbamoyladenosine modification in vitro in E.coli.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the KAE1 / TsaD family.</text>
+</comment>
+<comment type="caution">
+<text evidence="12">Was proposed to be a ligase for bicarbonate and threonine (PubMed:21285948): in the first step, TsaD would catalyze transfer of a gamma-phosphate group from ATP to bicarbonate, yielding carboxyphosphate and ADP; carboxyphosphate would then react with the threonine amine, producing N-carbamoylthreonine and phosphate. However, the protein ortholog in B.subtilis was shown to be involved in another step of t(6)A37 biosynthesis, i.e. the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37, together with TsaE and TsaB (PubMed:23072323). The protein ortholog in yeast (QRI7) was also shown to catalyze this step, and does not require the presence of additional proteins (PubMed:23620299).</text>
+</comment>
+<comment type="caution">
+<text evidence="11">The well-known t(6)A modification appears to be a hydrolyzed artifact of natural cyclic t(6)A (ct(6)A) that occurs during the preparation and handling of tRNA in E.coli and many other species (PubMed:23242255). In these species, the t(6)A modification is processed further by dehydration into ct(6)A, a reaction catalyzed by TcdA.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.234" evidence="2 9"/>
+<dbReference type="EMBL" id="M16194">
+<property type="protein sequence ID" value="AAA72575.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U28379">
+<property type="protein sequence ID" value="AAA89144.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76100.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77115.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65094">
+<property type="entry name" value="QQECR6"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417536.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001264352.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4WQ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.33"/>
+<property type="chains" value="A/B=1-337"/>
+</dbReference>
+<dbReference type="PDB" id="4WQ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.33"/>
+<property type="chains" value="A/B=1-337"/>
+</dbReference>
+<dbReference type="PDB" id="4YDU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.33"/>
+<property type="chains" value="A/B=1-337"/>
+</dbReference>
+<dbReference type="PDBsum" id="4WQ4"/>
+<dbReference type="PDBsum" id="4WQ5"/>
+<dbReference type="PDBsum" id="4YDU"/>
+<dbReference type="SMR" id="P05852"/>
+<dbReference type="BioGrid" id="4261402">
+<property type="interactions" value="87"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1094">
+<property type="entry name" value="YgjD-YeaZ-YjeE complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9749N"/>
+<dbReference type="IntAct" id="P05852">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3064"/>
+<dbReference type="EPD" id="P05852"/>
+<dbReference type="PaxDb" id="P05852"/>
+<dbReference type="PRIDE" id="P05852"/>
+<dbReference type="DNASU" id="947578"/>
+<dbReference type="EnsemblBacteria" id="AAC76100">
+<property type="protein sequence ID" value="AAC76100"/>
+<property type="gene ID" value="b3064"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77115">
+<property type="protein sequence ID" value="BAE77115"/>
+<property type="gene ID" value="BAE77115"/>
+</dbReference>
+<dbReference type="GeneID" id="947578"/>
+<dbReference type="KEGG" id="ecj:JW3036"/>
+<dbReference type="KEGG" id="eco:b3064"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3666"/>
+<dbReference type="EchoBASE" id="EB1158"/>
+<dbReference type="EcoGene" id="EG11171">
+<property type="gene designation" value="tsaD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CPM">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0533">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000109568"/>
+<dbReference type="InParanoid" id="P05852"/>
+<dbReference type="KO" id="K01409"/>
+<dbReference type="PhylomeDB" id="P05852"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11171-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3036-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11171-MONOMER"/>
+<dbReference type="BRENDA" id="2.6.99.4">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P05852"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0140032">
+<property type="term" value="F:glycosylation-dependent protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005506">
+<property type="term" value="F:iron ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004222">
+<property type="term" value="F:metalloendopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061711">
+<property type="term" value="F:N(6)-L-threonylcarbamoyladenine synthase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002949">
+<property type="term" value="P:tRNA threonylcarbamoyladenosine modification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01445">
+<property type="entry name" value="TsaD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000905">
+<property type="entry name" value="Gcp-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017861">
+<property type="entry name" value="KAE1/TsaD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017860">
+<property type="entry name" value="Peptidase_M22_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022450">
+<property type="entry name" value="TsaD"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11735">
+<property type="entry name" value="PTHR11735"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11735:SF6">
+<property type="entry name" value="PTHR11735:SF6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00814">
+<property type="entry name" value="Peptidase_M22"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00789">
+<property type="entry name" value="OSIALOPTASE"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00329">
+<property type="entry name" value="gcp_kae1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03723">
+<property type="entry name" value="T6A_TsaD_YgjD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01016">
+<property type="entry name" value="GLYCOPROTEASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="tRNA N6-adenosine threonylcarbamoyltransferase" id="PRO_0000096962">
+<location>
+<begin position="1"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="2">
+<location>
+<begin position="134"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="2">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="2">
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="2">
+<location>
+<position position="300"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="167"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via amide nitrogen" evidence="2">
+<location>
+<position position="180"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA72575." ref="1" evidence="11">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="9"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="20"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="23"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="33"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="37"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="122"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="128"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="140"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="151"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="162"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="180"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="203"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="212"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="229"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="262"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="268"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="273"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="289"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="295"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="303"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="331"/>
+<end position="333"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4WQ4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01445"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19376873"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19578062"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20701780"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20824107"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21183954"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21285948"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22378793"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9743119"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21285948"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22378793"/>
+</source>
+</evidence>
+<sequence length="337" mass="36008" checksum="AD676E3B635EC637" modified="2003-08-29" version="2">
+MRVLGIETSCDETGIAIYDDEKGLLANQLYSQVKLHADYGGVVPELASRDHVRKTVPLIQ
+AALKESGLTAKDIDAVAYTAGPGLVGALLVGATVGRSLAFAWDVPAIPVHHMEGHLLAPM
+LEDNPPEFPFVALLVSGGHTQLISVTGIGQYELLGESIDDAAGEAFDKTAKLLGLDYPGG
+PLLSKMAAQGTAGRFVFPRPMTDRPGLDFSFSGLKTFAANTIRDNGTDDQTRADIARAFE
+DAVVDTLMIKCKRALDQTGFKRLVMAGGVSANRTLRAKLAEMMKKRRGEVFYARPEFCTD
+NGAMIAYAGMVRFKAGATADLGVSVRPRWPLAELPAA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

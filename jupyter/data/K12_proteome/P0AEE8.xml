@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="114">
+<accession>P0AEE8</accession>
+<accession>P00475</accession>
+<accession>Q2M752</accession>
+<name>DMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA adenine methylase</fullName>
+<ecNumber>2.1.1.72</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>DNA adenine methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Deoxyadenosyl-methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>M.EcoDam</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">dam</name>
+<name type="ordered locus">b3387</name>
+<name type="ordered locus">JW3350</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="Nucleic Acids Res." volume="11" first="837" last="851">
+<title>The isolation and characterization of the Escherichia coli DNA adenine methylase (dam) gene.</title>
+<authorList>
+<person name="Brooks J.E."/>
+<person name="Blumenthal R.M."/>
+<person name="Gingeras T.R."/>
+</authorList>
+<dbReference type="PubMed" id="6300769"/>
+<dbReference type="DOI" id="10.1093/nar/11.3.837"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Mol. Gen. Genet." volume="247" first="546" last="554">
+<title>Characterization of three genes in the dam-containing operon of Escherichia coli.</title>
+<authorList>
+<person name="Lyngstadaas A."/>
+<person name="Lobner-Olesen A."/>
+<person name="Boye E."/>
+</authorList>
+<dbReference type="PubMed" id="7603433"/>
+<dbReference type="DOI" id="10.1007/BF00290345"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1989" name="Mol. Gen. Genet." volume="217" first="85" last="96">
+<title>The Escherichia coli dam gene is expressed as a distal gene of a new operon.</title>
+<authorList>
+<person name="Jonczyk P."/>
+<person name="Hines R."/>
+<person name="Smith D.W."/>
+</authorList>
+<dbReference type="PubMed" id="2549371"/>
+<dbReference type="DOI" id="10.1007/BF00330946"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-18</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3183" last="3190">
+<title>The role of the preserved sequences of Dam methylase.</title>
+<authorList>
+<person name="Guyot J.-B."/>
+<person name="Grassi J."/>
+<person name="Hahn U."/>
+<person name="Guschlbauer W."/>
+</authorList>
+<dbReference type="PubMed" id="8341592"/>
+<dbReference type="DOI" id="10.1093/nar/21.14.3183"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<comment type="function">
+<text>Methylates DNA within the sequence GATC and protects the DNA from cleavage by the restriction endonuclease MboI. Although it shares sequence specificity with a number of type II restriction endonucleases and methylases, it is thought to act in postreplication mismatch repair rather than as a part of a restriction modification system. May also play a role in DNA replication.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>a 2'-deoxyadenosine in DNA + S-adenosyl-L-methionine = an N(6)-methyl-2'-deoxyadenosine in DNA + H(+) + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:15197"/>
+<dbReference type="Rhea" id="RHEA-COMP:12418"/>
+<dbReference type="Rhea" id="RHEA-COMP:12419"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:90615"/>
+<dbReference type="ChEBI" id="CHEBI:90616"/>
+<dbReference type="EC" id="2.1.1.72"/>
+</reaction>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-548491"/>
+<interactant intactId="EBI-548509">
+<id>P13035</id>
+<label>glpD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the N(4)/N(6)-methyltransferase family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.72"/>
+<dbReference type="EMBL" id="J01600">
+<property type="protein sequence ID" value="AAA23664.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00272">
+<property type="protein sequence ID" value="CAA23530.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z19601">
+<property type="protein sequence ID" value="CAA79668.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58184.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76412.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77904.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X15162">
+<property type="protein sequence ID" value="CAA33254.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A00555">
+<property type="entry name" value="XYECDA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417846.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000742143.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2G1P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="2ORE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.99"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4GBE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.66"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4GOL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.57"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4GOM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4GON">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.72"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4GOO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="D/E/F=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.19"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.59"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.69"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.39"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.39"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDB" id="4RTS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="A=1-278"/>
+</dbReference>
+<dbReference type="PDBsum" id="2G1P"/>
+<dbReference type="PDBsum" id="2ORE"/>
+<dbReference type="PDBsum" id="4GBE"/>
+<dbReference type="PDBsum" id="4GOL"/>
+<dbReference type="PDBsum" id="4GOM"/>
+<dbReference type="PDBsum" id="4GON"/>
+<dbReference type="PDBsum" id="4GOO"/>
+<dbReference type="PDBsum" id="4RTJ"/>
+<dbReference type="PDBsum" id="4RTK"/>
+<dbReference type="PDBsum" id="4RTL"/>
+<dbReference type="PDBsum" id="4RTM"/>
+<dbReference type="PDBsum" id="4RTN"/>
+<dbReference type="PDBsum" id="4RTO"/>
+<dbReference type="PDBsum" id="4RTP"/>
+<dbReference type="PDBsum" id="4RTQ"/>
+<dbReference type="PDBsum" id="4RTR"/>
+<dbReference type="PDBsum" id="4RTS"/>
+<dbReference type="SMR" id="P0AEE8"/>
+<dbReference type="BioGrid" id="4261860">
+<property type="interactions" value="125"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47948N"/>
+<dbReference type="IntAct" id="P0AEE8">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3387"/>
+<dbReference type="ChEMBL" id="CHEMBL1075075"/>
+<dbReference type="REBASE" id="2396">
+<property type="entry name" value="M.EcoKDam"/>
+</dbReference>
+<dbReference type="PaxDb" id="P0AEE8"/>
+<dbReference type="PRIDE" id="P0AEE8"/>
+<dbReference type="EnsemblBacteria" id="AAC76412">
+<property type="protein sequence ID" value="AAC76412"/>
+<property type="gene ID" value="b3387"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77904">
+<property type="protein sequence ID" value="BAE77904"/>
+<property type="gene ID" value="BAE77904"/>
+</dbReference>
+<dbReference type="GeneID" id="947893"/>
+<dbReference type="KEGG" id="ecj:JW3350"/>
+<dbReference type="KEGG" id="eco:b3387"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3343"/>
+<dbReference type="EchoBASE" id="EB0200"/>
+<dbReference type="EcoGene" id="EG10204">
+<property type="gene designation" value="dam"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DFE">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0338">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000281348"/>
+<dbReference type="InParanoid" id="P0AEE8"/>
+<dbReference type="KO" id="K06223"/>
+<dbReference type="PhylomeDB" id="P0AEE8"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10204-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3350-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10204-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.1.72">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0AEE8"/>
+<dbReference type="PRO" id="PR:P0AEE8"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904047">
+<property type="term" value="F:S-adenosyl-L-methionine binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009007">
+<property type="term" value="F:site-specific DNA-methyltransferase (adenine-specific) activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902328">
+<property type="term" value="P:bacterial-type DNA replication initiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032775">
+<property type="term" value="P:DNA methylation on adenine"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006261">
+<property type="term" value="P:DNA-dependent DNA replication"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006298">
+<property type="term" value="P:mismatch repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009411">
+<property type="term" value="P:response to UV"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1020.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023095">
+<property type="entry name" value="Ade_MeTrfase_dom_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002052">
+<property type="entry name" value="DNA_methylase_N6_adenine_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012263">
+<property type="entry name" value="M_m6A_EcoRV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012327">
+<property type="entry name" value="MeTrfase_D12"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30481">
+<property type="entry name" value="PTHR30481"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02086">
+<property type="entry name" value="MethyltransfD12"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000398">
+<property type="entry name" value="M_m6A_EcoRV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00505">
+<property type="entry name" value="D12N6MTFRASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00571">
+<property type="entry name" value="dam"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00092">
+<property type="entry name" value="N6_MTASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="DNA adenine methylase" id="PRO_0000087991">
+<location>
+<begin position="1"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via amide nitrogen" evidence="3">
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="11"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="15"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="18"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="40"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="48"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="57"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="70"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="83"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="88"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="104"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="119"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="145"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="158"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="165"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="176"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="203"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="223"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="231"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="240"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="263"/>
+<end position="268"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2G1P"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4GOM"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="278" mass="32100" checksum="B2FA5D1FDC863CB9" modified="1986-07-21" version="1">
+MKKNRAFLKWAGGKYPLLDDIKRHLPKGECLVEPFVGAGSVFLNTDFSRYILADINSDLI
+SLYNIVKMRTDEYVQAARELFVPETNCAEVYYQFREEFNKSQDPFRRAVLFLYLNRYGYN
+GLCRYNLRGEFNVPFGRYKKPYFPEAELYHFAEKAQNAFFYCESYADSMARADDASVVYC
+DPPYAPLSATANFTAYHTNSFTLEQQAHLAEIAEGLVERHIPVLISNHDTMLTREWYQRA
+KLHVVKVRRSISSNGGTRKKVDELLALYKPGVVSPAKK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-11-01" modified="2019-06-05" version="171">
+<accession>P23882</accession>
+<accession>P77040</accession>
+<accession>Q2M6V2</accession>
+<name>FMT_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 9">Methionyl-tRNA formyltransferase</fullName>
+<ecNumber evidence="3 4 7">2.1.2.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="8">Met-tRNA(fMet) formyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3 8">fmt</name>
+<name type="synonym">yhdD</name>
+<name type="ordered locus">b3288</name>
+<name type="ordered locus">JW3249</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="4294" last="4301">
+<title>Disruption of the gene for Met-tRNA(fMet) formyltransferase severely impairs growth of Escherichia coli.</title>
+<authorList>
+<person name="Guillon J.-M."/>
+<person name="Mechulam Y."/>
+<person name="Schmitter J.-M."/>
+<person name="Blanquet S."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="1624424"/>
+<dbReference type="DOI" id="10.1128/jb.174.13.4294-4301.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="993" last="1000">
+<title>The Escherichia coli fmt gene, encoding methionyl-tRNA(fMet) formyltransferase, escapes metabolic control.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Guillon J.-M."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="8432722"/>
+<dbReference type="DOI" id="10.1128/jb.175.4.993-1000.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="914" last="923">
+<title>Genetic characterization of polypeptide deformylase, a distinctive enzyme of eubacterial translation.</title>
+<authorList>
+<person name="Mazel D."/>
+<person name="Pochet S."/>
+<person name="Marliere P."/>
+</authorList>
+<dbReference type="PubMed" id="8112305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-82</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1984" name="Nucleic Acids Res." volume="12" first="5813" last="5821">
+<title>Nucleotide sequence of the rpoA-rplQ DNA of Escherichia coli: a second regulatory binding site for protein S4?</title>
+<authorList>
+<person name="Meek D.W."/>
+<person name="Hayward R.S."/>
+</authorList>
+<dbReference type="PubMed" id="6379605"/>
+<dbReference type="DOI" id="10.1093/nar/12.14.5813"/>
+</citation>
+<scope>PRELIMINARY NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 82-162</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="J. Mol. Biol." volume="266" first="939" last="949">
+<title>A survey of polypeptide deformylase function throughout the eubacterial lineage.</title>
+<authorList>
+<person name="Mazel D."/>
+<person name="Coic E."/>
+<person name="Blanchard S."/>
+<person name="Saurin W."/>
+<person name="Marliere P."/>
+</authorList>
+<dbReference type="PubMed" id="9086272"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0835"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 161-315</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1980" name="Eur. J. Biochem." volume="105" first="489" last="497">
+<title>Methionyl-transfer-RNA transformylase from Escherichia coli. Purification and characterisation.</title>
+<authorList>
+<person name="Kahn D."/>
+<person name="Fromant M."/>
+<person name="Fayat G."/>
+<person name="Dessen P."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="6989606"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="4507" last="4514">
+<title>Importance of formylability and anticodon stem sequence to give a tRNA(Met) an initiator identity in Escherichia coli.</title>
+<authorList>
+<person name="Guillon J.M."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="8331078"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="11" evidence="1">
+<citation type="journal article" date="1996" name="EMBO J." volume="15" first="4749" last="4758">
+<title>Structure of crystalline Escherichia coli methionyl-tRNA(f)Met formyltransferase: comparison with glycinamide ribonucleotide formyltransferase.</title>
+<authorList>
+<person name="Schmitt E."/>
+<person name="Blanquet S."/>
+<person name="Mechulam Y."/>
+</authorList>
+<dbReference type="PubMed" id="8887566"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="12" evidence="2">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="6819" last="6826">
+<title>Crystal structure of methionyl-tRNAfMet transformylase complexed with the initiator formyl-methionyl-tRNAfMet.</title>
+<authorList>
+<person name="Schmitt E."/>
+<person name="Panvert M."/>
+<person name="Blanquet S."/>
+<person name="Mechulam Y."/>
+</authorList>
+<dbReference type="PubMed" id="9843487"/>
+<dbReference type="DOI" id="10.1093/emboj/17.23.6819"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS)</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>DOMAIN</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 7">Attaches a formyl group to the free amino group of methionyl-tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by promoting its recognition by IF2 and preventing the misappropriation of this tRNA by the elongation apparatus.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3 4 7">
+<text>(6S)-10-formyltetrahydrofolate + L-methionyl-tRNA(fMet) = (6S)-5,6,7,8-tetrahydrofolate + H(+) + N-formyl-L-methionyl-tRNA(fMet)</text>
+<dbReference type="Rhea" id="RHEA:24380"/>
+<dbReference type="Rhea" id="RHEA-COMP:9952"/>
+<dbReference type="Rhea" id="RHEA-COMP:9953"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57453"/>
+<dbReference type="ChEBI" id="CHEBI:57454"/>
+<dbReference type="ChEBI" id="CHEBI:78530"/>
+<dbReference type="ChEBI" id="CHEBI:78844"/>
+<dbReference type="EC" id="2.1.2.9"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="4">Activity is optimum in the presence of Mg(2+) and K(+).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">13.5 uM for 10-formyltetrahydrofolate</KM>
+<KM evidence="4">0.35 uM for L-methionyl-tRNA(fMet)</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="4">Monomer.</text>
+</comment>
+<comment type="domain">
+<text evidence="6 7">Composed of an N- and a C-terminal domain. The N-terminal domain carries the tetrahydrofolate (THF)-binding site and the C-terminal domain is presumably involved in positioning the Met-tRNA substrate for the formylation reaction.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3 9">Belongs to the Fmt family.</text>
+</comment>
+<dbReference type="EC" id="2.1.2.9" evidence="3 4 7"/>
+<dbReference type="EMBL" id="X63666">
+<property type="protein sequence ID" value="CAA45207.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X77091">
+<property type="protein sequence ID" value="CAA54368.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58085.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76313.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78004.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X00767">
+<property type="protein sequence ID" value="CAA25339.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Y10307">
+<property type="protein sequence ID" value="CAA71358.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S23108">
+<property type="entry name" value="S23108"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417746.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000004473.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1FMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=2-315"/>
+</dbReference>
+<dbReference type="PDB" id="2FMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=2-315"/>
+</dbReference>
+<dbReference type="PDBsum" id="1FMT"/>
+<dbReference type="PDBsum" id="2FMT"/>
+<dbReference type="SMR" id="P23882"/>
+<dbReference type="BioGrid" id="4263429">
+<property type="interactions" value="45"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9668N"/>
+<dbReference type="IntAct" id="P23882">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3288"/>
+<dbReference type="DrugBank" id="DB04464">
+<property type="generic name" value="N-Formylmethionine"/>
+</dbReference>
+<dbReference type="SWISS-2DPAGE" id="P23882"/>
+<dbReference type="EPD" id="P23882"/>
+<dbReference type="jPOST" id="P23882"/>
+<dbReference type="PaxDb" id="P23882"/>
+<dbReference type="PRIDE" id="P23882"/>
+<dbReference type="EnsemblBacteria" id="AAC76313">
+<property type="protein sequence ID" value="AAC76313"/>
+<property type="gene ID" value="b3288"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78004">
+<property type="protein sequence ID" value="BAE78004"/>
+<property type="gene ID" value="BAE78004"/>
+</dbReference>
+<dbReference type="GeneID" id="947779"/>
+<dbReference type="KEGG" id="ecj:JW3249"/>
+<dbReference type="KEGG" id="eco:b3288"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3444"/>
+<dbReference type="EchoBASE" id="EB1247"/>
+<dbReference type="EcoGene" id="EG11268">
+<property type="gene designation" value="fmt"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CAE">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0223">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000261177"/>
+<dbReference type="InParanoid" id="P23882"/>
+<dbReference type="KO" id="K00604"/>
+<dbReference type="PhylomeDB" id="P23882"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11268-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3249-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11268-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.2.9">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P23882"/>
+<dbReference type="PRO" id="PR:P23882"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004479">
+<property type="term" value="F:methionyl-tRNA formyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019988">
+<property type="term" value="P:charged-tRNA amino acid modification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd08646">
+<property type="entry name" value="FMT_core_Met-tRNA-FMT_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.25.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00182">
+<property type="entry name" value="Formyl_trans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005794">
+<property type="entry name" value="Fmt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005793">
+<property type="entry name" value="Formyl_trans_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037022">
+<property type="entry name" value="Formyl_trans_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002376">
+<property type="entry name" value="Formyl_transf_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036477">
+<property type="entry name" value="Formyl_transf_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011034">
+<property type="entry name" value="Formyl_transferase-like_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001555">
+<property type="entry name" value="GART_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041711">
+<property type="entry name" value="Met-tRNA-FMT_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02911">
+<property type="entry name" value="Formyl_trans_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00551">
+<property type="entry name" value="Formyl_trans_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50486">
+<property type="entry name" value="SSF50486"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53328">
+<property type="entry name" value="SSF53328"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00460">
+<property type="entry name" value="fmt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00373">
+<property type="entry name" value="GART"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="initiator methionine" description="Removed">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Methionyl-tRNA formyltransferase" id="PRO_0000082959">
+<location>
+<begin position="2"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="region of interest" description="N-terminal domain" evidence="10 11">
+<location>
+<begin position="2"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="region of interest" description="Tetrahydrofolate (THF) binding" evidence="3">
+<location>
+<begin position="113"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="region of interest" description="C-terminal domain" evidence="10 11">
+<location>
+<begin position="210"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="6"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="42"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="69"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="84"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="97"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="107"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="115"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="119"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="123"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="133"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="144"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="151"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="165"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="199"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="210"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="231"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="237"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="244"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="264"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="272"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="278"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="297"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="305"/>
+<end position="307"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1FMT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FMT"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00182"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6989606"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8331078"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8887566"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9843487"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1624424"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8887566"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9843487"/>
+</source>
+</evidence>
+<sequence length="315" mass="34168" checksum="1AE14C808F04A126" modified="2007-01-23" version="4">
+MSESLRIIFAGTPDFAARHLDALLSSGHNVVGVFTQPDRPAGRGKKLMPSPVKVLAEEKG
+LPVFQPVSLRPQENQQLVAELQADVMVVVAYGLILPKAVLEMPRLGCINVHGSLLPRWRG
+AAPIQRSLWAGDAETGVTIMQMDVGLDTGDMLYKLSCPITAEDTSGTLYDKLAELGPQGL
+ITTLKQLADGTAKPEVQDETLVTYAEKLSKEEARIDWSLSAAQLERCIRAFNPWPMSWLE
+IEGQPVKVWKASVIDTATNAAPGTILEANKQGIQVATGDGILNLLSLQPAGKKAMSAQDL
+LNSRREWFVPGNRLV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

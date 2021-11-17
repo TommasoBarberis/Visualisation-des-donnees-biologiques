@@ -1,0 +1,1905 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-03-23" modified="2019-06-05" version="77">
+<accession>P0CE47</accession>
+<accession>O68929</accession>
+<accession>P02990</accession>
+<accession>P0A6N1</accession>
+<accession>Q2M704</accession>
+<accession>Q2M8R6</accession>
+<accession>Q8X4S9</accession>
+<accession>Q8XED3</accession>
+<name>EFTU1_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="17">Elongation factor Tu 1</fullName>
+<shortName evidence="17">EF-Tu 1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="42">Bacteriophage Q beta RNA-directed RNA polymerase subunit III</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>P-43</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="17">tufA</name>
+<name type="ordered locus">b3339</name>
+<name type="ordered locus">JW3301</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1980" name="Gene" volume="12" first="25" last="31">
+<title>The nucleotide sequence of the cloned tufA gene of Escherichia coli.</title>
+<authorList>
+<person name="Yokota T."/>
+<person name="Sugisaki H."/>
+<person name="Takanami M."/>
+<person name="Kaziro Y."/>
+</authorList>
+<dbReference type="PubMed" id="7011903"/>
+<dbReference type="DOI" id="10.1016/0378-1119(80)90012-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1980" name="Eur. J. Biochem." volume="108" first="507" last="526">
+<title>The complete amino-acid sequence of elongation factor Tu from Escherichia coli.</title>
+<authorList>
+<person name="Jones M.D."/>
+<person name="Petersen T.E."/>
+<person name="Nielsen K.M."/>
+<person name="Magnusson S."/>
+<person name="Sottrup-Jensen L."/>
+<person name="Gausing K."/>
+<person name="Clark B.F.C."/>
+</authorList>
+<dbReference type="PubMed" id="6997043"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1980.tb04748.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-394</scope>
+<scope>ACETYLATION AT SER-2</scope>
+<scope>METHYLATION AT LYS-57</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1981" name="J. Biol. Chem." volume="256" first="8102" last="8109">
+<title>The amino acid sequence of elongation factor Tu of Escherichia coli. The complete sequence.</title>
+<authorList>
+<person name="Laursen R.A."/>
+<person name="L'Italien J.J."/>
+<person name="Nagarkatti S."/>
+<person name="Miller D.L."/>
+</authorList>
+<dbReference type="PubMed" id="7021545"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-394</scope>
+<scope>ACETYLATION AT SER-2</scope>
+<scope>METHYLATION AT LYS-57</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1979" name="FEBS Lett." volume="107" first="359" last="362">
+<title>Location of the site of methylation in elongation factor Tu.</title>
+<authorList>
+<person name="L'Italien J.J."/>
+<person name="Laursen R.A."/>
+</authorList>
+<dbReference type="PubMed" id="389663"/>
+<dbReference type="DOI" id="10.1016/0014-5793(79)80407-X"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 46-59</scope>
+<scope>METHYLATION AT LYS-57</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="6744" last="6749">
+<title>Substitution of proline 82 by threonine induces autophosphorylating activity in GTP-binding domain of elongation factor Tu.</title>
+<authorList>
+<person name="Cool R.H."/>
+<person name="Jensen M."/>
+<person name="Jonak J."/>
+<person name="Clark B.F.C."/>
+<person name="Parmeggiani A."/>
+</authorList>
+<dbReference type="PubMed" id="2157708"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 76-90</scope>
+<scope>MUTAGENESIS OF PRO-83</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="3096" last="3100">
+<title>Elongation factor Tu is methylated in response to nutrient deprivation in Escherichia coli.</title>
+<authorList>
+<person name="Young C.C."/>
+<person name="Bernlohr R.W."/>
+</authorList>
+<dbReference type="PubMed" id="2022614"/>
+<dbReference type="DOI" id="10.1128/jb.173.10.3096-3100.1991"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 153-176 AND 262-290</scope>
+<scope>METHYLATION AT LYS-57 IN RESPONSE TO NUTRIENT STARVATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>B/R</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 311-322</scope>
+<scope>BLOCKAGE OF N-TERMINUS</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="submission" date="1998-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Noorani S.M."/>
+<person name="Lindahl L."/>
+<person name="Zengel J.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 369-394</scope>
+<source>
+<strain>ECOR 30</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1976" name="Nature" volume="261" first="23" last="26">
+<title>Abundance and membrane association of elongation factor Tu in E. coli.</title>
+<authorList>
+<person name="Jacobson G.R."/>
+<person name="Rosenbusch J.P."/>
+</authorList>
+<dbReference type="PubMed" id="775340"/>
+<dbReference type="DOI" id="10.1038/261023a0"/>
+</citation>
+<scope>BLOCKAGE OF N-TERMINUS</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / BHB 960</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1976" name="J. Biol. Chem." volume="251" first="2744" last="2748">
+<title>Immunochemical analysis of the functions of the subunits of phage Qbeta ribonucleic acid replicase.</title>
+<authorList>
+<person name="Carmichael G.G."/>
+<person name="Landers T.A."/>
+<person name="Weber K."/>
+</authorList>
+<dbReference type="PubMed" id="816798"/>
+</citation>
+<scope>FUNCTION IN VIRAL RNA REPLICATION (MICROBIAL INFECTION)</scope>
+<scope>SUBUNIT (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="601" last="607">
+<title>Prokaryotic elongation factor Tu is phosphorylated in vivo.</title>
+<authorList>
+<person name="Lippmann C."/>
+<person name="Lindschau C."/>
+<person name="Vijgenboom E."/>
+<person name="Schroeder W."/>
+<person name="Bosch L."/>
+<person name="Erdmann V.A."/>
+</authorList>
+<dbReference type="PubMed" id="8416965"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-383</scope>
+<scope>PROTEIN SEQUENCE OF 290-304 AND 383-391</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="13081" last="13085">
+<title>A mutation that alters the nucleotide specificity of elongation factor Tu, a GTP regulatory protein.</title>
+<authorList>
+<person name="Hwang Y.-W."/>
+<person name="Miller D.L."/>
+</authorList>
+<dbReference type="PubMed" id="3308869"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-139</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1989" name="Eur. J. Biochem." volume="185" first="341" last="346">
+<title>Substitution of Val20 by Gly in elongation factor Tu. Effects on the interaction with elongation factors Ts, aminoacyl-tRNA and ribosomes.</title>
+<authorList>
+<person name="Jacquet E."/>
+<person name="Parmeggiani A."/>
+</authorList>
+<dbReference type="PubMed" id="2684669"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1989.tb15121.x"/>
+</citation>
+<scope>MUTAGENESIS OF VAL-21</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1989" name="J. Biol. Chem." volume="264" first="8304" last="8309">
+<title>Mutagenesis of bacterial elongation factor Tu at lysine 136. A conserved amino acid in GTP regulatory proteins.</title>
+<authorList>
+<person name="Hwang Y.-W."/>
+<person name="Sanchez A."/>
+<person name="Miller D.L."/>
+</authorList>
+<dbReference type="PubMed" id="2498311"/>
+</citation>
+<scope>MUTAGENESIS OF LYS-137</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1989" name="Arch. Biochem. Biophys." volume="274" first="394" last="403">
+<title>Site-directed mutagenesis of the GDP binding domain of bacterial elongation factor Tu.</title>
+<authorList>
+<person name="Hwang Y.-W."/>
+<person name="McCabe P.G."/>
+<person name="Innis M.A."/>
+<person name="Miller D.L."/>
+</authorList>
+<dbReference type="PubMed" id="2508560"/>
+<dbReference type="DOI" id="10.1016/0003-9861(89)90452-9"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1996" name="EMBO J." volume="15" first="6766" last="6774">
+<title>The G222D mutation in elongation factor Tu inhibits the codon-induced conformational changes leading to GTPase activation on the ribosome.</title>
+<authorList>
+<person name="Vorstenbosch E."/>
+<person name="Pape T."/>
+<person name="Rodnina M.V."/>
+<person name="Kraal B."/>
+<person name="Wintermeyer W."/>
+</authorList>
+<dbReference type="PubMed" id="8978702"/>
+</citation>
+<scope>CHARACTERIZATION OF MUTANT ASP-223</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="4556" last="4562">
+<title>Mutational analysis of the roles of residues in Escherichia coli elongation factor Ts in the interaction with elongation factor Tu.</title>
+<authorList>
+<person name="Zhang Y."/>
+<person name="Yu N.-J."/>
+<person name="Spremulli L.L."/>
+</authorList>
+<dbReference type="PubMed" id="9468511"/>
+<dbReference type="DOI" id="10.1074/jbc.273.8.4556"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-20; GLN-115 AND GLU-349</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="215" last="225">
+<title>Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Sprung R."/>
+<person name="Pei J."/>
+<person name="Tan X."/>
+<person name="Kim S."/>
+<person name="Zhu H."/>
+<person name="Liu C.F."/>
+<person name="Grishin N.V."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="18723842"/>
+<dbReference type="DOI" id="10.1074/mcp.M800187-MCP200"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-314</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / JW1106</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="4877" last="4885">
+<title>The structural and functional basis for the kirromycin resistance of mutant EF-Tu species in Escherichia coli.</title>
+<authorList>
+<person name="Mesters J.R."/>
+<person name="Zeef L.A.H."/>
+<person name="Hilgenfeld R."/>
+<person name="de Graaf J.M."/>
+<person name="Kraal B."/>
+<person name="Bosch L."/>
+</authorList>
+<dbReference type="PubMed" id="7525272"/>
+</citation>
+<scope>VARIANTS RESISTANT TO KIRROMYCIN</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="5113" last="5120">
+<title>Pulvomycin-resistant mutants of E.coli elongation factor Tu.</title>
+<authorList>
+<person name="Zeef L.A.H."/>
+<person name="Bosch L."/>
+<person name="Anborgh P.H."/>
+<person name="Cetin R."/>
+<person name="Parmeggiani A."/>
+<person name="Hilgenfeld R."/>
+</authorList>
+<dbReference type="PubMed" id="7957075"/>
+</citation>
+<scope>VARIANTS RESISTANT TO PULVOMYCIN</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="25978" last="25985">
+<title>Pre-binding of small protein B to a stalled ribosome triggers trans-translation.</title>
+<authorList>
+<person name="Hallier M."/>
+<person name="Ivanova N."/>
+<person name="Rametti A."/>
+<person name="Pavlov M."/>
+<person name="Ehrenberg M."/>
+<person name="Felden B."/>
+</authorList>
+<dbReference type="PubMed" id="15069072"/>
+<dbReference type="DOI" id="10.1074/jbc.M314086200"/>
+</citation>
+<scope>FUNCTION IN TRANS-TRANSLATION</scope>
+<scope>TMRNA-BINDING</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2009" name="Science" volume="323" first="396" last="401">
+<title>Molecular mechanisms of HipA-mediated multidrug tolerance and its neutralization by HipB.</title>
+<authorList>
+<person name="Schumacher M.A."/>
+<person name="Piro K.M."/>
+<person name="Xu W."/>
+<person name="Hansen S."/>
+<person name="Lewis K."/>
+<person name="Brennan R.G."/>
+</authorList>
+<dbReference type="PubMed" id="19150849"/>
+<dbReference type="DOI" id="10.1126/science.1163806"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-383 BY HIPA</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="52" first="248" last="254">
+<title>Molecular mechanism of bacterial persistence by HipA.</title>
+<authorList>
+<person name="Germain E."/>
+<person name="Castro-Roa D."/>
+<person name="Zenkin N."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="24095282"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.08.045"/>
+</citation>
+<scope>LACK OF PHOSPHORYLATION BY HIPA</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2013" name="Nat. Chem. Biol." volume="9" first="811" last="817">
+<title>The Fic protein Doc uses an inverted substrate to phosphorylate and inactivate EF-Tu.</title>
+<authorList>
+<person name="Castro-Roa D."/>
+<person name="Garcia-Pino A."/>
+<person name="De Gieter S."/>
+<person name="van Nuland N.A."/>
+<person name="Loris R."/>
+<person name="Zenkin N."/>
+</authorList>
+<dbReference type="PubMed" id="24141193"/>
+<dbReference type="DOI" id="10.1038/nchembio.1364"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-383 BY DOC</scope>
+<scope>MUTAGENESIS OF THR-383</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2017" name="Proc. Natl. Acad. Sci. U.S.A." volume="114" first="E1951" last="E1957">
+<title>Activation of contact-dependent antibacterial tRNase toxins by translation elongation factors.</title>
+<authorList>
+<person name="Jones A.M."/>
+<person name="Garza-Sanchez F."/>
+<person name="So J."/>
+<person name="Hayes C.S."/>
+<person name="Low D.A."/>
+</authorList>
+<dbReference type="PubMed" id="28223500"/>
+<dbReference type="DOI" id="10.1073/pnas.1619273114"/>
+</citation>
+<scope>FUNCTION IN CDI (MICROBIAL INFECTION)</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH CDIA-CT-EC869 AND CDII-EC869 (MICROBIAL INFECTION)</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="29" evidence="3">
+<citation type="journal article" date="1985" name="EMBO J." volume="4" first="2385" last="2388">
+<title>Structural details of the binding of guanosine diphosphate to elongation factor Tu from E. coli as studied by X-ray crystallography.</title>
+<authorList>
+<person name="la Cour T.F."/>
+<person name="Nyborg J."/>
+<person name="Thirup S."/>
+<person name="Clark B.F."/>
+</authorList>
+<dbReference type="PubMed" id="3908095"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 2-392 IN A MODIFIED FORM</scope>
+</reference>
+<reference key="30" evidence="2">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="285" first="1245" last="1256">
+<title>Crystal structure of intact elongation factor EF-Tu from Escherichia coli in GDP conformation at 2.05-A resolution.</title>
+<authorList>
+<person name="Song H."/>
+<person name="Parsons M.R."/>
+<person name="Rowsell S."/>
+<person name="Leonard G."/>
+<person name="Phillips S.E.V."/>
+</authorList>
+<dbReference type="PubMed" id="9918724"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.2387"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 2-394 IN COMPLEX WITH GDP</scope>
+</reference>
+<reference key="31" evidence="1">
+<citation type="journal article" date="2000" name="Biochemistry" volume="39" first="37" last="45">
+<title>Structure of an EF-Tu complex with a thiazolyl peptide antibiotic determined at 2.35 A resolution: atomic basis for GE2270A inhibition of EF-Tu.</title>
+<authorList>
+<person name="Heffron S.E."/>
+<person name="Jurnak F."/>
+</authorList>
+<dbReference type="PubMed" id="10625477"/>
+<dbReference type="DOI" id="10.1021/bi9913597"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 2-393 IN COMPLEX WITH ANTIBIOTIC GE2270A</scope>
+</reference>
+<reference key="32" evidence="4">
+<citation type="journal article" date="2006" name="Acta Crystallogr. D" volume="62" first="433" last="438">
+<title>Solving the structure of Escherichia coli elongation factor Tu using a twinned data set.</title>
+<authorList>
+<person name="Heffron S.E."/>
+<person name="Moeller R."/>
+<person name="Jurnak F."/>
+</authorList>
+<dbReference type="PubMed" id="16552145"/>
+<dbReference type="DOI" id="10.1107/S0907444906004021"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.4 ANGSTROMS) OF EF-TU-GDP</scope>
+</reference>
+<reference key="33" evidence="5 6">
+<citation type="journal article" date="2006" name="Acta Crystallogr. D" volume="62" first="1392" last="1400">
+<title>Molecular complementarity between tetracycline and the GTPase active site of elongation factor Tu.</title>
+<authorList>
+<person name="Heffron S.E."/>
+<person name="Mui S."/>
+<person name="Aorora A."/>
+<person name="Abel K."/>
+<person name="Bergmann E."/>
+<person name="Jurnak F."/>
+</authorList>
+<dbReference type="PubMed" id="17057344"/>
+<dbReference type="DOI" id="10.1107/S0907444906035426"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.12 ANGSTROMS) OF 9-44 AND 60-393 IN COMPLEX WITH TETRACYCLINE</scope>
+</reference>
+<reference key="34" evidence="11 12">
+<citation type="journal article" date="2017" name="Nucleic Acids Res." volume="45" first="10306" last="10320">
+<title>Structure of a novel antibacterial toxin that exploits elongation factor Tu to cleave specific transfer RNAs.</title>
+<authorList>
+<person name="Michalska K."/>
+<person name="Gucinski G.C."/>
+<person name="Garza-Sanchez F."/>
+<person name="Johnson P.M."/>
+<person name="Stols L.M."/>
+<person name="Eschenfeldt W.H."/>
+<person name="Babnigg G."/>
+<person name="Low D.A."/>
+<person name="Goulding C.W."/>
+<person name="Joachimiak A."/>
+<person name="Hayes C.S."/>
+</authorList>
+<dbReference type="PubMed" id="28973472"/>
+<dbReference type="DOI" id="10.1093/nar/gkx700"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 178-394 IN COMPLEX WITH GDP; CDIA-CT-NC101 AND CDII-NC101</scope>
+<scope>FUNCTION IN CDI (MICROBIAL INFECTION)</scope>
+</reference>
+<comment type="function">
+<text>This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis.</text>
+</comment>
+<comment type="function">
+<text>May play an important regulatory role in cell growth and in the bacterial response to nutrient deprivation.</text>
+</comment>
+<comment type="function">
+<text evidence="19">Plays a stimulatory role in trans-translation; binds tmRNA.</text>
+</comment>
+<comment type="function">
+<text evidence="16">Protects glycyl-tRNA(Gly) from hydrolysis by E.coli D-aminoacyl-tRNA deacylase (dtd) (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="38 43">(Microbial infection) Upon infection by bacteriophage Qbeta, part of the viral RNA-dependent RNA polymerase complex. With EF-Ts may provide a stabilizing scaffold for the beta (catalytic) subunit. Helps separate the double-stranded RNA of the template and growing RNA during elongation. With the beta subunit helps form the exit tunnel for template RNA.</text>
+</comment>
+<comment type="function">
+<text evidence="30 31">(Microbial infection) Required for the tRNase activity of CdiA-CT from E.coli strain EC869; the toxic CT module is thought to cleave tRNA in the context of translationally active GTP EF-Tu-aa-tRNA complexes. GTP is required for tRNase activity but is not hydrolyzed. CdiA-CT is the toxic component of a toxin-immunity protein module, which functions as a cellular contact-dependent growth inhibition (CDI) system. CDI modules allow bacteria to communicate with and inhibit the growth of closely related neighboring bacteria in a contact-dependent fashion (PubMed:28223500). EF-Tu interacts with at least 2 different toxic CT domains, the 2 toxins are different and degrade tRNA at different positions (PubMed:28973472, PubMed:28223500).</text>
+</comment>
+<comment type="function">
+<text evidence="30 31">(Microbial infection) Required for the tRNase activity of CdiA-CT from E.coli strain NC101; the toxic CT module is thought to cleave tRNA in the context of translationally active GTP EF-Tu-aa-tRNA complexes. The toxin may remodel the EF-Tu-aa-tRNA complex to displace the 3'-end of the aa-tRNA so it can enter the toxin active site and be cleaved. GTP is required for tRNase activity but is not hydrolyzed. CdiA-CT is the toxic component of a toxin-immunity protein module, which functions as a cellular contact-dependent growth inhibition (CDI) system. CDI modules allow bacteria to communicate with and inhibit the growth of closely related neighboring bacteria in a contact-dependent fashion (PubMed:28223500). EF-Tu interacts with at least 2 different toxic CT domains, the 2 toxins are different and degrade tRNA at different positions (PubMed:28973472, PubMed:28223500).</text>
+</comment>
+<comment type="subunit">
+<text evidence="15 17 18 20 41 43">Monomer. Heterotetramer composed of two EF-Ts.EF-Tu dimer complexes (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="38">(Microbial infection) Upon infection by bacteriophage Qbeta, part of the viral RNA-dependent RNA polymerase complex, the other subunits are the viral replicase catalytic subunit (AC P14647), host ribosomal protein S1 and EF-Ts (PubMed:816798).</text>
+</comment>
+<comment type="subunit">
+<text evidence="30">(Microbial infection) Forms a contact-dependent growth inhibition complex of EF-Tu, CdiA-CT-EC869 and CdiI-EC869 as well as a GTP, EF-Tu, CdiA-CT-EC869 complex.</text>
+</comment>
+<comment type="subunit">
+<text evidence="31">(Microbial infection) Forms a contact-dependent growth inhibition complex of CdiA-CT-NC101, CdiI-NC101 and EF-Tu; the complex is a dimer of heterotrimers.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-9010000">
+<id>P14647</id>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-562106">
+<id>P61517</id>
+<label>can</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-560661">
+<id>P76251</id>
+<label>dmlA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-2908816">
+<id>Q06259</id>
+<label>doc</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-551473">
+<id>P15038</id>
+<label>helD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-562857">
+<id>P0A6Y5</id>
+<label>hslO</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-552928">
+<id>P00956</id>
+<label>ileS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-544810">
+<id>P04951</id>
+<label>kdsB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-553692">
+<id>P10441</id>
+<label>lpxB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-554903">
+<id>P22634</id>
+<label>murI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-554920">
+<id>P23909</id>
+<label>mutS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-555182">
+<id>P33590</id>
+<label>nikA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-562488">
+<id>P0A6Z6</id>
+<label>nikR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-560024">
+<id>P77756</id>
+<label>queC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-545468">
+<id>P0AG30</id>
+<label>rho</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-561207">
+<id>P0ADX9</id>
+<label>rsmD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-301164">
+<id>P0A6P1</id>
+<label>tsf</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-370708">
+<id>P0A8J4</id>
+<label>ybeD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-561198">
+<id>P63389</id>
+<label>yheS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-301077"/>
+<interactant intactId="EBI-561387">
+<id>P39408</id>
+<label>yjjV</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell inner membrane</location>
+<topology>Peripheral membrane protein</topology>
+</subcellularLocation>
+<text>Between 50-80% of the protein is associated with the cell inner membrane. Localization to the membrane has been suggested to follow nutrient stress.</text>
+</comment>
+<comment type="PTM">
+<text>The N-terminus is blocked.</text>
+</comment>
+<comment type="PTM">
+<text evidence="23 33 34 35">Methylated in vivo on Lys-57 in response to nutrient starvation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="22 26 39">Phosphorylated in vitro by phage protein doc on Thr-383.</text>
+</comment>
+<comment type="PTM">
+<text evidence="22 25 26 39">Phosphorylated in vitro by HipA on Thr-383 (PubMed:19150849), this has since been reported not to occur in vivo (PubMed:24095282).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="44">Present with about 70,000 molecules/cell.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="38">This chain is also used in bacteriophage Q-beta RNA polymerase.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="36">The antibiotic kirromycin inhibits protein biosynthesis by inhibiting the release of EF-Tu from the ribosome.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="37">The antibiotic pulvomycin inhibits protein biosynthesis by disrupting the allosteric control mechanism of EF-Tu.</text>
+</comment>
+<comment type="similarity">
+<text evidence="17">Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-Tu/EF-1A subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="43">EF-Tu 1 and EF-Tu 2 differ in a single position and are no longer merged. However, many papers are found in both entries as it is not always possible to determine for each paper which of EF-Tu 1 or EF-Tu 2 was being worked upon.</text>
+</comment>
+<dbReference type="EMBL" id="J01690">
+<property type="protein sequence ID" value="AAA50993.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10459">
+<property type="protein sequence ID" value="AAA24702.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76364.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77952.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58136.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF058450">
+<property type="protein sequence ID" value="AAC14286.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A91475">
+<property type="entry name" value="EFECTA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417798.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000031783.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1D8T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/B=2-394"/>
+</dbReference>
+<dbReference type="PDB" id="1EFC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="1ETU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=2-394"/>
+</dbReference>
+<dbReference type="PDB" id="1MJ1">
+<property type="method" value="EM"/>
+<property type="resolution" value="13.00"/>
+<property type="chains" value="A=8-389"/>
+</dbReference>
+<dbReference type="PDB" id="2FX3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="A=2-394"/>
+</dbReference>
+<dbReference type="PDB" id="2HCJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="A=9-45, B=60-394"/>
+</dbReference>
+<dbReference type="PDB" id="2HDN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/C/E/G/I/K=9-45, B/D/F/H/J/L=60-394"/>
+</dbReference>
+<dbReference type="PDB" id="3EP2">
+<property type="method" value="EM"/>
+<property type="chains" value="X=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="3EQ3">
+<property type="method" value="EM"/>
+<property type="chains" value="X=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="3EQ4">
+<property type="method" value="EM"/>
+<property type="chains" value="X=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="3U2Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=3-394"/>
+</dbReference>
+<dbReference type="PDB" id="3U6B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="A/B=3-394"/>
+</dbReference>
+<dbReference type="PDB" id="3U6K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/B=3-394"/>
+</dbReference>
+<dbReference type="PDB" id="4G5G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=3-394"/>
+</dbReference>
+<dbReference type="PDB" id="4PC3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A/B=1-394"/>
+</dbReference>
+<dbReference type="PDB" id="4PC7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="A=1-394"/>
+</dbReference>
+<dbReference type="PDB" id="4Q7J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="B/F=2-394"/>
+</dbReference>
+<dbReference type="PDB" id="4V69">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.70"/>
+<property type="chains" value="AZ=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5I4Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="C=178-394"/>
+</dbReference>
+<dbReference type="PDB" id="5I4R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="D/H=60-394"/>
+</dbReference>
+<dbReference type="PDB" id="5JBQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.01"/>
+<property type="chains" value="A=1-394"/>
+</dbReference>
+<dbReference type="PDB" id="5UYK">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.90"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5UYL">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5UYM">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5UYN">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.00"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5UYP">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.90"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="5UYQ">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="Z=2-393"/>
+</dbReference>
+<dbReference type="PDBsum" id="1D8T"/>
+<dbReference type="PDBsum" id="1EFC"/>
+<dbReference type="PDBsum" id="1ETU"/>
+<dbReference type="PDBsum" id="1MJ1"/>
+<dbReference type="PDBsum" id="2FX3"/>
+<dbReference type="PDBsum" id="2HCJ"/>
+<dbReference type="PDBsum" id="2HDN"/>
+<dbReference type="PDBsum" id="3EP2"/>
+<dbReference type="PDBsum" id="3EQ3"/>
+<dbReference type="PDBsum" id="3EQ4"/>
+<dbReference type="PDBsum" id="3U2Q"/>
+<dbReference type="PDBsum" id="3U6B"/>
+<dbReference type="PDBsum" id="3U6K"/>
+<dbReference type="PDBsum" id="4G5G"/>
+<dbReference type="PDBsum" id="4PC3"/>
+<dbReference type="PDBsum" id="4PC7"/>
+<dbReference type="PDBsum" id="4Q7J"/>
+<dbReference type="PDBsum" id="4V69"/>
+<dbReference type="PDBsum" id="5I4Q"/>
+<dbReference type="PDBsum" id="5I4R"/>
+<dbReference type="PDBsum" id="5JBQ"/>
+<dbReference type="PDBsum" id="5UYK"/>
+<dbReference type="PDBsum" id="5UYL"/>
+<dbReference type="PDBsum" id="5UYM"/>
+<dbReference type="PDBsum" id="5UYN"/>
+<dbReference type="PDBsum" id="5UYP"/>
+<dbReference type="PDBsum" id="5UYQ"/>
+<dbReference type="SMR" id="P0CE47"/>
+<dbReference type="BioGrid" id="4259390">
+<property type="interactions" value="79"/>
+</dbReference>
+<dbReference type="BioGrid" id="852150">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-6159N"/>
+<dbReference type="IntAct" id="P0CE47">
+<property type="interactions" value="162"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3339"/>
+<dbReference type="CarbonylDB" id="P0CE47"/>
+<dbReference type="iPTMnet" id="P0CE47"/>
+<dbReference type="EPD" id="P0CE47"/>
+<dbReference type="jPOST" id="P0CE47"/>
+<dbReference type="PaxDb" id="P0CE47"/>
+<dbReference type="PRIDE" id="P0CE47"/>
+<dbReference type="EnsemblBacteria" id="AAC76364">
+<property type="protein sequence ID" value="AAC76364"/>
+<property type="gene ID" value="b3339"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77952">
+<property type="protein sequence ID" value="BAE77952"/>
+<property type="gene ID" value="BAE77952"/>
+</dbReference>
+<dbReference type="GeneID" id="947838"/>
+<dbReference type="KEGG" id="ecj:JW3301"/>
+<dbReference type="KEGG" id="eco:b3339"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3392"/>
+<dbReference type="EchoBASE" id="EB1029"/>
+<dbReference type="EcoGene" id="EG11036">
+<property type="gene designation" value="tufA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CGV">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0050">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="P0CE47"/>
+<dbReference type="KO" id="K02358"/>
+<dbReference type="PhylomeDB" id="P0CE47"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11036-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0CE47"/>
+<dbReference type="PRO" id="PR:P0CE47"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003746">
+<property type="term" value="F:translation elongation factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd01884">
+<property type="entry name" value="EF_Tu"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd03697">
+<property type="entry name" value="EFTU_II"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00118_B">
+<property type="entry name" value="EF_Tu_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041709">
+<property type="entry name" value="EF-Tu_GTP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004161">
+<property type="entry name" value="EFTu-like_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033720">
+<property type="entry name" value="EFTU_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031157">
+<property type="entry name" value="G_TR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005225">
+<property type="entry name" value="Small_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000795">
+<property type="entry name" value="TF_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009000">
+<property type="entry name" value="Transl_B-barrel_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009001">
+<property type="entry name" value="Transl_elong_EF1A/Init_IF2_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004541">
+<property type="entry name" value="Transl_elong_EFTu/EF1A_bac/org"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004160">
+<property type="entry name" value="Transl_elong_EFTu/EF1A_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00009">
+<property type="entry name" value="GTP_EFTU"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03144">
+<property type="entry name" value="GTP_EFTU_D2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03143">
+<property type="entry name" value="GTP_EFTU_D3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00315">
+<property type="entry name" value="ELONGATNFCT"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50447">
+<property type="entry name" value="SSF50447"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50465">
+<property type="entry name" value="SSF50465"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00485">
+<property type="entry name" value="EF-Tu"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00231">
+<property type="entry name" value="small_GTP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00301">
+<property type="entry name" value="G_TR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51722">
+<property type="entry name" value="G_TR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0251">Elongation factor</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<feature type="initiator methionine" description="Removed" evidence="34 35">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Elongation factor Tu 1" id="PRO_0000091320">
+<location>
+<begin position="2"/>
+<end position="394"/>
+</location>
+</feature>
+<feature type="domain" description="tr-type G">
+<location>
+<begin position="10"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP">
+<location>
+<begin position="19"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP">
+<location>
+<begin position="81"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP">
+<location>
+<begin position="136"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="region of interest" description="G1" evidence="14">
+<location>
+<begin position="19"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="region of interest" description="G2" evidence="14">
+<location>
+<begin position="60"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="region of interest" description="G3" evidence="14">
+<location>
+<begin position="81"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="region of interest" description="G4" evidence="14">
+<location>
+<begin position="136"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="region of interest" description="G5" evidence="14">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylserine" evidence="34 35">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6,N6-dimethyllysine; alternate" evidence="23 33 34 35">
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine; alternate" evidence="23 33 34 35">
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="21">
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="22 26 39">
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in binding GDP and 3-fold reduction in binding EF-Ts." evidence="40">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowers GTPase activity 5 to 10-fold." evidence="29">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of GTPase activity and creation of an autophosphorylation site." evidence="24">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Weaker binding for GDP and for EF-Ts." evidence="40">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Kirromycin resistant." evidence="28">
+<original>Q</original>
+<variation>K</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces affinity for GDP." evidence="27">
+<original>K</original>
+<variation>R</variation>
+<variation>Q</variation>
+<variation>E</variation>
+<variation>I</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces affinity for GDP; increases affinity for XDP." evidence="32">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Inhibits codon-induced conformational changes leading to GTPase activation on the ribosome." evidence="28">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Pulvomycin resistant." evidence="28">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="231"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Kirromycin resistant." evidence="28">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Pulvomycin resistant." evidence="28">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Pulvomycin resistant." evidence="28">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="335"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in binding GDP but higher binding constant for EF-Ts." evidence="40">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Kirromycin resistant." evidence="28">
+<original>A</original>
+<variation>T</variation>
+<variation>V</variation>
+<location>
+<position position="376"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer phosphorylated by phage protein doc, has no effect on translation." evidence="26">
+<original>T</original>
+<variation>V</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="4"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="12"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="20"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="25"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="47"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="55"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="62"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="68"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="76"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="85"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="95"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="100"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="turn" evidence="9">
+<location>
+<begin position="108"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="116"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="131"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="138"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="144"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="turn" evidence="9">
+<location>
+<begin position="165"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="170"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="175"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="183"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="212"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="217"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="turn" evidence="9">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="225"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="234"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="242"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="252"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="264"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="274"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="292"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="296"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="301"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="turn" evidence="9">
+<location>
+<begin position="314"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="323"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="330"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="336"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="356"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="374"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="382"/>
+<end position="394"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1D8T"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1EFC"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ETU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FX3"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2HCJ"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2HDN"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3U6B"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3U6K"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4PC3"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4Q7J"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5I4Q"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5I4R"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5JBQ"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000250"/>
+<evidence key="15" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P0CE48"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q5SHN6"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00118"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10625477"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15069072"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17057344"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18723842"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19150849"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2022614"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2157708"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24095282"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24141193"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2498311"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2508560"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2684669"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28223500"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28973472"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3308869"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="389663"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6997043"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7021545"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7525272"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7957075"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="816798"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8416965"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9468511"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9918724"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="816798"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000305"/>
+<evidence key="44" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="775340"/>
+</source>
+</evidence>
+<sequence length="394" mass="43284" checksum="731A60255F43358F" modified="2010-03-23" version="1">
+MSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARG
+ITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHI
+LLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALE
+GDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVG
+EEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIK
+PHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMV
+VTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

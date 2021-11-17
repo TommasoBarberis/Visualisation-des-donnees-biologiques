@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="103">
+<accession>P0AG74</accession>
+<accession>P40116</accession>
+<accession>Q2MBN1</accession>
+<name>RUSA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Crossover junction endodeoxyribonuclease RusA</fullName>
+<ecNumber>3.1.22.4</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Holliday junction nuclease RusA</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Holliday junction resolvase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rusA</name>
+<name type="synonym">rus</name>
+<name type="synonym">ybcP</name>
+<name type="ordered locus">b0550</name>
+<name type="ordered locus">JW0538</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="J. Mol. Biol." volume="257" first="561" last="573">
+<title>Holliday junction resolvases encoded by homologous rusA genes in Escherichia coli K-12 and phage 82.</title>
+<authorList>
+<person name="Mahdi A.A."/>
+<person name="Sharples G.J."/>
+<person name="Mandal T.N."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="8648624"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0185"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="6133" last="6142">
+<title>Processing of intermediates in recombination and DNA repair: identification of a new endonuclease that specifically cleaves Holliday junctions.</title>
+<authorList>
+<person name="Sharples G.J."/>
+<person name="Chan S.N."/>
+<person name="Mahdi A.A."/>
+<person name="Whitby M.C."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="7813450"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-9</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="14873" last="14882">
+<title>Sequence specificity and biochemical characterization of the RusA Holliday junction resolvase of Escherichia coli.</title>
+<authorList>
+<person name="Chan S.N."/>
+<person name="Harris L."/>
+<person name="Bolt E.L."/>
+<person name="Whitby M.C."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="9169457"/>
+<dbReference type="DOI" id="10.1074/jbc.272.23.14873"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="278" first="117" last="133">
+<title>Structural recognition and distortion by the DNA junction-resolving enzyme RusA.</title>
+<authorList>
+<person name="Giraud-Panis M.-J.E."/>
+<person name="Lilley D.M.J."/>
+</authorList>
+<dbReference type="PubMed" id="9571038"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1681"/>
+</citation>
+<scope>CLEAVAGE SPECIFICITY</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF ASP-70</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="286" first="403" last="415">
+<title>Identification of three aspartic acid residues essential for catalysis by the RusA holliday junction resolvase.</title>
+<authorList>
+<person name="Bolt E.L."/>
+<person name="Sharples G.J."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="9973560"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.2499"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-70; ASP-72; ASP-80; ASP-90; ASP-91; GLU-111 AND GLU-116</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Mol. Biol." volume="304" first="165" last="176">
+<title>Analysis of conserved basic residues associated with DNA binding (Arg69) and catalysis (Lys76) by the RusA holliday junction resolvase.</title>
+<authorList>
+<person name="Bolt E.L."/>
+<person name="Sharples G.J."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="11080453"/>
+<dbReference type="DOI" id="10.1006/jmbi.2000.4196"/>
+</citation>
+<scope>MUTAGENESIS OF ARG-16; TYR-17; ARG-19; ARG-58; ARG-68; ARG-69; ASN-73; LYS-76; PHE-87 AND LYS-101</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2003" name="Structure" volume="11" first="1557" last="1567">
+<title>The structure of Escherichia coli RusA endonuclease reveals a new Holliday junction DNA binding fold.</title>
+<authorList>
+<person name="Rafferty J.B."/>
+<person name="Bolt E.L."/>
+<person name="Muranova T.A."/>
+<person name="Sedelnikova S.E."/>
+<person name="Leonard P."/>
+<person name="Pasquo A."/>
+<person name="Baker P.J."/>
+<person name="Rice D.W."/>
+<person name="Sharples G.J."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="14656440"/>
+<dbReference type="DOI" id="10.1016/j.str.2003.11.004"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="5577" last="5584">
+<title>RusA Holliday junction resolvase: DNA complex structure -- insights into selectivity and specificity.</title>
+<authorList>
+<person name="Macmaster R."/>
+<person name="Sedelnikova S."/>
+<person name="Baker P.J."/>
+<person name="Bolt E.L."/>
+<person name="Lloyd R.G."/>
+<person name="Rafferty J.B."/>
+</authorList>
+<dbReference type="PubMed" id="17028102"/>
+<dbReference type="DOI" id="10.1093/nar/gkl447"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.2 ANGSTROMS) OF MUTANT ASN-70 IN COMPLEX WITH DNA</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text>Endonuclease that resolves Holliday junction intermediates made during homologous genetic recombination and DNA repair. Exhibits sequence and structure-selective cleavage of four-way DNA junctions, where it introduces symmetrical nicks in two strands of the same polarity at the 5' side of CC dinucleotides. Corrects the defects in genetic recombination and DNA repair associated with inactivation of ruvAB or ruvC.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Endonucleolytic cleavage at a junction such as a reciprocal single-stranded crossover between two homologous DNA duplexes (Holliday junction).</text>
+<dbReference type="EC" id="3.1.22.4"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="8">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="8">Binds 1 Mg(2+) ion per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5">Homodimer.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Encoded by the cryptic lambdoid prophage DLP12. Normally not expressed. Complete suppression of ruv mutations by RusA is dependent on the activity of RecG.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the RusA family.</text>
+</comment>
+<dbReference type="EC" id="3.1.22.4"/>
+<dbReference type="EMBL" id="X92587">
+<property type="protein sequence ID" value="CAA63321.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82598">
+<property type="protein sequence ID" value="AAB40746.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73651.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76325.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S66590">
+<property type="entry name" value="S66590"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415082.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001099712.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1Q8R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-120"/>
+</dbReference>
+<dbReference type="PDB" id="2H8C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B/C/D=1-120"/>
+</dbReference>
+<dbReference type="PDB" id="2H8E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=1-120"/>
+</dbReference>
+<dbReference type="PDBsum" id="1Q8R"/>
+<dbReference type="PDBsum" id="2H8C"/>
+<dbReference type="PDBsum" id="2H8E"/>
+<dbReference type="SMR" id="P0AG74"/>
+<dbReference type="BioGrid" id="4261529">
+<property type="interactions" value="59"/>
+</dbReference>
+<dbReference type="BioGrid" id="849560">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-16988N"/>
+<dbReference type="IntAct" id="P0AG74">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0550"/>
+<dbReference type="PaxDb" id="P0AG74"/>
+<dbReference type="PRIDE" id="P0AG74"/>
+<dbReference type="EnsemblBacteria" id="AAC73651">
+<property type="protein sequence ID" value="AAC73651"/>
+<property type="gene ID" value="b0550"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76325">
+<property type="protein sequence ID" value="BAE76325"/>
+<property type="gene ID" value="BAE76325"/>
+</dbReference>
+<dbReference type="GeneID" id="945174"/>
+<dbReference type="KEGG" id="ecj:JW0538"/>
+<dbReference type="KEGG" id="eco:b0550"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1727"/>
+<dbReference type="EchoBASE" id="EB4170"/>
+<dbReference type="EcoGene" id="EG20283">
+<property type="gene designation" value="rusA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4106CZA">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4570">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000119986"/>
+<dbReference type="InParanoid" id="P0AG74"/>
+<dbReference type="KO" id="K01160"/>
+<dbReference type="BioCyc" id="EcoCyc:G6306-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0538-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.22.4">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0AG74"/>
+<dbReference type="PRO" id="PR:P0AG74"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008821">
+<property type="term" value="F:crossover junction endodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000400">
+<property type="term" value="F:four-way junction DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1330.70">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016281">
+<property type="entry name" value="Endonuclease_RusA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008822">
+<property type="entry name" value="Endonuclease_RusA-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036614">
+<property type="entry name" value="RusA-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05866">
+<property type="entry name" value="RusA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001007">
+<property type="entry name" value="RusA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF103084">
+<property type="entry name" value="SSF103084"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Crossover junction endodeoxyribonuclease RusA" id="PRO_0000192004">
+<location>
+<begin position="1"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="region of interest" description="DNA binding">
+<location>
+<begin position="13"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="region of interest" description="DNA binding">
+<location>
+<begin position="66"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>Y</original>
+<variation>L</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to promote DNA repair. Great loss of Holliday junction resolvase activity. No effect on DNA binding." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces junction resolution 80-fold. No effect on DNA binding." evidence="6 7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to resolve junctions. No effect on DNA binding." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in ability to promote DNA repair. Great reduction in Holliday junction resolution activity." evidence="2">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to promote DNA repair. Loss of Holliday junction resolvase activity. No effect on DNA binding." evidence="2">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to promote DNA repair. Less than 2% activity of Holliday junction resolvase. No effect on DNA binding." evidence="2">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in ability to resolve junctions. No effect on DNA binding." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>F</original>
+<variation>Y</variation>
+<variation>V</variation>
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in ability to resolve junctions. No effect on DNA binding." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to resolve junctions. No effect on DNA binding." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ability to promote DNA repair." evidence="2">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on resolvase activity or DNA binding." evidence="7">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on resolvase activity or DNA binding." evidence="7">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="25"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="29"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="55"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="87"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="116"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2H8E"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11080453"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14656440"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17028102"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9169457"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9571038"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9973560"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="120" mass="13846" checksum="38401669E8819EA6" modified="2005-12-20" version="1">
+MNTYSITLPWPPSNNRYYRHNRGRTHVSAEGQAYRDNVARIIKNAMLDIGLAMPVKIRIE
+CHMPDRRRRDLDNLQKAAFDALTKAGFWLDDAQVVDYRVVKMPVTKGGRLELTITEMGNE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

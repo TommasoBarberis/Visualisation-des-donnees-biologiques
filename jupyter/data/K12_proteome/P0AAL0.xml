@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-11" modified="2019-05-08" version="100">
+<accession>P0AAL0</accession>
+<accession>P33939</accession>
+<name>NAPF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 5">Ferredoxin-type protein NapF</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">napF</name>
+<name type="synonym">yojG</name>
+<name type="ordered locus">b2208</name>
+<name type="ordered locus">JW2196</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Microbiology" volume="152" first="3227" last="3237">
+<title>The NapF protein of the Escherichia coli periplasmic nitrate reductase system: demonstration of a cytoplasmic location and interaction with the catalytic subunit, NapA.</title>
+<authorList>
+<person name="Nilavongse A."/>
+<person name="Brondijk T.H."/>
+<person name="Overton T.W."/>
+<person name="Richardson D.J."/>
+<person name="Leach E.R."/>
+<person name="Cole J.A."/>
+</authorList>
+<dbReference type="PubMed" id="17074894"/>
+<dbReference type="DOI" id="10.1099/mic.0.29157-0"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-5</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NAPA</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF 7-ARG-ARG-8; PRO-24; PRO-25 AND TRP-26</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="44" first="245" last="255">
+<title>Roles of NapF, NapG and NapH, subunits of the Escherichia coli periplasmic nitrate reductase, in ubiquinol oxidation.</title>
+<authorList>
+<person name="Brondijk T.H."/>
+<person name="Fiegen D."/>
+<person name="Richardson D.J."/>
+<person name="Cole J.A."/>
+</authorList>
+<dbReference type="PubMed" id="11967083"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4">Could be involved in the maturation of NapA, the catalytic subunit of the periplasmic nitrate reductase, before its export into the periplasm (PubMed:17074894). Is not involved in the electron transfer from menaquinol or ubiquinol to the periplasmic nitrate reductase (PubMed:11967083).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 2">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="2">Binds 3 [4Fe-4S] cluster.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 4">Interacts with the cytoplasmic NapA precursor.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="4">Loosely attached to the inner side of the membrane.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">Deletion of the gene does not decrease the rate of electron transfer from physiological substrates to the Nap complex, but it has a significant effect on cell energetics.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 5">Belongs to the NapF family.</text>
+</comment>
+<dbReference type="EMBL" id="U00008">
+<property type="protein sequence ID" value="AAA16401.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75268.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15991.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F64990">
+<property type="entry name" value="F64990"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416712.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000686723.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4262219">
+<property type="interactions" value="35"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2208"/>
+<dbReference type="TCDB" id="3.D.11.1.1">
+<property type="family name" value="the periplasmic nitrate reductase complex (nap) complex family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P0AAL0"/>
+<dbReference type="PRIDE" id="P0AAL0"/>
+<dbReference type="EnsemblBacteria" id="AAC75268">
+<property type="protein sequence ID" value="AAC75268"/>
+<property type="gene ID" value="b2208"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15991">
+<property type="protein sequence ID" value="BAA15991"/>
+<property type="gene ID" value="BAA15991"/>
+</dbReference>
+<dbReference type="GeneID" id="946813"/>
+<dbReference type="KEGG" id="ecj:JW2196"/>
+<dbReference type="KEGG" id="eco:b2208"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.28"/>
+<dbReference type="EchoBASE" id="EB1995"/>
+<dbReference type="EcoGene" id="EG12068">
+<property type="gene designation" value="napF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108ZNS">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1145">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000275477"/>
+<dbReference type="InParanoid" id="P0AAL0"/>
+<dbReference type="KO" id="K02572"/>
+<dbReference type="PhylomeDB" id="P0AAL0"/>
+<dbReference type="BioCyc" id="EcoCyc:NAPF-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2196-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AAL0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd10564">
+<property type="entry name" value="NapF_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02201">
+<property type="entry name" value="NapF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017896">
+<property type="entry name" value="4Fe4S_Fe-S-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017900">
+<property type="entry name" value="4Fe4S_Fe_S_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004496">
+<property type="entry name" value="NapF"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24960:SF46">
+<property type="entry name" value="PTHR24960:SF46"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00037">
+<property type="entry name" value="Fer4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12800">
+<property type="entry name" value="Fer4_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13187">
+<property type="entry name" value="Fer4_9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00402">
+<property type="entry name" value="napF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00198">
+<property type="entry name" value="4FE4S_FER_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51379">
+<property type="entry name" value="4FE4S_FER_2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="chain" description="Ferredoxin-type protein NapF" id="PRO_0000159275">
+<location>
+<begin position="1"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 1" evidence="1 2">
+<location>
+<begin position="28"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 2" evidence="1 2">
+<location>
+<begin position="58"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 3" evidence="1 2">
+<location>
+<begin position="132"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 3 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 3 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 3 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 3 (4Fe-4S)" evidence="1 2">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="4">
+<original>RR</original>
+<variation>AA</variation>
+<location>
+<begin position="7"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="4">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="4">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="4">
+<original>W</original>
+<variation>Y</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02201"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00711"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11967083"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17074894"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="164" mass="18047" checksum="3832B3D78805FAC1" modified="2005-10-11" version="1">
+MKIDASRRGILTGRWRKASNGIRPPWSGDESHFLTHCTRCDACINACENNILQRGAGGYP
+SVNFKNNECSFCYACAQACPESLFSPRHTRAWDLQFTIGDACLAYQSVECRRCQDSCEPM
+AIIFRPTLSGIYQPQLNSQLCNGCGACAASCPVSAITAEYLHAH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

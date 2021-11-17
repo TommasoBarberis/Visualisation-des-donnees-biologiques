@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-07-03" version="103">
+<accession>P0AFW2</accession>
+<accession>P22986</accession>
+<accession>P77441</accession>
+<name>RMF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 16">Ribosome modulation factor</fullName>
+<shortName evidence="2">RMF</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="17">Hibernation factor RMF</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein E</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 16">rmf</name>
+<name type="ordered locus">b0953</name>
+<name type="ordered locus">JW0936</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="EMBO J." volume="12" first="625" last="630">
+<title>Regulation of the Escherichia coli rmf gene encoding the ribosome modulation factor: growth phase- and growth rate-dependent control.</title>
+<authorList>
+<person name="Yamagishi M."/>
+<person name="Matsushima H."/>
+<person name="Wada A."/>
+<person name="Sakagami M."/>
+<person name="Fujita N."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8440252"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="4641" last="4646">
+<title>Derived amino acid sequence and identification of active site residues of Escherichia coli beta-hydroxydecanoyl thioester dehydrase.</title>
+<authorList>
+<person name="Cronan J.E. Jr."/>
+<person name="Li W.-B."/>
+<person name="Coleman R."/>
+<person name="Narasimhan M."/>
+<person name="de Mendoza D."/>
+<person name="Schwab J.M."/>
+</authorList>
+<dbReference type="PubMed" id="2832401"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Proc. Natl. Acad. Sci. U.S.A." volume="87" first="2657" last="2661">
+<title>Structure and probable genetic location of a 'ribosome modulation factor' associated with 100S ribosomes in stationary-phase Escherichia coli cells.</title>
+<authorList>
+<person name="Wada A."/>
+<person name="Yamazaki Y."/>
+<person name="Fujita N."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="2181444"/>
+<dbReference type="DOI" id="10.1073/pnas.87.7.2657"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-30</scope>
+<scope>INTERACTION WITH 100S RIBOSOMES</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1995" name="Biochem. Biophys. Res. Commun." volume="214" first="410" last="417">
+<title>Ribosome modulation factor: stationary growth phase-specific inhibitor of ribosome functions from Escherichia coli.</title>
+<authorList>
+<person name="Wada A."/>
+<person name="Igarashi K."/>
+<person name="Yoshimura S."/>
+<person name="Aimoto S."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="7677746"/>
+<dbReference type="DOI" id="10.1006/bbrc.1995.2302"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / W3350 / ATCC 27020</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="Genes Cells" volume="6" first="665" last="676">
+<title>Expression of ribosome modulation factor (RMF) in Escherichia coli requires ppGpp.</title>
+<authorList>
+<person name="Izutsu K."/>
+<person name="Wada A."/>
+<person name="Wada C."/>
+</authorList>
+<dbReference type="PubMed" id="11532026"/>
+<dbReference type="DOI" id="10.1046/j.1365-2443.2001.00457.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="J. Biochem." volume="132" first="983" last="989">
+<title>The ribosome modulation factor (RMF) binding site on the 100S ribosome of Escherichia coli.</title>
+<authorList>
+<person name="Yoshida H."/>
+<person name="Maki Y."/>
+<person name="Kato H."/>
+<person name="Fujisawa H."/>
+<person name="Izutsu K."/>
+<person name="Wada C."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="12473202"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a003313"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RIBOSOME</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="Arch. Microbiol." volume="182" first="60" last="66">
+<title>Ribosome modulation factor protects Escherichia coli during heat stress, but this may not be dependent on ribosome dimerisation.</title>
+<authorList>
+<person name="Niven G.W."/>
+</authorList>
+<dbReference type="PubMed" id="15278243"/>
+<dbReference type="DOI" id="10.1007/s00203-004-0698-9"/>
+</citation>
+<scope>FUNCTION IN PROTECTION DURING HEAT STRESS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Genes Cells" volume="9" first="271" last="278">
+<title>RMF inactivates ribosomes by covering the peptidyl transferase centre and entrance of peptide exit tunnel.</title>
+<authorList>
+<person name="Yoshida H."/>
+<person name="Yamamoto H."/>
+<person name="Uchiumi T."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="15066119"/>
+<dbReference type="DOI" id="10.1111/j.1356-9597.2004.00723.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RIBOSOME</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="2844" last="2853">
+<title>Essentiality of ribosomal and transcription antitermination proteins analyzed by systematic gene replacement in Escherichia coli.</title>
+<authorList>
+<person name="Bubunenko M."/>
+<person name="Baker T."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="17277072"/>
+<dbReference type="DOI" id="10.1128/JB.01713-06"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="J. Biochem." volume="143" first="425" last="433">
+<title>Role of HPF (hibernation promoting factor) in translational activity in Escherichia coli.</title>
+<authorList>
+<person name="Ueta M."/>
+<person name="Ohniwa R.L."/>
+<person name="Yoshida H."/>
+<person name="Maki Y."/>
+<person name="Wada C."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="18174192"/>
+<dbReference type="DOI" id="10.1093/jb/mvm243"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2009" name="Genes Cells" volume="14" first="271" last="280">
+<title>Activities of Escherichia coli ribosomes in IF3 and RMF change to prepare 100S ribosome formation on entering the stationary growth phase.</title>
+<authorList>
+<person name="Yoshida H."/>
+<person name="Ueta M."/>
+<person name="Maki Y."/>
+<person name="Sakai A."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="19170772"/>
+<dbReference type="DOI" id="10.1111/j.1365-2443.2008.01272.x"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2015" name="Antimicrob. Agents Chemother." volume="59" first="6992" last="6999">
+<title>Ribosome hibernation facilitates tolerance of stationary-phase bacteria to aminoglycosides.</title>
+<authorList>
+<person name="McKay S.L."/>
+<person name="Portnoy D.A."/>
+</authorList>
+<dbReference type="PubMed" id="26324267"/>
+<dbReference type="DOI" id="10.1128/AAC.01532-15"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2012" name="Science" volume="336" first="915" last="918">
+<title>How hibernation factors RMF, HPF, and YfiA turn off protein synthesis.</title>
+<authorList>
+<person name="Polikanov Y.S."/>
+<person name="Blaha G.M."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="22605777"/>
+<dbReference type="DOI" id="10.1126/science.1218538"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) BOUND TO THE T.THERMOPHILUS 70S RIBOSOME</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>RRNA-BINDING</scope>
+</reference>
+<comment type="function">
+<text evidence="2 4 5 6 8 9 13 14 15">During stationary phase, converts 70S ribosomes to an immature dimeric form (90S ribosomes) which are converted to inactive 100S ribosomes (a process called ribosomal hibernation) by the hibernation promoting factor HPF (PubMed:7677746, PubMed:18174192). Inactivates ribosomes by covering the peptidyl transferase (PTase) center of the 23S rRNA and the entrance of peptide exit tunnel (PubMed:12473202, PubMed:15066119). However crystallization with T.thermophilus 70S ribosomes shows it binds near the 3'-end of the 16S rRNA near the anti-Shine-Dalgarno sequence, where it would sterically hinder translation inititation (PubMed:22605777). In this crystal binding of RMF induces movement of the 30S head domain away from the rest of the ribosome, presumably so they would more easily form dimers (PubMed:22605777). Also involved in protection against heat stress, but this role is not dependent on the maintenance of ribosome dimers (PubMed:15278243).</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5 10 11">Associates exclusively with 100S ribosomes (PubMed:2181444, PubMed:12473202, PubMed:15066119). Contacts 16S rRNA, might contact ribosomal protein S18 (PubMed:22605777).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="18">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="2 3 14">Induced during stationary growth phase (PubMed:8440252). Requires ppGpp for translation (PubMed:11532026).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="7 12 14">Non-essential gene, 100S ribosome dimers are not formed, decreased cell viability during stationary phase (PubMed:8440252). A quadruple raiA-hpf-rmf-sra knockout strain is significantly outcompeted by wild-type after 4 days growth (PubMed:17277072). Very high sensitivity to aminoglycoside antiobiotic gentamicin in stationary phase cultures (PubMed:26324267).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="19">When cells are transferred to rich nutritious culture medium, RMF is quickly released from 100S ribosomes, which dissociate into 70S ribosomes (PubMed:12473202). It indicates that this interconversion is a major system regulating translation activity during the transition of growth phases.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ribosome modulation factor family.</text>
+</comment>
+<comment type="sequence caution" evidence="18">
+<conflict type="frameshift">
+<sequence resource="EMBL" id="J03186"/>
+</conflict>
+<location>
+<position position="4"/>
+</location>
+<location>
+<position position="11"/>
+</location>
+<location>
+<position position="30"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="X70111">
+<property type="protein sequence ID" value="CAA49706.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J03186">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74039.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35711.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H64835">
+<property type="entry name" value="H64835"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415473.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000828648.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4V8G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="AV/CV=1-55"/>
+</dbReference>
+<dbReference type="PDB" id="6H4N">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="v=1-55"/>
+</dbReference>
+<dbReference type="PDB" id="6H58">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.90"/>
+<property type="chains" value="v/vv=1-55"/>
+</dbReference>
+<dbReference type="PDBsum" id="4V8G"/>
+<dbReference type="PDBsum" id="6H4N"/>
+<dbReference type="PDBsum" id="6H58"/>
+<dbReference type="SMR" id="P0AFW2"/>
+<dbReference type="BioGrid" id="4260019">
+<property type="interactions" value="278"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48260N"/>
+<dbReference type="IntAct" id="P0AFW2">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0953"/>
+<dbReference type="EPD" id="P0AFW2"/>
+<dbReference type="jPOST" id="P0AFW2"/>
+<dbReference type="PaxDb" id="P0AFW2"/>
+<dbReference type="PRIDE" id="P0AFW2"/>
+<dbReference type="EnsemblBacteria" id="AAC74039">
+<property type="protein sequence ID" value="AAC74039"/>
+<property type="gene ID" value="b0953"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35711">
+<property type="protein sequence ID" value="BAA35711"/>
+<property type="gene ID" value="BAA35711"/>
+</dbReference>
+<dbReference type="GeneID" id="945567"/>
+<dbReference type="KEGG" id="ecj:JW0936"/>
+<dbReference type="KEGG" id="eco:b0953"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1321"/>
+<dbReference type="EchoBASE" id="EB4298"/>
+<dbReference type="EcoGene" id="EG50004">
+<property type="gene designation" value="rmf"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105WFT">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3130">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000277840"/>
+<dbReference type="InParanoid" id="P0AFW2"/>
+<dbReference type="KO" id="K03812"/>
+<dbReference type="BioCyc" id="EcoCyc:EG50004-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0936-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AFW2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043024">
+<property type="term" value="F:ribosomal small subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043022">
+<property type="term" value="F:ribosome binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032055">
+<property type="term" value="P:negative regulation of translation in response to stress"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00919">
+<property type="entry name" value="RMF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007040">
+<property type="entry name" value="Ribosome_modulation_factor"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023200">
+<property type="entry name" value="RMF_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04957">
+<property type="entry name" value="RMF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<feature type="chain" description="Ribosome modulation factor" id="PRO_0000097363">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AA sequence." ref="6" evidence="18">
+<original>R</original>
+<variation>I</variation>
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AA sequence." ref="6" evidence="18">
+<original>S</original>
+<variation>V</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA49706." ref="1" evidence="18">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="6"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="21"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="35"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4V8G"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00919"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11532026"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12473202"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15066119"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15278243"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17277072"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18174192"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19170772"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2181444"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22605777"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26324267"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7677746"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8440252"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9278503"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2181444"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22605777"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000305"/>
+<evidence key="19" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12473202"/>
+</source>
+</evidence>
+<sequence length="55" mass="6507" checksum="D264AF285BBF24AB" modified="2005-12-20" version="1">
+MKRQKRDRLERAHQRGYQAGIAGRSKEMCPYQTLNQRSQWLGGWREAMADRVVMA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

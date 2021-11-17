@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2019-06-05" version="118">
+<accession>P52102</accession>
+<accession>Q2MAG8</accession>
+<name>YFHL_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Ferredoxin YfhL</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="4">EcFd</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">yfhL</name>
+<name type="ordered locus">b2562</name>
+<name type="ordered locus">JW2546</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3" evidence="1">
+<citation type="journal article" date="2009" name="J. Biol. Inorg. Chem." volume="14" first="783" last="799">
+<title>Insight into the protein and solvent contributions to the reduction potentials of [4Fe-4S]2+/+ clusters: crystal structures of the Allochromatium vinosum ferredoxin variants C57A and V13G and the homologous Escherichia coli ferredoxin.</title>
+<authorList>
+<person name="Saridakis E."/>
+<person name="Giastas P."/>
+<person name="Efthymiou G."/>
+<person name="Thoma V."/>
+<person name="Moulis J.M."/>
+<person name="Kyritsis P."/>
+<person name="Mavridis I.M."/>
+</authorList>
+<dbReference type="PubMed" id="19290553"/>
+<dbReference type="DOI" id="10.1007/s00775-009-0492-x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 2-86 IN COMPLEX WITH IRON-SULFUR (4FE-4S)</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<comment type="function">
+<text evidence="5">Ferredoxins are iron-sulfur proteins that transfer electrons in a wide variety of metabolic reactions.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="3">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="3">Binds 2 [4Fe-4S] cluster.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<redoxPotential>
+<text evidence="3">E(0) is -675 mV for the cluster 1, and -418 mV for the cluster 2.</text>
+</redoxPotential>
+</comment>
+<dbReference type="EMBL" id="U36841">
+<property type="protein sequence ID" value="AAA79824.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75615.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76738.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65034">
+<property type="entry name" value="A65034"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417057.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001196283.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2ZVS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B/C=2-86"/>
+</dbReference>
+<dbReference type="PDBsum" id="2ZVS"/>
+<dbReference type="SMR" id="P52102"/>
+<dbReference type="BioGrid" id="4260595">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="IntAct" id="P52102">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2562"/>
+<dbReference type="PaxDb" id="P52102"/>
+<dbReference type="PRIDE" id="P52102"/>
+<dbReference type="EnsemblBacteria" id="AAC75615">
+<property type="protein sequence ID" value="AAC75615"/>
+<property type="gene ID" value="b2562"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76738">
+<property type="protein sequence ID" value="BAE76738"/>
+<property type="gene ID" value="BAE76738"/>
+</dbReference>
+<dbReference type="GeneID" id="947031"/>
+<dbReference type="KEGG" id="ecj:JW2546"/>
+<dbReference type="KEGG" id="eco:b2562"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4172"/>
+<dbReference type="EchoBASE" id="EB3006"/>
+<dbReference type="EcoGene" id="EG13215">
+<property type="gene designation" value="yfhL"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105K5D">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1145">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000044615"/>
+<dbReference type="InParanoid" id="P52102"/>
+<dbReference type="PhylomeDB" id="P52102"/>
+<dbReference type="BioCyc" id="EcoCyc:G7346-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2546-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P52102"/>
+<dbReference type="PRO" id="PR:P52102"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055114">
+<property type="term" value="P:oxidation-reduction process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017896">
+<property type="entry name" value="4Fe4S_Fe-S-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017900">
+<property type="entry name" value="4Fe4S_Fe_S_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00037">
+<property type="entry name" value="Fer4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00198">
+<property type="entry name" value="4FE4S_FER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51379">
+<property type="entry name" value="4FE4S_FER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0249">Electron transport</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Ferredoxin YfhL" id="PRO_0000159300">
+<location>
+<begin position="1"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 1" evidence="2">
+<location>
+<begin position="1"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 2" evidence="2">
+<location>
+<begin position="31"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1 3">
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="5"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="14"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="28"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="40"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="49"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="69"/>
+<end position="80"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ZVS"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00711"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19290553"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="19290553"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="86" mass="9791" checksum="202CFFA35FEA15DD" modified="1996-10-01" version="1">
+MALLITKKCINCDMCEPECPNEAISMGDHIYEINSDKCTECVGHYETPTCQKVCPIPNTI
+VKDPAHVETEEQLWDKFVLMHHADKI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,1201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-06-01" modified="2019-06-05" version="122">
+<accession>Q46896</accession>
+<accession>Q2MA74</accession>
+<name>CAS1_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>CRISPR-associated endonuclease Cas1</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ygbT</name>
+<name type="synonym">cas1</name>
+<name type="ordered locus">b2755</name>
+<name type="ordered locus">JW2725</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="4562" last="4571">
+<title>Involvement of the leucine response transcription factor LeuO in regulation of the genes for sulfa drug efflux.</title>
+<authorList>
+<person name="Shimada T."/>
+<person name="Yamamoto K."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="19429622"/>
+<dbReference type="DOI" id="10.1128/JB.00108-09"/>
+</citation>
+<scope>OPERON STRUCTURE</scope>
+<scope>INDUCTION BY LEUO</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="75" first="1495" last="1512">
+<title>Identification and characterization of E. coli CRISPR-cas promoters and their silencing by H-NS.</title>
+<authorList>
+<person name="Pul U."/>
+<person name="Wurm R."/>
+<person name="Arslan Z."/>
+<person name="Geissen R."/>
+<person name="Hofmann N."/>
+<person name="Wagner R."/>
+</authorList>
+<dbReference type="PubMed" id="20132443"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07073.x"/>
+</citation>
+<scope>REPRESSION BY H-NS</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="79" first="584" last="599">
+<title>Envelope stress is a trigger of CRISPR RNA-mediated DNA silencing in Escherichia coli.</title>
+<authorList>
+<person name="Perez-Rodriguez R."/>
+<person name="Haitjema C."/>
+<person name="Huang Q."/>
+<person name="Nam K.H."/>
+<person name="Bernardis S."/>
+<person name="Ke A."/>
+<person name="DeLisa M.P."/>
+</authorList>
+<dbReference type="PubMed" id="21255106"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07482.x"/>
+</citation>
+<scope>INDUCTION BY BAER</scope>
+<scope>ROLE IN PLASMID SILENCING</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="Nucleic Acids Res." volume="42" first="7884" last="7893">
+<title>Detection and characterization of spacer integration intermediates in type I-E CRISPR-Cas system.</title>
+<authorList>
+<person name="Arslan Z."/>
+<person name="Hermanns V."/>
+<person name="Wurm R."/>
+<person name="Wagner R."/>
+<person name="Pul U."/>
+</authorList>
+<dbReference type="PubMed" id="24920831"/>
+<dbReference type="DOI" id="10.1093/nar/gku510"/>
+</citation>
+<scope>FUNCTION AS A SPACER INTEGRASE</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF ASP-221</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="Nature" volume="519" first="193" last="198">
+<title>Integrase-mediated spacer acquisition during CRISPR-Cas adaptive immunity.</title>
+<authorList>
+<person name="Nunez J.K."/>
+<person name="Lee A.S."/>
+<person name="Engelman A."/>
+<person name="Doudna J.A."/>
+</authorList>
+<dbReference type="PubMed" id="25707795"/>
+<dbReference type="DOI" id="10.1038/nature14237"/>
+</citation>
+<scope>FUNCTION AS A SPACER INTEGRASE</scope>
+<scope>PROBABLE REACTION MECHANISM</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF TYR-149; TYR-165; TYR-188; HIS-208; TYR-217; ASP-221 AND LYS-224</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2015" name="Elife" volume="4">
+<title>Intrinsic sequence specificity of the Cas1 integrase directs new spacer acquisition.</title>
+<authorList>
+<person name="Rollie C."/>
+<person name="Schneider S."/>
+<person name="Brinkmann A.S."/>
+<person name="Bolt E.L."/>
+<person name="White M.F."/>
+</authorList>
+<dbReference type="PubMed" id="26284603"/>
+<dbReference type="DOI" id="10.7554/eLife.08716"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="79" first="484" last="502">
+<title>A dual function of the CRISPR-Cas system in bacterial antivirus immunity and DNA repair.</title>
+<authorList>
+<person name="Babu M."/>
+<person name="Beloglazova N."/>
+<person name="Flick R."/>
+<person name="Graham C."/>
+<person name="Skarina T."/>
+<person name="Nocek B."/>
+<person name="Gagarinova A."/>
+<person name="Pogoutse O."/>
+<person name="Brown G."/>
+<person name="Binkowski A."/>
+<person name="Phanse S."/>
+<person name="Joachimiak A."/>
+<person name="Koonin E.V."/>
+<person name="Savchenko A."/>
+<person name="Emili A."/>
+<person name="Greenblatt J."/>
+<person name="Edwards A.M."/>
+<person name="Yakunin A.F."/>
+</authorList>
+<dbReference type="PubMed" id="21219465"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07465.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS)</scope>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 92-291</scope>
+<scope>FUNCTION AS AN ENDONUCLEASE</scope>
+<scope>COFACTOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH RECB; RECC; RUVB; CASC AND CASE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF GLU-141; THR-184; TYR-188; HIS-208; LYS-211; ASP-218; ASP-221 AND LYS-224</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="528" last="534">
+<title>Cas1-Cas2 complex formation mediates spacer acquisition during CRISPR-Cas adaptive immunity.</title>
+<authorList>
+<person name="Nunez J.K."/>
+<person name="Kranzusch P.J."/>
+<person name="Noeske J."/>
+<person name="Wright A.V."/>
+<person name="Davies C.W."/>
+<person name="Doudna J.A."/>
+</authorList>
+<dbReference type="PubMed" id="24793649"/>
+<dbReference type="DOI" id="10.1038/nsmb.2820"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEX WITH CAS2</scope>
+<scope>FUNCTION IN SPACER ACQUISITION</scope>
+<scope>INTERACTION WITH CAS2 (YGBF)</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF GLU-141; HIS-208; ASP-218; ASP-221; LYS-224; ARG-245; ARG-252; ARG-256; 282-PRO--SER-305 AND ILE-291</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="submission" date="2014-05" db="PDB data bank">
+<title>Crystal structure of E.coli Cas1-Cas2 complex.</title>
+<authorList>
+<person name="Tamulaitiene G."/>
+<person name="Sinkunas T."/>
+<person name="Silanskas A."/>
+<person name="Gasiunas G."/>
+<person name="Grazulis S."/>
+<person name="Siksnys V."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS) IN COMPLEX WITH CAS2</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2015" name="Cell" volume="163" first="840" last="853">
+<title>Structural and mechanistic basis of PAM-dependent spacer acquisition in CRISPR-Cas systems.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Li J."/>
+<person name="Zhao H."/>
+<person name="Sheng G."/>
+<person name="Wang M."/>
+<person name="Yin M."/>
+<person name="Wang Y."/>
+</authorList>
+<dbReference type="PubMed" id="26478180"/>
+<dbReference type="DOI" id="10.1016/j.cell.2015.10.008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 2-281 IN COMPLEX WITH CAS2 AND DNA</scope>
+<scope>FUNCTION</scope>
+<scope>PROBABLE ACTIVE SITE</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF TYR-22; ARG-59; ARG-84; TYR-165; TRP-170; TYR-188; HIS-208; TYR-217; 245-ARG--ARG-248 AND 256-ARG--LYS-259</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2015" name="Nature" volume="527" first="535" last="538">
+<title>Foreign DNA capture during CRISPR-Cas adaptive immunity.</title>
+<authorList>
+<person name="Nunez J.K."/>
+<person name="Harrington L.B."/>
+<person name="Kranzusch P.J."/>
+<person name="Engelman A.N."/>
+<person name="Doudna J.A."/>
+</authorList>
+<dbReference type="PubMed" id="26503043"/>
+<dbReference type="DOI" id="10.1038/nature15760"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.95 ANGSTROMS) IN COMPLEX WITH CAS2 AND DNA</scope>
+<scope>FUNCTION</scope>
+<scope>PROBABLE ACTIVE SITE</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF TYR-22; ARG-41; ARG-59; ARG-66; ARG-84; ARG-245 AND ARG-248</scope>
+</reference>
+<comment type="function">
+<text evidence="11 12 13 14 15 16 17">CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids) (PubMed:21255106, PubMed:24920831, PubMed:24793649). CRISPR clusters contain sequences complementary to antecedent mobile elements and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). The Cas1-Cas2 complex is involved in CRISPR adaptation, the first stage of CRISPR immunity, being required for the addition/removal of CRISPR spacers at the leader end of the CRISPR locus (PubMed:24920831, PubMed:25707795, PubMed:24793649). The Cas1-Cas2 complex introduces staggered nicks into both strands of the CRISPR array near the leader repeat and joins the 5'-ends of the repeat strands with the 3'-ends of the new spacer sequence (PubMed:24920831). Spacer DNA integration requires supercoiled target DNA and 3'-OH ends on the inserted (spacer) DNA and probably initiates with a nucleophilic attack of the C 3'-OH end of the protospacer on the minus strand of the first repeat sequence (PubMed:25707795). Expression of Cas1-Cas2 in a strain lacking both genes permits spacer acquisition (PubMed:24793649, PubMed:24920831). Non-specifically binds DNA; the Cas1-Cas2 complex preferentially binds CRISPR-locus DNA (PubMed:24793649). Highest binding is seen to a dual forked DNA complex with 3'-overhangs and a protospacer-adjacent motif-complement specifically positioned (PubMed:26478180). The protospacer DNA lies across a flat surface extending from 1 Cas1 dimer, across the Cas2 dimer and contacting the other Cas1 dimer; the 23 bp-long ds section of the DNA is bracketed by 1 Tyr-22 from each of the Cas1 dimers (PubMed:26478180, PubMed:26503043). Cas1 cuts within the 3'-overhang, to generate a 33-nucleotide DNA that is probably incorporated into the CRISPR leader by a cut-and-paste mechanism (PubMed:26478180). Cas1 alone endonucleolytically cleaves linear ssRNA, ssDNA and short (34 base) dsDNA as well as branched DNA substrates such as Holliday junctions, replication forks and 5'-flap DNA substrates (PubMed:21219465). In vitro catalyzes a concerted transesterification reaction on branched DNA, as would be expected during integration of protospacers into the CRISPR leader sequence; Cas2 is not required in vitro. This reaction requires a 3'-OH group at the branch point (PubMed:26284603). Genetic interactions suggest Cas1 interacts with components of the RecBC and RuvB DNA repair systems (PubMed:21219465).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="11 15 16">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="15 16">Protospacer integration in vitro also occurs with Mn(2+) and also requires low concentrations of KCl (PubMed:25707795). The transesterification function works equally well with Mg(2+), Mn(2+) or Co(2+) in vitro (PubMed:26284603).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="11">Nuclease activity partially inhibited by CasE (PubMed:21219465).</text>
+</comment>
+<comment type="subunit">
+<text evidence="11 13 14 15 17 18 22">Homodimer (PubMed:21219465). Part of the Cas1-Cas2 complex (PubMed:24920831, PubMed:24793649, PubMed:25707795, Ref.11, PubMed:26478180, PubMed:26503043). Interacts with RecB, RecC, RuvB, CasC and CasE (PubMed:21219465). Forms a hexamer with 2 Cas1 dimers sandwiching a Cas2 dimer (PubMed:24793649, PubMed:26478180). The DNA lies across a flat surface extending from 1 Cas1 dimer, across the Cas2 dimer and contacting the other Cas1 dimer. Only 1 Cas1 protein from each dimer is catalytic, the other interacts with the Cas2 dimer and possibly target DNA (PubMed:26478180, PubMed:26503043).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1130209"/>
+<interactant intactId="EBI-1130209"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1130209"/>
+<interactant intactId="EBI-554869">
+<id>P76339</id>
+<label>hprS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1130209"/>
+<interactant intactId="EBI-9150552">
+<id>P45956</id>
+<label>ygbF</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="11">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="11">In 15% of cell localizes to discrete nucleoid foci (probable DNA damage sites) upon treatment with mitomycin C (MMC) for 2 hours (PubMed:21219465).</text>
+</comment>
+<comment type="induction">
+<text evidence="9 10 12">Repressed by H-NS (PubMed:20132443). Activated by LeuO (PubMed:19429622). Activated by the BaeSR two-component regulatory system, possibly due to envelope stress (PubMed:21255106). Part of the casABCDE-ygbT-ygbF operon (PubMed:19429622).</text>
+</comment>
+<comment type="domain">
+<text evidence="17">Substrate DNA-binding induces large structural changes that generate a surface for DNA-binding across the Cas2 dimer and formation of an optimal catalytic site (PubMed:26478180).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="11 12">Not essential. Increased sensitivity to MMC and UV light; double ygbT-ruvA, ruvB or ruvC disruptions have no further phenotype suggesting Cas1 functions in the same DNA repair pathway (PubMed:21219465). Function in DNA repair also seems to require CRISPRs (PubMed:21219465). Cells elongate after 2 hours growth in MMC; they are even longer in double ygbT-ruvA, ruvB or ruvC disruptions, suggesting Cas1 may also function in chromosome segregation (PubMed:21219465). Loss of plasmid silencing (PubMed:21255106).</text>
+</comment>
+<comment type="similarity">
+<text evidence="19">Belongs to the CRISPR-associated endonuclease Cas1 family.</text>
+</comment>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69265.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75797.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76832.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65056">
+<property type="entry name" value="G65056"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417235.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000220066.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3NKD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="3NKE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B/C=92-291"/>
+</dbReference>
+<dbReference type="PDB" id="4P6I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="C/D/E/F=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="4QDL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DLJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D=2-281"/>
+</dbReference>
+<dbReference type="PDB" id="5DQT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B/C/D/I/J/K/L=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.50"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DQZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DS4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DS5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5DS6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.35"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5VVJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.89"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5VVK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5VVL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.31"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDB" id="5WFE">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.64"/>
+<property type="chains" value="A/B/C/D=1-305"/>
+</dbReference>
+<dbReference type="PDBsum" id="3NKD"/>
+<dbReference type="PDBsum" id="3NKE"/>
+<dbReference type="PDBsum" id="4P6I"/>
+<dbReference type="PDBsum" id="4QDL"/>
+<dbReference type="PDBsum" id="5DLJ"/>
+<dbReference type="PDBsum" id="5DQT"/>
+<dbReference type="PDBsum" id="5DQU"/>
+<dbReference type="PDBsum" id="5DQZ"/>
+<dbReference type="PDBsum" id="5DS4"/>
+<dbReference type="PDBsum" id="5DS5"/>
+<dbReference type="PDBsum" id="5DS6"/>
+<dbReference type="PDBsum" id="5VVJ"/>
+<dbReference type="PDBsum" id="5VVK"/>
+<dbReference type="PDBsum" id="5VVL"/>
+<dbReference type="PDBsum" id="5WFE"/>
+<dbReference type="SMR" id="Q46896"/>
+<dbReference type="BioGrid" id="4261582">
+<property type="interactions" value="279"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-996">
+<property type="entry name" value="Cas1-Cas2 complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12118N"/>
+<dbReference type="IntAct" id="Q46896">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2755"/>
+<dbReference type="PaxDb" id="Q46896"/>
+<dbReference type="PRIDE" id="Q46896"/>
+<dbReference type="EnsemblBacteria" id="AAC75797">
+<property type="protein sequence ID" value="AAC75797"/>
+<property type="gene ID" value="b2755"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76832">
+<property type="protein sequence ID" value="BAE76832"/>
+<property type="gene ID" value="BAE76832"/>
+</dbReference>
+<dbReference type="GeneID" id="947228"/>
+<dbReference type="KEGG" id="ecj:JW2725"/>
+<dbReference type="KEGG" id="eco:b2755"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3983"/>
+<dbReference type="EchoBASE" id="EB2915"/>
+<dbReference type="EcoGene" id="EG13114">
+<property type="gene designation" value="ygbT"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105TZK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1518">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000015862"/>
+<dbReference type="InParanoid" id="Q46896"/>
+<dbReference type="KO" id="K15342"/>
+<dbReference type="BioCyc" id="EcoCyc:G7425-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2725-MONOMER"/>
+<dbReference type="PRO" id="PR:Q46896"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017108">
+<property type="term" value="F:5'-flap endonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008821">
+<property type="term" value="F:crossover junction endodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051607">
+<property type="term" value="P:defense response to virus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043571">
+<property type="term" value="P:maintenance of CRISPR repeat elements"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd09719">
+<property type="entry name" value="Cas1_I-E"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.120.920">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.100.10.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01470">
+<property type="entry name" value="Cas1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033641">
+<property type="entry name" value="Cas1_I-E"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002729">
+<property type="entry name" value="CRISPR-assoc_Cas1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042206">
+<property type="entry name" value="CRISPR-assoc_Cas1_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019851">
+<property type="entry name" value="CRISPR-assoc_Cas1_ECOLI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042211">
+<property type="entry name" value="CRISPR-assoc_Cas1_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01867">
+<property type="entry name" value="Cas_Cas1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00287">
+<property type="entry name" value="cas1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03638">
+<property type="entry name" value="cas1_ECOLI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0051">Antiviral defense</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="CRISPR-associated endonuclease Cas1" id="PRO_0000169315">
+<location>
+<begin position="1"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sufficient for cleavage of ssRNA, ssDNA and Holliday junction DNA">
+<location>
+<begin position="96"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="active site" evidence="20 21">
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="active site" evidence="20 21">
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="active site" evidence="20 21">
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="8">
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly decreased spacer acquisition in vivo." evidence="17 18">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Nearly wild-type spacer acquisition in vivo." evidence="18">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vivo." evidence="18">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of spacer acquisition in vivo, decreased protospacer binding." evidence="17">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vitro, 250-fold decreased affinity for protospacer DNA." evidence="18">
+<original>R</original>
+<variation>D</variation>
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vitro, 250-fold decreased affinity for protospacer DNA." evidence="18">
+<original>R</original>
+<variation>D</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vivo." evidence="18">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased spacer acquisition in vivo." evidence="17">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vivo." evidence="18">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates, no restoration of UV or mitomycin C (MMC) resistance (PubMed:21219465). Loss of spacer acquisition in vivo (PubMed:24793649)." evidence="11 13">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on in vitro protospacer integration." evidence="15">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on in vitro protospacer integration (PubMed:25707795). Alone significantly decreased protospacer acquisition in vivo (PubMed:26478180). Loss of protospacer acquisition, decreased protospacer binding; in association with A-170, significantly decreased protospacer binding; in association with A-217 (PubMed:26478180)." evidence="15 17">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Alone significantly decreased protospacer acquisition in vivo (PubMed:26478180). Decreased protospacer binding; in association with A-170 (PubMed:26478180)." evidence="17">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates." evidence="11">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial inhibition of cleavage (PubMed:21219465). No effect on in vitro protospacer integration (PubMed:25707795). Significantly decreased protospacer acquisition in vivo (PubMed:26478180)." evidence="11 15 17">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates, no restoration of UV or MMC resistance (PubMed:21219465). Loss of spacer acquisition in vivo (PubMed:24793649, PubMed:25707795, PubMed:26478180)." evidence="11 13 15 17">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates." evidence="11">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="211"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on in vitro protospacer integration (PubMed:25707795). Alone significantly decreased protospacer acquisition in vivo (PubMed:26478180). Significantly decreased protospacer binding; in association with A-165 (PubMed:26478180)." evidence="15 17">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates, no restoration of UV or MMC resistance (PubMed:21219465). Loss of spacer acquisition in vivo (PubMed:24793649)." evidence="11 13">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates (PubMed:21219465). Loss of spacer acquisition in vivo (PubMed:24793649, PubMed:24920831, PubMed:25707795). No cleavage of CRISPR leader in preparation for spacer integration (PubMed:24920831)." evidence="11 13 14 15">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage of any substrates (PubMed:21219465). Loss of spacer acquisition in vivo (PubMed:24793649, PubMed:25707795)." evidence="11 13 15">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="224"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of spacer acquisition in vivo." evidence="17">
+<original>REVR</original>
+<variation>AEVA</variation>
+<location>
+<begin position="245"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on spacer acquisition." evidence="13">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="245"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased spacer acquisition." evidence="13">
+<original>R</original>
+<variation>D</variation>
+<location>
+<position position="245"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vivo." evidence="18">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="245"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Dramatically decreased spacer acquisition in vivo." evidence="18">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="248"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on spacer acquisition." evidence="13">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of spacer acquisition, no Cas1-Cas2 complex formation, loss of CRISPR DNA-binding by complex. Protein is stable and dimerizes." evidence="13">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of spacer acquisition in vivo." evidence="17">
+<original>RSSK</original>
+<variation>ASSA</variation>
+<location>
+<begin position="256"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on spacer acquisition." evidence="13">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="256"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of spacer acquisition." evidence="13">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="256"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on spacer acquisition, Cas1-Cas2 complex formation or CRISPR DNA-binding by complex." evidence="13">
+<location>
+<begin position="282"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on spacer acquisition." evidence="13">
+<original>I</original>
+<variation>G</variation>
+<variation>R</variation>
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="11"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="17"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="22"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="31"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="37"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="41"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="50"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="58"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="62"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="74"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="80"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="85"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="95"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="109"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="130"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="134"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="167"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="170"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="175"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="214"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="224"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="228"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="243"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="260"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="275"/>
+<end position="277"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3NKD"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3NKE"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4P6I"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QDL"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5DLJ"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5DQT"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5DS5"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000250"/>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19429622"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20132443"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21219465"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21255106"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24793649"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24920831"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25707795"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26284603"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26478180"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26503043"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<evidence key="20" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26478180"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26503043"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000305">
+<source ref="11"/>
+</evidence>
+<sequence length="305" mass="33194" checksum="01A31BA98453D8A5" modified="1996-11-01" version="1">
+MTWLPLNPIPLKDRVSMIFLQYGQIDVIDGAFVLIDKTGIRTHIPVGSVACIMLEPGTRV
+SHAAVRLAAQVGTLLVWVGEAGVRVYASGQPGGARSDKLLYQAKLALDEDLRLKVVRKMF
+ELRFGEPAPARRSVEQLRGIEGSRVRATYALLAKQYGVTWNGRRYDPKDWEKGDTINQCI
+SAATSCLYGVTEAAILAAGYAPAIGFVHTGKPLSFVYDIADIIKFDTVVPKAFEIARRNP
+GEPDREVRLACRDIFRSSKTLAKLIPLIEDVLAAGEIQPPAPPEDAQPVAIPLPVSLGDA
+GHRSS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

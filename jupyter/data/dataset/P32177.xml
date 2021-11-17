@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-05-08" version="143">
+<accession>P32177</accession>
+<accession>Q2M8J2</accession>
+<name>FDHD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 10">Sulfur carrier protein FdhD</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="8">Sulfurtransferase FdhD</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 9">fdhD</name>
+<name type="ordered locus">b3895</name>
+<name type="ordered locus">JW3866</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1988" name="J. Gen. Microbiol." volume="134" first="3129" last="3139">
+<title>Mutants of Escherichia coli specifically deficient in respiratory formate dehydrogenase activity.</title>
+<authorList>
+<person name="Mandrand-Berthelot M.A."/>
+<person name="Couchoux-Luthaud G."/>
+<person name="Santini C.L."/>
+<person name="Giordano G."/>
+</authorList>
+<dbReference type="PubMed" id="3077634"/>
+<dbReference type="DOI" id="10.1099/00221287-134-12-3129"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="6112" last="6121">
+<title>Identification and expression of the Escherichia coli fdhD and fdhE genes, which are involved in the formation of respiratory formate dehydrogenase.</title>
+<authorList>
+<person name="Schlindwein C."/>
+<person name="Giordano G."/>
+<person name="Santini C.L."/>
+<person name="Mandrand M.A."/>
+</authorList>
+<dbReference type="PubMed" id="2170340"/>
+<dbReference type="DOI" id="10.1128/jb.172.10.6112-6121.1990"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="J. Bacteriol." volume="177" first="7141" last="7149">
+<title>Expression and characterization of the Escherichia coli fdo locus and a possible physiological role for aerobic formate dehydrogenase.</title>
+<authorList>
+<person name="Abaibou H."/>
+<person name="Pommier J."/>
+<person name="Giordano G."/>
+<person name="Mandrand-Berthelot M.-A."/>
+</authorList>
+<dbReference type="PubMed" id="8522521"/>
+<dbReference type="DOI" id="10.1128/jb.177.24.7141-7149.1995"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="4671" last="4678">
+<title>A sulfurtransferase is essential for activity of formate dehydrogenases in Escherichia coli.</title>
+<authorList>
+<person name="Thome R."/>
+<person name="Gust A."/>
+<person name="Toci R."/>
+<person name="Mendel R."/>
+<person name="Bittner F."/>
+<person name="Magalon A."/>
+<person name="Walburger A."/>
+</authorList>
+<dbReference type="PubMed" id="22194618"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.327122"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ISCS</scope>
+<scope>ACTIVE SITE</scope>
+<scope>MUTAGENESIS OF CYS-121 AND CYS-124</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2015" name="Nat. Commun." volume="6" first="6148" last="6148">
+<title>Sulphur shuttling across a chaperone during molybdenum cofactor maturation.</title>
+<authorList>
+<person name="Arnoux P."/>
+<person name="Ruppelt C."/>
+<person name="Oudouhou F."/>
+<person name="Lavergne J."/>
+<person name="Siponen M.I."/>
+<person name="Toci R."/>
+<person name="Mendel R.R."/>
+<person name="Bittner F."/>
+<person name="Pignol D."/>
+<person name="Magalon A."/>
+<person name="Walburger A."/>
+</authorList>
+<dbReference type="PubMed" id="25649206"/>
+<dbReference type="DOI" id="10.1038/ncomms7148"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) IN COMPLEX WITH GDP</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MOLYBDENUM-BINDING</scope>
+<scope>MUTAGENESIS OF HIS-171; SER-240 AND PHE-260</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 7">Required for formate dehydrogenase (FDH) activity (PubMed:3077634, PubMed:8522521, PubMed:22194618, PubMed:25649206). Acts as a sulfur carrier protein that transfers sulfur from IscS to the molybdenum cofactor prior to its insertion into FDH. Specifically interacts with IscS and stimulates its cysteine desulfurase activity. Also binds the molybdenum cofactor (PubMed:22194618, PubMed:25649206). Required for activity of formate dehydrogenase N (FDH-N), formate dehydrogenase O (FDH-O) and formate dehydrogenase H (FDH-H) (PubMed:3077634, PubMed:8522521, PubMed:22194618).</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5">Homodimer (PubMed:25649206). Interacts with IscS (PubMed:22194618).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="3">Repressed by aerobiosis.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="6">Mutants lack FDH-N activity and exhibit defects in FDH-H activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 10">Belongs to the FdhD family.</text>
+</comment>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03028.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76877.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77414.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S40839">
+<property type="entry name" value="S40839"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418331.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000753617.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4PDE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-277"/>
+</dbReference>
+<dbReference type="PDBsum" id="4PDE"/>
+<dbReference type="SMR" id="P32177"/>
+<dbReference type="BioGrid" id="4263324">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="BioGrid" id="852690">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9570N"/>
+<dbReference type="IntAct" id="P32177">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3895"/>
+<dbReference type="jPOST" id="P32177"/>
+<dbReference type="PaxDb" id="P32177"/>
+<dbReference type="PRIDE" id="P32177"/>
+<dbReference type="EnsemblBacteria" id="AAC76877">
+<property type="protein sequence ID" value="AAC76877"/>
+<property type="gene ID" value="b3895"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77414">
+<property type="protein sequence ID" value="BAE77414"/>
+<property type="gene ID" value="BAE77414"/>
+</dbReference>
+<dbReference type="GeneID" id="948393"/>
+<dbReference type="KEGG" id="ecj:JW3866"/>
+<dbReference type="KEGG" id="eco:b3895"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2812"/>
+<dbReference type="EchoBASE" id="EB1805"/>
+<dbReference type="EcoGene" id="EG11859">
+<property type="gene designation" value="fdhD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107H9G">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1526">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000079468"/>
+<dbReference type="InParanoid" id="P32177"/>
+<dbReference type="KO" id="K02379"/>
+<dbReference type="PhylomeDB" id="P32177"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11859-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3866-MONOMER"/>
+<dbReference type="PRO" id="PR:P32177"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043546">
+<property type="term" value="F:molybdopterin cofactor binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097163">
+<property type="term" value="F:sulfur carrier activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016783">
+<property type="term" value="F:sulfurtransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006777">
+<property type="term" value="P:Mo-molybdopterin cofactor biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043085">
+<property type="term" value="P:positive regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00187">
+<property type="entry name" value="FdhD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016193">
+<property type="entry name" value="Cytidine_deaminase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003786">
+<property type="entry name" value="FdhD"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30592">
+<property type="entry name" value="PTHR30592"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02634">
+<property type="entry name" value="FdhD-NarQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF015626">
+<property type="entry name" value="FdhD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53927">
+<property type="entry name" value="SSF53927"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00129">
+<property type="entry name" value="fdhD_narQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0501">Molybdenum cofactor biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Sulfur carrier protein FdhD" id="PRO_0000152899">
+<location>
+<begin position="1"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mo-bisPGD binding" evidence="2 11">
+<location>
+<begin position="260"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="active site" description="Cysteine persulfide intermediate" evidence="2 4">
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents sulfur transfer from IscS and impairs FDH-H activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect sulfur transfer from IscS, but abolishes FDH-H activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect overall structural integrity, but cannot promote FDH activity." evidence="5">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs FDH activity." evidence="5">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="240"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs FDH activity." evidence="5">
+<original>F</original>
+<variation>D</variation>
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="33"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="41"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="50"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="62"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="82"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="91"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="102"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="150"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="157"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="162"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="171"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="182"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="191"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="209"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="222"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="235"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="244"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="252"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="256"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="265"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="272"/>
+<end position="274"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4PDE"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00187"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2170340"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22194618"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25649206"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3077634"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8522521"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22194618"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3077634"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25649206"/>
+</source>
+</evidence>
+<sequence length="277" mass="30560" checksum="9E42BBDCB5B3D0F4" modified="1993-10-01" version="1">
+MKKTQRKEIENVTNITGVRQIELWRRDDLQHPRLDEVAEEVPVALVYNGISHVVMMASPK
+DLEYFALGFSLSEGIIESPRDIFGMDVVPSCNGLEVQIELSSRRFMGLKERRRALAGRTG
+CGVCGVEQLNDIGKPVQPLPFTQTFDLNKLDDALRHLNDFQPVGQLTGCTHAAAWMLPSG
+ELVGGHEDVGRHVALDKLLGRRSQEGESWQQGAVLVSSRASYEMVQKSAMCGVEILFAVS
+AATTLAVEVAERCNLTLVGFCKPGRATVYTHPQRLSN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

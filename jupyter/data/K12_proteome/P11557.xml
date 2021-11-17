@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-10-01" modified="2019-06-05" version="141">
+<accession>P11557</accession>
+<accession>P76687</accession>
+<accession>Q2M753</accession>
+<name>DAMX_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 7">Cell division protein DamX</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">damX</name>
+<name type="synonym">yhfB</name>
+<name type="ordered locus">b3388</name>
+<name type="ordered locus">JW3351</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Mol. Gen. Genet." volume="217" first="85" last="96">
+<title>The Escherichia coli dam gene is expressed as a distal gene of a new operon.</title>
+<authorList>
+<person name="Jonczyk P."/>
+<person name="Hines R."/>
+<person name="Smith D.W."/>
+</authorList>
+<dbReference type="PubMed" id="2549371"/>
+<dbReference type="DOI" id="10.1007/BF00330946"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Mol. Gen. Genet." volume="247" first="546" last="554">
+<title>Characterization of three genes in the dam-containing operon of Escherichia coli.</title>
+<authorList>
+<person name="Lyngstadaas A."/>
+<person name="Lobner-Olesen A."/>
+<person name="Boye E."/>
+</authorList>
+<dbReference type="PubMed" id="7603433"/>
+<dbReference type="DOI" id="10.1007/BF00290345"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>OVEREXPRESSION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="7383" last="7401">
+<title>Self-enhanced accumulation of FtsN at division sites and roles for other proteins with a SPOR domain (DamX, DedD, and RlpA) in Escherichia coli cell constriction.</title>
+<authorList>
+<person name="Gerding M.A."/>
+<person name="Liu B."/>
+<person name="Bendezu F.O."/>
+<person name="Hale C.A."/>
+<person name="Bernhardt T.G."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="19684127"/>
+<dbReference type="DOI" id="10.1128/JB.00811-09"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="J. Bacteriol." volume="192" first="242" last="255">
+<title>Discovery and characterization of three new Escherichia coli septal ring proteins that contain a SPOR domain: DamX, DedD, and RlpA.</title>
+<authorList>
+<person name="Arends S.J."/>
+<person name="Williams K."/>
+<person name="Scott R.J."/>
+<person name="Rolong S."/>
+<person name="Popham D.L."/>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="19880599"/>
+<dbReference type="DOI" id="10.1128/JB.01244-09"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH FTS PROTEINS</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="Biochemistry" volume="52" first="627" last="639">
+<title>Nuclear magnetic resonance solution structure of the peptidoglycan-binding SPOR domain from Escherichia coli DamX: insights into septal localization.</title>
+<authorList>
+<person name="Williams K.B."/>
+<person name="Yahashiri A."/>
+<person name="Arends S.J."/>
+<person name="Popham D.L."/>
+<person name="Fowler C.A."/>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="23290046"/>
+<dbReference type="DOI" id="10.1021/bi301609e"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 338-428</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF GLN-351; SER-354 AND TRP-416</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4">Non-essential cell division protein.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Interacts in vitro with multiple Fts proteins, including FtsQ and FtsN.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7">Cell inner membrane</location>
+<topology evidence="2">Single-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="3 4 5">Localizes at the septal ring (PubMed:19684127, PubMed:19880599, PubMed:23290046). Recruitment to the septal ring requires FtsZ (PubMed:19880599).</text>
+</comment>
+<comment type="domain">
+<text evidence="2 4 5">The SPOR domain binds septal peptidoglycans and is required to target DamX to the septal ring.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">Deletion mutant shows no obvious phenotype, but absence of the protein aggravates the division defect in ftsN or dedD mutants.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="6">Overexpression induces cell filamentation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 7">Belongs to the DamX family.</text>
+</comment>
+<dbReference type="EMBL" id="X15162">
+<property type="protein sequence ID" value="CAA33253.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z19601">
+<property type="protein sequence ID" value="CAA79667.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58185.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76413.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77903.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65133">
+<property type="entry name" value="Q4ECAD"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417847.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000343215.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2LFV">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=338-428"/>
+</dbReference>
+<dbReference type="PDBsum" id="2LFV"/>
+<dbReference type="SMR" id="P11557"/>
+<dbReference type="BioGrid" id="4262961">
+<property type="interactions" value="603"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9397N"/>
+<dbReference type="IntAct" id="P11557">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3388"/>
+<dbReference type="jPOST" id="P11557"/>
+<dbReference type="PaxDb" id="P11557"/>
+<dbReference type="PRIDE" id="P11557"/>
+<dbReference type="EnsemblBacteria" id="AAC76413">
+<property type="protein sequence ID" value="AAC76413"/>
+<property type="gene ID" value="b3388"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77903">
+<property type="protein sequence ID" value="BAE77903"/>
+<property type="gene ID" value="BAE77903"/>
+</dbReference>
+<dbReference type="GeneID" id="947930"/>
+<dbReference type="KEGG" id="ecj:JW3351"/>
+<dbReference type="KEGG" id="eco:b3388"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3342"/>
+<dbReference type="EchoBASE" id="EB1170"/>
+<dbReference type="EcoGene" id="EG11183">
+<property type="gene designation" value="damX"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EGB">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3266">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125518"/>
+<dbReference type="InParanoid" id="P11557"/>
+<dbReference type="KO" id="K03112"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11183-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3351-MONOMER"/>
+<dbReference type="PRO" id="PR:P11557"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030428">
+<property type="term" value="C:cell septum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042834">
+<property type="term" value="F:peptidoglycan binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032506">
+<property type="term" value="P:cytokinetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.1070">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02021">
+<property type="entry name" value="DamX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032899">
+<property type="entry name" value="DamX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007730">
+<property type="entry name" value="SPOR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036680">
+<property type="entry name" value="SPOR-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05036">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF110997">
+<property type="entry name" value="SSF110997"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51724">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Cell division protein DamX" id="PRO_0000079779">
+<location>
+<begin position="1"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="8">
+<location>
+<begin position="1"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="104"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="8">
+<location>
+<begin position="125"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="domain" description="SPOR" evidence="2">
+<location>
+<begin position="342"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="55"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates septal localization." evidence="5">
+<original>Q</original>
+<variation>K</variation>
+<location>
+<position position="351"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impairs septal localization." evidence="5">
+<original>S</original>
+<variation>K</variation>
+<location>
+<position position="354"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impairs septal localization." evidence="5">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="416"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA33253 and 2; CAA79667." ref="1 2" evidence="7">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA33253 and 2; CAA79667." ref="1 2" evidence="7">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA33253 and 2; CAA79667." ref="1 2" evidence="7">
+<original>RRPRKR</original>
+<variation>LVRVS</variation>
+<location>
+<begin position="86"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA79667." ref="2" evidence="7">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="233"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA33253 and 2; CAA79667." ref="1 2" evidence="7">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA79667." ref="2" evidence="7">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA33253 and 2; CAA79667." ref="1 2" evidence="7">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="358"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="380"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="393"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="396"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="408"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="420"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="423"/>
+<end position="425"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2LFV"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02021"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19684127"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19880599"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23290046"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7603433"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23290046"/>
+</source>
+</evidence>
+<sequence length="428" mass="46162" checksum="E3376F88383BE94A" modified="2003-08-29" version="2">
+MDEFKPEDELKPDPSDRRTGRSRQSSERSERTERGEPQINFDDIELDDTDDRRPTRAQKE
+RNEEPEIEEEIDESEDETVDEERVERRPRKRKKAASKPASRQYMMMGVGILVLLLLIIGI
+GSALKAPSTTSSDQTASGEKSIDLAGNATDQANGVQPAPGTTSAENTQQDVSLPPISSTP
+TQGQTPVATDGQQRVEVQGDLNNALTQPQNQQQLNNVAVNSTLPTEPATVAPVRNGNASR
+DTAKTQTAERPSTTRPARQQAVIEPKKPQATVKTEPKPVAQTPKRTEPAAPVASTKAPAA
+TSTPAPKETATTAPVQTASPAQTTATPAAGAKTAGNVGSLKSAPSSHYTLQLSSSSNYDN
+LNGWAKKENLKNYVVYETTRNGQPWYVLVSGVYASKEEAKKAVSTLPADVQAKNPWAKPL
+RQVQADLK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

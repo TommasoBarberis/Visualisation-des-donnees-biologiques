@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="165">
+<accession>P06961</accession>
+<accession>Q2M9E9</accession>
+<name>CCA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Multifunctional CCA protein</fullName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName>CCA-adding enzyme</fullName>
+<ecNumber>2.7.7.72</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>CCA tRNA nucleotidyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA CCA-pyrophosphorylase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA adenylyl-/cytidylyl-transferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA nucleotidyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA-NT</fullName>
+</alternativeName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>2'-nucleotidase</fullName>
+<ecNumber>3.1.3.-</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>2',3'-cyclic phosphodiesterase</fullName>
+<ecNumber>3.1.4.-</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Phosphatase</fullName>
+<ecNumber>3.1.3.-</ecNumber>
+</recommendedName>
+</domain>
+</protein>
+<gene>
+<name type="primary">cca</name>
+<name type="ordered locus">b3056</name>
+<name type="ordered locus">JW3028</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="6444" last="6449">
+<title>Cloning, sequencing, and species relatedness of the Escherichia coli cca gene encoding the enzyme tRNA nucleotidyltransferase.</title>
+<authorList>
+<person name="Cudny H."/>
+<person name="Lupski J.R."/>
+<person name="Godson G.N."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="3009457"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="14875" last="14877">
+<title>A mutation in Escherichia coli tRNA nucleotidyltransferase that affects only AMP incorporation is in a sequence often associated with nucleotide-binding proteins.</title>
+<authorList>
+<person name="Zhu L.Q."/>
+<person name="Cudny H."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="3533927"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 65-76</scope>
+<scope>MUTAGENESIS OF GLY-70</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="6450" last="6453">
+<title>High-level overexpression, rapid purification, and properties of Escherichia coli tRNA nucleotidyltransferase.</title>
+<authorList>
+<person name="Cudny H."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="3516995"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>NUCLEOTIDYLTRANSFERASE ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="36819" last="36827">
+<title>The HD domain of the Escherichia coli tRNA nucleotidyltransferase has 2',3'-cyclic phosphodiesterase, 2'-nucleotidase, and phosphatase activities.</title>
+<authorList>
+<person name="Yakunin A.F."/>
+<person name="Proudfoot M."/>
+<person name="Kuznetsova E."/>
+<person name="Savchenko A."/>
+<person name="Brown G."/>
+<person name="Arrowsmith C.H."/>
+<person name="Edwards A.M."/>
+</authorList>
+<dbReference type="PubMed" id="15210699"/>
+<dbReference type="DOI" id="10.1074/jbc.M405120200"/>
+</citation>
+<scope>PHOSPHOHYDROLASE ACTIVITIES</scope>
+<scope>CHARACTERIZATION</scope>
+<scope>SUBUNIT</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>MUTAGENESIS OF ASP-21; ASP-23; HIS-255; ASP-256; HIS-305 AND ASP-306</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Catalyzes the addition and repair of the essential 3'-terminal CCA sequence in tRNAs without using a nucleic acid template. Adds these three nucleotides in the order of C, C, and A to the tRNA nucleotide-73, using CTP and ATP as substrates and producing inorganic pyrophosphate. Also shows highest phosphatase activity in the presence of Ni(2+) and hydrolyzes pyrophosphate, canonical 5'-nucleoside tri- and diphosphates, NADP, and 2'-AMP with the production of Pi. Displays a metal-independent phosphodiesterase activity toward 2',3'-cAMP, 2',3'-cGMP, and 2',3'-cCMP. Without metal or in the presence of Mg(2+), this protein hydrolyzes 2',3'-cyclic substrates with the formation of 2'-nucleotides, whereas in the presence of Ni(2+), it also produces some 3'-nucleotides. These phosphohydrolase activities are probably involved in the repair of the tRNA 3'-CCA terminus degraded by intracellular RNases.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>a tRNA precursor + ATP + 2 CTP = a tRNA with a 3' CCA end + 3 diphosphate</text>
+<dbReference type="Rhea" id="RHEA:14433"/>
+<dbReference type="Rhea" id="RHEA-COMP:10465"/>
+<dbReference type="Rhea" id="RHEA-COMP:10468"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:37563"/>
+<dbReference type="ChEBI" id="CHEBI:74896"/>
+<dbReference type="ChEBI" id="CHEBI:83071"/>
+<dbReference type="EC" id="2.7.7.72"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text>Magnesium is required for nucleotidyltransferase activity.</text>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Ni(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:49786"/>
+</cofactor>
+<text>Nickel for phosphatase activity.</text>
+</comment>
+<comment type="activity regulation">
+<text>Both phosphatase and phosphodiesterase activities are competitively inhibited by low concentrations of the E.coli tRNA (10 nM). Cu(2+) stimulates the hydrolysis of pyrophosphate and ATP and completely inhibits the hydrolysis of 2'-AMP. The phosphodiesterase activity is inhibited by Zn(2+), Cu(2+) and Co(2+).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="3 4">0.33 mM for ATP (in the tRNA-NT activity assay)</KM>
+<KM evidence="3 4">0.03 mM for CTP (in the tRNA-NT activity assay)</KM>
+<KM evidence="3 4">0.015 mM for tRNA-CC</KM>
+<KM evidence="3 4">0.02 mM for tRNA-C</KM>
+<KM evidence="3 4">6.2 mM for pNPP</KM>
+<KM evidence="3 4">0.10 mM for PPi</KM>
+<KM evidence="3 4">0.15 mM for NADP</KM>
+<KM evidence="3 4">0.19 mM for ADP</KM>
+<KM evidence="3 4">0.18 mM for ATP (in the phosphatase activity assay)</KM>
+<KM evidence="3 4">0.53 mM for CDP</KM>
+<KM evidence="3 4">0.13 mM for CTP (in the phosphatase activity assay)</KM>
+<KM evidence="3 4">0.76 mM for 2'-AMP</KM>
+<KM evidence="3 4">0.49 mM for 2',3'-cAMP</KM>
+<KM evidence="3 4">1.60 mM for 2',3'-cGMP</KM>
+<Vmax evidence="3 4">12.4 umol/min/mg enzyme with pNPP as substrate</Vmax>
+<Vmax evidence="3 4">3.01 umol/min/mg enzyme with PPi as substrate</Vmax>
+<Vmax evidence="3 4">17.9 umol/min/mg enzyme with NADP as substrate</Vmax>
+<Vmax evidence="3 4">1.49 umol/min/mg enzyme with ADP as substrate</Vmax>
+<Vmax evidence="3 4">4.53 umol/min/mg enzyme with ATP as substrate (in the phosphatase activity assay)</Vmax>
+<Vmax evidence="3 4">5.80 umol/min/mg enzyme with CDP as substrate</Vmax>
+<Vmax evidence="3 4">4.03 umol/min/mg enzyme with CTP as substrate (in the phosphatase activity assay)</Vmax>
+<Vmax evidence="3 4">3.71 umol/min/mg enzyme with 2'-AMP as substrate</Vmax>
+<Vmax evidence="3 4">3.21 umol/min/mg enzyme with 2',3'-cAMP as substrate</Vmax>
+<Vmax evidence="3 4">2.36 umol/min/mg enzyme with 2',3'-cGMP as substrate</Vmax>
+</kinetics>
+<phDependence>
+<text evidence="3 4">Optimum pH is 9.4 for AMP incorporation, 10.0 for CMP incorporation, and 7.0 for the phosphatase and phosphodiesterase activities.</text>
+</phDependence>
+</comment>
+<comment type="subunit">
+<text evidence="3">Monomer. Can also form homodimers and oligomers, but with low levels.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-545256"/>
+<interactant intactId="EBI-562575">
+<id>P0A6M4</id>
+<label>dtd</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="domain">
+<text>Comprises two domains: an N-terminal domain containing the nucleotidyltransferase activity and a C-terminal HD domain associated with both phosphodiesterase and phosphatase activities.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="1">A single active site specifically recognizes both ATP and CTP and is responsible for their addition.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the tRNA nucleotidyltransferase/poly(A) polymerase family. Bacterial CCA-adding enzyme type 1 subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.72"/>
+<dbReference type="EC" id="3.1.3.-"/>
+<dbReference type="EC" id="3.1.4.-"/>
+<dbReference type="EMBL" id="M12788">
+<property type="protein sequence ID" value="AAA23541.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U28379">
+<property type="protein sequence ID" value="AAA89136.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76092.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77107.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A25215">
+<property type="entry name" value="RNECTA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417528.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000708487.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P06961"/>
+<dbReference type="BioGrid" id="4259255">
+<property type="interactions" value="71"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9250N"/>
+<dbReference type="IntAct" id="P06961">
+<property type="interactions" value="25"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3056"/>
+<dbReference type="ChEMBL" id="CHEMBL3309020"/>
+<dbReference type="jPOST" id="P06961"/>
+<dbReference type="PaxDb" id="P06961"/>
+<dbReference type="PRIDE" id="P06961"/>
+<dbReference type="EnsemblBacteria" id="AAC76092">
+<property type="protein sequence ID" value="AAC76092"/>
+<property type="gene ID" value="b3056"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77107">
+<property type="protein sequence ID" value="BAE77107"/>
+<property type="gene ID" value="BAE77107"/>
+</dbReference>
+<dbReference type="GeneID" id="947553"/>
+<dbReference type="KEGG" id="ecj:JW3028"/>
+<dbReference type="KEGG" id="eco:b3056"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3675"/>
+<dbReference type="EchoBASE" id="EB0134"/>
+<dbReference type="EcoGene" id="EG10136">
+<property type="gene designation" value="cca"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105D4J">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0617">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000007368"/>
+<dbReference type="InParanoid" id="P06961"/>
+<dbReference type="KO" id="K00974"/>
+<dbReference type="PhylomeDB" id="P06961"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10136-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3028-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10136-MONOMER"/>
+<dbReference type="BRENDA" id="2.7.7.72">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="BRENDA" id="3.1.4.16">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="BRENDA" id="3.1.4.37">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P06961"/>
+<dbReference type="PRO" id="PR:P06961"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052929">
+<property type="term" value="F:ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052928">
+<property type="term" value="F:CTP:3'-cytidine-tRNA cytidylyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052927">
+<property type="term" value="F:CTP:tRNA cytidylyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004112">
+<property type="term" value="F:cyclic-nucleotide phosphodiesterase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016791">
+<property type="term" value="F:phosphatase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004810">
+<property type="term" value="F:tRNA adenylyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016437">
+<property type="term" value="F:tRNA cytidylyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042245">
+<property type="term" value="P:RNA repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001680">
+<property type="term" value="P:tRNA 3'-terminal CCA addition"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00077">
+<property type="entry name" value="HDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd05398">
+<property type="entry name" value="NT_ClassII-CCAase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01261">
+<property type="entry name" value="CCA_bact_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01262">
+<property type="entry name" value="CCA_bact_type2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012006">
+<property type="entry name" value="CCA_bact"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003607">
+<property type="entry name" value="HD/PDEase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006674">
+<property type="entry name" value="HD_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002646">
+<property type="entry name" value="PolA_pol_head_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032828">
+<property type="entry name" value="PolyA_RNA-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01966">
+<property type="entry name" value="HD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01743">
+<property type="entry name" value="PolyA_pol"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12627">
+<property type="entry name" value="PolyA_pol_RNAbd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000813">
+<property type="entry name" value="CCA_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51831">
+<property type="entry name" value="HD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0533">Nickel</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0692">RNA repair</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="Multifunctional CCA protein" id="PRO_0000138975">
+<location>
+<begin position="1"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="domain" description="HD" evidence="2">
+<location>
+<begin position="228"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP or CTP; via amide nitrogen" evidence="1">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP or CTP" evidence="1">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP or CTP" evidence="1">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP or CTP" evidence="1">
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP or CTP" evidence="1">
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on phosphodiesterase and phosphatase activities." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on phosphodiesterase and phosphatase activities." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowered AMP incorporation." evidence="5">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphodiesterase and phosphatase activities." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphodiesterase and phosphatase activities." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="256"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphodiesterase and phosphatase activities." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Still possesses phosphodiesterase and phosphatase activities." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="306"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01175"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15210699"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3516995"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3533927"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="412" mass="46467" checksum="947182E6086220F7" modified="1988-04-01" version="1">
+MKIYLVGGAVRDALLGLPVKDRDWVVVGSTPQEMLDAGYQQVGRDFPVFLHPQTHEEYAL
+ARTERKSGSGYTGFTCYAAPDVTLEDDLKRRDLTINALAQDDNGEIIDPYNGLGDLQNRL
+LRHVSPAFGEDPLRVLRVARFAARYAHLGFRIADETLALMREMTHAGELEHLTPERVWKE
+TESALTTRNPQVFFQVLRDCGALRVLFPEIDALFGVPAPAKWHPEIDTGIHTLMTLSMAA
+MLSPQVDVRFATLCHDLGKGLTPPELWPRHHGHGPAGVKLVEQLCQRLRVPNEIRDLARL
+VAEFHDLIHTFPMLNPKTIVKLFDSIDAWRKPQRVEQLALTSEADVRGRTGFESADYPQG
+RWLREAWEVAQSVPTKAVVEAGFKGVEIREELTRRRIAAVASWKEQRCPKPE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

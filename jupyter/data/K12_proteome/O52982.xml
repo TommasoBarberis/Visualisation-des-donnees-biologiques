@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-12-15" modified="2019-05-08" version="103">
+<accession>O52982</accession>
+<accession>Q2MAD5</accession>
+<name>YFJS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Lipoprotein YfjS</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yfjS</name>
+<name type="ordered locus">b2636</name>
+<name type="ordered locus">JW5921</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="39807" last="39813">
+<title>Effects of lipoprotein overproduction on the induction of DegP (HtrA) involved in quality control in the Escherichia coli periplasm.</title>
+<authorList>
+<person name="Miyadai H."/>
+<person name="Tanaka-Masuda K."/>
+<person name="Matsuyama S."/>
+<person name="Tokuda H."/>
+</authorList>
+<dbReference type="PubMed" id="15252048"/>
+<dbReference type="DOI" id="10.1074/jbc.M406390200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF 60-GLY-PHE-61 AND ARG-136</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">Does not induce degP when overexpressed unless it is mutated to resemble YafY.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell inner membrane</location>
+<topology evidence="4">Lipid-anchor</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">To E.coli YafY.</text>
+</comment>
+<comment type="sequence caution" evidence="3">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA79804" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="U36840">
+<property type="protein sequence ID" value="AAA79804.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75684.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76771.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65042">
+<property type="entry name" value="F65042"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417124.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000824222.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="O52982"/>
+<dbReference type="BioGrid" id="4260628">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2636"/>
+<dbReference type="PaxDb" id="O52982"/>
+<dbReference type="PRIDE" id="O52982"/>
+<dbReference type="EnsemblBacteria" id="AAC75684">
+<property type="protein sequence ID" value="AAC75684"/>
+<property type="gene ID" value="b2636"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76771">
+<property type="protein sequence ID" value="BAE76771"/>
+<property type="gene ID" value="BAE76771"/>
+</dbReference>
+<dbReference type="GeneID" id="945668"/>
+<dbReference type="KEGG" id="ecj:JW5921"/>
+<dbReference type="KEGG" id="eco:b2636"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2730"/>
+<dbReference type="EcoGene" id="EG13205">
+<property type="gene designation" value="yfjS"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000028675"/>
+<dbReference type="BioCyc" id="EcoCyc:G7371-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5921-MONOMER"/>
+<dbReference type="PRO" id="PR:O52982"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51257">
+<property type="entry name" value="PROKAR_LIPOPROTEIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Lipoprotein YfjS" id="PRO_0000018047">
+<location>
+<begin position="21"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-palmitoyl cysteine" evidence="1">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-diacylglycerol cysteine" evidence="1">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="3-fold improved induction of degP upon overexpression; when associated with Q-136." evidence="2">
+<original>GF</original>
+<variation>DY</variation>
+<location>
+<begin position="60"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="3-fold improved induction of degP upon overexpression; when associated with 60-D-Y-61." evidence="2">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00303"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15252048"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<evidence key="4" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15252048"/>
+</source>
+</evidence>
+<sequence length="147" mass="16735" checksum="294131E411B78C7A" modified="1998-12-15" version="2" precursor="true">
+MKRKTLPLLALVATSLFLSACDDRSDDLKAISKFKDLTPPRFSDVVSRQDDVSEEWSQVG
+FSSGLTLQVLRTRESPDGCEGGSYYYLVDMEEKTVQPLMNALCIADNIKLEYHEVTDPYT
+KEKYFEYSHDGKLMGRLLIPSNPDNRE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

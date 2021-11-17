@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="107">
+<accession>P77183</accession>
+<accession>Q2MCD9</accession>
+<name>PAOD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Molybdenum cofactor insertion chaperone PaoD</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">paoD</name>
+<name type="synonym">yagQ</name>
+<name type="ordered locus">b0283</name>
+<name type="ordered locus">JW0277</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="FEBS J." volume="276" first="2762" last="2774">
+<title>A periplasmic aldehyde oxidoreductase represents the first molybdopterin cytosine dinucleotide cofactor containing molybdo-flavoenzyme from Escherichia coli.</title>
+<authorList>
+<person name="Neumann M."/>
+<person name="Mittelstaedt G."/>
+<person name="Iobbi-Nivol C."/>
+<person name="Saggu M."/>
+<person name="Lendzian F."/>
+<person name="Hildebrandt P."/>
+<person name="Leimkuehler S."/>
+</authorList>
+<dbReference type="PubMed" id="19368556"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2009.07000.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="1400" last="1408">
+<title>Molybdopterin dinucleotide biosynthesis in Escherichia coli: identification of amino acid residues of molybdopterin dinucleotide transferases that determine specificity for binding of guanine or cytosine nucleotides.</title>
+<authorList>
+<person name="Neumann M."/>
+<person name="Seduk F."/>
+<person name="Iobbi-Nivol C."/>
+<person name="Leimkuhler S."/>
+</authorList>
+<dbReference type="PubMed" id="21081498"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.155671"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MOCA</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E87295" last="E87295">
+<title>Biochemical, stabilization and crystallization studies on a molecular chaperone (PaoD) involved in the maturation of molybdoenzymes.</title>
+<authorList>
+<person name="Otrelo-Cardoso A.R."/>
+<person name="Schwuchow V."/>
+<person name="Rodrigues D."/>
+<person name="Cabrita E.J."/>
+<person name="Leimkuehler S."/>
+<person name="Romao M.J."/>
+<person name="Santos-Silva T."/>
+</authorList>
+<dbReference type="PubMed" id="24498065"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0087295"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>CRYSTALLIZATION</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3">Chaperone required for the production of an active PaoABC aldehyde oxidoreductase. Stabilizes the PaoC subunit and is required for the insertion of the molybdenum cofactor into this subunit (PubMed:19368556, PubMed:21081498). Binds molybdenum cofactor. Binds the molybdopterin cytosine dinucleotide (MCD) form of the cofactor after its formation by the molybdenum cofactor cytidylyltransferase MocA (PubMed:24498065).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3">Homodimer in solution (PubMed:24498065). Interacts with MocA (PubMed:21081498).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="1">Mutation results in complete impairment of cell growth in the presence of cinnamaldehyde.</text>
+</comment>
+<dbReference type="EMBL" id="U73857">
+<property type="protein sequence ID" value="AAB18012.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73386.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76067.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C64754">
+<property type="entry name" value="C64754"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414817.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000121359.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P77183"/>
+<dbReference type="BioGrid" id="4261499">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="IntAct" id="P77183">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0283"/>
+<dbReference type="PaxDb" id="P77183"/>
+<dbReference type="PRIDE" id="P77183"/>
+<dbReference type="EnsemblBacteria" id="AAC73386">
+<property type="protein sequence ID" value="AAC73386"/>
+<property type="gene ID" value="b0283"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76067">
+<property type="protein sequence ID" value="BAE76067"/>
+<property type="gene ID" value="BAE76067"/>
+</dbReference>
+<dbReference type="GeneID" id="945010"/>
+<dbReference type="KEGG" id="ecj:JW0277"/>
+<dbReference type="KEGG" id="eco:b0283"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1995"/>
+<dbReference type="EchoBASE" id="EB3326"/>
+<dbReference type="EcoGene" id="EG13556">
+<property type="gene designation" value="yagQ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107XAN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1975">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244666"/>
+<dbReference type="InParanoid" id="P77183"/>
+<dbReference type="KO" id="K07402"/>
+<dbReference type="PhylomeDB" id="P77183"/>
+<dbReference type="BioCyc" id="EcoCyc:G6154-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0277-MONOMER"/>
+<dbReference type="PRO" id="PR:P77183"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043546">
+<property type="term" value="F:molybdopterin cofactor binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003777">
+<property type="entry name" value="XdhC_CoxI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027051">
+<property type="entry name" value="XdhC_Rossmann_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13478">
+<property type="entry name" value="XdhC_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02625">
+<property type="entry name" value="XdhC_CoxI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Molybdenum cofactor insertion chaperone PaoD" id="PRO_0000168562">
+<location>
+<begin position="1"/>
+<end position="318"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19368556"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21081498"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24498065"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21081498"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="318" mass="34954" checksum="BCE8A8A8DD78D55A" modified="1997-02-01" version="1">
+MSYPLFDKDEHWHKPEQAFLTDDHRTILRFAVEALMSGKGAVLVTLVEIRGGAARPLGAQ
+MVVREDGRYCGFVSGGCVEAAAAFEALEMMGSGRDREIRYGEGSPWFDIVLPCGGGITLT
+LHKLRSAQPLLAVLNRLEQRKPVGLRYDPQAQSLVCLPTQTRTGWNLNGFEVGFRPCVRL
+MIYGRSLEAQATASLAAATGYDSHIFDLFPASASAQIDTDTAVILLCHDLNRELPVLQAA
+REAKPFYLGALGSYRTHTLRLQKLHELGWSREETTQIRAPVGIFPKARDAHTLALSVLAE
+VASVRLHQEEDSCLPPSS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

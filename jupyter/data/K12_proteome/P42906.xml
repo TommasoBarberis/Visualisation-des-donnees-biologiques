@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-06-05" version="126">
+<accession>P42906</accession>
+<accession>P76670</accession>
+<accession>Q2M975</accession>
+<accession>Q6BF43</accession>
+<name>AGAA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Putative N-acetylgalactosamine-6-phosphate deacetylase</fullName>
+<shortName evidence="2">Aga-6-P deacetylase</shortName>
+<ecNumber evidence="1">3.5.1.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">agaA</name>
+<name type="ordered locus">b3135</name>
+<name type="ordered locus">JW5527</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="1" last="9">
+<title>Escherichia coli K-12: a cooperatively developed annotation snapshot -- 2005.</title>
+<authorList>
+<person name="Riley M."/>
+<person name="Abe T."/>
+<person name="Arnaud M.B."/>
+<person name="Berlyn M.K.B."/>
+<person name="Blattner F.R."/>
+<person name="Chaudhuri R.R."/>
+<person name="Glasner J.D."/>
+<person name="Horiuchi T."/>
+<person name="Keseler I.M."/>
+<person name="Kosuge T."/>
+<person name="Mori H."/>
+<person name="Perna N.T."/>
+<person name="Plunkett G. III"/>
+<person name="Rudd K.E."/>
+<person name="Serres M.H."/>
+<person name="Thomas G.H."/>
+<person name="Thomson N.R."/>
+<person name="Wishart D."/>
+<person name="Wanner B.L."/>
+</authorList>
+<dbReference type="PubMed" id="16397293"/>
+<dbReference type="DOI" id="10.1093/nar/gkj405"/>
+</citation>
+<scope>SEQUENCE REVISION TO 145</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Microbiology" volume="142" first="231" last="250">
+<title>Novel phosphotransferase genes revealed by bacterial genome sequencing: a gene cluster encoding a putative N-acetylgalactosamine metabolic pathway in Escherichia coli.</title>
+<authorList>
+<person name="Reizer J."/>
+<person name="Ramseier T.M."/>
+<person name="Reizer A."/>
+<person name="Charbit A."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8932697"/>
+<dbReference type="DOI" id="10.1099/13500872-142-2-231"/>
+</citation>
+<scope>DISCUSSION OF SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>H2O + N-acetyl-D-galactosamine 6-phosphate = acetate + D-galactosamine 6-phosphate</text>
+<dbReference type="Rhea" id="RHEA:18149"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:30089"/>
+<dbReference type="ChEBI" id="CHEBI:71673"/>
+<dbReference type="ChEBI" id="CHEBI:71674"/>
+</reaction>
+</comment>
+<comment type="miscellaneous">
+<text>In contrast to E.coli strains C and EC3132, K-12 strains cannot grow on N-acetylgalactosamine and D-galactosamine, because they carry a deletion and thus lack active PTS systems specific for these compounds. Therefore, AgaA in K-12 strains is not involved in the degradation of these compounds.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the metallo-dependent hydrolases superfamily. NagA family.</text>
+</comment>
+<comment type="caution">
+<text evidence="2">Could be the product of a pseudogene.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA57938" version="1"/>
+</conflict>
+<location>
+<position position="114"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.5.1.-" evidence="1"/>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57938.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77181.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C65103">
+<property type="entry name" value="C65103"/>
+</dbReference>
+<dbReference type="SMR" id="P42906"/>
+<dbReference type="BioGrid" id="4261157">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="316407.85675931"/>
+<dbReference type="jPOST" id="P42906"/>
+<dbReference type="PRIDE" id="P42906"/>
+<dbReference type="EnsemblBacteria" id="BAE77181">
+<property type="protein sequence ID" value="BAE77181"/>
+<property type="gene ID" value="BAE77181"/>
+</dbReference>
+<dbReference type="KEGG" id="ecj:JW5527"/>
+<dbReference type="PATRIC" id="fig|83333.103.peg.4041"/>
+<dbReference type="EchoBASE" id="EB2619"/>
+<dbReference type="EcoGene" id="EG12766">
+<property type="gene designation" value="agaA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1820">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000202514"/>
+<dbReference type="InParanoid" id="P42906"/>
+<dbReference type="KO" id="K02079"/>
+<dbReference type="PhylomeDB" id="P42906"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5527-MONOMER"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008448">
+<property type="term" value="F:N-acetylglucosamine-6-phosphate deacetylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005975">
+<property type="term" value="P:carbohydrate metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006044">
+<property type="term" value="P:N-acetylglucosamine metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006680">
+<property type="entry name" value="Amidohydro-rel"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003764">
+<property type="entry name" value="GlcNAc_6-P_deAcase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032466">
+<property type="entry name" value="Metal_Hydrolase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11113:SF1">
+<property type="entry name" value="PTHR11113:SF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01979">
+<property type="entry name" value="Amidohydro_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51556">
+<property type="entry name" value="SSF51556"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0119">Carbohydrate metabolism</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative N-acetylgalactosamine-6-phosphate deacetylase" id="PRO_0000170920">
+<location>
+<begin position="1"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA57938." ref="1" evidence="2">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8XAC3"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="167" mass="17519" checksum="1C3CB5AC3168FEEA" modified="2004-10-11" version="3">
+MHCYNGMTGLHHREPGMVGAGLTDKRAWLELIADGHHVHPAAMSLCCCCAKERIVLITDA
+MQAAGMPDGRYTLCGEEVQMHGGVVRTASGGLAGSTLSVDAAVRNMVELTGVTPAEAIHM
+ASLHPARMLGVDGVLGSLKPGKRASVVALDSGLHVQQIWIQGQLASF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2017-09-27" modified="2018-12-05" version="7">
+<accession>P0DP89</accession>
+<accession>P00892</accession>
+<accession>P76749</accession>
+<name>ILVGP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative acetolactate synthase isozyme 2 large subunit</fullName>
+<shortName>AHAS-II</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>ALS-II</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Acetohydroxy-acid synthase II large subunit</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ilvG</name>
+<name type="ordered locus">b4488</name>
+<name type="ORF">b3767</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Science" volume="257" first="771" last="778">
+<title>Analysis of the Escherichia coli genome: DNA sequence of the region from 84.5 to 86.5 minutes.</title>
+<authorList>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Burland V.D."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="1379743"/>
+<dbReference type="DOI" id="10.1126/science.1379743"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1981" name="Proc. Natl. Acad. Sci. U.S.A." volume="78" first="922" last="925">
+<title>Molecular basis of valine resistance in Escherichia coli K-12.</title>
+<authorList>
+<person name="Lawther R.P."/>
+<person name="Calhoun D.H."/>
+<person name="Adams C.W."/>
+<person name="Hauser C.A."/>
+<person name="Gray J."/>
+<person name="Hatfield G.W."/>
+</authorList>
+<dbReference type="PubMed" id="7015336"/>
+<dbReference type="DOI" id="10.1073/pnas.78.2.922"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 28-327</scope>
+<scope>IDENTIFICATION OF FRAMESHIFT THAT RESTORES THE READING FRAME</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 4">N-terminal pseudogene fragment of this gene. If the reading frame is restored, catalyzes the first step in the biosynthesis of branched-chain amino acids.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>FAD</name>
+<dbReference type="ChEBI" id="CHEBI:57692"/>
+</cofactor>
+<text evidence="2">Binds 1 FAD per subunit.</text>
+</comment>
+<comment type="pathway">
+<text>Amino-acid biosynthesis; L-isoleucine biosynthesis; L-isoleucine from 2-oxobutanoate: step 1/4.</text>
+</comment>
+<comment type="pathway">
+<text>Amino-acid biosynthesis; L-valine biosynthesis; L-valine from pyruvate: step 1/4.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Tetramer of two large (IlvG) and two small (IlvM) chains.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="4">E.coli contains genes for 3 AHAS isozymes: ilvBN, ilvGM and ilvIH. In strain K12 only the Val-inhibitable ilvBN and ilvIH are expressed; ilvGM has a frameshift that disturbs the ilvG reading frame. The ilv02096 mutation causes another frameshift which restores the open reading frame, permitting the expression of this isozyme and can be seen in entry (AC P0DP90). Restored IlvG is Val-resistant and is expressed in K12 strains having what used to be referred to as ilv0 mutations.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the TPP enzyme family.</text>
+</comment>
+<comment type="caution">
+<text>Could be the product of a pseudogene. A frameshift removes the C-terminus. A full-length restored gene can be seen in (AC P0DP90).</text>
+</comment>
+<comment type="sequence caution" evidence="3">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA23558" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<dbReference type="EMBL" id="M87049">
+<property type="protein sequence ID" value="AAA67571.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00290">
+<property type="protein sequence ID" value="CAA23558.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A26570">
+<property type="entry name" value="YCEC"/>
+</dbReference>
+<dbReference type="SMR" id="P0DP89"/>
+<dbReference type="EchoBASE" id="EB0493"/>
+<dbReference type="EcoGene" id="EG10498">
+<property type="gene designation" value="ilvG"/>
+</dbReference>
+<dbReference type="BioCyc" id="MetaCyc:G8221-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00047">
+<property type="reaction ID" value="UER00055"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00049">
+<property type="reaction ID" value="UER00059"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030976">
+<property type="term" value="F:thiamine pyrophosphate binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009097">
+<property type="term" value="P:isoleucine biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009099">
+<property type="term" value="P:valine biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029035">
+<property type="entry name" value="DHS-like_NAD/FAD-binding_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029061">
+<property type="entry name" value="THDP-binding"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012000">
+<property type="entry name" value="Thiamin_PyroP_enz_cen_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012001">
+<property type="entry name" value="Thiamin_PyroP_enz_TPP-bd_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00205">
+<property type="entry name" value="TPP_enzyme_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02776">
+<property type="entry name" value="TPP_enzyme_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52467">
+<property type="entry name" value="SSF52467"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52518">
+<property type="entry name" value="SSF52518"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0028">Amino-acid biosynthesis</keyword>
+<keyword id="KW-0100">Branched-chain amino acid biosynthesis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative acetolactate synthase isozyme 2 large subunit" id="PRO_0000441723">
+<location>
+<begin position="1"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="1">
+<location>
+<begin position="251"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="1">
+<location>
+<begin position="294"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="1">
+<location>
+<position position="149"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P0DP90"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<evidence key="4" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7015336"/>
+</source>
+</evidence>
+<sequence length="327" mass="34507" checksum="AB0141C73BDA2AF0" modified="2017-09-27" version="1">
+MNGAQWVVHALRAQGVNTVFGYPGGAIMPVYDALYDGGVEHLLCRHEQGAAMAAIGYARA
+TGKTGVCIATSGPGATNLITGLADALLDSIPVVAITGQVSAPFIGTDAFQEVDVLGLSLA
+CTKHSFLVQSLEELPRIMAEAFDVACSGRPGPVLVDIPKDIQLASGDLEPWFTTVENEVT
+FPHAEVEQARQMLAKAQKPMLYVGGGVGMAQAVPALREFLAATKMPATCTLKGLGAVEAD
+YPYYLGMLGMHGTKAANFAVQECDLLIAVGARFDDRVTGKLNTFAPHASVIHMDIDPAEM
+NKLRQAHVALQGDLNALLPALQQPLNQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

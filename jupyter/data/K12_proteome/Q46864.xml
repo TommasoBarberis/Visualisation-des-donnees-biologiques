@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2019-05-08" version="130">
+<accession>Q46864</accession>
+<accession>Q2M9H9</accession>
+<name>MQSA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="18">Antitoxin MqsA</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="18">mqsA</name>
+<name type="synonym">ygiT</name>
+<name type="ordered locus">b3021</name>
+<name type="ordered locus">JW2989</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="BMC Microbiol." volume="6" first="53" last="53">
+<title>Persisters: a distinct physiological state of E. coli.</title>
+<authorList>
+<person name="Shah D."/>
+<person name="Zhang Z."/>
+<person name="Khodursky A."/>
+<person name="Kaldalu N."/>
+<person name="Kurg K."/>
+<person name="Lewis K."/>
+</authorList>
+<dbReference type="PubMed" id="16768798"/>
+<dbReference type="DOI" id="10.1186/1471-2180-6-53"/>
+</citation>
+<scope>IDENTIFICATION AS A TOXIN-ANTITOXIN SYSTEM</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="28746" last="28753">
+<title>MqsR, a crucial regulator for quorum sensing and biofilm formation, is a GCU-specific mRNA interferase in Escherichia coli.</title>
+<authorList>
+<person name="Yamaguchi Y."/>
+<person name="Park J.H."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="19690171"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.032904"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>FUNCTION AS A TRANSCRIPTIONAL REGULATOR</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>OPERON STRUCTURE</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2010" name="Environ. Microbiol." volume="12" first="1105" last="1121">
+<title>Escherichia coli toxin/antitoxin pair MqsR/MqsA regulate toxin CspD.</title>
+<authorList>
+<person name="Kim Y."/>
+<person name="Wang X."/>
+<person name="Zhang X.S."/>
+<person name="Grigoriu S."/>
+<person name="Page R."/>
+<person name="Peti W."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="20105222"/>
+<dbReference type="DOI" id="10.1111/j.1462-2920.2009.02147.x"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>DNA-BINDING</scope>
+<scope>FUNCTION AS A TRANSCRIPTION REGULATOR</scope>
+<scope>INDUCTION</scope>
+<scope>POSSIBLE CLEAVAGE BY CLPPX</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="75" first="333" last="348">
+<title>Three new RelE-homologous mRNA interferases of Escherichia coli differentially induced by environmental stresses.</title>
+<authorList>
+<person name="Christensen-Dalsgaard M."/>
+<person name="Jorgensen M.G."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="19943910"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2009.06969.x"/>
+</citation>
+<scope>FUNCTION AS AN MRNA INTERFERASE ANTITOXIN</scope>
+<scope>INDUCTION</scope>
+<scope>OPERON STRUCTURE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="Nat. Chem. Biol." volume="7" first="359" last="366">
+<title>Antitoxin MqsA helps mediate the bacterial general stress response.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Kim Y."/>
+<person name="Hong S.H."/>
+<person name="Ma Q."/>
+<person name="Brown B.L."/>
+<person name="Pu M."/>
+<person name="Tarone A.M."/>
+<person name="Benedik M.J."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="21516113"/>
+<dbReference type="DOI" id="10.1038/nchembio.560"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>POSSIBLE CLEAVAGE BY LON</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF 97-ASN--ARG-101</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="BMC Microbiol." volume="13" first="45" last="45">
+<title>Transcriptional cross-activation between toxin-antitoxin systems of Escherichia coli.</title>
+<authorList>
+<person name="Kasari V."/>
+<person name="Mets T."/>
+<person name="Tenson T."/>
+<person name="Kaldalu N."/>
+</authorList>
+<dbReference type="PubMed" id="23432955"/>
+<dbReference type="DOI" id="10.1186/1471-2180-13-45"/>
+</citation>
+<scope>INDUCTION BY OTHER TA SYSTEMS</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="1286" last="1294">
+<title>The Escherichia coli toxin MqsR destabilizes the transcriptional repression complex formed between the antitoxin MqsA and the mqsRA operon promoter.</title>
+<authorList>
+<person name="Brown B.L."/>
+<person name="Lord D.M."/>
+<person name="Grigoriu S."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+</authorList>
+<dbReference type="PubMed" id="23172222"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.421008"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF ARG-61</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="Sci. Rep." volume="3" first="3186" last="3186">
+<title>Antitoxin MqsA represses curli formation through the master biofilm regulator CsgD.</title>
+<authorList>
+<person name="Soo V.W."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="24212724"/>
+<dbReference type="DOI" id="10.1038/srep03186"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2015" name="Environ. Microbiol." volume="17" first="3168" last="3181">
+<title>The MqsR/MqsA toxin/antitoxin system protects Escherichia coli during bile acid stress.</title>
+<authorList>
+<person name="Kwan B.W."/>
+<person name="Lord D.M."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+<person name="Benedik M.J."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="25534751"/>
+<dbReference type="DOI" id="10.1111/1462-2920.12749"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Acta Crystallogr. F" volume="66" first="1060" last="1063">
+<title>Preliminary crystallographic analysis of the Escherichia coli antitoxin MqsA (YgiT/b3021) in complex with mqsRA promoter DNA.</title>
+<authorList>
+<person name="Brown B.L."/>
+<person name="Page R."/>
+</authorList>
+<dbReference type="PubMed" id="20823526"/>
+<dbReference type="DOI" id="10.1107/S1744309110028617"/>
+</citation>
+<scope>PRELIMINARY CRYSTALLIZATION</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2009" name="PLoS Pathog." volume="5" first="E1000706" last="E1000706">
+<title>Three dimensional structure of the MqsR:MqsA complex: a novel TA pair comprised of a toxin homologous to RelE and an antitoxin with unique properties.</title>
+<authorList>
+<person name="Brown B.L."/>
+<person name="Grigoriu S."/>
+<person name="Kim Y."/>
+<person name="Arruda J.M."/>
+<person name="Davenport A."/>
+<person name="Wood T.K."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+</authorList>
+<dbReference type="PubMed" id="20041169"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.1000706"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) IN COMPLEX WITH ZINC AND MQSR</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>COFACTOR</scope>
+<scope>DOMAIN</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="2285" last="2296">
+<title>Structure of the Escherichia coli antitoxin MqsA (YgiT/b3021) bound to its gene promoter reveals extensive domain rearrangements and the specificity of transcriptional regulation.</title>
+<authorList>
+<person name="Brown B.L."/>
+<person name="Wood T.K."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+</authorList>
+<dbReference type="PubMed" id="21068382"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.172643"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) IN COMPLEX WITH ZINC AND DNA</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ASN-97 AND ARG-101</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2012" name="Biochim. Biophys. Acta" volume="1824" first="1401" last="1408">
+<title>Solution structure and biophysical properties of MqsA, a Zn-containing antitoxin from Escherichia coli.</title>
+<authorList>
+<person name="Papadopoulos E."/>
+<person name="Collet J.F."/>
+<person name="Vukojevic V."/>
+<person name="Billeter M."/>
+<person name="Holmgren A."/>
+<person name="Graslund A."/>
+<person name="Vlamis-Gardikas A."/>
+</authorList>
+<dbReference type="PubMed" id="22789559"/>
+<dbReference type="DOI" id="10.1016/j.bbapap.2012.06.016"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>COFACTOR</scope>
+<scope>DOMAIN</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7 9 12 14 16 21">Antitoxin component of a type II toxin-antitoxin (TA) system. Labile antitoxin that binds to the MqsR mRNA interferase toxin and neutralizes its endoribonuclease activity. Overexpression prevents MqsR-mediated cessation of cell growth and inhibition of cell proliferation. Initially reported to act as a cotranscription factor with MqsA (PubMed:19690171, PubMed:20105222). Following further experiments, the MqsR-MqsA complex does not bind DNA and all reported data are actually due to a small fraction of free MqsA alone binding DNA. Addition of MqsR to a preformed MqsA-promoter DNA complex causes dissociation of the MqsA-DNA complex, probably causing derepression of MqsA-repressed transcripts (PubMed:23172222). MqsA binds to 2 palindromes in the promoter region of the mqsRA operon activating its transcription. Binds to other promoters, inducing mcbR and spy and repressing cspD among others (PubMed:20105222). Binds to and represses the rpoS promoter, the master stress regulator, resulting in decreased cyclic-di-GMP, reduced stress resistance, increased cell motility and decreased biofilm formation; in these experiments 5 TA systems are missing (lacks MazEF, RelEB, ChpB, YoeB-YefM, YafQ-DinJ) (PubMed:21516113). An earlier study showed overexpression alone increases biofilm formation, perhaps by repressing cspD; in these experiments the 5 TA systems are present (PubMed:20105222). Represses the csgD promoter. In the presence of stress, when this protein is degraded, the promoters it represses are derepressed, leading to biofilm formation (Probable). This TA system mediates cell growth during bile acid deoxycholate stress by degrading mRNA for probable deoxycholate-binding protein YgiS; bile acid detergents such as deoxycholate are important for host defense against bacterial growth in the gall bladder and duodenum (PubMed:25534751).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="8 10 11 13">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="8 10 11 13">Binds 1 Zn(2+) ion per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<temperatureDependence>
+<text evidence="14">The MqsR-MqsA complex is exceptionally thermostable with a Tm of 83.4 degress Celsius versus 48.1 degress Celsius for MqsR and 61.1 degress Celsius for MqsA.</text>
+</temperatureDependence>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 10 11">Homodimer. Crystallizes as a heterotetramer with MqsA, MqsR-MqsA(2)-MqsR (PubMed:20041169). Purifies as a probable heterohexamer of 2 MqsR dimers and 1 MqsA dimer (PubMed:19690171). Binds promoter DNA as a dimer (PubMed:21068382). When the 2 dissociate the MsqR mRNA interferase becomes active.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-1120746">
+<id>P69222</id>
+<label>infA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-9134416">
+<id>P07000</id>
+<label>pldB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-1119646">
+<id>P0ACQ0</id>
+<label>rbsR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-546875">
+<id>P0A7L8</id>
+<label>rpmA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-1129580">
+<id>P0AGB6</id>
+<label>rpoE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1120353"/>
+<interactant intactId="EBI-9138393">
+<id>P0AAU7</id>
+<label>ybfE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="induction">
+<text evidence="5 7 9 15 17">Induced by amino acid starvation, glucose starvation and when translation is blocked. Induction is decreased in the absence of the Lon protease suggesting, by homology to other toxin-antitoxin systems, that Lon may degrade the MqsA antitoxin. Transcription is activated by MqsA (PubMed:20105222). It has been suggested that MqsA represses its own operon (PubMed:19690171). Not more induced in persister cells (PubMed:16768798). A member of the mqsRA operon. This operon induced by ectopic expression of toxins RelE, HicA and YafQ but not by MazF or HicA (PubMed:23432955).</text>
+</comment>
+<comment type="domain">
+<text evidence="8 11 13">The Zn-binding N-terminal domain (residues 1-65) binds to the MqsR mRNA interferase toxin and makes contact with the DNA phosphate backbone, while the C-terminus (residues 70-131) binds the promoter in a sequence-specific manner. They are linked by a short flexible domain (PubMed:22789559).</text>
+</comment>
+<comment type="PTM">
+<text evidence="19 20">Degraded in the presence of oxidative stress, maybe by the Lon and/or ClpX proteases.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 12 16">Essential for growth, it cannot be disrupted (PubMed:16768798). A double mqsR-mqsA deletion leads to increased rpoS mRNA levels, resulting in increased cyclic-di-GMP levels, increasing stress resistance, increased biofilm formation (PubMed:21516113). The double mutant has increased metabolism and respiration in the presence of the bile acid deoxycholate and consequently grows less well. Decreases cell survival in the presence of 20% deoxycholate (PubMed:25534751).</text>
+</comment>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69189.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76057.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77077.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C65089">
+<property type="entry name" value="C65089"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417493.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000650107.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2KZ8">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-131"/>
+</dbReference>
+<dbReference type="PDB" id="3FMY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=62-131"/>
+</dbReference>
+<dbReference type="PDB" id="3GA8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3GN5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=1-131"/>
+</dbReference>
+<dbReference type="PDB" id="3HI2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3O9X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-131"/>
+</dbReference>
+<dbReference type="PDBsum" id="2KZ8"/>
+<dbReference type="PDBsum" id="3FMY"/>
+<dbReference type="PDBsum" id="3GA8"/>
+<dbReference type="PDBsum" id="3GN5"/>
+<dbReference type="PDBsum" id="3HI2"/>
+<dbReference type="PDBsum" id="3O9X"/>
+<dbReference type="SMR" id="Q46864"/>
+<dbReference type="BioGrid" id="4259247">
+<property type="interactions" value="153"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1084">
+<property type="entry name" value="MqsRA toxin-antitoxin complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12226N"/>
+<dbReference type="IntAct" id="Q46864">
+<property type="interactions" value="54"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3021"/>
+<dbReference type="jPOST" id="Q46864"/>
+<dbReference type="PaxDb" id="Q46864"/>
+<dbReference type="PRIDE" id="Q46864"/>
+<dbReference type="EnsemblBacteria" id="AAC76057">
+<property type="protein sequence ID" value="AAC76057"/>
+<property type="gene ID" value="b3021"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77077">
+<property type="protein sequence ID" value="BAE77077"/>
+<property type="gene ID" value="BAE77077"/>
+</dbReference>
+<dbReference type="GeneID" id="945814"/>
+<dbReference type="KEGG" id="ecj:JW2989"/>
+<dbReference type="KEGG" id="eco:b3021"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3709"/>
+<dbReference type="EchoBASE" id="EB2840"/>
+<dbReference type="EcoGene" id="EG13022">
+<property type="gene designation" value="mqsA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105WJ3">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1396">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000151625"/>
+<dbReference type="KO" id="K13655"/>
+<dbReference type="BioCyc" id="EcoCyc:G7571-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2989-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7571-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="Q46864"/>
+<dbReference type="PRO" id="PR:Q46864"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00093">
+<property type="entry name" value="HTH_XRE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001387">
+<property type="entry name" value="Cro/C1-type_HTH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010982">
+<property type="entry name" value="Lambda_DNA-bd_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022452">
+<property type="entry name" value="MqsA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032758">
+<property type="entry name" value="MqsA/HigA-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022453">
+<property type="entry name" value="Znf_MqsA-type"/>
+</dbReference>
+<dbReference type="Pfam" id="PF15731">
+<property type="entry name" value="MqsA_antitoxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00530">
+<property type="entry name" value="HTH_XRE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47413">
+<property type="entry name" value="SSF47413"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03830">
+<property type="entry name" value="CxxCG_CxxCG_HTH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03831">
+<property type="entry name" value="YgiT_finger"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50943">
+<property type="entry name" value="HTH_CROC1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Antitoxin MqsA" id="PRO_0000149762">
+<location>
+<begin position="1"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="domain" description="HTH cro/C1-type" evidence="4">
+<location>
+<begin position="74"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="4">
+<location>
+<begin position="85"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; structural" evidence="8 10 11 13">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; structural" evidence="8 10 11 13">
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; structural" evidence="8 10 11 13">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; structural" evidence="8 10 11 13">
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases DNA-binding, decreases thermostability of MqsR-MqsA complex." evidence="14">
+<original>R</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes DNA-binding, including binding to the rpoS promoter." evidence="11 12">
+<original>NAFSR</original>
+<variation>AAFSA</variation>
+<location>
+<begin position="97"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="50-fold reduction in DNA-binding." evidence="11">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="10-fold reduction in DNA-binding." evidence="11">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="4"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="7"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="25"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="38"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="47"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="71"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="98"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="127"/>
+<end position="130"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3FMY"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3GA8"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HI2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00257"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16768798"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19690171"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19943910"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20041169"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20105222"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20823526"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21068382"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21516113"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22789559"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23172222"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23432955"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25534751"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="19690171"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="20041169"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="20105222"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21516113"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="24212724"/>
+</source>
+</evidence>
+<sequence length="131" mass="14703" checksum="AA26A2793AD84447" modified="1996-11-01" version="1">
+MKCPVCHQGEMVSGIKDIPYTFRGRKTVLKGIHGLYCVHCEESIMNKEESDAFMAQVKAF
+RASVNAETVAPEFIVKVRKKLSLTQKEASEIFGGGVNAFSRYEKGNAQPHPSTIKLLRVL
+DKHPELLNEIR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

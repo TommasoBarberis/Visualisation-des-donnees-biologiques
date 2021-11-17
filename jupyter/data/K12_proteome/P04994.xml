@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1987-08-13" modified="2019-05-08" version="160">
+<accession>P04994</accession>
+<accession>P78230</accession>
+<name>EX7L_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Exodeoxyribonuclease 7 large subunit</fullName>
+<ecNumber evidence="1">3.1.11.6</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Exodeoxyribonuclease VII large subunit</fullName>
+<shortName evidence="1">Exonuclease VII large subunit</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">xseA</name>
+<name type="ordered locus">b2509</name>
+<name type="ordered locus">JW2493</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="14929" last="14935">
+<title>Escherichia coli exonuclease VII. Cloning and sequencing of the gene encoding the large subunit (xseA).</title>
+<authorList>
+<person name="Chase J.W."/>
+<person name="Rabin B.A."/>
+<person name="Murphy J.B."/>
+<person name="Stone K.L."/>
+<person name="Williams K.R."/>
+</authorList>
+<dbReference type="PubMed" id="3021756"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="8799" last="8805">
+<title>Subunit structure of Escherichia coli exonuclease VII.</title>
+<authorList>
+<person name="Vales L.D."/>
+<person name="Rabin B.A."/>
+<person name="Chase J.W."/>
+</authorList>
+<dbReference type="PubMed" id="6284744"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text>Bidirectionally degrades single-stranded DNA into large acid-insoluble oligonucleotides, which are then degraded further into small acid-soluble oligonucleotides. It can also degrade 3' or 5' ss regions extending from the termini of duplex DNA molecules and displaced ss regions.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>Exonucleolytic cleavage in either 5'- to 3'- or 3'- to 5'-direction to yield nucleoside 5'-phosphates.</text>
+<dbReference type="EC" id="3.1.11.6"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="2">Heterooligomer composed of two different subunits with an approximate ratio of 4 small subunits for 1 large.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559703"/>
+<interactant intactId="EBI-559711">
+<id>P76168</id>
+<label>intQ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the XseA family.</text>
+</comment>
+<dbReference type="EC" id="3.1.11.6" evidence="1"/>
+<dbReference type="EMBL" id="J02599">
+<property type="protein sequence ID" value="AAA24766.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75562.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16396.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65027">
+<property type="entry name" value="NCEC7"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417004.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000937912.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P04994"/>
+<dbReference type="BioGrid" id="4263222">
+<property type="interactions" value="85"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-4005">
+<property type="entry name" value="Exodeoxyribonuclease VII complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11146N"/>
+<dbReference type="IntAct" id="P04994">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2509"/>
+<dbReference type="jPOST" id="P04994"/>
+<dbReference type="PaxDb" id="P04994"/>
+<dbReference type="PRIDE" id="P04994"/>
+<dbReference type="DNASU" id="946988"/>
+<dbReference type="EnsemblBacteria" id="AAC75562">
+<property type="protein sequence ID" value="AAC75562"/>
+<property type="gene ID" value="b2509"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16396">
+<property type="protein sequence ID" value="BAA16396"/>
+<property type="gene ID" value="BAA16396"/>
+</dbReference>
+<dbReference type="GeneID" id="946988"/>
+<dbReference type="KEGG" id="ecj:JW2493"/>
+<dbReference type="KEGG" id="eco:b2509"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4227"/>
+<dbReference type="EchoBASE" id="EB1065"/>
+<dbReference type="EcoGene" id="EG11072">
+<property type="gene designation" value="xseA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DVS">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1570">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000229265"/>
+<dbReference type="InParanoid" id="P04994"/>
+<dbReference type="KO" id="K03601"/>
+<dbReference type="PhylomeDB" id="P04994"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11072-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2493-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11072-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.11.6">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P04994"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009318">
+<property type="term" value="C:exodeoxyribonuclease VII complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008855">
+<property type="term" value="F:exodeoxyribonuclease VII activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006308">
+<property type="term" value="P:DNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd04489">
+<property type="entry name" value="ExoVII_LU_OBF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00378">
+<property type="entry name" value="Exonuc_7_L"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003753">
+<property type="entry name" value="Exonuc_VII_L"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020579">
+<property type="entry name" value="Exonuc_VII_lsu_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025824">
+<property type="entry name" value="OB-fold_nuc-bd_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30008">
+<property type="entry name" value="PTHR30008"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02601">
+<property type="entry name" value="Exonuc_VII_L"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13742">
+<property type="entry name" value="tRNA_anti_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00237">
+<property type="entry name" value="xseA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Exodeoxyribonuclease 7 large subunit" id="PRO_0000197845">
+<location>
+<begin position="1"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24766." ref="1" evidence="3">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00378"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6284744"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="456" mass="51832" checksum="A5E5B138C54A7D27" modified="1997-11-01" version="2">
+MLPSQSPAIFTVSRLNQTVRLLLEHEMGQVWISGEISNFTQPASGHWYFTLKDDTAQVRC
+AMFRNSNRRVTFRPQHGQQVLVRANITLYEPRGDYQIIVESMQPAGEGLLQQKYEQLKAK
+LQAEGLFDQQYKKPLPSPAHCVGVITSKTGAALHDILHVLKRRDPSLPVIIYPAAVQGDD
+APGQIVRAIELANQRNECDVLIVGRGGGSLEDLWSFNDERVARAIFTSRIPVVSAVGHET
+DVTIADFVADLRAPTPSAAAEVVSRNQQELLRQVQSTRQRLEMAMDYYLANRTRRFTQIH
+HRLQQQHPQLRLARQQTMLERLQKRMSFALENQLKRTGQQQQRLTQRLNQQNPQPKIHRA
+QTRIQQLEYRLAETLRAQLSATRERFGNAVTHLEAVSPLSTLARGYSVTTATDGNVLKKV
+KQVKAGEMLTTRLEDGWIESEVKNIQPVKKSRKKVH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

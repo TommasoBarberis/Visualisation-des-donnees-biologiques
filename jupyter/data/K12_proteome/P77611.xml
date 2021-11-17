@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-10-24" modified="2019-05-08" version="165">
+<accession>P77611</accession>
+<name>RSXC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 4">Ion-translocating oxidoreductase complex subunit C</fullName>
+<ecNumber evidence="1 4">7.-.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1 4">Rsx electron transport complex subunit C</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 3">rsxC</name>
+<name type="synonym">rnfC</name>
+<name type="synonym">ydgN</name>
+<name type="ordered locus">b1629</name>
+<name type="ordered locus">JW1621</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="EMBO J." volume="22" first="2614" last="2622">
+<title>A reducing system of the superoxide sensor SoxR in Escherichia coli.</title>
+<authorList>
+<person name="Koo M.S."/>
+<person name="Lee J.H."/>
+<person name="Rah S.Y."/>
+<person name="Yeo W.S."/>
+<person name="Lee J.W."/>
+<person name="Lee K.L."/>
+<person name="Koh Y.S."/>
+<person name="Kang S.O."/>
+<person name="Roe J.H."/>
+</authorList>
+<dbReference type="PubMed" id="12773378"/>
+<dbReference type="DOI" id="10.1093/emboj/cdg252"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>GENE NAME</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2">Part of a membrane-bound complex that couples electron transfer with translocation of ions across the membrane (By similarity). Required to maintain the reduced state of SoxR. Probably transfers electron from NAD(P)H to SoxR (PubMed:12773378).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="1">Binds 2 [4Fe-4S] clusters per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 5">The complex is composed of six subunits: RsxA, RsxB, RsxC, RsxD, RsxE and RsxG.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cell inner membrane</location>
+<topology evidence="1">Peripheral membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the 4Fe4S bacterial-type ferredoxin family. RnfC subfamily.</text>
+</comment>
+<dbReference type="EC" id="7.-.-.-" evidence="1 4"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74701.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15384.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64919">
+<property type="entry name" value="G64919"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416146.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000915778.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4261728">
+<property type="interactions" value="153"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-28084N"/>
+<dbReference type="IntAct" id="P77611">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1629"/>
+<dbReference type="TCDB" id="3.D.6.1.4">
+<property type="family name" value="the putative ion (h(+) or na(+))-translocating nadh:ferredoxin oxidoreductase (nfo or rnf) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P77611"/>
+<dbReference type="PaxDb" id="P77611"/>
+<dbReference type="PRIDE" id="P77611"/>
+<dbReference type="EnsemblBacteria" id="AAC74701">
+<property type="protein sequence ID" value="AAC74701"/>
+<property type="gene ID" value="b1629"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15384">
+<property type="protein sequence ID" value="BAA15384"/>
+<property type="gene ID" value="BAA15384"/>
+</dbReference>
+<dbReference type="GeneID" id="946137"/>
+<dbReference type="KEGG" id="ecj:JW1621"/>
+<dbReference type="KEGG" id="eco:b1629"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.632"/>
+<dbReference type="EchoBASE" id="EB3694"/>
+<dbReference type="EcoGene" id="EG13935">
+<property type="gene designation" value="rsxC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107QTR">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4656">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000279299"/>
+<dbReference type="InParanoid" id="P77611"/>
+<dbReference type="KO" id="K03615"/>
+<dbReference type="PhylomeDB" id="P77611"/>
+<dbReference type="BioCyc" id="EcoCyc:G6873-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1621-MONOMER"/>
+<dbReference type="PRO" id="PR:P77611"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009055">
+<property type="term" value="F:electron transfer activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1060.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.11540">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00461">
+<property type="entry name" value="RsxC_RnfC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017896">
+<property type="entry name" value="4Fe4S_Fe-S-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017900">
+<property type="entry name" value="4Fe4S_Fe_S_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009051">
+<property type="entry name" value="Helical_ferredxn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010208">
+<property type="entry name" value="Ion_transpt_RnfC/RsxC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011538">
+<property type="entry name" value="Nuo51_FMN-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037225">
+<property type="entry name" value="Nuo51_FMN-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026902">
+<property type="entry name" value="RnfC_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019554">
+<property type="entry name" value="Soluble_ligand-bd"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43034">
+<property type="entry name" value="PTHR43034"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01512">
+<property type="entry name" value="Complex1_51K"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12838">
+<property type="entry name" value="Fer4_7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13375">
+<property type="entry name" value="RnfC_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10531">
+<property type="entry name" value="SLBB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF142019">
+<property type="entry name" value="SSF142019"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46548">
+<property type="entry name" value="SSF46548"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01945">
+<property type="entry name" value="rnfC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00198">
+<property type="entry name" value="4FE4S_FER_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51379">
+<property type="entry name" value="4FE4S_FER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0249">Electron transport</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-1278">Translocase</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Ion-translocating oxidoreductase complex subunit C" id="PRO_0000073205">
+<location>
+<begin position="1"/>
+<end position="740"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 1" evidence="1">
+<location>
+<begin position="369"/>
+<end position="397"/>
+</location>
+</feature>
+<feature type="domain" description="4Fe-4S ferredoxin-type 2" evidence="1">
+<location>
+<begin position="407"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1">
+<location>
+<position position="377"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1">
+<location>
+<position position="380"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1">
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1">
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1">
+<location>
+<position position="416"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1">
+<location>
+<position position="419"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S)" evidence="1">
+<location>
+<position position="422"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="1">
+<location>
+<position position="426"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00461"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12773378"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12773378"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12773378"/>
+</source>
+</evidence>
+<sequence length="740" mass="80172" checksum="381506475CD6E01F" modified="1997-02-01" version="1">
+MLKLFSAFRKNKIWDFNGGIHPPEMKTQSNGTPLRQVPLAQRFVIPLKQHIGAEGELCVS
+VGDKVLRGQPLTRGRGKMLPVHAPTSGTVTAIAPHSTAHPSALAELSVIIDADGEDCWIP
+RDGWADYRTRSREELIERIHQFGVAGLGGAGFPTGVKLQGGGDKIETLIINAAECEPYIT
+ADDRLMQDCAAQVVEGIRILAHILQPREILIGIEDNKPQAISMLRAVLADSNDISLRVIP
+TKYPSGGAKQLTYILTGKQVPHGGRSSDIGVLMQNVGTAYAVKRAVIDGEPITERVVTLT
+GEAIARPGNVWARLGTPVRHLLNDAGFCPSADQMVIMGGPLMGFTLPWLDVPVVKITNCL
+LAPSANELGEPQEEQSCIRCSACADACPADLLPQQLYWFSKGQQHDKATTHNIADCIECG
+ACAWVCPSNIPLVQYFRQEKAEIAAIRQEEKRAAEAKARFEARQARLEREKAARLERHKS
+AAVQPAAKDKDAIAAALARVKEKQAQATQPIVIKAGERPDNSAIIAAREARKAQARAKQA
+ELQQTNDAATVADPRKTAVEAAIARAKARKLEQQQANAEPEQQVDPRKAAVEAAIARAKA
+RKLEQQQANAEPEEQVDPRKAAVEAAIARAKARKLEQQQANAEPEQQVDPRKAAVEAAIA
+RAKARKREQQPANAEPEEQVDPRKAAVEAAIARAKARKLEQQQANAVPEEQVDPRKAAVA
+AAIARAQAKKAAQQKVVNED
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

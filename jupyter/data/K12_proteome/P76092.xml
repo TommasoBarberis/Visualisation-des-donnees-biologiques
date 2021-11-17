@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2019-06-05" version="126">
+<accession>P76092</accession>
+<accession>Q2MBC5</accession>
+<name>YNBC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Uncharacterized protein YnbC</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ynbC</name>
+<name type="ordered locus">b1410</name>
+<name type="ordered locus">JW1407</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1996-05" db="EMBL/GenBank/DDBJ databases">
+<title>Nucleotide sequence of the replication terminus region of Escherichia coli.</title>
+<authorList>
+<person name="Kitakawa M."/>
+<person name="Kasai H."/>
+<person name="Baba T."/>
+<person name="Honjo A."/>
+<person name="Isono K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-544837"/>
+<interactant intactId="EBI-545305">
+<id>P77398</id>
+<label>arnA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544837"/>
+<interactant intactId="EBI-549176">
+<id>P28632</id>
+<label>holD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544837"/>
+<interactant intactId="EBI-560799">
+<id>P76340</id>
+<label>hprR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544837"/>
+<interactant intactId="EBI-546919">
+<id>P13458</id>
+<label>sbcC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544837"/>
+<interactant intactId="EBI-558448">
+<id>P15082</id>
+<label>srlR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<dbReference type="EMBL" id="D85081">
+<property type="protein sequence ID" value="BAA25406.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74492.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76431.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64892">
+<property type="entry name" value="E64892"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415928.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000431845.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P76092"/>
+<dbReference type="BioGrid" id="4263023">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12744N"/>
+<dbReference type="IntAct" id="P76092">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1410"/>
+<dbReference type="ESTHER" id="ecoli-YNBC">
+<property type="family name" value="Monoglyceridelipase_lysophospholip"/>
+</dbReference>
+<dbReference type="MEROPS" id="S33.A54"/>
+<dbReference type="PaxDb" id="P76092"/>
+<dbReference type="PRIDE" id="P76092"/>
+<dbReference type="EnsemblBacteria" id="AAC74492">
+<property type="protein sequence ID" value="AAC74492"/>
+<property type="gene ID" value="b1410"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76431">
+<property type="protein sequence ID" value="BAE76431"/>
+<property type="gene ID" value="BAE76431"/>
+</dbReference>
+<dbReference type="GeneID" id="945970"/>
+<dbReference type="KEGG" id="ecj:JW1407"/>
+<dbReference type="KEGG" id="eco:b1410"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.861"/>
+<dbReference type="EchoBASE" id="EB3513"/>
+<dbReference type="EcoGene" id="EG13750">
+<property type="gene designation" value="ynbC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E8V">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2267">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000259033"/>
+<dbReference type="InParanoid" id="P76092"/>
+<dbReference type="PhylomeDB" id="P76092"/>
+<dbReference type="BioCyc" id="EcoCyc:G6729-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1407-MONOMER"/>
+<dbReference type="PRO" id="PR:P76092"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1820">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029058">
+<property type="entry name" value="AB_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022742">
+<property type="entry name" value="Hydrolase_4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022744">
+<property type="entry name" value="MeTrfase_dom_put"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12146">
+<property type="entry name" value="Hydrolase_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12147">
+<property type="entry name" value="Methyltransf_20"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53474">
+<property type="entry name" value="SSF53474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Uncharacterized protein YnbC" id="PRO_0000168923">
+<location>
+<begin position="1"/>
+<end position="585"/>
+</location>
+</feature>
+<sequence length="585" mass="65456" checksum="D16220643157F1B0" modified="1997-02-01" version="1">
+MENSRIPGEHFFTTSDNTALFYRHWPALQPGAKKVIVLFHRGHEHSGRLQHLVDELAMPD
+TAFYAWDARGHGKSSGPRGYSPSLARSVRDVDEFVRFAASDSQVGLEEVVVIAQSVGAVL
+VATWIHDYAPAIRGLVLASPAFKVKLYVPLARPALALWHRLRGLFFINSYVKGRYLTHDR
+QRGASFNNDPLITRAIAVNILLDLYKTSERIIRDAAAITLPTQLLISGDDYVVHRQPQID
+FYQRLRSPLKELHLLPGFYHDTLGEENRALAFEKMQSFISRLYANKSQKFDYQHEDCTGP
+SADRWRLLSGGPVPLSPVDLAYRFMRKAMKLFGTHSSGLHLGMSTGFDSGSSLDYVYQNQ
+PQGSNAFGRLVDKIYLNSVGWRGIRQRKTHLQILIKQAVADLHAKGLAVRVVDIAAGHGR
+YVLDALANEPAVSDILLRDYSELNVAQGQEMIAQRGMSGRVRFEQGDAFNPEELSALTPR
+PTLAIVSGLYELFPENEQVKNSLAGLANAIEPGGILIYTGQPWHPQLEMIAGVLTSHKDG
+KPWVMRVRSQGEMDSLVRDAGFDKCTQRIDEWGIFTVSMAVRRDN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

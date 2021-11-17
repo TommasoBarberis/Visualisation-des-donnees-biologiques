@@ -1,0 +1,699 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-05-08" version="115">
+<accession>P36675</accession>
+<accession>Q2EET4</accession>
+<accession>Q2M6V6</accession>
+<name>ARFA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="16">Alternative ribosome-rescue factor A</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="16">arfA</name>
+<name type="synonym">yhdL</name>
+<name type="ordered locus">b4550</name>
+<name type="ordered locus">JW3253</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Gene" volume="146" first="131" last="132">
+<title>A merR homologue at 74 minutes on the Escherichia coli genome.</title>
+<authorList>
+<person name="Christie G.E."/>
+<person name="White T.J."/>
+<person name="Goodwin T.S."/>
+</authorList>
+<dbReference type="PubMed" id="8063098"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90847-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="78" first="796" last="808">
+<title>Ribosome rescue by Escherichia coli ArfA (YhdL) in the absence of trans-translation system.</title>
+<authorList>
+<person name="Chadani Y."/>
+<person name="Ono K."/>
+<person name="Ozawa S."/>
+<person name="Takahashi Y."/>
+<person name="Takai K."/>
+<person name="Nanamiya H."/>
+<person name="Tozawa Y."/>
+<person name="Kutsukake K."/>
+<person name="Abo T."/>
+</authorList>
+<dbReference type="PubMed" id="21062370"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07375.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RIBOSOME</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ALA-18</scope>
+<scope>GENE NAME</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="80" first="1204" last="1219">
+<title>tmRNA regulates synthesis of the ArfA ribosome rescue factor.</title>
+<authorList>
+<person name="Garza-Sanchez F."/>
+<person name="Schaub R.E."/>
+<person name="Janssen B.D."/>
+<person name="Hayes C.S."/>
+</authorList>
+<dbReference type="PubMed" id="21435036"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2011.07638.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REGULATION OF SYNTHESIS</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Genes Genet. Syst." volume="86" first="151" last="163">
+<title>trans-translation-mediated tight regulation of the expression of the alternative ribosome-rescue factor ArfA in Escherichia coli.</title>
+<authorList>
+<person name="Chadani Y."/>
+<person name="Matsumoto E."/>
+<person name="Aso H."/>
+<person name="Wada T."/>
+<person name="Kutsukake K."/>
+<person name="Sutou S."/>
+<person name="Abo T."/>
+</authorList>
+<dbReference type="PubMed" id="21952205"/>
+<dbReference type="DOI" id="10.1266/ggs.86.151"/>
+</citation>
+<scope>REGULATION OF SYNTHESIS</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Mol. Microbiol." volume="86" first="37" last="50">
+<title>ArfA recruits release factor 2 to rescue stalled ribosomes by peptidyl-tRNA hydrolysis in Escherichia coli.</title>
+<authorList>
+<person name="Chadani Y."/>
+<person name="Ito K."/>
+<person name="Kutsukake K."/>
+<person name="Abo T."/>
+</authorList>
+<dbReference type="PubMed" id="22857598"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2012.08190.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TRNA-BINDING</scope>
+<scope>MUTAGENESIS OF ALA-18</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="J. Mol. Biol." volume="423" first="624" last="631">
+<title>ArfA recruits RF2 into stalled ribosomes.</title>
+<authorList>
+<person name="Shimizu Y."/>
+</authorList>
+<dbReference type="PubMed" id="22922063"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2012.08.007"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ALA-18</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2014" name="Nucleic Acids Res." volume="42" first="13339" last="13352">
+<title>ArfA recognizes the lack of mRNA in the mRNA channel after RF2 binding for ribosome rescue.</title>
+<authorList>
+<person name="Kurita D."/>
+<person name="Chadani Y."/>
+<person name="Muto A."/>
+<person name="Abo T."/>
+<person name="Himeno H."/>
+</authorList>
+<dbReference type="PubMed" id="25355516"/>
+<dbReference type="DOI" id="10.1093/nar/gku1069"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH 16S RRNA</scope>
+<scope>MUTAGENESIS OF ALA-18 AND LYS-34</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2017" name="Nature" volume="541" first="550" last="553">
+<title>Mechanistic insights into the alternative translation termination by ArfA and RF2.</title>
+<authorList>
+<person name="Ma C."/>
+<person name="Kurita D."/>
+<person name="Li N."/>
+<person name="Chen Y."/>
+<person name="Himeno H."/>
+<person name="Gao N."/>
+</authorList>
+<dbReference type="PubMed" id="27906160"/>
+<dbReference type="DOI" id="10.1038/nature20822"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.0 ANGSTROMS) OF 1-55 IN COMPLEX WITH 70S RIBOSOME AND RF2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RF2</scope>
+<scope>INTERACTION WITH S12</scope>
+<scope>INTERACTION WITH 16S RRNA</scope>
+<scope>INTERACTION WITH 23S RRNA</scope>
+<scope>MUTAGENESIS OF LEU-20; ARG-28; LYS-34; GLY-35; TYR-39 AND ARG-41</scope>
+</reference>
+<reference key="11" evidence="4">
+<citation type="journal article" date="2017" name="Nature" volume="541" first="546" last="549">
+<title>Structural basis for ArfA-RF2-mediated translation termination on mRNAs lacking stop codons.</title>
+<authorList>
+<person name="Huter P."/>
+<person name="Mueller C."/>
+<person name="Beckert B."/>
+<person name="Arenz S."/>
+<person name="Berninghausen O."/>
+<person name="Beckmann R."/>
+<person name="Wilson D.N."/>
+</authorList>
+<dbReference type="PubMed" id="27906161"/>
+<dbReference type="DOI" id="10.1038/nature20821"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.1 ANGSTROMS) OF 2-46 IN COMPLEX WITH 70S RIBOSOME AND RF2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RF2</scope>
+<scope>INTERACTION WITH S12</scope>
+<scope>INTERACTION WITH 16S RRNA</scope>
+</reference>
+<reference key="12" evidence="1 2 3">
+<citation type="journal article" date="2016" name="Science" volume="354" first="1437" last="1440">
+<title>Translational termination without a stop codon.</title>
+<authorList>
+<person name="James N.R."/>
+<person name="Brown A."/>
+<person name="Gordiyenko Y."/>
+<person name="Ramakrishnan V."/>
+</authorList>
+<dbReference type="PubMed" id="27934701"/>
+<dbReference type="DOI" id="10.1126/science.aai9127"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (2.97 ANGSTROMS) OF 1-60 IN COMPLEX WITH 70S RIBOSOME AND RF2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RF2</scope>
+<scope>INTERACTION WITH 16S RRNA</scope>
+<scope>INTERACTION WITH 23S RRNA</scope>
+</reference>
+<reference key="13" evidence="5 6">
+<citation type="journal article" date="2017" name="Nature" volume="541" first="554" last="557">
+<title>Structural basis of co-translational quality control by ArfA and RF2 bound to ribosome.</title>
+<authorList>
+<person name="Zeng F."/>
+<person name="Chen Y."/>
+<person name="Remis J."/>
+<person name="Shekhar M."/>
+<person name="Phillips J.C."/>
+<person name="Tajkhorshid E."/>
+<person name="Jin H."/>
+</authorList>
+<dbReference type="PubMed" id="28077875"/>
+<dbReference type="DOI" id="10.1038/nature21053"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.52 ANGSTROMS) OF 1-55 IN COMPLEX WITH 70S RIBOSOME AND RF2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RF2</scope>
+<scope>INTERACTION WITH 16S RRNA</scope>
+<scope>INTERACTION WITH 23S RRNA</scope>
+<scope>MUTAGENESIS OF 1-MET--ALA-18; LYS-8; GLY-9; ILE-11; PRO-23; ARG-28; GLU-30; LYS-34; LYS-36 AND ARG-41</scope>
+</reference>
+<comment type="function">
+<text evidence="7 8 9 10 11 12 13 14 15">Rescues ribosomes stalled at the 3' end of non-stop mRNAs (PubMed:21062370, PubMed:21435036). This activity is crucial when the stalled ribosome cannot be rescued by the SsrA(tmRNA)-SmpB quality control system (PubMed:21062370, PubMed:21435036). Binds the 30S subunit, contacting 16S rRNA with the N-terminus near the decoding center and its C-terminus in the mRNA entry channel; contacts change in the presence of release factor 2 (RF2, also named PrfB) (PubMed:25355516, PubMed:27906160, PubMed:27906161, PubMed:27934701, PubMed:28077875). Requires RF2/PrfB to hydrolyze stalled peptidyl-tRNA on the ribosome; recruits and probably helps position RF2/PrfB correctly in the ribosomal A site so RF2's GGQ motif can hydrolyze the peptidyl-tRNA bond (PubMed:22857598, PubMed:22922063, PubMed:25355516, PubMed:27906160, PubMed:27906161, PubMed:27934701, PubMed:28077875). Does not release ribosomes with a programmed pause caused by regulatory chains such as SecM-mediated pausing (PubMed:22857598). Binds tRNA which may stimulate its ribosome rescue activity (PubMed:22857598).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 11 12 13 14 15">Interacts with the 50S ribosomal subunit (PubMed:21062370, PubMed:25355516, PubMed:27906160, PubMed:27906161, PubMed:27934701, PubMed:28077875). Interacts with RF2/PrfB on the ribosome (PubMed:27906160, PubMed:27906161, PubMed:27934701, PubMed:28077875). Contacts ribosomal protein S12 (rpsL) (PubMed:27906160, PubMed:27906161).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="7">Cells lacking this gene are viable, but those lacking both arfA and ssrA are non-viable (PubMed:21062370).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="18 19">Active protein is only produced when SsrA(tmRNA)-SmpB-mediated trans translation is limited. ArfA can be synthesized from truncated mRNA, via ribonuclease 3 and the SsrA tagging system. The arfA mRNA is cleaved by ribonuclease 3 within a hairpin structure, probably immediately after the Gly-55 codon, which produces a truncated non-stop transcript and leads to ribosome arrest. In the presence of SsrA, the stalled ribosome is rescued and the incomplete nascent ArfA is tagged for degradation. In the absence of SsrA, truncated ArfA chains are released from the ribosome and are functional. Truncated ArfA could be more active than full-length protein (PubMed:21435036, PubMed:21952205).</text>
+</comment>
+<comment type="similarity">
+<text evidence="17">Belongs to the alternative ribosome-rescue factor A family.</text>
+</comment>
+<comment type="caution">
+<text evidence="12 13 14 15">In all 3D-structures with RF2/PrfB and the 70S ribosome this protein is seen to contact 16S rRNA (PubMed:27906160, PubMed:27906161, PubMed:27934701, PubMed:28077875). In most is also seen to contact 23S rRNA (PubMed:27906160, PubMed:27934701, PubMed:28077875). Contact with ribosomal protein S12 is also reported sometimes (PubMed:27906160, PubMed:27906161). These discrepancies may be due to interpretation of results.</text>
+</comment>
+<dbReference type="EMBL" id="L29458">
+<property type="protein sequence ID" value="AAA24772.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="ABD18700.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78000.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="I67891">
+<property type="entry name" value="I67891"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000092696.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_588467.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="PDB" id="5H5U">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="3=1-72"/>
+</dbReference>
+<dbReference type="PDB" id="5MDV">
+<property type="method" value="EM"/>
+<property type="resolution" value="2.97"/>
+<property type="chains" value="6=1-60"/>
+</dbReference>
+<dbReference type="PDB" id="5MDW">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.06"/>
+<property type="chains" value="6=1-60"/>
+</dbReference>
+<dbReference type="PDB" id="5MDY">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.35"/>
+<property type="chains" value="6=1-60"/>
+</dbReference>
+<dbReference type="PDB" id="5MGP">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="w=2-46"/>
+</dbReference>
+<dbReference type="PDB" id="5U4I">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="w=1-55"/>
+</dbReference>
+<dbReference type="PDB" id="5U4J">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.70"/>
+<property type="chains" value="w=1-55"/>
+</dbReference>
+<dbReference type="PDB" id="5U9F">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="Y=1-72"/>
+</dbReference>
+<dbReference type="PDB" id="5U9G">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="Y=1-72"/>
+</dbReference>
+<dbReference type="PDB" id="6C4I">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.24"/>
+<property type="chains" value="w=1-55"/>
+</dbReference>
+<dbReference type="PDBsum" id="5H5U"/>
+<dbReference type="PDBsum" id="5MDV"/>
+<dbReference type="PDBsum" id="5MDW"/>
+<dbReference type="PDBsum" id="5MDY"/>
+<dbReference type="PDBsum" id="5MGP"/>
+<dbReference type="PDBsum" id="5U4I"/>
+<dbReference type="PDBsum" id="5U4J"/>
+<dbReference type="PDBsum" id="5U9F"/>
+<dbReference type="PDBsum" id="5U9G"/>
+<dbReference type="PDBsum" id="6C4I"/>
+<dbReference type="SMR" id="P36675"/>
+<dbReference type="BioGrid" id="4259344">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4550"/>
+<dbReference type="PaxDb" id="P36675"/>
+<dbReference type="PRIDE" id="P36675"/>
+<dbReference type="EnsemblBacteria" id="ABD18700">
+<property type="protein sequence ID" value="ABD18700"/>
+<property type="gene ID" value="b4550"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78000">
+<property type="protein sequence ID" value="BAE78000"/>
+<property type="gene ID" value="BAE78000"/>
+</dbReference>
+<dbReference type="GeneID" id="1450289"/>
+<dbReference type="KEGG" id="ecj:JW3253"/>
+<dbReference type="KEGG" id="eco:b4550"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3440"/>
+<dbReference type="EchoBASE" id="EB1911"/>
+<dbReference type="EcoGene" id="EG11968">
+<property type="gene designation" value="arfA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105VCN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3036">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000000578"/>
+<dbReference type="InParanoid" id="P36675"/>
+<dbReference type="KO" id="K09890"/>
+<dbReference type="BioCyc" id="EcoCyc:MONOMER0-2687"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3253-MONOMER"/>
+<dbReference type="PRO" id="PR:P36675"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043023">
+<property type="term" value="F:ribosomal large subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072344">
+<property type="term" value="P:rescue of stalled ribosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005589">
+<property type="entry name" value="ArfA"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03889">
+<property type="entry name" value="ArfA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="chain" description="Alternative ribosome-rescue factor A" id="PRO_0000169494">
+<location>
+<begin position="1"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% decrease in kcat for peptidyl-transferase by RF2." evidence="15">
+<location>
+<begin position="1"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="75% decrease in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="75% decrease in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% decrease in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in ribosome rescue activity." evidence="11">
+<original>A</original>
+<variation>C</variation>
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ribosome rescue activity. Does not affect binding to the ribosome or to tRNA. Still recruits RF2 to the ribosome." evidence="7 9 10">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 50% ribosome rescue activity, initial rate." evidence="12">
+<original>L</original>
+<variation>C</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="50% decrease in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 50% ribosome rescue activity, initial rate." evidence="12">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 75% ribosome rescue activity, after 10 minutes. About 50% ribosome rescue activity, initial rate." evidence="11 12">
+<original>K</original>
+<variation>C</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 50% ribosome rescue activity, initial rate." evidence="12">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 25% ribosome rescue activity, initial rate." evidence="12">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in kcat for peptidyl-transferase by RF2." evidence="15">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About 20% ribosome rescue activity, initial rate." evidence="12">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5MDV"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5MDW"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5MDY"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5MGP"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5U4I"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5U4J"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21062370"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21435036"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22857598"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22922063"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25355516"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27906160"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27906161"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27934701"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28077875"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21062370"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21435036"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21952205"/>
+</source>
+</evidence>
+<sequence length="72" mass="8171" checksum="2F4025A3650CCA16" modified="1994-06-01" version="1">
+MSRYQHTKGQIKDNAIEALLHDPLFRQRVEKNKKGKGSYMRKGKHGNRGNWEASGKKVNH
+FFTTGLLLSGAC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

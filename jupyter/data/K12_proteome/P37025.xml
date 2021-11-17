@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-05-08" version="130">
+<accession>P37025</accession>
+<accession>Q8KJQ1</accession>
+<name>THPR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 6">RNA 2',3'-cyclic phosphodiesterase</fullName>
+<shortName evidence="2 6">RNA 2',3'-CPDase</shortName>
+<ecNumber evidence="2 3">3.1.4.58</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Two-histidine 2',3'-cyclic phosphodiesterase acting on RNA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 6">thpR</name>
+<name type="synonym" evidence="10">ligT</name>
+<name type="synonym">yadP</name>
+<name type="ordered locus">b0147</name>
+<name type="ordered locus">JW5011</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="2644" last="2648">
+<title>Nucleotide sequence and characterization of the sfs1 gene: sfs1 is involved in CRP*-dependent mal gene expression in Escherichia coli.</title>
+<authorList>
+<person name="Kawamukai M."/>
+<person name="Utsumi R."/>
+<person name="Takeda K."/>
+<person name="Higashi A."/>
+<person name="Matsuda H."/>
+<person name="Choi Y.-L."/>
+<person name="Komano T."/>
+</authorList>
+<dbReference type="PubMed" id="2013578"/>
+<dbReference type="DOI" id="10.1128/jb.173.8.2644-2648.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 107-176</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="31145" last="31153">
+<title>The 2'-5' RNA ligase of Escherichia coli. Purification, cloning, and genomic disruption.</title>
+<authorList>
+<person name="Arn E.A."/>
+<person name="Abelson J.N."/>
+</authorList>
+<dbReference type="PubMed" id="8940112"/>
+<dbReference type="DOI" id="10.1074/jbc.271.49.31145"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-23</scope>
+<scope>FUNCTION AS A LIGASE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1983" name="Cell" volume="33" first="899" last="906">
+<title>RNA ligase in bacteria: formation of a 2',5' linkage by an E. coli extract.</title>
+<authorList>
+<person name="Greer C.L."/>
+<person name="Javor B."/>
+<person name="Abelson J."/>
+</authorList>
+<dbReference type="PubMed" id="6347395"/>
+<dbReference type="DOI" id="10.1016/0092-8674(83)90032-6"/>
+</citation>
+<scope>FUNCTION AS A LIGASE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2014" name="RNA" volume="20" first="1697" last="1705">
+<title>Structure and mechanism of E. coli RNA 2',3'-cyclic phosphodiesterase.</title>
+<authorList>
+<person name="Remus B.S."/>
+<person name="Jacewicz A."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="25239919"/>
+<dbReference type="DOI" id="10.1261/rna.046797.114"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.02 ANGSTROMS) IN COMPLEX WITH AMP</scope>
+<scope>FUNCTION AS A PHOSPHODIESTERASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF HIS-43; THR-45; PHE-48; HIS-125; THR-127 AND ARG-130</scope>
+<scope>ACTIVE SITES</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5">Hydrolyzes RNA 2',3'-cyclic phosphodiester to an RNA 2'-phosphomonoester (PubMed:25239919). In vitro, can also ligate 5' and 3' half-tRNA molecules with 2',3'-cyclic phosphate and 5'-hydroxyl termini, respectively, to the product containing the 2'-5' phosphodiester linkage. This reaction does not require ATP and is reversible (PubMed:6347395 and PubMed:8940112).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 3">
+<text>H2O + RNA(n)-2',3'-cyclic phosphate = H(+) + RNA(n)-2'- phosphate</text>
+<dbReference type="Rhea" id="RHEA:11828"/>
+<dbReference type="Rhea" id="RHEA-COMP:13350"/>
+<dbReference type="Rhea" id="RHEA-COMP:13351"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:136820"/>
+<dbReference type="ChEBI" id="CHEBI:136821"/>
+<dbReference type="EC" id="3.1.4.58"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="3">Monomer.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">Disruption abolishes ligase activity in cell lysates, but mutants grow normally under laboratory conditions.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 7">Belongs to the 2H phosphoesterase superfamily. ThpR family.</text>
+</comment>
+<comment type="caution">
+<text evidence="8 9">Was originally thought to be a 2',5'-RNA ligase.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="frameshift">
+<sequence resource="EMBL" id="M60726"/>
+</conflict>
+<location>
+<position position="168"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.1.4.58" evidence="2 3"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73258.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96724.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M60726">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C64738">
+<property type="entry name" value="C64738"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414689.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001294700.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4QAK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.02"/>
+<property type="chains" value="A/B=1-176"/>
+</dbReference>
+<dbReference type="PDBsum" id="4QAK"/>
+<dbReference type="SMR" id="P37025"/>
+<dbReference type="BioGrid" id="4259744">
+<property type="interactions" value="115"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0147"/>
+<dbReference type="PaxDb" id="P37025"/>
+<dbReference type="PRIDE" id="P37025"/>
+<dbReference type="EnsemblBacteria" id="AAC73258">
+<property type="protein sequence ID" value="AAC73258"/>
+<property type="gene ID" value="b0147"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96724">
+<property type="protein sequence ID" value="BAB96724"/>
+<property type="gene ID" value="BAB96724"/>
+</dbReference>
+<dbReference type="GeneID" id="944848"/>
+<dbReference type="KEGG" id="ecj:JW5011"/>
+<dbReference type="KEGG" id="eco:b0147"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2134"/>
+<dbReference type="EchoBASE" id="EB2234"/>
+<dbReference type="EcoGene" id="EG12330">
+<property type="gene designation" value="thpR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107XID">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1514">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000226389"/>
+<dbReference type="InParanoid" id="P37025"/>
+<dbReference type="KO" id="K01975"/>
+<dbReference type="PhylomeDB" id="P37025"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12330-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5011-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12330-MONOMER"/>
+<dbReference type="BRENDA" id="6.5.1.B1">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P37025"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004113">
+<property type="term" value="F:2',3'-cyclic-nucleotide 3'-phosphodiesterase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008664">
+<property type="term" value="F:2'-5'-RNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01940">
+<property type="entry name" value="RNA_CPDase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009097">
+<property type="entry name" value="cNuc_Pdiesterase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014051">
+<property type="entry name" value="Phosphoesterase_HXTX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004175">
+<property type="entry name" value="RNA_CPDase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR35561">
+<property type="entry name" value="PTHR35561"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02834">
+<property type="entry name" value="LigT_PEase"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55144">
+<property type="entry name" value="SSF55144"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02258">
+<property type="entry name" value="2_5_ligase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="RNA 2',3'-cyclic phosphodiesterase" id="PRO_0000084421">
+<location>
+<begin position="2"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="HXTX 1" evidence="2 7">
+<location>
+<begin position="43"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="HXTX 2" evidence="2 7">
+<location>
+<begin position="125"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="2 3">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2 3">
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of CPDase activity." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of CPDase activity." evidence="3">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases CPDase activity." evidence="3">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of CPDase activity." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect CPDase activity." evidence="3">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of CPDase activity." evidence="3">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; M60726." ref="4" evidence="7">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="15"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="31"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="39"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="44"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="54"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="72"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="78"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="83"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="87"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="97"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="126"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="146"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="151"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="161"/>
+<end position="173"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QAK"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01940"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25239919"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6347395"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8940112"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="25239919"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="6347395"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8940112"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000312">
+<source>
+<dbReference type="EcoGene" id="EG12330"/>
+</source>
+</evidence>
+<sequence length="176" mass="19934" checksum="9DAA9FB3CE4F777E" modified="2007-01-23" version="3">
+MSEPQRLFFAIDLPAEIREQIIHWRATHFPPEAGRPVAADNLHLTLAFLGEVSAEKEKAL
+SLLAGRIRQPGFTLTLDDAGQWLRSRVVWLGMRQPPRGLIQLANMLRSQAARSGCFQSNR
+PFHPHITLLRDASEAVTIPPPGFNWSYAVTEFTLYASSFARGRTRYTPLKRWALTQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

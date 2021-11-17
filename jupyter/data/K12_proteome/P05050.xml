@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1987-08-13" modified="2019-05-08" version="153">
+<accession>P05050</accession>
+<name>ALKB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Alpha-ketoglutarate-dependent dioxygenase AlkB</fullName>
+<ecNumber>1.14.11.33</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Alkylated DNA repair protein AlkB</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>DNA oxidative demethylase AlkB</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">alkB</name>
+<name type="synonym">aidD</name>
+<name type="ordered locus">b2212</name>
+<name type="ordered locus">JW2200</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="15772" last="15777">
+<title>Structure and expression of the alkB gene of Escherichia coli related to the repair of alkylated DNA.</title>
+<authorList>
+<person name="Kondo H."/>
+<person name="Nakabeppu Y."/>
+<person name="Kataoka H."/>
+<person name="Kuhara S."/>
+<person name="Kawabata S."/>
+<person name="Sekiguchi M."/>
+</authorList>
+<dbReference type="PubMed" id="3536913"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-30</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="2688" last="2692">
+<title>Active site and complete sequence of the suicidal methyltransferase that counters alkylation mutagenesis.</title>
+<authorList>
+<person name="Demple B."/>
+<person name="Sedgwick B."/>
+<person name="Robins P."/>
+<person name="Totty N."/>
+<person name="Waterfield M.D."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="3887409"/>
+<dbReference type="DOI" id="10.1073/pnas.82.9.2688"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-53</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="6255" last="6261">
+<title>The Escherichia coli AlkB protein protects human cells against alkylation-induced toxicity.</title>
+<authorList>
+<person name="Chen B.J."/>
+<person name="Carroll P."/>
+<person name="Samson L."/>
+</authorList>
+<dbReference type="PubMed" id="7928996"/>
+<dbReference type="DOI" id="10.1128/jb.176.20.6255-6261.1994"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="178" last="182">
+<title>AlkB-mediated oxidative demethylation reverses DNA damage in Escherichia coli.</title>
+<authorList>
+<person name="Falnes P.O."/>
+<person name="Johansen R.F."/>
+<person name="Seeberg E."/>
+</authorList>
+<dbReference type="PubMed" id="12226668"/>
+<dbReference type="DOI" id="10.1038/nature01048"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Nature" volume="421" first="859" last="863">
+<title>Human and bacterial oxidative demethylases repair alkylation damage in both RNA and DNA.</title>
+<authorList>
+<person name="Aas P.A."/>
+<person name="Otterlei M."/>
+<person name="Falnes P.O."/>
+<person name="Vaagboe C.B."/>
+<person name="Skorpen F."/>
+<person name="Akbari M."/>
+<person name="Sundheim O."/>
+<person name="Bjoeraas M."/>
+<person name="Slupphaug G."/>
+<person name="Seeberg E."/>
+<person name="Krokan H.E."/>
+</authorList>
+<dbReference type="PubMed" id="12594517"/>
+<dbReference type="DOI" id="10.1038/nature01363"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="Nature" volume="439" first="879" last="884">
+<title>Crystal structures of catalytic complexes of the oxidative DNA/RNA repair enzyme AlkB.</title>
+<authorList>
+<person name="Yu B."/>
+<person name="Edstrom W.C."/>
+<person name="Benach J."/>
+<person name="Hamuro Y."/>
+<person name="Weber P.C."/>
+<person name="Gibney B.R."/>
+<person name="Hunt J.F."/>
+</authorList>
+<dbReference type="PubMed" id="16482161"/>
+<dbReference type="DOI" id="10.1038/nature04561"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 12-216 IN COMPLEX WITH SUBSTRATE; ALPHA-KETOGLUTARATE AND IRON</scope>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="Nature" volume="452" first="961" last="965">
+<title>Crystal structures of DNA/RNA repair enzymes AlkB and ABH2 bound to dsDNA.</title>
+<authorList>
+<person name="Yang C.G."/>
+<person name="Yi C."/>
+<person name="Duguid E.M."/>
+<person name="Sullivan C.T."/>
+<person name="Jian X."/>
+<person name="Rice P.A."/>
+<person name="He C."/>
+</authorList>
+<dbReference type="PubMed" id="18432238"/>
+<dbReference type="DOI" id="10.1038/nature06889"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 14-214 IN COMPLEX WITH DS-DNA; ALPHA-KETOGLUTARATE AND METAL IONS</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="14315" last="14320">
+<title>Enzymological and structural studies of the mechanism of promiscuous substrate recognition by the oxidative DNA repair enzyme AlkB.</title>
+<authorList>
+<person name="Yu B."/>
+<person name="Hunt J.F."/>
+</authorList>
+<dbReference type="PubMed" id="19706517"/>
+<dbReference type="DOI" id="10.1073/pnas.0812938106"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 12-216 IN COMPLEXES WITH TRINUCLEOTIDE SUBSTRATES; ALPHA-KETOGLUTARATE AND METAL IONS</scope>
+<scope>COFACTOR</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2010" name="Nature" volume="468" first="330" last="333">
+<title>Iron-catalysed oxidation intermediates captured in a DNA repair dioxygenase.</title>
+<authorList>
+<person name="Yi C."/>
+<person name="Jia G."/>
+<person name="Hou G."/>
+<person name="Dai Q."/>
+<person name="Zhang W."/>
+<person name="Zheng G."/>
+<person name="Jian X."/>
+<person name="Yang C.G."/>
+<person name="Cui Q."/>
+<person name="He C."/>
+</authorList>
+<dbReference type="PubMed" id="21068844"/>
+<dbReference type="DOI" id="10.1038/nature09497"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.92 ANGSTROMS) OF 12-216 IN COMPLEXES WITH REACTION INTERMEDIATES; 2-OXOGLUTARIC ACID AND IRON</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2010" name="PLoS ONE" volume="5" first="E8680" last="E8680">
+<title>Structural and mutational analysis of Escherichia coli AlkB provides insight into substrate specificity and DNA damage searching.</title>
+<authorList>
+<person name="Holland P.J."/>
+<person name="Hollis T."/>
+</authorList>
+<dbReference type="PubMed" id="20084272"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0008680"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF MUTANT ALA-135 IN COMPLEX WITH 2-OXOGLUTARIC ACID AND SUBSTRATE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF THR-51; TRP-69; TYR-76; ASP-135 AND ARG-161</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 7 8 9 10">Dioxygenase that repairs alkylated DNA and RNA containing 3-methylcytosine or 1-methyladenine by oxidative demethylation. Has highest activity towards 3-methylcytosine. Has lower activity towards alkylated DNA containing ethenoadenine, and no detectable activity towards 1-methylguanine or 3-methylthymine. Accepts double-stranded and single-stranded substrates. Requires molecular oxygen, alpha-ketoglutarate and iron. Provides extensive resistance to alkylating agents such as MMS and DMS (SN2 agents), but not to MMNG and MNU (SN1 agents).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5 9 10">
+<text>2-oxoglutarate + a methylated nucleobase within DNA + O2 = a nucleobase within DNA + CO2 + formaldehyde + succinate</text>
+<dbReference type="Rhea" id="RHEA:30299"/>
+<dbReference type="Rhea" id="RHEA-COMP:12192"/>
+<dbReference type="Rhea" id="RHEA-COMP:12193"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:16526"/>
+<dbReference type="ChEBI" id="CHEBI:16810"/>
+<dbReference type="ChEBI" id="CHEBI:16842"/>
+<dbReference type="ChEBI" id="CHEBI:30031"/>
+<dbReference type="ChEBI" id="CHEBI:32875"/>
+<dbReference type="ChEBI" id="CHEBI:64428"/>
+<dbReference type="EC" id="1.14.11.33"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="4 7 8 9 10">
+<name>Fe(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+</cofactor>
+<text evidence="4 7 8 9 10">Binds 1 Fe(2+) ion per subunit.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the alkB family.</text>
+</comment>
+<dbReference type="EC" id="1.14.11.33"/>
+<dbReference type="EMBL" id="J02607">
+<property type="protein sequence ID" value="AAA23416.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00008">
+<property type="protein sequence ID" value="AAA16409.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75272.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15995.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10315">
+<property type="protein sequence ID" value="AAA23414.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A24605">
+<property type="entry name" value="BVECKB"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416716.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000884971.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2FD8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="2FDK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3BI3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=13-213"/>
+</dbReference>
+<dbReference type="PDB" id="3BIE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.68"/>
+<property type="chains" value="A=13-214"/>
+</dbReference>
+<dbReference type="PDB" id="3BKZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=14-214"/>
+</dbReference>
+<dbReference type="PDB" id="3I2O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3I3M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3I3Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3I49">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3KHB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3KHC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.92"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.51"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.77"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.58"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.48"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O1V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3T3Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3T4H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="B=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="3T4V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.73"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4JHT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.18"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4NID">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.58"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4NIG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4NIH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.37"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4NII">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.62"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDB" id="4RFR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="B=14-216"/>
+</dbReference>
+<dbReference type="PDB" id="4ZHN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.33"/>
+<property type="chains" value="A=12-216"/>
+</dbReference>
+<dbReference type="PDBsum" id="2FD8"/>
+<dbReference type="PDBsum" id="2FDF"/>
+<dbReference type="PDBsum" id="2FDG"/>
+<dbReference type="PDBsum" id="2FDH"/>
+<dbReference type="PDBsum" id="2FDI"/>
+<dbReference type="PDBsum" id="2FDJ"/>
+<dbReference type="PDBsum" id="2FDK"/>
+<dbReference type="PDBsum" id="3BI3"/>
+<dbReference type="PDBsum" id="3BIE"/>
+<dbReference type="PDBsum" id="3BKZ"/>
+<dbReference type="PDBsum" id="3I2O"/>
+<dbReference type="PDBsum" id="3I3M"/>
+<dbReference type="PDBsum" id="3I3Q"/>
+<dbReference type="PDBsum" id="3I49"/>
+<dbReference type="PDBsum" id="3KHB"/>
+<dbReference type="PDBsum" id="3KHC"/>
+<dbReference type="PDBsum" id="3O1M"/>
+<dbReference type="PDBsum" id="3O1O"/>
+<dbReference type="PDBsum" id="3O1P"/>
+<dbReference type="PDBsum" id="3O1R"/>
+<dbReference type="PDBsum" id="3O1S"/>
+<dbReference type="PDBsum" id="3O1T"/>
+<dbReference type="PDBsum" id="3O1U"/>
+<dbReference type="PDBsum" id="3O1V"/>
+<dbReference type="PDBsum" id="3T3Y"/>
+<dbReference type="PDBsum" id="3T4H"/>
+<dbReference type="PDBsum" id="3T4V"/>
+<dbReference type="PDBsum" id="4JHT"/>
+<dbReference type="PDBsum" id="4NID"/>
+<dbReference type="PDBsum" id="4NIG"/>
+<dbReference type="PDBsum" id="4NIH"/>
+<dbReference type="PDBsum" id="4NII"/>
+<dbReference type="PDBsum" id="4RFR"/>
+<dbReference type="PDBsum" id="4ZHN"/>
+<dbReference type="SMR" id="P05050"/>
+<dbReference type="BioGrid" id="4261918">
+<property type="interactions" value="29"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9085N"/>
+<dbReference type="IntAct" id="P05050">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2212"/>
+<dbReference type="jPOST" id="P05050"/>
+<dbReference type="PaxDb" id="P05050"/>
+<dbReference type="PRIDE" id="P05050"/>
+<dbReference type="EnsemblBacteria" id="AAC75272">
+<property type="protein sequence ID" value="AAC75272"/>
+<property type="gene ID" value="b2212"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15995">
+<property type="protein sequence ID" value="BAA15995"/>
+<property type="gene ID" value="BAA15995"/>
+</dbReference>
+<dbReference type="GeneID" id="946708"/>
+<dbReference type="KEGG" id="ecj:JW2200"/>
+<dbReference type="KEGG" id="eco:b2212"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.23"/>
+<dbReference type="EchoBASE" id="EB0036"/>
+<dbReference type="EcoGene" id="EG10037">
+<property type="gene designation" value="alkB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CF1">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3145">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000122276"/>
+<dbReference type="InParanoid" id="P05050"/>
+<dbReference type="KO" id="K03919"/>
+<dbReference type="PhylomeDB" id="P05050"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10037-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2200-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10037-MONOMER"/>
+<dbReference type="BRENDA" id="1.14.11.33">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P05050"/>
+<dbReference type="PRO" id="PR:P05050"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0103053">
+<property type="term" value="F:1-ethyladenine demethylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051213">
+<property type="term" value="F:dioxygenase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043734">
+<property type="term" value="F:DNA-N1-methyladenine dioxygenase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008198">
+<property type="term" value="F:ferrous iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035515">
+<property type="term" value="F:oxidative RNA demethylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006307">
+<property type="term" value="P:DNA dealkylation involved in DNA repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080111">
+<property type="term" value="P:DNA demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070989">
+<property type="term" value="P:oxidative demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035552">
+<property type="term" value="P:oxidative single-stranded DNA demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035553">
+<property type="term" value="P:oxidative single-stranded RNA demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042245">
+<property type="term" value="P:RNA repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.120.590">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004574">
+<property type="entry name" value="Alkb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027450">
+<property type="entry name" value="AlkB-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037151">
+<property type="entry name" value="AlkB-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005123">
+<property type="entry name" value="Oxoglu/Fe-dep_dioxygenase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR16557">
+<property type="entry name" value="PTHR16557"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13532">
+<property type="entry name" value="2OG-FeII_Oxy_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00568">
+<property type="entry name" value="alkb"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51471">
+<property type="entry name" value="FE2OG_OXY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0223">Dioxygenase</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Alpha-ketoglutarate-dependent dioxygenase AlkB" id="PRO_0000066665">
+<location>
+<begin position="1"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="domain" description="Fe2OG dioxygenase" evidence="4">
+<location>
+<begin position="113"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="region of interest" description="Alpha-ketoglutarate binding">
+<location>
+<begin position="120"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="region of interest" description="Alpha-ketoglutarate binding">
+<location>
+<begin position="204"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron; catalytic" evidence="4 7">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron; catalytic" evidence="4 7">
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron; catalytic" evidence="4 7">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="7 9">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="7 9">
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="7 9">
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slighly reduced activity towards single-stranded DNA containing 1-methyladenine. Reduces affinity for undamaged DNA." evidence="9">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes activity towards single-stranded DNA containing 1-methyladenine." evidence="9">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces affinity for damaged DNA and activity towards single-stranded DNA containing 1-methyladenine." evidence="9">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes activity towards single-stranded DNA containing 1-methyladenine. Alters substrate specificity, so that the enzyme gains activity towards single-stranded DNA containing 1-methylguanine." evidence="9">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on enzyme activity. Decreases affinity for damaged DNA." evidence="9">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="13"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="19"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="23"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="30"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="58"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="75"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="83"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="86"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="94"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="115"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="128"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="143"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="152"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="158"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="166"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="175"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="180"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="187"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="204"/>
+<end position="209"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FDK"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JHT"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4NID"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00805"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12226668"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12594517"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16482161"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19706517"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20084272"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21068844"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="216" mass="24076" checksum="494FE1E70EABD278" modified="1987-08-13" version="1">
+MLDLFADAEPWQEPLAAGAVILRRFAFNAAEQLIRDINDVASQSPFRQMVTPGGYTMSVA
+MTNCGHLGWTTHRQGYLYSPIDPQTNKPWPAMPQSFHNLCQRAATAAGYPDFQPDACLIN
+RYAPGAKLSLHQDKDEPDLRAPIVSVSLGLPAIFQFGGLKRNDPLKRLLLEHGDVVVWGG
+ESRLFYHGIQPLKAGFHPLTIDCRYNLTFRQAGKKE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="111">
+<accession>P0A894</accession>
+<accession>P33995</accession>
+<accession>Q2M907</accession>
+<name>RAPZ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 9">RNase adapter protein RapZ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3 9">rapZ</name>
+<name type="synonym">yhbJ</name>
+<name type="ordered locus">b3205</name>
+<name type="ordered locus">JW3172</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Microbiology" volume="140" first="1035" last="1043">
+<title>Molecular analysis of the operon which encodes the RNA polymerase sigma factor sigma 54 of Escherichia coli.</title>
+<authorList>
+<person name="Jones D.H.A."/>
+<person name="Franklin C.F.H."/>
+<person name="Thomas C.M."/>
+</authorList>
+<dbReference type="PubMed" id="8025669"/>
+<dbReference type="DOI" id="10.1099/13500872-140-5-1035"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="4822" last="4839">
+<title>Novel proteins of the phosphotransferase system encoded within the rpoN operon of Escherichia coli. Enzyme IIANtr affects growth on organic nitrogen and the conditional lethality of an erats mutant.</title>
+<authorList>
+<person name="Powell B.S."/>
+<person name="Court D.L."/>
+<person name="Inada T."/>
+<person name="Nakamura Y."/>
+<person name="Michotey V."/>
+<person name="Cui X."/>
+<person name="Reizer A."/>
+<person name="Saier M.H. Jr."/>
+<person name="Reizer J."/>
+</authorList>
+<dbReference type="PubMed" id="7876255"/>
+<dbReference type="DOI" id="10.1074/jbc.270.9.4822"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="65" first="1518" last="1533">
+<title>Feedback control of glucosamine-6-phosphate synthase GlmS expression depends on the small RNA GlmZ and involves the novel protein YhbJ in Escherichia coli.</title>
+<authorList>
+<person name="Kalamorz F."/>
+<person name="Reichenbach B."/>
+<person name="Maerz W."/>
+<person name="Rak B."/>
+<person name="Goerke B."/>
+</authorList>
+<dbReference type="PubMed" id="17824929"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2007.05888.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="1556" last="1564">
+<title>Characterization of YvcJ, a conserved P-loop-containing protein, and its implication in competence in Bacillus subtilis.</title>
+<authorList>
+<person name="Luciano J."/>
+<person name="Foulquier E."/>
+<person name="Fantino J.R."/>
+<person name="Galinier A."/>
+<person name="Pompeo F."/>
+</authorList>
+<dbReference type="PubMed" id="19074378"/>
+<dbReference type="DOI" id="10.1128/JB.01493-08"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>NTPASE ACTIVITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="215" last="225">
+<title>Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Sprung R."/>
+<person name="Pei J."/>
+<person name="Tan X."/>
+<person name="Kim S."/>
+<person name="Zhu H."/>
+<person name="Liu C.F."/>
+<person name="Grishin N.V."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="18723842"/>
+<dbReference type="DOI" id="10.1074/mcp.M800187-MCP200"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-251</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / JW1106</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="Genes Dev." volume="27" first="552" last="564">
+<title>Targeted decay of a regulatory small RNA by an adaptor protein for RNase E and counteraction by an anti-adaptor RNA.</title>
+<authorList>
+<person name="Gopel Y."/>
+<person name="Papenfort K."/>
+<person name="Reichenbach B."/>
+<person name="Vogel J."/>
+<person name="Gorke B."/>
+</authorList>
+<dbReference type="PubMed" id="23475961"/>
+<dbReference type="DOI" id="10.1101/gad.210112.112"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GLMY; GLMZ AND RNASE E</scope>
+<scope>RNA-BINDING</scope>
+<scope>MUTAGENESIS OF LYS-270; LYS-281; ARG-282 AND LYS-283</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="Acta Crystallogr. F" volume="69" first="109" last="114">
+<title>Crystallization and preliminary X-ray diffraction analysis of YhbJ from Escherichia coli, a key protein involved in the GlmYZ sRNA regulatory cascade.</title>
+<authorList>
+<person name="Resch M."/>
+<person name="Gopel Y."/>
+<person name="Gorke B."/>
+<person name="Ficner R."/>
+</authorList>
+<dbReference type="PubMed" id="23385747"/>
+<dbReference type="DOI" id="10.1107/S1744309112048622"/>
+</citation>
+<scope>CRYSTALLIZATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="4 6 8">Modulates the synthesis of GlmS, by affecting the processing and stability of the regulatory small RNA GlmZ. When glucosamine-6-phosphate (GlcN6P) concentrations are high in the cell, RapZ binds GlmZ and targets it to cleavage by RNase E. Consequently, GlmZ is inactivated and unable to activate GlmS synthesis. Under low GlcN6P concentrations, RapZ is sequestered and inactivated by an other regulatory small RNA, GlmY, preventing GlmZ degradation and leading to synthesis of GlmS (PubMed:17824929, PubMed:23475961). Displays ATPase and GTPase activities in vitro. Can also hydrolyze pNPP (PubMed:19074378).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 8">Homotrimer (PubMed:23385747). Interacts with the small RNAs GlmY and GlmZ (PubMed:23475961). Interacts with the catalytic domain of RNase E in an RNA-independent manner (PubMed:23475961).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Cells lacking this gene strongly overproduce the GlmS protein.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3 10">Belongs to the RapZ-like family. RapZ subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="Z27094">
+<property type="protein sequence ID" value="CAA81620.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U12684">
+<property type="protein sequence ID" value="AAB60166.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58007.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76237.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77249.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="I76721">
+<property type="entry name" value="I76721"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417672.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000243741.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5O5O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="A/B/C/D=1-284"/>
+</dbReference>
+<dbReference type="PDB" id="5O5Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.25"/>
+<property type="chains" value="A/B/C/D=1-284"/>
+</dbReference>
+<dbReference type="PDB" id="5O5S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.17"/>
+<property type="chains" value="A=154-284"/>
+</dbReference>
+<dbReference type="PDBsum" id="5O5O"/>
+<dbReference type="PDBsum" id="5O5Q"/>
+<dbReference type="PDBsum" id="5O5S"/>
+<dbReference type="SMR" id="P0A894"/>
+<dbReference type="BioGrid" id="4259285">
+<property type="interactions" value="32"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35927N"/>
+<dbReference type="IntAct" id="P0A894">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3205"/>
+<dbReference type="iPTMnet" id="P0A894"/>
+<dbReference type="EPD" id="P0A894"/>
+<dbReference type="jPOST" id="P0A894"/>
+<dbReference type="PaxDb" id="P0A894"/>
+<dbReference type="PRIDE" id="P0A894"/>
+<dbReference type="EnsemblBacteria" id="AAC76237">
+<property type="protein sequence ID" value="AAC76237"/>
+<property type="gene ID" value="b3205"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77249">
+<property type="protein sequence ID" value="BAE77249"/>
+<property type="gene ID" value="BAE77249"/>
+</dbReference>
+<dbReference type="GeneID" id="947727"/>
+<dbReference type="KEGG" id="ecj:JW3172"/>
+<dbReference type="KEGG" id="eco:b3205"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3526"/>
+<dbReference type="EchoBASE" id="EB2066"/>
+<dbReference type="EcoGene" id="EG12146">
+<property type="gene designation" value="yhbJ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C21">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1660">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244885"/>
+<dbReference type="InParanoid" id="P0A894"/>
+<dbReference type="KO" id="K06958"/>
+<dbReference type="PhylomeDB" id="P0A894"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12146-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3172-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A894"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006396">
+<property type="term" value="P:RNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00636">
+<property type="entry name" value="RapZ_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005337">
+<property type="entry name" value="RapZ-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30448">
+<property type="entry name" value="PTHR30448"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03668">
+<property type="entry name" value="ATP_bind_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF005052">
+<property type="entry name" value="P-loopkin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<feature type="chain" description="RNase adapter protein RapZ" id="PRO_0000107705">
+<location>
+<begin position="1"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="8"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="3">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="region of interest" description="RNA-binding" evidence="3 11">
+<location>
+<begin position="266"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="5">
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity. Does not bind GlmY and GlmZ; when associated with A-281; A-282 and A-283." evidence="8">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity. Does not bind GlmY and GlmZ; when associated with A-270; A-282 and A-283." evidence="8">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity. Does not bind GlmY and GlmZ; when associated with A-270; A-281 and A-283." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity. Does not bind GlmY and GlmZ; when associated with A-270; A-281 and A-282." evidence="8">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="283"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="27"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="34"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="37"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="51"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="57"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="64"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="78"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="89"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="113"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="141"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="161"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="169"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="178"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="193"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="203"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="213"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="239"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="253"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="271"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="277"/>
+<end position="280"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5O5Q"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5O5S"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00636"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17824929"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18723842"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19074378"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23385747"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23475961"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23475961"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23475961"/>
+</source>
+</evidence>
+<sequence length="284" mass="32492" checksum="BB1525B1E044126C" modified="2005-06-07" version="1">
+MVLMIVSGRSGSGKSVALRALEDMGFYCVDNLPVVLLPDLARTLADREISAAVSIDVRNM
+PESPEIFEQAMSNLPDAFSPQLLFLDADRNTLIRRYSDTRRLHPLSSKNLSLESAIDKES
+DLLEPLRSRADLIVDTSEMSVHELAEMLRTRLLGKRERELTMVFESFGFKHGIPIDADYV
+FDVRFLPNPHWDPKLRPMTGLDKPVAAFLDRHTEVHNFIYQTRSYLELWLPMLETNNRSY
+LTVAIGCTGGKHRSVYIAEQLADYFRSRGKNVQSRHRTLEKRKP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-07-03" version="80">
+<accession>P0AF61</accession>
+<accession>P39275</accession>
+<accession>Q2M6H6</accession>
+<name>GHOS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">Endoribonuclease antitoxin GhoS</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Antitoxin GhoS</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">ghoS</name>
+<name type="synonym" evidence="7">arT</name>
+<name type="synonym">yjdK</name>
+<name type="ordered locus">b4128</name>
+<name type="ordered locus">JW4089</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2013" name="Environ. Microbiol." volume="15" first="1734" last="1744">
+<title>Type II toxin/antitoxin MqsR/MqsA controls type V toxin/antitoxin GhoT/GhoS.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Lord D.M."/>
+<person name="Hong S.H."/>
+<person name="Peti W."/>
+<person name="Benedik M.J."/>
+<person name="Page R."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="23289863"/>
+<dbReference type="DOI" id="10.1111/1462-2920.12063"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2014" name="Environ. Microbiol." volume="16" first="1741" last="1754">
+<title>Toxin GhoT of the GhoT/GhoS toxin/antitoxin system damages the cell membrane to reduce adenosine triphosphate and to reduce growth under stress.</title>
+<authorList>
+<person name="Cheng H.Y."/>
+<person name="Soo V.W."/>
+<person name="Islam S."/>
+<person name="McAnulty M.J."/>
+<person name="Benedik M.J."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="24373067"/>
+<dbReference type="DOI" id="10.1111/1462-2920.12373"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="Sci. Rep." volume="4" first="4807" last="4807">
+<title>de novo synthesis of a bacterial toxin/antitoxin system.</title>
+<authorList>
+<person name="Soo V.W."/>
+<person name="Cheng H.Y."/>
+<person name="Kwan B.W."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="24797297"/>
+<dbReference type="DOI" id="10.1038/srep04807"/>
+</citation>
+<scope>MUTAGENESIS OF LEU-25 AND MET-31</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Nat. Chem. Biol." volume="8" first="855" last="861">
+<title>A new type V toxin-antitoxin system where mRNA for toxin GhoT is cleaved by antitoxin GhoS.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Lord D.M."/>
+<person name="Cheng H.Y."/>
+<person name="Osbourne D.O."/>
+<person name="Hong S.H."/>
+<person name="Sanchez-Torres V."/>
+<person name="Quiroga C."/>
+<person name="Zheng K."/>
+<person name="Herrmann T."/>
+<person name="Peti W."/>
+<person name="Benedik M.J."/>
+<person name="Page R."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="22941047"/>
+<dbReference type="DOI" id="10.1038/nchembio.1062"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>PROTEIN STABILITY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF PHE-14; ASP-15; ARG-26; ARG-28 AND PHE-55</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 4">Antitoxin component of a type V toxin-antitoxin (TA) system. Neutralizes the toxic effects of toxin GhoT by digesting ghoT transcripts in a sequence-specific manner (PubMed:22941047). In concert with GhoT is involved in reducing cell growth during antibacterial stress (PubMed:24373067). Overexpression leads to transcript level reduction of 20 other mRNAs involved in purine or pyrimidine synthesis and transport. Not seen to bind its own promoter DNA (PubMed:22941047).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Monomer.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Post-transcriptionally down-regulated by MqsR which acts on the ghoST transcript selectively, degrading the ghoS segment while leaving ghoT intact; conditions which induce MqsR (e.g. overexpression, nalidixic acid, azolocillin or H(2)O(2)) decrease ghoS expression and thus increase ghoT transcripts (PubMed:23289863).</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Unlike other TA proteinaceous antitoxins, this protein is stable with and without cellular stress; its structure has been determined in the absence of GhoT toxin.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 4">Essential; cannot be disrupted unless ghoT is also disrupted; in the double ghoS-ghoT mutant has no visible phenotype (PubMed:24373067, PubMed:22941047). Increased biofilm formation after 8 hours at 30 and 37 degrees Celsius, has risen higher by 24 hours at 37 degrees Celsius but has fallen by 24 hours at 30 degrees Celsius. Approximately 2-fold increase in swimming motility (PubMed:24373067). When single ghoT mutant is grown in the presence of antibiotics carbenicillin or cefoxitin initial metabolism is significantly increased over that of wild-type, after 14 hours wild-type is slightly less active. In a double ghoS-ghoT mutant in presence of the 2 antibiotics metabolism is significantly increased over that of wild-type, but by 9 hours wild-type has caught up and eventually has slightly greater metabolic rates (PubMed:24373067).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2">Has a similar 3D-structure to Cas2 proteins.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">Can be modified to become a classic type II TA toxin (called ArT) which causes cells to become ghost-like, probably by broadening substrate RNA recognition; the toxic activity is independent of ghoT and mqsRA. Antitoxins to this evolved ArT toxin have been artifically evolved from antitoxins mqsA (a type II TA system) and toxI (a type I TA system).</text>
+</comment>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97028.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77089.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78130.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S56357">
+<property type="entry name" value="S56357"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418552.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000398619.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2LLZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-98"/>
+</dbReference>
+<dbReference type="PDBsum" id="2LLZ"/>
+<dbReference type="SMR" id="P0AF61"/>
+<dbReference type="BioGrid" id="4261767">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4128"/>
+<dbReference type="jPOST" id="P0AF61"/>
+<dbReference type="PaxDb" id="P0AF61"/>
+<dbReference type="PRIDE" id="P0AF61"/>
+<dbReference type="EnsemblBacteria" id="AAC77089">
+<property type="protein sequence ID" value="AAC77089"/>
+<property type="gene ID" value="b4128"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78130">
+<property type="protein sequence ID" value="BAE78130"/>
+<property type="gene ID" value="BAE78130"/>
+</dbReference>
+<dbReference type="GeneID" id="948646"/>
+<dbReference type="KEGG" id="ecj:JW4089"/>
+<dbReference type="KEGG" id="eco:b4128"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4259"/>
+<dbReference type="EchoBASE" id="EB2361"/>
+<dbReference type="EcoGene" id="EG12468">
+<property type="gene designation" value="ghoS"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000127074"/>
+<dbReference type="KO" id="K18840"/>
+<dbReference type="BioCyc" id="EcoCyc:G7830-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4089-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7830-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AF61"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004521">
+<property type="term" value="F:endoribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.2360">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022597">
+<property type="entry name" value="GhoS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038241">
+<property type="entry name" value="GhoS_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11080">
+<property type="entry name" value="GhoS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Endoribonuclease antitoxin GhoS" id="PRO_0000169733">
+<location>
+<begin position="1"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Still digests ghoT RNA." evidence="2">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Still digests ghoT RNA." evidence="2">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Protein becomes toxic upon overexpression. Becomes classic type II TA toxin protein, increased cell persistence to ampicillin; when associated with L-31." evidence="5">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired digestion of ghoT RNA." evidence="2">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced digestion of ghoT RNA, less efficient neutralization of GhoT in vivo." evidence="2">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Protein becomes toxic upon overexpression. Becomes classic type II TA toxin protein, increased cell persistence to ampicillin; when associated with I-25." evidence="5">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced digestion of ghoT RNA." evidence="2">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="10"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="18"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="21"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="36"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="47"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="53"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="63"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="73"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="83"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="89"/>
+<end position="93"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2LLZ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22941047"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23289863"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24373067"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24797297"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22941047"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="24797297"/>
+</source>
+</evidence>
+<sequence length="98" mass="11468" checksum="8466741C8225E468" modified="2005-12-20" version="1">
+MEGKNKFNTYVVSFDYPSSYSSVFLRLRSLMYDMNFSSIVADEYGIPRQLNENSFAITTS
+LAASEIEDLIRLKCLDLPDIDFDLNIMTVDDYFRQFYK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

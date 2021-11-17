@@ -1,0 +1,1044 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-06-05" version="118">
+<accession>P0A7Y0</accession>
+<accession>P05797</accession>
+<accession>P06141</accession>
+<accession>Q2MAG3</accession>
+<name>RNC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Ribonuclease 3</fullName>
+<ecNumber>3.1.26.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Ribonuclease III</fullName>
+<shortName>RNase III</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rnc</name>
+<name type="ordered locus">b2567</name>
+<name type="ordered locus">JW2551</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Mol. Gen. Genet." volume="201" first="25" last="29">
+<title>DNA sequencing of the Escherichia coli ribonuclease III gene and its mutations.</title>
+<authorList>
+<person name="Nashimoto H."/>
+<person name="Uchida H."/>
+</authorList>
+<dbReference type="PubMed" id="3903434"/>
+<dbReference type="DOI" id="10.1007/BF00397981"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION AS AN ENDORIBONUCLEASE</scope>
+<scope>MUTAGENESIS OF GLY-44</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Nucleic Acids Res." volume="13" first="4677" last="4685">
+<title>The DNA sequence of the gene (rnc) encoding ribonuclease III of Escherichia coli.</title>
+<authorList>
+<person name="March P.E."/>
+<person name="Ahnn J."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="3895158"/>
+<dbReference type="DOI" id="10.1093/nar/13.13.4677"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS520</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Nashimoto H."/>
+<person name="Saito N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="2581" last="2590">
+<title>Genetic analysis of the rnc operon of Escherichia coli.</title>
+<authorList>
+<person name="Takiff H.E."/>
+<person name="Chen S.M."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="2540151"/>
+<dbReference type="DOI" id="10.1128/jb.171.5.2581-2590.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-45</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>OPERON STRUCTURE</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="2888" last="2895">
+<title>Expression and characterization of RNase III and Era proteins. Products of the rnc operon of Escherichia coli.</title>
+<authorList>
+<person name="Chen S.M."/>
+<person name="Takiff H.E."/>
+<person name="Barber A.M."/>
+<person name="Dubois G.C."/>
+<person name="Bardwell J.C."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="2105934"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-30</scope>
+<scope>MRNA PROCESSING</scope>
+<scope>ATP-BINDING</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1986" name="Proc. Natl. Acad. Sci. U.S.A." volume="83" first="8849" last="8853">
+<title>A GTP-binding protein of Escherichia coli has homology to yeast RAS proteins.</title>
+<authorList>
+<person name="Ahnn J."/>
+<person name="March P.E."/>
+<person name="Takiff H.E."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="3097637"/>
+<dbReference type="DOI" id="10.1073/pnas.83.23.8849"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 211-226</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1968" name="J. Biol. Chem." volume="243" first="82" last="91">
+<title>Purification and properties of ribonuclease III from Escherichia coli.</title>
+<authorList>
+<person name="Robertson H.D."/>
+<person name="Webster R.E."/>
+<person name="Zinder N.D."/>
+</authorList>
+<dbReference type="PubMed" id="4865702"/>
+</citation>
+<scope>FUNCTION AS A DS-RNA SPECIFIC ENDORIBONUCLEASE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ASSOCIATION WITH RIBOSOMES</scope>
+<source>
+<strain>K12 / K38 / S26</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1973" name="Proc. Natl. Acad. Sci. U.S.A." volume="70" first="3296" last="3300">
+<title>T7 early RNAs and Escherichia coli ribosomal RNAs are cut from large precursor RNAs in vivo by ribonuclease 3.</title>
+<authorList>
+<person name="Dunn J.J."/>
+<person name="Studier F.W."/>
+</authorList>
+<dbReference type="PubMed" id="4587248"/>
+<dbReference type="DOI" id="10.1073/pnas.70.12.3296"/>
+</citation>
+<scope>FUNCTION IN ENTEROBACTERIA PHAGE T7 RNA PROCESSING</scope>
+<scope>FUNCTION IN PROCESSING OF RRNA</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / A19</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1974" name="J. Biol. Chem." volume="249" first="1314" last="1316">
+<title>Ribonuclease 3 does not degrade deoxyribonucleic acid-ribonucleic acid hybrids.</title>
+<authorList>
+<person name="Crouch R.J."/>
+</authorList>
+<dbReference type="PubMed" id="4592261"/>
+</citation>
+<scope>FUNCTION AS A DS-RNA SPECIFIC ENDORIBONUCLEASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12 / D10</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1974" name="J. Mol. Biol." volume="86" first="741" last="747">
+<title>30 S pre-ribosomal RNA of Escherichia coli and products of cleavage by ribonuclease III: length and molecular weight.</title>
+<authorList>
+<person name="Nikolaev N."/>
+<person name="Schlessinger D."/>
+<person name="Wellauer P.K."/>
+</authorList>
+<dbReference type="PubMed" id="4610145"/>
+<dbReference type="DOI" id="10.1016/0022-2836(74)90350-7"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF RRNA</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1976" name="J. Biol. Chem." volume="251" first="3807" last="3814">
+<title>RNase III cleavage of single-stranded RNA. Effect of ionic strength on the fideltiy of cleavage.</title>
+<authorList>
+<person name="Dunn J.J."/>
+</authorList>
+<dbReference type="PubMed" id="932008"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF RRNA</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1980" name="Biochem. Biophys. Res. Commun." volume="96" first="1063" last="1070">
+<title>The synthesis of some proteins is affected in RNA processing mutants of Escherichia coli.</title>
+<authorList>
+<person name="Gitelman D.R."/>
+<person name="Apirion D."/>
+</authorList>
+<dbReference type="PubMed" id="6159890"/>
+<dbReference type="DOI" id="10.1016/0006-291X(80)90060-1"/>
+</citation>
+<scope>ROLE IN PROTEIN SYNTHESIS</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1984" name="Proc. Natl. Acad. Sci. U.S.A." volume="81" first="185" last="188">
+<title>RNase III cleavage is obligate for maturation but not for function of Escherichia coli pre-23S rRNA.</title>
+<authorList>
+<person name="King T.C."/>
+<person name="Sirdeshmukh R."/>
+<person name="Schlessinger D."/>
+</authorList>
+<dbReference type="PubMed" id="6364133"/>
+<dbReference type="DOI" id="10.1073/pnas.81.1.185"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1989" name="J. Mol. Biol." volume="210" first="293" last="302">
+<title>Cleavage by RNase III in the transcripts of the met Y-nus-A-infB operon of Escherichia coli releases the tRNA and initiates the decay of the downstream mRNA.</title>
+<authorList>
+<person name="Regnier P."/>
+<person name="Grunberg-Manago M."/>
+</authorList>
+<dbReference type="PubMed" id="2481042"/>
+<dbReference type="DOI" id="10.1016/0022-2836(89)90331-8"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF TRNA</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1990" name="Biochimie" volume="72" first="825" last="834">
+<title>RNase III cleavages in non-coding leaders of Escherichia coli transcripts control mRNA stability and genetic expression.</title>
+<authorList>
+<person name="Regnier P."/>
+<person name="Grunberg-Manago M."/>
+</authorList>
+<dbReference type="PubMed" id="2085545"/>
+<dbReference type="DOI" id="10.1016/0300-9084(90)90192-J"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF MRNA</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1990" name="Cell" volume="60" first="405" last="414">
+<title>The excision of intervening sequences from Salmonella 23S ribosomal RNA.</title>
+<authorList>
+<person name="Burgin A.B."/>
+<person name="Parodos K."/>
+<person name="Lane D.J."/>
+<person name="Pace N.R."/>
+</authorList>
+<dbReference type="PubMed" id="2406020"/>
+<dbReference type="DOI" id="10.1016/0092-8674(90)90592-3"/>
+</citation>
+<scope>ROLE IN EXCISION OF INTERVENING SEQUENCES</scope>
+<source>
+<strain>N2076</strain>
+</source>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="28" first="629" last="640">
+<title>Genetic uncoupling of the dsRNA-binding and RNA cleavage activities of the Escherichia coli endoribonuclease RNase III--the effect of dsRNA binding on gene expression.</title>
+<authorList>
+<person name="Dasgupta S."/>
+<person name="Fernandez L."/>
+<person name="Kameyama L."/>
+<person name="Inada T."/>
+<person name="Nakamura Y."/>
+<person name="Pappas A."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="9632264"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00828.x"/>
+</citation>
+<scope>MUTAGENESIS OF GLY-44 AND GLU-117</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="27" first="739" last="750">
+<title>Cell cycle arrest in Era GTPase mutants: a potential growth rate-regulated checkpoint in Escherichia coli.</title>
+<authorList>
+<person name="Britton R.A."/>
+<person name="Powell B.S."/>
+<person name="Dasgupta S."/>
+<person name="Sun Q."/>
+<person name="Margolin W."/>
+<person name="Lupski J.R."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="9515700"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00719.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1998" name="Nucleic Acids Res." volume="26" first="4446" last="4453">
+<title>Different cleavage specificities of RNases III from Rhodobacter capsulatus and Escherichia coli.</title>
+<authorList>
+<person name="Conrad C."/>
+<person name="Rauhut R."/>
+<person name="Klug G."/>
+</authorList>
+<dbReference type="PubMed" id="9742248"/>
+<dbReference type="DOI" id="10.1093/nar/26.19.4446"/>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="5102" last="5110">
+<title>Mechanism of action of Escherichia coli ribonuclease III. Stringent chemical requirement for the glutamic acid 117 side chain and Mn2+ rescue of the Glu117Asp mutant.</title>
+<authorList>
+<person name="Sun W."/>
+<person name="Nicholson A.W."/>
+</authorList>
+<dbReference type="PubMed" id="11305928"/>
+<dbReference type="DOI" id="10.1021/bi010022d"/>
+</citation>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF GLU-117</scope>
+<scope>CATALYTIC MODEL</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2001" name="Structure" volume="9" first="1225" last="1236">
+<title>Crystallographic and modeling studies of RNase III suggest a mechanism for double-stranded RNA cleavage.</title>
+<authorList>
+<person name="Blaszczyk J."/>
+<person name="Tropea J.E."/>
+<person name="Bubunenko M."/>
+<person name="Routzahn K.M."/>
+<person name="Waugh D.S."/>
+<person name="Court D.L."/>
+<person name="Ji X."/>
+</authorList>
+<dbReference type="PubMed" id="11738048"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(01)00685-2"/>
+</citation>
+<scope>MUTAGENESIS OF LEU-40</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2003" name="BMC Mol. Biol." volume="4" first="8" last="8">
+<title>Functional interaction between RNase III and the Escherichia coli ribosome.</title>
+<authorList>
+<person name="Allas U."/>
+<person name="Liiv A."/>
+<person name="Remme J."/>
+</authorList>
+<dbReference type="PubMed" id="12814522"/>
+<dbReference type="DOI" id="10.1186/1471-2199-4-8"/>
+</citation>
+<scope>ASSOCIATION WITH RIBOSOMES</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2004" name="Biochemistry" volume="43" first="13054" last="13062">
+<title>Mutational analysis of the nuclease domain of Escherichia coli ribonuclease III. Identification of conserved acidic residues that are important for catalytic function in vitro.</title>
+<authorList>
+<person name="Sun W."/>
+<person name="Li G."/>
+<person name="Nicholson A.W."/>
+</authorList>
+<dbReference type="PubMed" id="15476399"/>
+<dbReference type="DOI" id="10.1021/bi049258i"/>
+</citation>
+<scope>MUTAGENESIS OF GLU-38; GLU-41; ASP-45; GLU-65; GLU-100 AND ASP-114</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2005" name="Nucleic Acids Res." volume="33" first="807" last="815">
+<title>Catalytic mechanism of Escherichia coli ribonuclease III: kinetic and inhibitor evidence for the involvement of two magnesium ions in RNA phosphodiester hydrolysis.</title>
+<authorList>
+<person name="Sun W."/>
+<person name="Pertzev A."/>
+<person name="Nicholson A.W."/>
+</authorList>
+<dbReference type="PubMed" id="15699182"/>
+<dbReference type="DOI" id="10.1093/nar/gki197"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>COFACTOR</scope>
+<scope>CATALYTIC MODEL</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2008" name="Genes Dev." volume="22" first="3497" last="3508">
+<title>YmdB: a stress-responsive ribonuclease-binding regulator of E. coli RNase III activity.</title>
+<authorList>
+<person name="Kim K.S."/>
+<person name="Manasherob R."/>
+<person name="Cohen S.N."/>
+</authorList>
+<dbReference type="PubMed" id="19141481"/>
+<dbReference type="DOI" id="10.1101/gad.1729508"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2013" name="RNA Biol." volume="10" first="841" last="851">
+<title>crRNA and tracrRNA guide Cas9-mediated DNA interference in Streptococcus thermophilus.</title>
+<authorList>
+<person name="Karvelis T."/>
+<person name="Gasiunas G."/>
+<person name="Miksys A."/>
+<person name="Barrangou R."/>
+<person name="Horvath P."/>
+<person name="Siksnys V."/>
+</authorList>
+<dbReference type="PubMed" id="23535272"/>
+<dbReference type="DOI" id="10.4161/rna.24203"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>HT115</strain>
+<strain>TOP10</strain>
+</source>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1995" name="EMBO J." volume="14" first="3572" last="3584">
+<title>Structure of the dsRNA binding domain of E. coli RNase III.</title>
+<authorList>
+<person name="Kharrat A."/>
+<person name="Macias M.J."/>
+<person name="Gibson T.J."/>
+<person name="Nilges M."/>
+<person name="Pastore A."/>
+</authorList>
+<dbReference type="PubMed" id="7628457"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 153-226</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<comment type="function">
+<text evidence="8 9 10 11 13 14 15 16 17 18 20">Digests double-stranded RNA formed within single-strand substrates, but not RNA-DNA hybrids. Involved in the processing of rRNA precursors, viral transcripts, some mRNAs and at least 1 tRNA (metY, a minor form of tRNA-init-Met). Cleaves the 30S primary rRNA transcript to yield the immediate precursors to the 16S and 23S rRNAs; cleavage can occur in assembled 30S, 50S and even 70S subunits and is influenced by the presence of ribosomal proteins. The E.coli enzyme does not cleave R.capsulatus rRNA precursor, although R.capsulatus will complement an E.coli disruption, showing substrate recognition is different. Removes the intervening sequences from Salmonella typhimurium rRNA precursor. Complements the pre-crRNA processing defect in an rnc deletion in S.pyogenes strain 370, although this E.coli strain does not have the corresponding CRISPR locus (strain TOP10) (PubMed:23535272).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="15">
+<text>Endonucleolytic cleavage to 5'-phosphomonoester.</text>
+<dbReference type="EC" id="3.1.26.3"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="3 6 20">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="3 6 20">Divalent metal cations, preferably Mg(2+). While only 1 Mg(2+) is detected by crystallography, other evidence indicates there may be more than 1 metal necessary for catalysis. Binding of the second metal my be promoted by substrate binding.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="6 7">Non-competitively inhibited by 2-hydroxy-4H-isoquinoline-1,3-dione. Activity is down-regulated during cold shock by direct interaction with YmdB. Also down-regulated during entry into stationary phase by an YmdB-independent mechanism.</text>
+</comment>
+<comment type="subunit">
+<text evidence="20">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-557336"/>
+<interactant intactId="EBI-557325">
+<id>P30850</id>
+<label>rnb</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="17">Cytoplasm</location>
+</subcellularLocation>
+<text>Loosely associated with ribosomes.</text>
+</comment>
+<comment type="induction">
+<text evidence="8 21">Expression increases as the growth rate increases. Encoded in the rnc-era-recO operon. Processes the 5' end of its own transcript leading to mRNA instability.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9 12 14 19 21 22">Slower than wild-type growth. Transient accumulation of the 30S rRNA precursor occurs; 90% of 16S rRNA is correctly processed while an extended version of 23S rRNA accumulates in the ribosome. Half-life of a number of RNase III processed transcripts increases. In the absence of era and rnc there is a defect in chromosome partitioning. In strain HT115, loss of immunity against a plasmid with homology to CRISPR spacer sequences (PubMed:23535272).</text>
+</comment>
+<comment type="similarity">
+<text evidence="23">Belongs to the ribonuclease III family.</text>
+</comment>
+<comment type="caution">
+<text evidence="24 25">The original rnc-105 mutation is described as G44->D but the nucleotide sequence given indicates G44->S (PubMed:3903434). A later paper calls the same mutation G45->K (PubMed:9632264), which alters the residue and mutation.</text>
+</comment>
+<dbReference type="EC" id="3.1.26.3"/>
+<dbReference type="EMBL" id="X02946">
+<property type="protein sequence ID" value="CAA26692.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X02673">
+<property type="protein sequence ID" value="CAA26504.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D64044">
+<property type="protein sequence ID" value="BAA10914.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U36841">
+<property type="protein sequence ID" value="AAA79829.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75620.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76743.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M26415">
+<property type="protein sequence ID" value="AAA21843.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M14658">
+<property type="protein sequence ID" value="AAA03241.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65034">
+<property type="entry name" value="NREC3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417062.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001068343.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0A7Y0"/>
+<dbReference type="BioGrid" id="4260597">
+<property type="interactions" value="62"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48223N"/>
+<dbReference type="IntAct" id="P0A7Y0">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2567"/>
+<dbReference type="jPOST" id="P0A7Y0"/>
+<dbReference type="PaxDb" id="P0A7Y0"/>
+<dbReference type="PRIDE" id="P0A7Y0"/>
+<dbReference type="EnsemblBacteria" id="AAC75620">
+<property type="protein sequence ID" value="AAC75620"/>
+<property type="gene ID" value="b2567"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76743">
+<property type="protein sequence ID" value="BAE76743"/>
+<property type="gene ID" value="BAE76743"/>
+</dbReference>
+<dbReference type="GeneID" id="947033"/>
+<dbReference type="KEGG" id="ecj:JW2551"/>
+<dbReference type="KEGG" id="eco:b2567"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4167"/>
+<dbReference type="EchoBASE" id="EB0850"/>
+<dbReference type="EcoGene" id="EG10857">
+<property type="gene designation" value="rnc"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108ZBM">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0571">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000246809"/>
+<dbReference type="InParanoid" id="P0A7Y0"/>
+<dbReference type="KO" id="K03685"/>
+<dbReference type="PhylomeDB" id="P0A7Y0"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10857-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2551-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10857-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.26.3">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P0A7Y0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004525">
+<property type="term" value="F:ribonuclease III activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006397">
+<property type="term" value="P:mRNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006396">
+<property type="term" value="P:RNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016075">
+<property type="term" value="P:rRNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006364">
+<property type="term" value="P:rRNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008033">
+<property type="term" value="P:tRNA processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00048">
+<property type="entry name" value="DSRM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00593">
+<property type="entry name" value="RIBOc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1520.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00104">
+<property type="entry name" value="RNase_III"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014720">
+<property type="entry name" value="dsRBD_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011907">
+<property type="entry name" value="RNase_III"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000999">
+<property type="entry name" value="RNase_III_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036389">
+<property type="entry name" value="RNase_III_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00035">
+<property type="entry name" value="dsrm"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14622">
+<property type="entry name" value="Ribonucleas_3_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00358">
+<property type="entry name" value="DSRM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00535">
+<property type="entry name" value="RIBOc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF69065">
+<property type="entry name" value="SSF69065"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02191">
+<property type="entry name" value="RNaseIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50137">
+<property type="entry name" value="DS_RBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00517">
+<property type="entry name" value="RNASE_3_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50142">
+<property type="entry name" value="RNASE_3_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0507">mRNA processing</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0698">rRNA processing</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="Ribonuclease 3" id="PRO_0000180395">
+<location>
+<begin position="1"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="domain" description="RNase III">
+<location>
+<begin position="6"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="domain" description="DRBM">
+<location>
+<begin position="155"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="active site" evidence="2">
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="active site" evidence="23">
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="23">
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="23">
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced affinity for Mg(2+), no catalytic defect at 10 mM Mg(2+)." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>L</original>
+<variation>G</variation>
+<variation>D</variation>
+<variation>R</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="4">
+<original>L</original>
+<variation>M</variation>
+<variation>W</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced affinity for Mg(2+), catalytic defect. 85-fold reduced affinity for Mg(2+); when associated with A-114." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In rnc-105; slower growth, loss of RNase activity." evidence="13 22">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="30000-fold reduction in catalytic efficiency, binds RNA normally. Partially rescued by Mn(2+)." evidence="5">
+<original>D</original>
+<variation>A</variation>
+<variation>E</variation>
+<variation>N</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced affinity for Mg(2+), no catalytic defect at 10 mM Mg(2+)." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced affinity for Mg(2+) and RNA." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced affinity for Mg(2+), no catalytic defect at 10 mM Mg(2+). 85-fold reduced affinity for Mg(2+); when associated with A-41." evidence="5">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Nearly complete loss of RNase activity, still binds RNA. Partially rescued by Mn(2+)." evidence="3 22">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In rnc70; slower growth, loss of RNase activity. Dominant over wild-type. Binds ds-RNA." evidence="3 22">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of RNase activity, still binds RNA." evidence="3 22">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA26504." ref="2" evidence="23">
+<original>HLPLPTYLVVQVRGEAHDQEFTIHCQVS</original>
+<variation>PSAAADLSGSPGTWSKRTIRNLLSTARSV</variation>
+<location>
+<begin position="168"/>
+<end position="195"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11305928"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11738048"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15476399"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15699182"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19141481"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2085545"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23535272"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2406020"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2481042"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2540151"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3903434"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4587248"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4592261"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4610145"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4865702"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6159890"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6364133"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="932008"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9515700"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9632264"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000305"/>
+<evidence key="24" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3903434"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9632264"/>
+</source>
+</evidence>
+<sequence length="226" mass="25550" checksum="D9E2858F2E0AA3A5" modified="1988-01-01" version="1">
+MNPIVINRLQRKLGYTFNHQELLQQALTHRSASSKHNERLEFLGDSILSYVIANALYHRF
+PRVDEGDMSRMRATLVRGNTLAELAREFELGECLRLGPGELKSGGFRRESILADTVEALI
+GGVFLDSDIQTVEKLILNWYQTRLDEISPGDKQKDPKTRLQEYLQGRHLPLPTYLVVQVR
+GEAHDQEFTIHCQVSGLSEPVVGTGSSRRKAEQAAAEQALKKLELE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-03-01" modified="2019-05-08" version="149">
+<accession>P24555</accession>
+<accession>P78068</accession>
+<name>PTRB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protease 2</fullName>
+<ecNumber>3.4.21.83</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Oligopeptidase B</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protease II</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ptrB</name>
+<name type="synonym">tlp</name>
+<name type="ordered locus">b1845</name>
+<name type="ordered locus">JW1834</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Biochem." volume="110" first="315" last="320">
+<title>Protease II from Escherichia coli: sequencing and expression of the enzyme gene and characterization of the expressed enzyme.</title>
+<authorList>
+<person name="Kanatani A."/>
+<person name="Masuda T."/>
+<person name="Shimoda T."/>
+<person name="Misoka F."/>
+<person name="Lin X.S."/>
+<person name="Yoshimoto T."/>
+<person name="Tsuru D."/>
+</authorList>
+<dbReference type="PubMed" id="1769955"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a123577"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<strain>ATCC 33694 / HB101</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Cleaves peptide bonds on the C-terminal side of lysyl and argininyl residues.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Hydrolysis of -Arg-|-Xaa- and -Lys-|-Xaa- bonds in oligopeptides, even when P1' residue is proline.</text>
+<dbReference type="EC" id="3.4.21.83"/>
+</reaction>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the peptidase S9A family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.83"/>
+<dbReference type="EMBL" id="D10976">
+<property type="protein sequence ID" value="BAA01750.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74915.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15651.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64946">
+<property type="entry name" value="E64946"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416359.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000936927.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P24555"/>
+<dbReference type="BioGrid" id="4263144">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="IntAct" id="P24555">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1845"/>
+<dbReference type="ESTHER" id="ecoli-ptrb">
+<property type="family name" value="S9N_PREPL_Peptidase_S9"/>
+</dbReference>
+<dbReference type="MEROPS" id="S09.010"/>
+<dbReference type="jPOST" id="P24555"/>
+<dbReference type="PaxDb" id="P24555"/>
+<dbReference type="PRIDE" id="P24555"/>
+<dbReference type="EnsemblBacteria" id="AAC74915">
+<property type="protein sequence ID" value="AAC74915"/>
+<property type="gene ID" value="b1845"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15651">
+<property type="protein sequence ID" value="BAA15651"/>
+<property type="gene ID" value="BAA15651"/>
+</dbReference>
+<dbReference type="GeneID" id="946358"/>
+<dbReference type="KEGG" id="ecj:JW1834"/>
+<dbReference type="KEGG" id="eco:b1845"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.405"/>
+<dbReference type="EchoBASE" id="EB0997"/>
+<dbReference type="EcoGene" id="EG11004">
+<property type="gene designation" value="ptrB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CUG">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1770">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000249811"/>
+<dbReference type="InParanoid" id="P24555"/>
+<dbReference type="KO" id="K01354"/>
+<dbReference type="PhylomeDB" id="P24555"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11004-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1834-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11004-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.21.83">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P24555"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070012">
+<property type="term" value="F:oligopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070008">
+<property type="term" value="F:serine-type exopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1820">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029058">
+<property type="entry name" value="AB_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002471">
+<property type="entry name" value="Pept_S9_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023302">
+<property type="entry name" value="Pept_S9A_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001375">
+<property type="entry name" value="Peptidase_S9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002470">
+<property type="entry name" value="Peptidase_S9A"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00326">
+<property type="entry name" value="Peptidase_S9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02897">
+<property type="entry name" value="Peptidase_S9_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00862">
+<property type="entry name" value="PROLIGOPTASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53474">
+<property type="entry name" value="SSF53474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00708">
+<property type="entry name" value="PRO_ENDOPEP_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<feature type="chain" description="Protease 2" id="PRO_0000122404">
+<location>
+<begin position="1"/>
+<end position="686"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="1 2">
+<location>
+<position position="532"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="1">
+<location>
+<position position="617"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="1">
+<location>
+<position position="652"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="3">
+<original>ATPAD</original>
+<variation>LRLRTKYFPDNVSVLNAAPGSCCPGY</variation>
+<location>
+<begin position="682"/>
+<end position="686"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10084"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1769955"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="686" mass="79491" checksum="B41AD388044D56B2" modified="1997-11-01" version="2">
+MLPKAARIPHAMTLHGDTRIDNYYWLRDDTRSQPEVLDYLQQENSYGHRVMASQQALQDR
+ILKEIIDRIPQREVSAPYIKNGYRYRHIYEPGCEYAIYQRQSAFSEEWDEWETLLDANKR
+AAHSEFYSMGGMAITPDNTIMALAEDFLSRRQYGIRFRNLETGNWYPELLDNVEPSFVWA
+NDSWIFYYVRKHPVTLLPYQVWRHAIGTPASQDKLIYEEKDDTYYVSLHKTTSKHYVVIH
+LASATTSEVRLLDAEMADAEPFVFLPRRKDHEYSLDHYQHRFYLRSNRHGKNFGLYRTRM
+RDEQQWEELIPPRENIMLEGFTLFTDWLVVEERQRGLTSLRQINRKTREVIGIAFDDPAY
+VTWIAYNPEPETARLRYGYSSMTTPDTLFELDMDTGERRVLKQTEVPGFYAANYRSEHLW
+IVARDGVEVPVSLVYHRKHFRKGHNPLLVYGYGSYGASIDADFSFSRLSLLDRGFVYAIV
+HVRGGGELGQQWYEDGKFLKKKNTFNDYLDACDALLKLGYGSPSLCYAMGGSAGGMLMGV
+AINQRPELFHGVIAQVPFVDVVTTMLDESIPLTTGEFEEWGNPQDPQYYEYMKSYSPYDN
+VTAQAYPHLLVTTGLHDSQVQYWEPAKWVAKLRELKTDDHLLLLCTDMDSGHGGKSGRFK
+SYEGVAMEYAFLVALAQGTLPATPAD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

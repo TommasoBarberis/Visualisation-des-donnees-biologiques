@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2019-05-08" version="111">
+<accession>P67080</accession>
+<accession>P52054</accession>
+<accession>Q2M9P2</accession>
+<name>PLPHP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 8">Pyridoxal phosphate homeostasis protein</fullName>
+<shortName evidence="3 8">PLP homeostasis protein</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yggS</name>
+<name type="ordered locus">b2951</name>
+<name type="ordered locus">JW2918</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="5439" last="5449">
+<title>Conserved pyridoxal protein that regulates Ile and Val metabolism.</title>
+<authorList>
+<person name="Ito T."/>
+<person name="Iimori J."/>
+<person name="Takayama S."/>
+<person name="Moriyama A."/>
+<person name="Yamauchi A."/>
+<person name="Hemmi H."/>
+<person name="Yoshimura T."/>
+</authorList>
+<dbReference type="PubMed" id="24097949"/>
+<dbReference type="DOI" id="10.1128/JB.00593-13"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>LACK OF RACEMASE ACTIVITY</scope>
+<scope>MUTAGENESIS OF LYS-36</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2016" name="J. Biosci. Bioeng." volume="122" first="689" last="693">
+<title>Ophthalmic acid accumulation in an Escherichia coli mutant lacking the conserved pyridoxal 5'-phosphate-binding protein YggS.</title>
+<authorList>
+<person name="Ito T."/>
+<person name="Yamauchi A."/>
+<person name="Hemmi H."/>
+<person name="Yoshimura T."/>
+</authorList>
+<dbReference type="PubMed" id="27426274"/>
+<dbReference type="DOI" id="10.1016/j.jbiosc.2016.06.010"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2016" name="Microbiology" volume="162" first="694" last="706">
+<title>Evidence that COG0325 proteins are involved in PLP homeostasis.</title>
+<authorList>
+<person name="Prunetti L."/>
+<person name="El Yacoubi B."/>
+<person name="Schiavon C.R."/>
+<person name="Kirkpatrick E."/>
+<person name="Huang L."/>
+<person name="Bailly M."/>
+<person name="ElBadawi-Sidhu M."/>
+<person name="Harrison K."/>
+<person name="Gregory J.F."/>
+<person name="Fiehn O."/>
+<person name="Hanson A.D."/>
+<person name="de Crecy-Lagard V."/>
+</authorList>
+<dbReference type="PubMed" id="26872910"/>
+<dbReference type="DOI" id="10.1099/mic.0.000255"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="6" evidence="1">
+<citation type="submission" date="2004-09" db="PDB data bank">
+<title>Crystal structure of E. coli K-12 YggS.</title>
+<authorList>
+<person name="Sulzenbacher G."/>
+<person name="Gruez A."/>
+<person name="Spinelli S."/>
+<person name="Roig-Zamboni V."/>
+<person name="Pagot F."/>
+<person name="Bignon C."/>
+<person name="Vincentelli R."/>
+<person name="Cambillau C."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH PYRIDOXAL PHOSPHATE</scope>
+</reference>
+<reference key="7" evidence="2">
+<citation type="submission" date="2011-07" db="PDB data bank">
+<title>Crystal structure of engineered protein. Northeast structural genomics consortium target OR70.</title>
+<authorList>
+<person name="Vorobiev S."/>
+<person name="Su M."/>
+<person name="Nivon L."/>
+<person name="Seetharaman J."/>
+<person name="Sahdev S."/>
+<person name="Xiao R."/>
+<person name="Ciccosanti C."/>
+<person name="Maglaqui M."/>
+<person name="Baker D."/>
+<person name="Everett J.K."/>
+<person name="Nair R."/>
+<person name="Acton T.B."/>
+<person name="Rost B."/>
+<person name="Montelione G.T."/>
+<person name="Hunt J.F."/>
+<person name="Tong L."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.47 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5">Pyridoxal 5'-phosphate (PLP)-binding protein, which is involved in PLP homeostasis. May have a carrier function to deliver PLP to the target enzymes or a protective function so that PLP does not inactivate essential lysines in proteins (PubMed:26872910). Does not have amino acid racemase activity (PubMed:24097949).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5">Monomer.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5 6 9">During the stationary phase, the deletion mutant exhibits a completely different intracellular pool of amino acids and produces a significant amount of L-valine in the culture medium. The log-phase mutant displays slightly decreased coenzyme A levels, accumulates 2-ketobutyrate, 2-aminobutyrate, and, to a lesser extent, L-valine. Also exhibits an increase in the levels of isoleucine and valine metabolic enzymes (PubMed:24097949). The mutant also accumulates gamma-L-glutamyl-L-2-aminobutyryl-glycine (ophthalmic acid) (PubMed:27426274). The mutant accumulates the PLP precursor pyridoxine 5'-phosphate (PNP), and is sensitive to an excess of pyridoxine but not of pyridoxal (PubMed:26872910). Most of the phenotypes observed in the absence of yggS are probably caused by lower activities of PLP-dependent enzymes (PubMed:26872910).</text>
+</comment>
+<comment type="similarity">
+<text evidence="3 8">Belongs to the pyridoxal phosphate-binding protein YggS/PROSC family.</text>
+</comment>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69118.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75988.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77014.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65080">
+<property type="entry name" value="F65080"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417426.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000997795.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1W8G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-234"/>
+</dbReference>
+<dbReference type="PDB" id="3SY1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.46"/>
+<property type="chains" value="A=1-234"/>
+</dbReference>
+<dbReference type="PDBsum" id="1W8G"/>
+<dbReference type="PDBsum" id="3SY1"/>
+<dbReference type="SMR" id="P67080"/>
+<dbReference type="BioGrid" id="4261786">
+<property type="interactions" value="34"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12194N"/>
+<dbReference type="IntAct" id="P67080">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2951"/>
+<dbReference type="jPOST" id="P67080"/>
+<dbReference type="PaxDb" id="P67080"/>
+<dbReference type="PRIDE" id="P67080"/>
+<dbReference type="EnsemblBacteria" id="AAC75988">
+<property type="protein sequence ID" value="AAC75988"/>
+<property type="gene ID" value="b2951"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77014">
+<property type="protein sequence ID" value="BAE77014"/>
+<property type="gene ID" value="BAE77014"/>
+</dbReference>
+<dbReference type="GeneID" id="947423"/>
+<dbReference type="KEGG" id="ecj:JW2918"/>
+<dbReference type="KEGG" id="eco:b2951"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3781"/>
+<dbReference type="EchoBASE" id="EB2804"/>
+<dbReference type="EcoGene" id="EG12979">
+<property type="gene designation" value="yggS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DFA">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0325">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000048983"/>
+<dbReference type="InParanoid" id="P67080"/>
+<dbReference type="KO" id="K06997"/>
+<dbReference type="PhylomeDB" id="P67080"/>
+<dbReference type="BioCyc" id="EcoCyc:G7527-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2918-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P67080"/>
+<dbReference type="PRO" id="PR:P67080"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030170">
+<property type="term" value="F:pyridoxal phosphate binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02087">
+<property type="entry name" value="PLP_homeostasis"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001608">
+<property type="entry name" value="Ala_racemase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029066">
+<property type="entry name" value="PLP-binding_barrel"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011078">
+<property type="entry name" value="PyrdxlP_homeostasis"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10146">
+<property type="entry name" value="PTHR10146"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01168">
+<property type="entry name" value="Ala_racemase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF004848">
+<property type="entry name" value="YBL036c_PLPDEIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51419">
+<property type="entry name" value="SSF51419"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00044">
+<property type="entry name" value="TIGR00044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01211">
+<property type="entry name" value="UPF0001"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0663">Pyridoxal phosphate</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Pyridoxal phosphate homeostasis protein" id="PRO_0000163196">
+<location>
+<begin position="1"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-(pyridoxal phosphate)lysine" evidence="1 3 7">
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not bind PLP." evidence="4">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="3"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="26"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="30"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="40"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="53"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="59"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="78"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="87"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="90"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="98"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="106"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="123"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="138"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="142"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="145"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="158"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="173"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="199"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="205"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="208"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="218"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="223"/>
+<end position="226"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1W8G"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3SY1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02087"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24097949"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26872910"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27426274"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source ref="6"/>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26872910"/>
+</source>
+</evidence>
+<sequence length="234" mass="25787" checksum="2AA431E2D75BCA59" modified="2004-10-11" version="1">
+MNDIAHNLAQVRDKISAAATRCGRSPEEITLLAVSKTKPASAIAEAIDAGQRQFGENYVQ
+EGVDKIRHFQELGVTGLEWHFIGPLQSNKSRLVAEHFDWCHTIDRLRIATRLNDQRPAEL
+PPLNVLIQINISDENSKSGIQLAELDELAAAVAELPRLRLRGLMAIPAPESEYVRQFEVA
+RQMAVAFAGLKTRYPHIDTLSLGMSDDMEAAIAAGSTMVRIGTAIFGARDYSKK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

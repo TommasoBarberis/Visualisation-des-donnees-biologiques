@@ -1,0 +1,1424 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-11-01" modified="2019-05-08" version="143">
+<accession>P23874</accession>
+<accession>P76139</accession>
+<accession>P76880</accession>
+<accession>P77507</accession>
+<name>HIPA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Serine/threonine-protein kinase toxin HipA</fullName>
+<shortName>Ser/Thr-protein kinase HipA</shortName>
+<ecNumber evidence="17">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Toxin HipA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">hipA</name>
+<name type="ordered locus">b1507</name>
+<name type="ordered locus">JW1500</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="5732" last="5739">
+<title>Structure and organization of hip, an operon that affects lethality due to inhibition of peptidoglycan or DNA synthesis.</title>
+<authorList>
+<person name="Black D.S."/>
+<person name="Kelly A.J."/>
+<person name="Mardis M.J."/>
+<person name="Moyed H.S."/>
+</authorList>
+<dbReference type="PubMed" id="1715862"/>
+<dbReference type="DOI" id="10.1128/jb.173.18.5732-5739.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="8360" last="8367">
+<title>Kinase activity of overexpressed HipA is required for growth arrest and multidrug tolerance in Escherichia coli.</title>
+<authorList>
+<person name="Correia F.F."/>
+<person name="D'Onofrio A."/>
+<person name="Rejtar T."/>
+<person name="Li L."/>
+<person name="Karger B.L."/>
+<person name="Makarova K."/>
+<person name="Koonin E.V."/>
+<person name="Lewis K."/>
+</authorList>
+<dbReference type="PubMed" id="17041039"/>
+<dbReference type="DOI" id="10.1128/JB.01237-06"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 134-157</scope>
+<scope>FUNCTION AS A KINASE</scope>
+<scope>ACTIVE SITE</scope>
+<scope>PHOSPHORYLATION AT SER-150</scope>
+<scope>ANTIBIOTIC TOLERANCE</scope>
+<scope>MUTAGENESIS OF SER-150; ASP-309 AND ASP-332</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1983" name="J. Bacteriol." volume="155" first="768" last="775">
+<title>hipA, a newly recognized gene of Escherichia coli K-12 that affects frequency of persistence after inhibition of murein synthesis.</title>
+<authorList>
+<person name="Moyed H.S."/>
+<person name="Bertrand K.P."/>
+</authorList>
+<dbReference type="PubMed" id="6348026"/>
+</citation>
+<scope>MUTANT HIPA7 ISOLATION</scope>
+<scope>FUNCTION IN ANTIBIOTIC TOLERANCE</scope>
+<scope>ROLE IN PERSISTENCE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1986" name="J. Bacteriol." volume="166" first="399" last="403">
+<title>Molecular cloning and expression of hipA, a gene of Escherichia coli K-12 that affects frequency of persistence after inhibition of murein synthesis.</title>
+<authorList>
+<person name="Moyed H.S."/>
+<person name="Broderick S.H."/>
+</authorList>
+<dbReference type="PubMed" id="3516974"/>
+</citation>
+<scope>CLONING</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="4081" last="4091">
+<title>Autoregulation of hip, an operon that affects lethality due to inhibition of peptidoglycan or DNA synthesis.</title>
+<authorList>
+<person name="Black D.S."/>
+<person name="Irwin B."/>
+<person name="Moyed H.S."/>
+</authorList>
+<dbReference type="PubMed" id="8021189"/>
+<dbReference type="DOI" id="10.1128/jb.176.13.4081-4091.1994"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>FUNCTION AS A TRANSCRIPTIONAL REPRESSOR</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Mol. Microbiol." volume="50" first="1199" last="1213">
+<title>Characterization of the hipA7 allele of Escherichia coli and evidence that high persistence is governed by (p)ppGpp synthesis.</title>
+<authorList>
+<person name="Korch S.B."/>
+<person name="Henderson T.A."/>
+<person name="Hill T.M."/>
+</authorList>
+<dbReference type="PubMed" id="14622409"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2003.03779.x"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>FUNCTION IN PERSISTENCE</scope>
+<scope>REQUIREMENT FOR (P)PPGPP</scope>
+<scope>MUTAGENESIS OF GLY-22; ASP-88 AND ASP-291</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="3826" last="3836">
+<title>Ectopic overexpression of wild-type and mutant hipA genes in Escherichia coli: effects on macromolecular synthesis and persister formation.</title>
+<authorList>
+<person name="Korch S.B."/>
+<person name="Hill T.M."/>
+</authorList>
+<dbReference type="PubMed" id="16707675"/>
+<dbReference type="DOI" id="10.1128/JB.01740-05"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2010" name="Proc. Natl. Acad. Sci. U.S.A." volume="107" first="12541" last="12546">
+<title>Regulation of phenotypic variability by a threshold-based mechanism underlies bacterial persistence.</title>
+<authorList>
+<person name="Rotem E."/>
+<person name="Loinger A."/>
+<person name="Ronin I."/>
+<person name="Levin-Reisman I."/>
+<person name="Gabay C."/>
+<person name="Shoresh N."/>
+<person name="Biham O."/>
+<person name="Balaban N.Q."/>
+</authorList>
+<dbReference type="PubMed" id="20616060"/>
+<dbReference type="DOI" id="10.1073/pnas.1004333107"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF GLY-22 AND ASP-291</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="3173" last="3182">
+<title>HipA-triggered growth arrest and beta-lactam tolerance in Escherichia coli are mediated by RelA-dependent ppGpp synthesis.</title>
+<authorList>
+<person name="Bokinsky G."/>
+<person name="Baidoo E.E."/>
+<person name="Akella S."/>
+<person name="Burd H."/>
+<person name="Weaver D."/>
+<person name="Alonso-Gutierrez J."/>
+<person name="Garcia-Martin H."/>
+<person name="Lee T.S."/>
+<person name="Keasling J.D."/>
+</authorList>
+<dbReference type="PubMed" id="23667235"/>
+<dbReference type="DOI" id="10.1128/JB.02210-12"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ROLE IN PPGPP RESPONSE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="J. Mol. Recognit." volume="26" first="556" last="567">
+<title>Interaction investigations of HipA binding to HipB dimer and HipB dimer + DNA complex: a molecular dynamics simulation study.</title>
+<authorList>
+<person name="Li C."/>
+<person name="Wang Y."/>
+<person name="Wang Y."/>
+<person name="Chen G."/>
+</authorList>
+<dbReference type="PubMed" id="24089363"/>
+<dbReference type="DOI" id="10.1002/jmr.2300"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>MODELING OF INTERACTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2013" name="Microbiology" volume="159" first="633" last="640">
+<title>Escherichia coli toxin gene hipA affects biofilm formation and DNA release.</title>
+<authorList>
+<person name="Zhao J."/>
+<person name="Wang Q."/>
+<person name="Li M."/>
+<person name="Heijstra B.D."/>
+<person name="Wang S."/>
+<person name="Liang Q."/>
+<person name="Qi Q."/>
+</authorList>
+<dbReference type="PubMed" id="23329678"/>
+<dbReference type="DOI" id="10.1099/mic.0.063784-0"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="52" first="248" last="254">
+<title>Molecular mechanism of bacterial persistence by HipA.</title>
+<authorList>
+<person name="Germain E."/>
+<person name="Castro-Roa D."/>
+<person name="Zenkin N."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="24095282"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.08.045"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH HIPB</scope>
+<scope>SUBUNIT</scope>
+<scope>MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="3001" last="3001">
+<title>HipA-mediated antibiotic persistence via phosphorylation of the glutamyl-tRNA-synthetase.</title>
+<authorList>
+<person name="Kaspy I."/>
+<person name="Rotem E."/>
+<person name="Weiss N."/>
+<person name="Ronin I."/>
+<person name="Balaban N.Q."/>
+<person name="Glaser G."/>
+</authorList>
+<dbReference type="PubMed" id="24343429"/>
+<dbReference type="DOI" id="10.1038/ncomms4001"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2015" name="Proc. Natl. Acad. Sci. U.S.A." volume="112" first="5171" last="5176">
+<title>Stochastic induction of persister cells by HipA through (p)ppGpp-mediated activation of mRNA endonucleases.</title>
+<authorList>
+<person name="Germain E."/>
+<person name="Roghanian M."/>
+<person name="Gerdes K."/>
+<person name="Maisonneuve E."/>
+</authorList>
+<dbReference type="PubMed" id="25848049"/>
+<dbReference type="DOI" id="10.1073/pnas.1423536112"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="352" last="364">
+<title>Escherichia coli persister cells suppress translation by selectively disassembling and degrading their ribosomes.</title>
+<authorList>
+<person name="Cho J."/>
+<person name="Rogers J."/>
+<person name="Kearns M."/>
+<person name="Leslie M."/>
+<person name="Hartson S.D."/>
+<person name="Wilson K.S."/>
+</authorList>
+<dbReference type="PubMed" id="25425348"/>
+<dbReference type="DOI" id="10.1111/mmi.12884"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF GLY-22 AND ASP-291</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2017" name="FEMS Microbiol. Lett.">
+<title>Characterization of YjjJ toxin of Escherichia coli.</title>
+<authorList>
+<person name="Maeda Y."/>
+<person name="Lin C.Y."/>
+<person name="Ishida Y."/>
+<person name="Inouye M."/>
+<person name="Yamaguchi Y."/>
+<person name="Phadtare S."/>
+</authorList>
+<dbReference type="PubMed" id="28430938"/>
+<dbReference type="DOI" id="10.1093/femsle/fnx086"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<source>
+<strain>B / BL21-DE3</strain>
+</source>
+</reference>
+<reference key="19" evidence="1">
+<citation type="journal article" date="2009" name="Acta Crystallogr. D" volume="65" first="875" last="879">
+<title>New kinase regulation mechanism found in HipBA: a bacterial persistence switch.</title>
+<authorList>
+<person name="Evdokimov A."/>
+<person name="Voznesensky I."/>
+<person name="Fennell K."/>
+<person name="Anderson M."/>
+<person name="Smith J.F."/>
+<person name="Fisher D.A."/>
+</authorList>
+<dbReference type="PubMed" id="19622872"/>
+<dbReference type="DOI" id="10.1107/S0907444909018800"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH HIPB</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="20" evidence="2 3 4 5 6">
+<citation type="journal article" date="2009" name="Science" volume="323" first="396" last="401">
+<title>Molecular mechanisms of HipA-mediated multidrug tolerance and its neutralization by HipB.</title>
+<authorList>
+<person name="Schumacher M.A."/>
+<person name="Piro K.M."/>
+<person name="Xu W."/>
+<person name="Hansen S."/>
+<person name="Lewis K."/>
+<person name="Brennan R.G."/>
+</authorList>
+<dbReference type="PubMed" id="19150849"/>
+<dbReference type="DOI" id="10.1126/science.1163806"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) ALONE AND IN COMPLEX WITH MG-ATP</scope>
+<scope>HIPB AND DNA</scope>
+<scope>FUNCTION AS A KINASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ATP-BINDING</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBSTRATE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="21" evidence="7 8 9 10 11">
+<citation type="journal article" date="2012" name="Cell Rep." volume="2" first="518" last="525">
+<title>Role of unusual P loop ejection and autophosphorylation in HipA-mediated persistence and multidrug tolerance.</title>
+<authorList>
+<person name="Schumacher M.A."/>
+<person name="Min J."/>
+<person name="Link T.M."/>
+<person name="Guan Z."/>
+<person name="Xu W."/>
+<person name="Ahn Y.H."/>
+<person name="Soderblom E.J."/>
+<person name="Kurie J.M."/>
+<person name="Evdokimov A."/>
+<person name="Moseley M.A."/>
+<person name="Lewis K."/>
+<person name="Brennan R.G."/>
+</authorList>
+<dbReference type="PubMed" id="22999936"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2012.08.013"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) PHOSPHORYLATED AND NON-PHOSPHORYLATED AND IN COMPLEX WITH ATP</scope>
+<scope>ATP-BINDING</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>PHOSPHORYLATION AT SER-150</scope>
+</reference>
+<reference key="22" evidence="12 13">
+<citation type="journal article" date="2015" name="Nature" volume="524" first="59" last="64">
+<title>HipBA-promoter structures reveal the basis of heritable multidrug tolerance.</title>
+<authorList>
+<person name="Schumacher M.A."/>
+<person name="Balani P."/>
+<person name="Min J."/>
+<person name="Chinnam N.B."/>
+<person name="Hansen S."/>
+<person name="Vulic M."/>
+<person name="Lewis K."/>
+<person name="Brennan R.G."/>
+</authorList>
+<dbReference type="PubMed" id="26222023"/>
+<dbReference type="DOI" id="10.1038/nature14662"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.77 ANGSTROMS) OF 2-437 IN COMPLEX WITH HIPB AND DNA</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF GLY-22; PRO-86 AND ASP-88</scope>
+</reference>
+<comment type="function">
+<text evidence="14 15 16 17 19 21 22 24 25 26 27 28 29 30 31">Toxic component of a type II toxin-antitoxin (TA) system, first identified by mutations that increase production of persister cells, a fraction of cells that are phenotypic variants not killed by antibiotics, which lead to multidrug tolerance (PubMed:6348026, PubMed:8021189, PubMed:16707675, PubMed:26222023). Persistence may be ultimately due to global remodeling of the persister cell's ribosomes (PubMed:25425348). Phosphorylates Glu-tRNA-ligase (AC P04805, gltX, on 'Ser-239') in vivo (PubMed:24095282, PubMed:24343429). Phosphorylation of GltX prevents it from being charged, leading to an increase in uncharged tRNA(Glu). This induces amino acid starvation and the stringent response via RelA/SpoT and increased (p)ppGpp levels, which inhibits replication, transcription, translation and cell wall synthesis, reducing growth and leading to persistence and multidrug resistance (PubMed:24095282, PubMed:24343429, PubMed:25848049). Once the level of HipA exceeds a threshold cells become dormant, and the length of dormancy is determined by how much HipA levels exceed the threshold (PubMed:20616060). The hipA7 mutation (a double G22S D291A mutation) leads to increased generation of persister cells (cells that survive antibiotic treatment) probably by entering into a dormant state, as well as cold-sensitivity (PubMed:14622409, PubMed:16707675). Wild-type cells produce persisters at a frequency of 10(-6) to 10(-5) whereas hipA7 cells produce about 100-fold more persisters (PubMed:14622409, PubMed:16707675, PubMed:25425348). hipA7 decreases the affinity for antitoxin HipB, leading to increased HipA levels and persistence (PubMed:20616060); depending on the protein level, can be toxic enough to reduce cell growth or even kill cells. Generation of persister cells requires (p)ppGpp as cells lacking relA or relA/spoT generate fewer or no persister cells respectively compared to hipA7 (PubMed:14622409, PubMed:25848049). Generation of persister cells by HipA also requires mRNA interferase toxins (such as MazF, RelE or YafO) and Lon protease; a strain deleted for 10 type II TAs does not produce persisters when HipA (or HipA7) is expressed, nor does a lon deletion strain or bacteria with alterations of polyphosphate levels, although levels of (p)ppGpp increase (PubMed:25848049). The toxic effect of HipA is neutralized by its cognate antitoxin HipB (PubMed:20616060). Also neutralized by overexpression of gltX (PubMed:24343429, PubMed:28430938). With HipB acts as a corepressor for transcription of the hipBA promoter (PubMed:8021189); binding of HipA-HipB to DNA induces a 70 degree bend (PubMed:19150849, PubMed:26222023). This brings together and dimerizes 2 HipA molecules, which distorts the promoter region, preventing sigma-factor binding; additionally HipA and HipB would physically prevent RNA core polymerase from contacting the -35 promoter box (PubMed:26222023). May play a role in biofilm formation (PubMed:23329678).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="17">
+<text>ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:17989"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="17">
+<text>ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-threonyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:46608"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="20">Once phosphorylated no longer has kinase activity.</text>
+</comment>
+<comment type="subunit">
+<text evidence="17 18 19 20 23 24 28">Forms a HipA(2)HipB(2) heterotetramer which can interact with a single operator on DNA (PubMed:19150849). When 2 operators are present each HipB dimer contacts 1 HipA molecule, which are brought together by the DNA bend and dimerize, blocking the HipA active site and inactivating its toxic activity (PubMed:26222023). Mutations present in allele hipA7 (G22S and D291A) decrease the affinity of HipA for HipB (PubMed:20616060).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-560590"/>
+<interactant intactId="EBI-560582">
+<id>P75989</id>
+<label>bluR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-560590"/>
+<interactant intactId="EBI-1129654">
+<id>P23873</id>
+<label>hipB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="PTM">
+<text evidence="16 20">Autophosphorylates intermolecularly on Ser-150; phosphorylated form not seen to bind ATP and no longer has kinase activity.</text>
+</comment>
+<comment type="mass spectrometry" mass="49143.80" method="MALDI" evidence="24">
+<location>
+<begin position="1"/>
+<end position="440"/>
+</location>
+</comment>
+<comment type="mass spectrometry" mass="49223.80" method="MALDI" evidence="24">
+<location>
+<begin position="1"/>
+<end position="440"/>
+</location>
+<text>Phosphorylated form.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="19 21 31">A hipA or a hipB-hipA operon deletion have no visible phenotype (PubMed:20616060). Initially cells lacking hipA or the hipBA operon were thought not to produce persister cells at a high frequency; this was later shown to be a strain-specific phenotype (PubMed:8021189). A hipA or a hipB-hipA operon deletion show decreased biofilm production in the absence of antibiotics (PubMed:23329678).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="28">The hipA7 allele (G22S and D291A) as well as a P86L mutation have been identified in E.coli isolates from human patients with urinary tract infections, showing the mutations may be clinically relevant (PubMed:26222023).</text>
+</comment>
+<comment type="similarity">
+<text evidence="32">Belongs to the HipA Ser/Thr kinase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="34 35">Has been reported to phosphorylate EF-Tu in vitro (on 'Thr-383') (PubMed:19150849). According to another report, does not phosphorylate EF-Tu (PubMed:19622872).</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="17"/>
+<dbReference type="EMBL" id="M61242">
+<property type="protein sequence ID" value="AAA56878.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74580.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15179.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F64904">
+<property type="entry name" value="F64904"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416024.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001125439.1">
+<property type="nucleotide sequence ID" value="NZ_CP014272.1"/>
+</dbReference>
+<dbReference type="PDB" id="2WIU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/C=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3DNT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.66"/>
+<property type="chains" value="A/B=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3DNU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3DNV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.68"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3FBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A=1-437"/>
+</dbReference>
+<dbReference type="PDB" id="3HZI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.98"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3TPB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3TPD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3TPE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3TPT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="3TPV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B=1-440"/>
+</dbReference>
+<dbReference type="PDB" id="4YG7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.77"/>
+<property type="chains" value="D/K=2-437"/>
+</dbReference>
+<dbReference type="PDB" id="5K98">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.99"/>
+<property type="chains" value="A/D=2-440"/>
+</dbReference>
+<dbReference type="PDBsum" id="2WIU"/>
+<dbReference type="PDBsum" id="3DNT"/>
+<dbReference type="PDBsum" id="3DNU"/>
+<dbReference type="PDBsum" id="3DNV"/>
+<dbReference type="PDBsum" id="3FBR"/>
+<dbReference type="PDBsum" id="3HZI"/>
+<dbReference type="PDBsum" id="3TPB"/>
+<dbReference type="PDBsum" id="3TPD"/>
+<dbReference type="PDBsum" id="3TPE"/>
+<dbReference type="PDBsum" id="3TPT"/>
+<dbReference type="PDBsum" id="3TPV"/>
+<dbReference type="PDBsum" id="4YG7"/>
+<dbReference type="PDBsum" id="5K98"/>
+<dbReference type="SMR" id="P23874"/>
+<dbReference type="BioGrid" id="4260220">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-180">
+<property type="entry name" value="HipBA toxin-antitoxin complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9898N"/>
+<dbReference type="IntAct" id="P23874">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1507"/>
+<dbReference type="iPTMnet" id="P23874"/>
+<dbReference type="jPOST" id="P23874"/>
+<dbReference type="PaxDb" id="P23874"/>
+<dbReference type="PRIDE" id="P23874"/>
+<dbReference type="EnsemblBacteria" id="AAC74580">
+<property type="protein sequence ID" value="AAC74580"/>
+<property type="gene ID" value="b1507"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15179">
+<property type="protein sequence ID" value="BAA15179"/>
+<property type="gene ID" value="BAA15179"/>
+</dbReference>
+<dbReference type="GeneID" id="946064"/>
+<dbReference type="KEGG" id="ecj:JW1500"/>
+<dbReference type="KEGG" id="eco:b1507"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.760"/>
+<dbReference type="EchoBASE" id="EB0438"/>
+<dbReference type="EcoGene" id="EG10443">
+<property type="gene designation" value="hipA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CAF">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3550">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000188799"/>
+<dbReference type="InParanoid" id="P23874"/>
+<dbReference type="KO" id="K07154"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10443-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1500-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10443-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P23874"/>
+<dbReference type="PRO" id="PR:P23874"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="CollecTF" id="EXPREG_00000970"/>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001217">
+<property type="term" value="F:DNA-binding transcription repressor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022611">
+<property type="term" value="P:dormancy process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043086">
+<property type="term" value="P:negative regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036289">
+<property type="term" value="P:peptidyl-serine autophosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044010">
+<property type="term" value="P:single-species biofilm formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012893">
+<property type="entry name" value="HipA-like_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017508">
+<property type="entry name" value="HipA_N1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13657">
+<property type="entry name" value="Couple_hipA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07804">
+<property type="entry name" value="HipA_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03071">
+<property type="entry name" value="couple_hipA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Serine/threonine-protein kinase toxin HipA" id="PRO_0000083988">
+<location>
+<begin position="1"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2 5 6 10 20">
+<location>
+<begin position="152"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2 5 6 10 20">
+<location>
+<begin position="234"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2 5 6 10 20">
+<location>
+<begin position="311"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2 5 6 10 20">
+<location>
+<begin position="331"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="DNA-binding region" evidence="17">
+<location>
+<begin position="379"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="33">
+<location>
+<position position="309"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2 6 10 20">
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by autocatalysis" evidence="16 20">
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of toxicity, does not confer high persistence. Single mutation has decreased affinity for HipB-operator. Loss of toxicity, high levels of persister cells and cold sensitivity, decreased affinity for HipB; in hipA7; when associated with A-291." evidence="14 19 28">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="High levels of persister cells formed which survive better than wild-type in ampicillin or ciprofloxacin, decreased affinity for HipB-operator." evidence="28">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of toxicity, still confers high levels of persister cells. Decreased affinity for HipB-operator." evidence="14 28">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No phosphorylation; cells grow normally." evidence="16">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retains toxicity and high persistence but not cold-sensitive. Loss of toxicity, high levels of persister cells and cold sensitivity, decreased affinity for HipB; in hipA7; when associated with S-22." evidence="14 19">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of autophosphorylation; cells grow normally; protein can accumulate to high levels in E.coli." evidence="16">
+<original>D</original>
+<variation>Q</variation>
+<location>
+<position position="309"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of autophosphorylation; cells grow normally." evidence="16">
+<original>D</original>
+<variation>Q</variation>
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA56878." ref="1" evidence="32">
+<original>P</original>
+<variation>Q</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA56878." ref="1" evidence="32">
+<original>GL</original>
+<variation>WV</variation>
+<location>
+<begin position="214"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA56878." ref="1" evidence="32">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="11"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="24"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="30"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="49"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="55"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="69"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="82"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="86"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="101"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="114"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="117"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="122"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="149"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="158"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="166"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="178"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="185"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="193"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="199"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="220"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="228"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="236"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="247"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="252"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="255"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="263"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="268"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="275"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="288"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="312"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="316"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="321"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="325"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="337"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="342"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="347"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="351"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="361"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="366"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="371"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="385"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="412"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="416"/>
+<end position="434"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2WIU"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3DNT"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3DNU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3DNV"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3FBR"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HZI"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPB"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPD"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPE"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPT"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPV"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4YG7"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5K98"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14622409"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16707675"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17041039"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19150849"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19622872"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20616060"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22999936"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23329678"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23667235"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24089363"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24095282"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24343429"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25425348"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25848049"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26222023"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28430938"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6348026"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8021189"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000305"/>
+<evidence key="33" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="17041039"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19150849"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19622872"/>
+</source>
+</evidence>
+<sequence length="440" mass="49276" checksum="378771C4CAB55319" modified="2003-07-19" version="2">
+MPKLVTWMNNQRVGELTKLANGAHTFKYAPEWLASRYARPLSLSLPLQRGNITSDAVFNF
+FDNLLPDSPIVRDRIVKRYHAKSRQPFDLLSEIGRDSVGAVTLIPEDETVTHPIMAWEKL
+TEARLEEVLTAYKADIPLGMIREENDFRISVAGAQEKTALLRIGNDWCIPKGITPTTHII
+KLPIGEIRQPNATLDLSQSVDNEYYCLLLAKELGLNVPDAEIIKAGNVRALAVERFDRRW
+NAERTVLLRLPQEDMCQTFGLPSSVKYESDGGPGIARIMAFLMGSSEALKDRYDFMKFQV
+FQWLIGATDGHAKNFSVFIQAGGSYRLTPFYDIISAFPVLGGTGIHISDLKLAMGLNASK
+GKKTAIDKIYPRHFLATAKVLRFPEVQMHEILSDFARMIPAALDNVKTSLPTDFPENVVT
+AVESNVLRLHGRLSREYGSK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

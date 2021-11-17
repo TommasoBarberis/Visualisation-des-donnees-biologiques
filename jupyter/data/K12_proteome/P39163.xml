@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2019-06-05" version="128">
+<accession>P39163</accession>
+<accession>P77176</accession>
+<name>CHAC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Glutathione-specific gamma-glutamylcyclotransferase</fullName>
+<shortName evidence="3">Gamma-GCG</shortName>
+<ecNumber evidence="2">4.3.2.7</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Cation transport regulatory protein ChaC</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="7">chaC</name>
+<name type="ordered locus">b1218</name>
+<name type="ordered locus">JW1209</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1994-07" db="EMBL/GenBank/DDBJ databases">
+<title>Accessory and regulatory proteins associated with the Ca2+/H+ antiporter of Escherichia coli.</title>
+<authorList>
+<person name="Ivey D.M."/>
+<person name="Guffanti A.A."/>
+<person name="Zemsky J."/>
+<person name="Pinner E."/>
+<person name="Karpel R."/>
+<person name="Padan E."/>
+<person name="Schuldiner S."/>
+<person name="Krulwich T.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>NM8191</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2017" name="J. Biol. Chem." volume="292" first="638" last="651">
+<title>ChaC2, an enzyme for slow turnover of cytosolic glutathione.</title>
+<authorList>
+<person name="Kaur A."/>
+<person name="Gautam R."/>
+<person name="Srivastava R."/>
+<person name="Chandel A."/>
+<person name="Kumar A."/>
+<person name="Karthikeyan S."/>
+<person name="Bachhawat A.K."/>
+</authorList>
+<dbReference type="PubMed" id="27913623"/>
+<dbReference type="DOI" id="10.1074/jbc.M116.727479"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Catalyzes the cleavage of glutathione into 5-oxo-L-proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>glutathione = 5-oxo-L-proline + L-cysteinylglycine</text>
+<dbReference type="Rhea" id="RHEA:47724"/>
+<dbReference type="ChEBI" id="CHEBI:57925"/>
+<dbReference type="ChEBI" id="CHEBI:58402"/>
+<dbReference type="ChEBI" id="CHEBI:61694"/>
+<dbReference type="EC" id="4.3.2.7"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="2">3.1 mM for glutathione</KM>
+<text evidence="2">kcat is 13 min(-1) for glutathione.</text>
+</kinetics>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the gamma-glutamylcyclotransferase family. ChaC subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA20198" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAA36076" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="4.3.2.7" evidence="2"/>
+<dbReference type="EMBL" id="L28709">
+<property type="protein sequence ID" value="AAA20198.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74302.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA36076.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64868">
+<property type="entry name" value="G64868"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415736.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001336325.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P39163"/>
+<dbReference type="BioGrid" id="4261606">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="IntAct" id="P39163">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1218"/>
+<dbReference type="PaxDb" id="P39163"/>
+<dbReference type="PRIDE" id="P39163"/>
+<dbReference type="EnsemblBacteria" id="AAC74302">
+<property type="protein sequence ID" value="AAC74302"/>
+<property type="gene ID" value="b1218"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA36076">
+<property type="protein sequence ID" value="BAA36076"/>
+<property type="gene ID" value="BAA36076"/>
+</dbReference>
+<dbReference type="GeneID" id="945793"/>
+<dbReference type="KEGG" id="ecj:JW1209"/>
+<dbReference type="KEGG" id="eco:b1218"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.1269"/>
+<dbReference type="EchoBASE" id="EB2303"/>
+<dbReference type="EcoGene" id="EG12403">
+<property type="gene designation" value="chaC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108NH8">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3703">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000264265"/>
+<dbReference type="InParanoid" id="P39163"/>
+<dbReference type="KO" id="K07232"/>
+<dbReference type="PhylomeDB" id="P39163"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12403-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1209-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12403-MONOMER"/>
+<dbReference type="PRO" id="PR:P39163"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003839">
+<property type="term" value="F:gamma-glutamylcyclotransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061928">
+<property type="term" value="F:glutathione specific gamma-glutamylcyclotransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071973">
+<property type="term" value="P:bacterial-type flagellum-dependent cell motility"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006751">
+<property type="term" value="P:glutathione catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd06661">
+<property type="entry name" value="GGCT_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006840">
+<property type="entry name" value="ChaC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013024">
+<property type="entry name" value="GGCT-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036568">
+<property type="entry name" value="GGCT-like_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12192">
+<property type="entry name" value="PTHR12192"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04752">
+<property type="entry name" value="ChaC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF110857">
+<property type="entry name" value="SSF110857"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0456">Lyase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Glutathione-specific gamma-glutamylcyclotransferase" id="PRO_0000089636">
+<location>
+<begin position="1"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="49"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1">
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA20198." ref="1" evidence="4">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA20198." ref="1" evidence="4">
+<original>C</original>
+<variation>F</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O75223"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27913623"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27913623"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="27913623"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305">
+<source ref="1"/>
+</evidence>
+<evidence key="7" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAA20198.1"/>
+</source>
+</evidence>
+<sequence length="231" mass="25512" checksum="9D7088566D553A7C" modified="2000-12-01" version="3">
+MITRDFLMNADCKTAFGAIEESLLWSAEQRAASLAATLACRPDEGPVWIFGYGSLMWNPA
+LEFTESCTGTLVGWHRAFCLRLTAGRGTAHQPGRMLALKEGGRTTGVAYRLPEETLEQEL
+TLLWKREMITGCYLPTWCQLDLDDGRTVNAIVFIMDPRHPEYESDTRAQVIAPLIAAASG
+PLGTNAQYLFSLEQELIKLGMQDDGLNDLLVSVKKLLAENFPDGVLRPGFA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

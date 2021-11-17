@@ -1,0 +1,1117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-06-05" version="127">
+<accession>P0A7Y4</accession>
+<accession>P00647</accession>
+<accession>Q8FKY5</accession>
+<name>RNH_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Ribonuclease HI</fullName>
+<shortName>RNase HI</shortName>
+<ecNumber>3.1.26.4</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Ribonuclease H</fullName>
+<shortName>RNase H</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rnhA</name>
+<name type="synonym">dasF</name>
+<name type="synonym">herA</name>
+<name type="synonym">rnh</name>
+<name type="synonym">sdrA</name>
+<name type="ordered locus">b0214</name>
+<name type="ordered locus">JW0204</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="1276" last="1281">
+<title>DNA sequence of the gene coding for Escherichia coli ribonuclease H.</title>
+<authorList>
+<person name="Kanaya S."/>
+<person name="Crouch R.J."/>
+</authorList>
+<dbReference type="PubMed" id="6296074"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="7137" last="7141">
+<title>Structure and expression of the dnaQ mutator and the RNase H genes of Escherichia coli: overlap of the promoter regions.</title>
+<authorList>
+<person name="Maki H."/>
+<person name="Horiuchi T."/>
+<person name="Sekiguchi M."/>
+</authorList>
+<dbReference type="PubMed" id="6316347"/>
+<dbReference type="DOI" id="10.1073/pnas.80.23.7137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>FB2</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1983" name="J. Bacteriol." volume="154" first="1021" last="1026">
+<title>Low levels of RNase H activity in Escherichia coli FB2 rnh result from a single-base change in the structural gene of RNase H.</title>
+<authorList>
+<person name="Kanaya S."/>
+<person name="Crouch R.J."/>
+</authorList>
+<dbReference type="PubMed" id="6302075"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1986" name="J. Mol. Biol." volume="190" first="113" last="117">
+<title>DNA sequence and coding properties of mutD(dnaQ) a dominant Escherichia coli mutator gene.</title>
+<authorList>
+<person name="Cox E.C."/>
+<person name="Horner D.L."/>
+</authorList>
+<dbReference type="PubMed" id="3023634"/>
+<dbReference type="DOI" id="10.1016/0022-2836(86)90080-X"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="1996-02" db="EMBL/GenBank/DDBJ databases">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 4.0 - 6.0 min (189,987 - 281,416bp) region.</title>
+<authorList>
+<person name="Takemoto K."/>
+<person name="Mori H."/>
+<person name="Murayama N."/>
+<person name="Kataoka K."/>
+<person name="Yano M."/>
+<person name="Itoh T."/>
+<person name="Yamamoto Y."/>
+<person name="Inokuchi H."/>
+<person name="Miki T."/>
+<person name="Hatada E."/>
+<person name="Fukuda R."/>
+<person name="Ichihara S."/>
+<person name="Mizuno T."/>
+<person name="Makino K."/>
+<person name="Nakata A."/>
+<person name="Yura T."/>
+<person name="Sampei G."/>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1990" name="Biochem. J." volume="271" first="59" last="66">
+<title>Role of cysteine residues in ribonuclease H from Escherichia coli. Site-directed mutagenesis and chemical modification.</title>
+<authorList>
+<person name="Kanaya S."/>
+<person name="Kimura S."/>
+<person name="Katsuda C."/>
+<person name="Ikehara M."/>
+</authorList>
+<dbReference type="PubMed" id="2171503"/>
+<dbReference type="DOI" id="10.1042/bj2710059"/>
+</citation>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>MUTAGENESIS OF CYSTEINE RESIDUES</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="4615" last="4621">
+<title>Identification of the amino acid residues involved in an active site of Escherichia coli ribonuclease H by site-directed mutagenesis.</title>
+<authorList>
+<person name="Kanaya S."/>
+<person name="Kohara A."/>
+<person name="Miura Y."/>
+<person name="Sekiguchi A."/>
+<person name="Iwai S."/>
+<person name="Inoue H."/>
+<person name="Ohtsuka E."/>
+<person name="Ikehara M."/>
+</authorList>
+<dbReference type="PubMed" id="1689729"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-10; GLU-48; ASP-70; HIS-124; ASN-130 AND ASP-134</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="34128" last="34133">
+<title>Activation/attenuation model for RNase H. A one-metal mechanism with second-metal inhibition.</title>
+<authorList>
+<person name="Keck J.L."/>
+<person name="Goedken E.R."/>
+<person name="Marqusee S."/>
+</authorList>
+<dbReference type="PubMed" id="9852071"/>
+<dbReference type="DOI" id="10.1074/jbc.273.51.34128"/>
+</citation>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF HIS-124 AND ASP-134</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1990" name="Nature" volume="347" first="306" last="309">
+<title>Three-dimensional structure of ribonuclease H from E. coli.</title>
+<authorList>
+<person name="Katayanagi K."/>
+<person name="Miyagawa M."/>
+<person name="Matsushima M."/>
+<person name="Ishikawa M."/>
+<person name="Kanaya S."/>
+<person name="Ikehara M."/>
+<person name="Matsuzaki T."/>
+<person name="Morikawa K."/>
+</authorList>
+<dbReference type="PubMed" id="1698262"/>
+<dbReference type="DOI" id="10.1038/347306a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1990" name="Science" volume="249" first="1398" last="1405">
+<title>Structure of ribonuclease H phased at 2-A resolution by MAD analysis of the selenomethionyl protein.</title>
+<authorList>
+<person name="Yang W."/>
+<person name="Hendrickson W.A."/>
+<person name="Crouch R.J."/>
+<person name="Satow Y."/>
+</authorList>
+<dbReference type="PubMed" id="2169648"/>
+<dbReference type="DOI" id="10.1126/science.2169648"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1991" name="Biochemistry" volume="30" first="6036" last="6047">
+<title>Assignments of backbone 1H, 13C, and 15N resonances and secondary structure of ribonuclease H from Escherichia coli by heteronuclear three-dimensional NMR spectroscopy.</title>
+<authorList>
+<person name="Yamazaki T."/>
+<person name="Yoshida M."/>
+<person name="Kanaya S."/>
+<person name="Nakamura H."/>
+<person name="Nagayama K."/>
+</authorList>
+<dbReference type="PubMed" id="1646006"/>
+<dbReference type="DOI" id="10.1021/bi00238a030"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1992" name="J. Mol. Biol." volume="223" first="1029" last="1052">
+<title>Structural details of ribonuclease H from Escherichia coli as refined to an atomic resolution.</title>
+<authorList>
+<person name="Katayanagi K."/>
+<person name="Miyagawa M."/>
+<person name="Matsushima M."/>
+<person name="Ishikawa M."/>
+<person name="Kanaya S."/>
+<person name="Nakamura H."/>
+<person name="Ikehara M."/>
+<person name="Matsuzaki T."/>
+<person name="Morikawa K."/>
+</authorList>
+<dbReference type="PubMed" id="1311386"/>
+<dbReference type="DOI" id="10.1016/0022-2836(92)90260-Q"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.48 ANGSTROMS) IN COMPLEX WITH MAGNESIUM</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1993" name="Protein Eng." volume="6" first="85" last="91">
+<title>Structural study of mutants of Escherichia coli ribonuclease HI with enhanced thermostability.</title>
+<authorList>
+<person name="Ishikawa K."/>
+<person name="Kimura S."/>
+<person name="Kanaya S."/>
+<person name="Morikawa K."/>
+<person name="Nakamura H."/>
+</authorList>
+<dbReference type="PubMed" id="8381958"/>
+<dbReference type="DOI" id="10.1093/protein/6.1.85"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF MUTANTS</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="22092" last="22099">
+<title>Crystal structures of ribonuclease HI active site mutants from Escherichia coli.</title>
+<authorList>
+<person name="Katayanagi K."/>
+<person name="Ishikawa K."/>
+<person name="Okumura M."/>
+<person name="Ariyoshi M."/>
+<person name="Kanaya S."/>
+<person name="Kawano Y."/>
+<person name="Suzuki M."/>
+<person name="Tanaka I."/>
+<person name="Morikawa K."/>
+</authorList>
+<dbReference type="PubMed" id="8408067"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF MUTANTS ASN-10; GLN-48 AND ASN-70</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1995" name="Biochemistry" volume="34" first="16552" last="16562">
+<title>Folding pathway of Escherichia coli ribonuclease HI: a circular dichroism, fluorescence, and NMR study.</title>
+<authorList>
+<person name="Yamazaki T."/>
+<person name="Ogasahara K."/>
+<person name="Yutani K."/>
+<person name="Oobatake M."/>
+<person name="Kanaya S."/>
+</authorList>
+<dbReference type="PubMed" id="8527428"/>
+<dbReference type="DOI" id="10.1021/bi00051a003"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1996" name="Protein Eng." volume="9" first="857" last="867">
+<title>Proposal for new catalytic roles for two invariant residues in Escherichia coli ribonuclease HI.</title>
+<authorList>
+<person name="Kashiwagi T."/>
+<person name="Jeanteur D."/>
+<person name="Haruki M."/>
+<person name="Katayanagi K."/>
+<person name="Kanaya S."/>
+<person name="Morikawa K."/>
+</authorList>
+<dbReference type="PubMed" id="8931125"/>
+<dbReference type="DOI" id="10.1093/protein/9.10.857"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+<scope>MUTAGENESIS OF HIS-124 AND ASP-134</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2000" name="Protein Sci." volume="9" first="1914" last="1921">
+<title>Divalent metal cofactor binding in the kinetic folding trajectory of Escherichia coli ribonuclease HI.</title>
+<authorList>
+<person name="Goedken E.R."/>
+<person name="Keck J.L."/>
+<person name="Berger J.M."/>
+<person name="Marqusee S."/>
+</authorList>
+<dbReference type="PubMed" id="11106164"/>
+<dbReference type="DOI" id="10.1110/ps.9.10.1914"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS)</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="7266" last="7271">
+<title>Co-crystal of Escherichia coli RNase HI with Mn2+ ions reveals two divalent metals bound in the active site.</title>
+<authorList>
+<person name="Goedken E.R."/>
+<person name="Marqusee S."/>
+</authorList>
+<dbReference type="PubMed" id="11083878"/>
+<dbReference type="DOI" id="10.1074/jbc.M009626200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) IN COMPLEX WITH MANGANESE IONS</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="J. Mol. Biol." volume="345" first="1171" last="1183">
+<title>Identification of single Mn(2+) binding sites required for activation of the mutant proteins of E.coli RNase HI at Glu48 and/or Asp134 by X-ray crystallography.</title>
+<authorList>
+<person name="Tsunaka Y."/>
+<person name="Takano K."/>
+<person name="Matsumura H."/>
+<person name="Yamagata Y."/>
+<person name="Kanaya S."/>
+</authorList>
+<dbReference type="PubMed" id="15644213"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.11.007"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF MUTANTS ALA-48 AND ASN-134 IN COMPLEX WITH MANGANESE IONS</scope>
+</reference>
+<comment type="function">
+<text>Endonuclease that specifically degrades the RNA of RNA-DNA hybrids. RNase H participates in DNA replication; it helps to specify the origin of genomic replication by suppressing initiation at origins other than the oriC locus; along with the 5'-3' exonuclease of pol1, it removes RNA primers from the Okazaki fragments of lagging strand synthesis; and it defines the origin of replication for ColE1-type plasmids by specific cleavage of an RNA preprimer.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Endonucleolytic cleavage to 5'-phosphomonoester.</text>
+<dbReference type="EC" id="3.1.26.4"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="11">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="11">Binds 1 Mg(2+) ion per subunit in the absence of substrate. Requires millimolar levels of Mg(2+) for maximal activity. Has low activity at micromolar concentrations of Mn(2+) and is inhibited at higher Mn(2+) levels. Can bind a second metal ion at a regulatory site, or after substrate binding.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 7 9">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the RNase H family.</text>
+</comment>
+<dbReference type="EC" id="3.1.26.4"/>
+<dbReference type="EMBL" id="K00985">
+<property type="protein sequence ID" value="AAA24565.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00337">
+<property type="protein sequence ID" value="CAA23620.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X04027">
+<property type="protein sequence ID" value="CAA27660.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08636.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73319.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77885.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A92401">
+<property type="entry name" value="NRECH"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414750.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000917883.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1F21">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1G15">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1GOA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1GOB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1GOC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1JL1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1JL2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B/C/D=1-49, A/B/C/D=121-155"/>
+</dbReference>
+<dbReference type="PDB" id="1JXB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1KVA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1KVB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1KVC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1LAV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1LAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RBS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RBT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RBU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RBV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RCH">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RDA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RDB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RDC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RDD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1RNH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C/D=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="1WSJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2RN2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.48"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2YV0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="X=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2Z1G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2Z1H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2Z1I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="2Z1J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.38"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="3AA2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="3AA3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="3AA4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="3AA5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="X=1-155"/>
+</dbReference>
+<dbReference type="PDB" id="3HYF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=79-102"/>
+</dbReference>
+<dbReference type="PDB" id="3QIN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=79-102"/>
+</dbReference>
+<dbReference type="PDB" id="3QIO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=79-102"/>
+</dbReference>
+<dbReference type="PDB" id="4Z0U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-155"/>
+</dbReference>
+<dbReference type="PDBsum" id="1F21"/>
+<dbReference type="PDBsum" id="1G15"/>
+<dbReference type="PDBsum" id="1GOA"/>
+<dbReference type="PDBsum" id="1GOB"/>
+<dbReference type="PDBsum" id="1GOC"/>
+<dbReference type="PDBsum" id="1JL1"/>
+<dbReference type="PDBsum" id="1JL2"/>
+<dbReference type="PDBsum" id="1JXB"/>
+<dbReference type="PDBsum" id="1KVA"/>
+<dbReference type="PDBsum" id="1KVB"/>
+<dbReference type="PDBsum" id="1KVC"/>
+<dbReference type="PDBsum" id="1LAV"/>
+<dbReference type="PDBsum" id="1LAW"/>
+<dbReference type="PDBsum" id="1RBR"/>
+<dbReference type="PDBsum" id="1RBS"/>
+<dbReference type="PDBsum" id="1RBT"/>
+<dbReference type="PDBsum" id="1RBU"/>
+<dbReference type="PDBsum" id="1RBV"/>
+<dbReference type="PDBsum" id="1RCH"/>
+<dbReference type="PDBsum" id="1RDA"/>
+<dbReference type="PDBsum" id="1RDB"/>
+<dbReference type="PDBsum" id="1RDC"/>
+<dbReference type="PDBsum" id="1RDD"/>
+<dbReference type="PDBsum" id="1RNH"/>
+<dbReference type="PDBsum" id="1WSE"/>
+<dbReference type="PDBsum" id="1WSF"/>
+<dbReference type="PDBsum" id="1WSG"/>
+<dbReference type="PDBsum" id="1WSH"/>
+<dbReference type="PDBsum" id="1WSI"/>
+<dbReference type="PDBsum" id="1WSJ"/>
+<dbReference type="PDBsum" id="2RN2"/>
+<dbReference type="PDBsum" id="2YV0"/>
+<dbReference type="PDBsum" id="2Z1G"/>
+<dbReference type="PDBsum" id="2Z1H"/>
+<dbReference type="PDBsum" id="2Z1I"/>
+<dbReference type="PDBsum" id="2Z1J"/>
+<dbReference type="PDBsum" id="3AA2"/>
+<dbReference type="PDBsum" id="3AA3"/>
+<dbReference type="PDBsum" id="3AA4"/>
+<dbReference type="PDBsum" id="3AA5"/>
+<dbReference type="PDBsum" id="3HYF"/>
+<dbReference type="PDBsum" id="3QIN"/>
+<dbReference type="PDBsum" id="3QIO"/>
+<dbReference type="PDBsum" id="4Z0U"/>
+<dbReference type="SMR" id="P0A7Y4"/>
+<dbReference type="BioGrid" id="4263455">
+<property type="interactions" value="263"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47864N"/>
+<dbReference type="IntAct" id="P0A7Y4">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0214"/>
+<dbReference type="BindingDB" id="P0A7Y4"/>
+<dbReference type="ChEMBL" id="CHEMBL1770039"/>
+<dbReference type="PaxDb" id="P0A7Y4"/>
+<dbReference type="PRIDE" id="P0A7Y4"/>
+<dbReference type="EnsemblBacteria" id="AAC73319">
+<property type="protein sequence ID" value="AAC73319"/>
+<property type="gene ID" value="b0214"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA77885">
+<property type="protein sequence ID" value="BAA77885"/>
+<property type="gene ID" value="BAA77885"/>
+</dbReference>
+<dbReference type="GeneID" id="946955"/>
+<dbReference type="KEGG" id="ecj:JW0204"/>
+<dbReference type="KEGG" id="eco:b0214"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2070"/>
+<dbReference type="EchoBASE" id="EB0853"/>
+<dbReference type="EcoGene" id="EG10860">
+<property type="gene designation" value="rnhA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108UMW">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0328">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000040465"/>
+<dbReference type="InParanoid" id="P0A7Y4"/>
+<dbReference type="KO" id="K03469"/>
+<dbReference type="PhylomeDB" id="P0A7Y4"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10860-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0204-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10860-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.26.4">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A7Y4"/>
+<dbReference type="PRO" id="PR:P0A7Y4"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004519">
+<property type="term" value="F:endonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004523">
+<property type="term" value="F:RNA-DNA hybrid ribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043137">
+<property type="term" value="P:DNA replication, removal of RNA primer"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd09278">
+<property type="entry name" value="RNase_HI_prokaryote_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00042">
+<property type="entry name" value="RNase_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012337">
+<property type="entry name" value="RNaseH-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002156">
+<property type="entry name" value="RNaseH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036397">
+<property type="entry name" value="RNaseH_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022892">
+<property type="entry name" value="RNaseHI"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00075">
+<property type="entry name" value="RNase_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53098">
+<property type="entry name" value="SSF53098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50879">
+<property type="entry name" value="RNASE_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Ribonuclease HI" id="PRO_0000195372">
+<location>
+<begin position="1"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="domain" description="RNase H">
+<location>
+<begin position="1"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1" evidence="6">
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="6">
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1" evidence="6">
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1" evidence="6">
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="6">
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="8">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="8">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="8">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces activity." evidence="8 10 11">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces activity." evidence="8">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="8 10 11">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight decrease of activity." evidence="8 10 11">
+<original>D</original>
+<variation>H</variation>
+<variation>N</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2"/>
+<end position="4"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="31"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="82"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="88"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="95"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="101"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="115"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="123"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="128"/>
+<end position="142"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1JL1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1LAV"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1RDD"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2YV0"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11083878"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1311386"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15644213"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1689729"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2169648"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8931125"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9852071"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="155" mass="17597" checksum="B8EF81EEB2F94CBE" modified="1986-07-21" version="1">
+MLKQVEIFTDGSCLGNPGPGGYGAILRYRGREKTFSAGYTRTTNNRMELMAAIVALEALK
+EHCEVILSTDSQYVRQGITQWIHNWKKRGWKTADKKPVKNVDLWQRLDAALGQHQIKWEW
+VKGHAGHPENERCDELARAAAMNPTLEDTGYQVEV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

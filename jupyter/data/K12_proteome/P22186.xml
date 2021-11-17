@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-08-01" modified="2019-07-03" version="143">
+<accession>P22186</accession>
+<name>MRAZ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Transcriptional regulator MraZ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">mraZ</name>
+<name type="synonym">yabB</name>
+<name type="ordered locus">b0081</name>
+<name type="ordered locus">JW0079</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Nucleic Acids Res." volume="18" first="2813" last="2813">
+<title>Nucleotide sequence of the regulatory region of the gene pbpB of Escherichia coli.</title>
+<authorList>
+<person name="Gomez M.J."/>
+<person name="Fluoret B."/>
+<person name="van Heijenoort J."/>
+<person name="Ayala J.A."/>
+</authorList>
+<dbReference type="PubMed" id="2187182"/>
+<dbReference type="DOI" id="10.1093/nar/18.9.2813"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2014" name="J. Bacteriol." volume="196" first="2053" last="2066">
+<title>The highly conserved MraZ protein is a transcriptional regulator in Escherichia coli.</title>
+<authorList>
+<person name="Eraso J.M."/>
+<person name="Markillie L.M."/>
+<person name="Mitchell H.D."/>
+<person name="Taylor R.C."/>
+<person name="Orr G."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="24659771"/>
+<dbReference type="DOI" id="10.1128/JB.01370-13"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ARG-15</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="Acta Crystallogr. F" volume="61" first="378" last="380">
+<title>MraZ from Escherichia coli: cloning, purification, crystallization and preliminary X-ray analysis.</title>
+<authorList>
+<person name="Adams M.A."/>
+<person name="Udell C.M."/>
+<person name="Pal G.P."/>
+<person name="Jia Z."/>
+</authorList>
+<dbReference type="PubMed" id="16511046"/>
+<dbReference type="DOI" id="10.1107/S1744309105007657"/>
+</citation>
+<scope>CRYSTALLIZATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="1 4">Negatively regulates its own expression and that of the subsequent genes in the proximal part of the division and cell wall (dcw) gene cluster. Acts by binding directly to DNA. May also regulate the expression of genes outside the dcw cluster.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Dodecamer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 4">Cytoplasm</location>
+<location evidence="1 4">Nucleoid</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Negatively autoregulated.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Mutants have no detectable phenotype under standard laboratory conditions. They are more resistant to trimethoprim than wild-type cells.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">Overproduction is lethal and perturbs cell division. It destabilizes the divisome, but does not affect FtsZ levels or prevent Z ring assembly. Co-overproduction of RsmH (MraW) protects the cell from the toxic effects of MraZ overproduction (PubMed:24659771).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the MraZ family.</text>
+</comment>
+<dbReference type="EMBL" id="X52063">
+<property type="protein sequence ID" value="CAA36284.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55034">
+<property type="protein sequence ID" value="CAA38858.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73192.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96649.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S14388">
+<property type="entry name" value="S14388"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414623.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295533.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P22186"/>
+<dbReference type="BioGrid" id="4261640">
+<property type="interactions" value="156"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11166N"/>
+<dbReference type="IntAct" id="P22186">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0081"/>
+<dbReference type="jPOST" id="P22186"/>
+<dbReference type="PaxDb" id="P22186"/>
+<dbReference type="PRIDE" id="P22186"/>
+<dbReference type="EnsemblBacteria" id="AAC73192">
+<property type="protein sequence ID" value="AAC73192"/>
+<property type="gene ID" value="b0081"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96649">
+<property type="protein sequence ID" value="BAB96649"/>
+<property type="gene ID" value="BAB96649"/>
+</dbReference>
+<dbReference type="GeneID" id="944810"/>
+<dbReference type="KEGG" id="ecj:JW0079"/>
+<dbReference type="KEGG" id="eco:b0081"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2199"/>
+<dbReference type="EchoBASE" id="EB1076"/>
+<dbReference type="EcoGene" id="EG11084">
+<property type="gene designation" value="mraZ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108V6E">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2001">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000283907"/>
+<dbReference type="InParanoid" id="P22186"/>
+<dbReference type="KO" id="K03925"/>
+<dbReference type="PhylomeDB" id="P22186"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11084-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0079-MONOMER"/>
+<dbReference type="PRO" id="PR:P22186"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009295">
+<property type="term" value="C:nucleoid"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000255"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000143">
+<property type="term" value="P:negative regulation of DNA-templated transcription, initiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd16321">
+<property type="entry name" value="MraZ_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd16320">
+<property type="entry name" value="MraZ_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.330.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01008">
+<property type="entry name" value="MraZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003444">
+<property type="entry name" value="MraZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035644">
+<property type="entry name" value="MraZ_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020603">
+<property type="entry name" value="MraZ_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035642">
+<property type="entry name" value="MraZ_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038619">
+<property type="entry name" value="MraZ_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007159">
+<property type="entry name" value="SpoVT-AbrB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037914">
+<property type="entry name" value="SpoVT-AbrB_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR34701">
+<property type="entry name" value="PTHR34701"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02381">
+<property type="entry name" value="MraZ"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF89447">
+<property type="entry name" value="SSF89447"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00242">
+<property type="entry name" value="TIGR00242"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51740">
+<property type="entry name" value="SPOVT_ABRB"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Transcriptional regulator MraZ" id="PRO_0000108479">
+<location>
+<begin position="1"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="domain" description="SpoVT-AbrB 1" evidence="2">
+<location>
+<begin position="5"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="domain" description="SpoVT-AbrB 2" evidence="2">
+<location>
+<begin position="81"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes DNA binding." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01008"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01076"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16511046"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24659771"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24659771"/>
+</source>
+</evidence>
+<sequence length="152" mass="17386" checksum="3EE1A6FA9D2B1C01" modified="1991-08-01" version="1">
+MFRGATLVNLDSKGRLSVPTRYREQLLENAAGQMVCTIDIYHPCLLLYPLPEWEIIEQKL
+SRLSSMNPVERRVQRLLLGHASECQMDGAGRLLIAPVLRQHAGLTKEVMLVGQFNKFELW
+DETTWHQQVKEDIDAEQLATGDLSERLQDLSL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

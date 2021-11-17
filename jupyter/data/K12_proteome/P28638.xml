@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2019-05-08" version="142">
+<accession>P28638</accession>
+<accession>Q2M8V3</accession>
+<name>YHDJ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA adenine methyltransferase YhdJ</fullName>
+<ecNumber evidence="1">2.1.1.72</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yhdJ</name>
+<name type="ordered locus">b3262</name>
+<name type="ordered locus">JW5543</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="8043" last="8056">
+<title>Dramatic changes in Fis levels upon nutrient upshift in Escherichia coli.</title>
+<authorList>
+<person name="Ball C.A."/>
+<person name="Osuna R."/>
+<person name="Ferguson K.C."/>
+<person name="Johnson R.C."/>
+</authorList>
+<dbReference type="PubMed" id="1459953"/>
+<dbReference type="DOI" id="10.1128/jb.174.24.8043-8056.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-100</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1988" name="Proc. Natl. Acad. Sci. U.S.A." volume="85" first="3484" last="3488">
+<title>Isolation of the gene encoding the Hin recombinational enhancer binding protein.</title>
+<authorList>
+<person name="Johnson R.C."/>
+<person name="Ball C.A."/>
+<person name="Pfeffer D."/>
+<person name="Simon M.I."/>
+</authorList>
+<dbReference type="PubMed" id="2835774"/>
+<dbReference type="DOI" id="10.1073/pnas.85.10.3484"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-11</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="4325" last="4327">
+<title>YhdJ, a nonessential CcrM-like DNA methyltransferase of Escherichia coli and Salmonella enterica.</title>
+<authorList>
+<person name="Broadbent S.E."/>
+<person name="Balbontin R."/>
+<person name="Casadesus J."/>
+<person name="Marinus M.G."/>
+<person name="van der Woude M."/>
+</authorList>
+<dbReference type="PubMed" id="17400740"/>
+<dbReference type="DOI" id="10.1128/JB.01854-06"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Methylates the second adenine of the NsiI recognition sequence (5'-ATGCAT-3').</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>a 2'-deoxyadenosine in DNA + S-adenosyl-L-methionine = an N(6)-methyl-2'-deoxyadenosine in DNA + H(+) + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:15197"/>
+<dbReference type="Rhea" id="RHEA-COMP:12418"/>
+<dbReference type="Rhea" id="RHEA-COMP:12419"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:90615"/>
+<dbReference type="ChEBI" id="CHEBI:90616"/>
+<dbReference type="EC" id="2.1.1.72"/>
+</reaction>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="1">Mutants are viable and show no significant growth deficiency and no alteration of cell morphology.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the N(4)/N(6)-methyltransferase family.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA58066" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.72" evidence="1"/>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58066.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76294.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77303.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M95784">
+<property type="protein sequence ID" value="AAA23784.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J03245">
+<property type="protein sequence ID" value="AAA83857.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65118">
+<property type="entry name" value="H65118"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417728.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001258895.1">
+<property type="nucleotide sequence ID" value="NZ_CP014272.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4262450">
+<property type="interactions" value="211"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12296N"/>
+<dbReference type="IntAct" id="P28638">
+<property type="interactions" value="34"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3262"/>
+<dbReference type="REBASE" id="191899">
+<property type="entry name" value="M.Apa1342ORF402P"/>
+</dbReference>
+<dbReference type="PaxDb" id="P28638"/>
+<dbReference type="PRIDE" id="P28638"/>
+<dbReference type="EnsemblBacteria" id="AAC76294">
+<property type="protein sequence ID" value="AAC76294"/>
+<property type="gene ID" value="b3262"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77303">
+<property type="protein sequence ID" value="BAE77303"/>
+<property type="gene ID" value="BAE77303"/>
+</dbReference>
+<dbReference type="GeneID" id="947695"/>
+<dbReference type="KEGG" id="ecj:JW5543"/>
+<dbReference type="KEGG" id="eco:b3262"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3361"/>
+<dbReference type="EchoBASE" id="EB1461"/>
+<dbReference type="EcoGene" id="EG11498">
+<property type="gene designation" value="yhdJ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CEC">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0863">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125330"/>
+<dbReference type="InParanoid" id="P28638"/>
+<dbReference type="KO" id="K07319"/>
+<dbReference type="PhylomeDB" id="P28638"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11498-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5543-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11498-MONOMER"/>
+<dbReference type="PRO" id="PR:P28638"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008170">
+<property type="term" value="F:N-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009007">
+<property type="term" value="F:site-specific DNA-methyltransferase (adenine-specific) activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002941">
+<property type="entry name" value="DNA_methylase_N4/N6"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002052">
+<property type="entry name" value="DNA_methylase_N6_adenine_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001091">
+<property type="entry name" value="RM_Methylase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01555">
+<property type="entry name" value="N6_N4_Mtase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00508">
+<property type="entry name" value="S21N4MTFRASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00092">
+<property type="entry name" value="N6_MTASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="DNA adenine methyltransferase YhdJ" id="PRO_0000088000">
+<location>
+<begin position="1"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA23784." ref="3" evidence="2">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17400740"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="294" mass="33397" checksum="6BCC49D9A571884B" modified="1998-12-15" version="3">
+MRTGCEPTRFGNEAKTIIHGDALAELKKIPAESVDLIFADPPYNIGKNFDGLIEAWKEDL
+FIDWLFEVIAECHRVLKKQGSMYIMNSTENMPFIDLQCRKLFTIKSRIVWSYDSSGVQAK
+KHYGSMYEPILMMVKDAKNYTFNGDAILVEAKTGSQRALIDYRKNPPQPYNHQKVPGNVW
+DFPRVRYLMDEYENHPTQKPEALLKRIILASSNPGDIVLDPFAGSFTTGAVAIASGRKFI
+GIEINSEYIKMGLRRLDVASHYSAEELAKVKKRKTGNLSKRSRLSEVDPDLITK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

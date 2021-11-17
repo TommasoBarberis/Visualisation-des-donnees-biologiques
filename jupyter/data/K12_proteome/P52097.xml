@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2019-05-08" version="150">
+<accession>P52097</accession>
+<name>TILS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>tRNA(Ile)-lysidine synthase</fullName>
+<ecNumber>6.3.4.19</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>tRNA(Ile)-2-lysyl-cytidine synthase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA(Ile)-lysidine synthetase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">tilS</name>
+<name type="synonym">mesJ</name>
+<name type="synonym">yaeN</name>
+<name type="ordered locus">b0188</name>
+<name type="ordered locus">JW0183</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1995-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Yamamoto Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="29" first="859" last="869">
+<title>An Escherichia coli gene (yaeO) suppresses temperature-sensitive mutations in essential genes by modulating Rho-dependent transcription termination.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Alibaud L."/>
+<person name="Guedant A."/>
+<person name="Castanie M.-P."/>
+<person name="Bouche J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="9723924"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00981.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1996-02" db="EMBL/GenBank/DDBJ databases">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 4.0 - 6.0 min (189,987 - 281,416bp) region.</title>
+<authorList>
+<person name="Takemoto K."/>
+<person name="Mori H."/>
+<person name="Murayama N."/>
+<person name="Kataoka K."/>
+<person name="Yano M."/>
+<person name="Itoh T."/>
+<person name="Yamamoto Y."/>
+<person name="Inokuchi H."/>
+<person name="Miki T."/>
+<person name="Hatada E."/>
+<person name="Fukuda R."/>
+<person name="Ichihara S."/>
+<person name="Mizuno T."/>
+<person name="Makino K."/>
+<person name="Nakata A."/>
+<person name="Yura T."/>
+<person name="Sampei G."/>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Mol. Cell" volume="12" first="689" last="698">
+<title>An RNA-modifying enzyme that governs both the codon and amino acid specificities of isoleucine tRNA.</title>
+<authorList>
+<person name="Soma A."/>
+<person name="Ikeuchi Y."/>
+<person name="Kanemasa S."/>
+<person name="Kobayashi K."/>
+<person name="Ogasawara N."/>
+<person name="Ote T."/>
+<person name="Kato J."/>
+<person name="Watanabe K."/>
+<person name="Sekine Y."/>
+<person name="Suzuki T."/>
+</authorList>
+<dbReference type="PubMed" id="14527414"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(03)00346-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="submission" date="2003-01" db="PDB data bank">
+<title>Structure of the MesJ Pp-ATPase from Escherichia coli.</title>
+<authorList>
+<person name="Gu M."/>
+<person name="Burling T."/>
+<person name="Lima C.D."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>Ligates lysine onto the cytidine present at position 34 of the AUA codon-specific tRNA(Ile) that contains the anticodon CAU, in an ATP-dependent manner. Cytidine is converted to lysidine, thus changing the amino acid specificity of the tRNA from methionine to isoleucine. This enzyme is essential for viability.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>ATP + cytidine(34) in tRNA(Ile2) + L-lysine = AMP + diphosphate + H(+) + lysidine(34) in tRNA(Ile2)</text>
+<dbReference type="Rhea" id="RHEA:43744"/>
+<dbReference type="Rhea" id="RHEA-COMP:10625"/>
+<dbReference type="Rhea" id="RHEA-COMP:10670"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:32551"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:82748"/>
+<dbReference type="ChEBI" id="CHEBI:83665"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.3.4.19"/>
+</reaction>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-556745"/>
+<interactant intactId="EBI-556745"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>The N-terminal region contains the highly conserved SGGXDS motif, predicted to be a P-loop motif involved in ATP binding.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the tRNA(Ile)-lysidine synthase family.</text>
+</comment>
+<dbReference type="EC" id="6.3.4.19"/>
+<dbReference type="EMBL" id="D49445">
+<property type="protein sequence ID" value="BAA08428.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z50870">
+<property type="protein sequence ID" value="CAA90751.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08617.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73299.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77863.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BR000032">
+<property type="protein sequence ID" value="FAA00003.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D64743">
+<property type="entry name" value="D64743"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414730.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000176549.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1NI5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="A=1-432"/>
+</dbReference>
+<dbReference type="PDBsum" id="1NI5"/>
+<dbReference type="SMR" id="P52097"/>
+<dbReference type="BioGrid" id="4261685">
+<property type="interactions" value="173"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10190N"/>
+<dbReference type="IntAct" id="P52097">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0188"/>
+<dbReference type="ChEMBL" id="CHEMBL3309031"/>
+<dbReference type="jPOST" id="P52097"/>
+<dbReference type="PaxDb" id="P52097"/>
+<dbReference type="PRIDE" id="P52097"/>
+<dbReference type="EnsemblBacteria" id="AAC73299">
+<property type="protein sequence ID" value="AAC73299"/>
+<property type="gene ID" value="b0188"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA77863">
+<property type="protein sequence ID" value="BAA77863"/>
+<property type="gene ID" value="BAA77863"/>
+</dbReference>
+<dbReference type="GeneID" id="944889"/>
+<dbReference type="KEGG" id="ecj:JW0183"/>
+<dbReference type="KEGG" id="eco:b0188"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2091"/>
+<dbReference type="EchoBASE" id="EB3011"/>
+<dbReference type="EcoGene" id="EG13220">
+<property type="gene designation" value="tilS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105D3U">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0037">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000236507"/>
+<dbReference type="InParanoid" id="P52097"/>
+<dbReference type="KO" id="K04075"/>
+<dbReference type="PhylomeDB" id="P52097"/>
+<dbReference type="BioCyc" id="EcoCyc:G6096-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0183-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6096-MONOMER"/>
+<dbReference type="BRENDA" id="6.3.4.19">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P52097"/>
+<dbReference type="PRO" id="PR:P52097"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032267">
+<property type="term" value="F:tRNA(Ile)-lysidine synthase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006400">
+<property type="term" value="P:tRNA modification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002136">
+<property type="term" value="P:tRNA wobble base lysidine biosynthesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd01992">
+<property type="entry name" value="PP-ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01161">
+<property type="entry name" value="tRNA_Ile_lys_synt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012796">
+<property type="entry name" value="Lysidine-tRNA-synth_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011063">
+<property type="entry name" value="TilS/TtcA_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012094">
+<property type="entry name" value="tRNA_Ile_lys_synt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012795">
+<property type="entry name" value="tRNA_Ile_lys_synt_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015262">
+<property type="entry name" value="tRNA_Ile_lys_synt_subst-bd"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43033:SF1">
+<property type="entry name" value="PTHR43033:SF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01171">
+<property type="entry name" value="ATP_bind_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09179">
+<property type="entry name" value="TilS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11734">
+<property type="entry name" value="TilS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00977">
+<property type="entry name" value="TilS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02433">
+<property type="entry name" value="lysidine_TilS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02432">
+<property type="entry name" value="lysidine_TilS_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="tRNA(Ile)-lysidine synthase" id="PRO_0000181689">
+<location>
+<begin position="1"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="20"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="13"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="23"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="57"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="85"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="88"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="92"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="117"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="129"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="136"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="149"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="154"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="160"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="180"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="186"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="194"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="205"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="241"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="244"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="251"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="272"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="282"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="287"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="292"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="298"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="320"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="324"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="338"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="356"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="364"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="377"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="388"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="396"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="402"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="407"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="410"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="413"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="423"/>
+<end position="428"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1NI5"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14527414"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="432" mass="48204" checksum="26946DC7220B5A40" modified="1996-10-01" version="1">
+MTLTLNRQLLTSRQILVAFSGGLDSTVLLHQLVQWRTENPGVALRAIHVHHGLSANADAW
+VTHCENVCQQWQVPLVVERVQLAQEGLGIEAQARQARYQAFARTLLPGEVLVTAQHLDDQ
+CETFLLALKRGSGPAGLSAMAEVSEFAGTRLIRPLLARTRGELVQWARQYDLRWIEDESN
+QDDSYDRNFLRLRVVPLLQQRWPHFAEATARSAALCAEQESLLDELLADDLAHCQSPQGT
+LQIVPMLAMSDARRAAIIRRWLAGQNAPMPSRDALVRIWQEVALAREDASPCLRLGAFEI
+RRYQSQLWWIKSVTGQSENIVPWQTWLQPLELPAGLGSVQLNAGGDIRPPRADEAVSVRF
+KAPGLLHIVGRNGGRKLKKIWQELGVPPWLRDTTPLLFYGETLIAAAGVFVTQEGVAEGE
+NGVSFVWQKTLS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

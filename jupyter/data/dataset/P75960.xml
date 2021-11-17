@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-10-18" modified="2019-05-08" version="155">
+<accession>P75960</accession>
+<name>NPD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">NAD-dependent protein deacylase</fullName>
+<ecNumber evidence="3">3.5.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="3">Regulatory protein SIR2 homolog</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">cobB</name>
+<name type="synonym">ycfY</name>
+<name type="ordered locus">b1120</name>
+<name type="ordered locus">JW1106</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="Biochem. Biophys. Res. Commun." volume="260" first="273" last="279">
+<title>Characterization of five human cDNAs with homology to the yeast SIR2 gene: Sir2-like proteins (sirtuins) metabolize NAD and may have protein ADP-ribosyltransferase activity.</title>
+<authorList>
+<person name="Frye R.A."/>
+</authorList>
+<dbReference type="PubMed" id="10381378"/>
+<dbReference type="DOI" id="10.1006/bbrc.1999.0897"/>
+</citation>
+<scope>WEAK ADP-RIBOSYLTRANSFERASE ACTIVITY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="5807" last="5811">
+<title>The silencing protein SIR2 and its homologs are NAD-dependent protein deacetylases.</title>
+<authorList>
+<person name="Landry J."/>
+<person name="Sutton A."/>
+<person name="Tafrov S.T."/>
+<person name="Heller R.C."/>
+<person name="Stebbins J."/>
+<person name="Pillus L."/>
+<person name="Sternglanz R."/>
+</authorList>
+<dbReference type="PubMed" id="10811920"/>
+<dbReference type="DOI" id="10.1073/pnas.110148297"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2007" name="Proteomics" volume="7" first="1097" last="1106">
+<title>From the genome sequence to the proteome and back: evaluation of E. coli genome annotation with a 2-D gel-based proteomics approach.</title>
+<authorList>
+<person name="Maillet I."/>
+<person name="Berndt P."/>
+<person name="Malo C."/>
+<person name="Rodriguez S."/>
+<person name="Brunisholz R.A."/>
+<person name="Pragai Z."/>
+<person name="Arnold S."/>
+<person name="Langen H."/>
+<person name="Wyss M."/>
+</authorList>
+<dbReference type="PubMed" id="17366475"/>
+<dbReference type="DOI" id="10.1002/pmic.200600599"/>
+</citation>
+<scope>DISCUSSION OF START SITE</scope>
+<source>
+<strain>K12 / JM109 / ATCC 53323</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="Mol. Cell. Proteomics" volume="12" first="3509" last="3520">
+<title>Identification of lysine succinylation substrates and the succinylation regulatory enzyme CobB in E. coli.</title>
+<authorList>
+<person name="Colak G."/>
+<person name="Xie Z."/>
+<person name="Zhu A.Y."/>
+<person name="Dai L."/>
+<person name="Lu Z."/>
+<person name="Zhang Y."/>
+<person name="Wan X."/>
+<person name="Chen Y."/>
+<person name="Cha Y.H."/>
+<person name="Lin H."/>
+<person name="Zhao Y."/>
+<person name="Tan M."/>
+</authorList>
+<dbReference type="PubMed" id="24176774"/>
+<dbReference type="DOI" id="10.1074/mcp.M113.031567"/>
+</citation>
+<scope>FUNCTION AS A DEACETYLASE AND A DESUCCINYLASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF TYR-92 AND ARG-95</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="337" first="731" last="741">
+<title>Structure and substrate binding properties of cobB, a Sir2 homolog protein deacetylase from Escherichia coli.</title>
+<authorList>
+<person name="Zhao K."/>
+<person name="Chai X."/>
+<person name="Marmorstein R."/>
+</authorList>
+<dbReference type="PubMed" id="15019790"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.01.060"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.96 ANGSTROMS) OF 40-274 IN COMPLEX WITH PEPTIDE SUBSTRATE AND ZINC</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE</scope>
+<scope>INTERACTION WITH ACETYL-COA SYNTHETASE</scope>
+<scope>COFACTOR</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6">NAD-dependent lysine deacetylase and desuccinylase that specifically removes acetyl and succinyl groups on target proteins. Modulates the activities of several proteins which are inactive in their acylated form. Activates the enzyme acetyl-CoA synthetase by deacetylating 'Lys-609' in the inactive, acetylated form of the enzyme. May also modulate the activity of other propionyl-adenosine monophosphate (AMP)-forming enzymes.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>H2O + N(6)-acetyl-L-lysyl-[protein] + NAD(+) = 2''-O-acetyl-ADP-D-ribose + L-lysyl-[protein] + nicotinamide</text>
+<dbReference type="Rhea" id="RHEA:43636"/>
+<dbReference type="Rhea" id="RHEA-COMP:9752"/>
+<dbReference type="Rhea" id="RHEA-COMP:10731"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:17154"/>
+<dbReference type="ChEBI" id="CHEBI:29969"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:61930"/>
+<dbReference type="ChEBI" id="CHEBI:83767"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>H2O + N(6)-succinyl-L-lysyl-[protein] + NAD(+) = 2''-O-succinyl-ADP-D-ribose + L-lysyl-[protein] + nicotinamide</text>
+<dbReference type="Rhea" id="RHEA:47668"/>
+<dbReference type="Rhea" id="RHEA-COMP:9752"/>
+<dbReference type="Rhea" id="RHEA-COMP:11877"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:17154"/>
+<dbReference type="ChEBI" id="CHEBI:29969"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:87830"/>
+<dbReference type="ChEBI" id="CHEBI:87832"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="3 5">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="3 5">Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="6">15.1 uM for a synthetic histone H3K9 acetyllysine peptide</KM>
+<KM evidence="6">86 uM for a synthetic histone H3K9 succinyllysine peptide</KM>
+<text>kcat is 0.135 sec(-1) for acetyllysine peptide. kcat is 0.242 sec(-1) for succinyllysine peptide.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5">Forms a 1:1 complex with acetyl-CoA synthetase (Acs).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544459"/>
+<interactant intactId="EBI-544452">
+<id>P75869</id>
+<label>sxy</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544459"/>
+<interactant intactId="EBI-544796">
+<id>P77376</id>
+<label>ydgJ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative promoter"/>
+<isoform>
+<id>P75960-1</id>
+<name evidence="2">CobB-Long</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P75960-2</id>
+<name evidence="2">CobB-Short</name>
+<sequence type="described" ref="VSP_058458"/>
+</isoform>
+</comment>
+<comment type="domain">
+<text evidence="3 6">2 residues (Tyr-92 and Arg-95) present in a large hydrophobic pocket are probably involved in substrate specificity. They are important for desuccinylation activity, but dispensable for deacetylation activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the sirtuin family. Class III subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">Was originally thought to be involved in cobalamin biosynthesis.</text>
+</comment>
+<comment type="caution">
+<text evidence="8">In contrast to human SIRT5, which has only weak deacetylation activity, CobB shows comparable lysine deacetylation and lysine desuccinylation activities.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">PubMed:10381378 has reported that this protein has a weak ADP-ribosyltransferase activity, but that is probably not its primary activity in vivo.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC74204" version="2"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<dbReference type="EC" id="3.5.1.-" evidence="3"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74204.2"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35940.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64856">
+<property type="entry name" value="E64856"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415638.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000952737.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1S5P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A=40-274"/>
+</dbReference>
+<dbReference type="PDBsum" id="1S5P"/>
+<dbReference type="SMR" id="P75960"/>
+<dbReference type="BioGrid" id="4260089">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9301N"/>
+<dbReference type="IntAct" id="P75960">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1120"/>
+<dbReference type="jPOST" id="P75960"/>
+<dbReference type="PaxDb" id="P75960"/>
+<dbReference type="PRIDE" id="P75960"/>
+<dbReference type="EnsemblBacteria" id="AAC74204">
+<property type="protein sequence ID" value="AAC74204"/>
+<property type="gene ID" value="b1120"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35940">
+<property type="protein sequence ID" value="BAA35940"/>
+<property type="gene ID" value="BAA35940"/>
+</dbReference>
+<dbReference type="GeneID" id="945687"/>
+<dbReference type="KEGG" id="ecj:JW1106"/>
+<dbReference type="KEGG" id="eco:b1120"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1147"/>
+<dbReference type="EchoBASE" id="EB3217"/>
+<dbReference type="EcoGene" id="EG13443">
+<property type="gene designation" value="cobB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105NDF">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0846">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000085950"/>
+<dbReference type="InParanoid" id="P75960"/>
+<dbReference type="KO" id="K12410"/>
+<dbReference type="OMA" id="SMQVYPA"/>
+<dbReference type="PhylomeDB" id="P75960"/>
+<dbReference type="BioCyc" id="EcoCyc:G6577-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1106-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6577-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P75960"/>
+<dbReference type="PRO" id="PR:P75960"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070403">
+<property type="term" value="F:NAD+ binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034979">
+<property type="term" value="F:NAD-dependent protein deacetylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036054">
+<property type="term" value="F:protein-malonyllysine demalonylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036055">
+<property type="term" value="F:protein-succinyllysine desuccinylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006935">
+<property type="term" value="P:chemotaxis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051607">
+<property type="term" value="P:defense response to virus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034983">
+<property type="term" value="P:peptidyl-lysine deacetylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036049">
+<property type="term" value="P:peptidyl-lysine desuccinylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd01412">
+<property type="entry name" value="SIRT5_Af1_CobB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1600.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01121">
+<property type="entry name" value="Sirtuin_ClassIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029035">
+<property type="entry name" value="DHS-like_NAD/FAD-binding_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003000">
+<property type="entry name" value="Sirtuin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026591">
+<property type="entry name" value="Sirtuin_cat_small_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027546">
+<property type="entry name" value="Sirtuin_class_III"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026590">
+<property type="entry name" value="Ssirtuin_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02146">
+<property type="entry name" value="SIR2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52467">
+<property type="entry name" value="SSF52467"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50305">
+<property type="entry name" value="SIRTUIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0877">Alternative promoter usage</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="NAD-dependent protein deacylase" id="PRO_0000110312">
+<location>
+<begin position="1"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="domain" description="Deacetylase sirtuin-type" evidence="3">
+<location>
+<begin position="1"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="3">
+<location>
+<begin position="48"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="3">
+<location>
+<begin position="129"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="3">
+<location>
+<begin position="214"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="3">
+<location>
+<begin position="240"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="3">
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="3 5">
+<location>
+<position position="155"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="3 5">
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="3 6">
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="3 6">
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD; via amide nitrogen" evidence="3">
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform CobB-Short." id="VSP_058458" evidence="2">
+<location>
+<begin position="1"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="42-fold decrease in desuccinylase activity. 3-fold decrease in deacetylase activity." evidence="6">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="100-fold decrease in desuccinylase activity. 3-fold decrease in deacetylase activity." evidence="6">
+<original>R</original>
+<variation>M</variation>
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="49"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="62"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="78"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="108"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="121"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="124"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="134"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="148"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="161"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="183"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="197"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="208"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="225"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="235"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="251"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="258"/>
+<end position="272"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1S5P"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P0A2F2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01121"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10811920"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15019790"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24176774"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24176774"/>
+</source>
+</evidence>
+<sequence length="279" mass="31464" checksum="779CF84961325CB9" modified="2016-09-07" version="3">
+MLSRRGHRLSRFRKNKRRLRERLRQRIFFRDKVVPEAMEKPRVLVLTGAGISAESGIRTF
+RAADGLWEEHRVEDVATPEGFDRDPELVQAFYNARRRQLQQPEIQPNAAHLALAKLQDAL
+GDRFLLVTQNIDNLHERAGNTNVIHMHGELLKVRCSQSGQVLDWTGDVTPEDKCHCCQFP
+APLRPHVVWFGEMPLGMDEIYMALSMADIFIAIGTSGHVYPAAGFVHEAKLHGAHTVELN
+LEPSQVGNEFAEKYYGPASQVVPEFVEKLLKGLKAGSIA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

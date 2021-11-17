@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-06-05" version="85">
+<accession>P0AGC7</accession>
+<accession>P18838</accession>
+<accession>Q2M5T0</accession>
+<name>SMP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable inner membrane protein Smp</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ytjB</name>
+<name type="synonym" evidence="3">smp</name>
+<name type="ordered locus">b4387</name>
+<name type="ordered locus">JW4350</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Gene" volume="82" first="219" last="228">
+<title>An Escherichia coli membrane protein with a unique signal sequence.</title>
+<authorList>
+<person name="Neuwald A.F."/>
+<person name="Stauffer G.V."/>
+</authorList>
+<dbReference type="PubMed" id="2684780"/>
+<dbReference type="DOI" id="10.1016/0378-1119(89)90047-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>POST-TRANSLATIONAL MODIFICATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="16091" last="16100">
+<title>Identification of the gene encoding lipoate-protein ligase A of Escherichia coli. Molecular cloning and characterization of the lplA gene and gene product.</title>
+<authorList>
+<person name="Morris T.W."/>
+<person name="Reed K.E."/>
+<person name="Cronan J.E. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8206909"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 198-214</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cell inner membrane</location>
+<topology evidence="1">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="2">The nucleotide sequence of the putative signal may have a regulatory function; it may form a perfect stem-loop (PubMed:2684780).</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">The signal sequence may not be cleaved.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">No visible phenotype.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the Smp family.</text>
+</comment>
+<dbReference type="EMBL" id="M30784">
+<property type="protein sequence ID" value="AAA24635.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X03046">
+<property type="protein sequence ID" value="CAA26853.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97283.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77340.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78376.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L27665">
+<property type="protein sequence ID" value="AAA21739.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A26227">
+<property type="entry name" value="A26227"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418804.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="SMR" id="P0AGC7"/>
+<dbReference type="BioGrid" id="4262788">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35920N"/>
+<dbReference type="IntAct" id="P0AGC7">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4387"/>
+<dbReference type="PaxDb" id="P0AGC7"/>
+<dbReference type="PRIDE" id="P0AGC7"/>
+<dbReference type="EnsemblBacteria" id="AAC77340">
+<property type="protein sequence ID" value="AAC77340"/>
+<property type="gene ID" value="b4387"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78376">
+<property type="protein sequence ID" value="BAE78376"/>
+<property type="gene ID" value="BAE78376"/>
+</dbReference>
+<dbReference type="GeneID" id="946089"/>
+<dbReference type="KEGG" id="ecj:JW4350"/>
+<dbReference type="KEGG" id="eco:b4387"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2298"/>
+<dbReference type="EchoBASE" id="EB0944"/>
+<dbReference type="EcoGene" id="EG10951">
+<property type="gene designation" value="ytjB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41062Z9">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3726">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000127853"/>
+<dbReference type="KO" id="K07186"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10951-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4350-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AGC7"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019305">
+<property type="entry name" value="Uncharacterised_Smp"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10144">
+<property type="entry name" value="SMP_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="chain" description="Probable inner membrane protein Smp" id="PRO_0000032802">
+<location>
+<begin position="31"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="164"/>
+<end position="184"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2684780"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2684780"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2684780"/>
+</source>
+</evidence>
+<sequence length="214" mass="24083" checksum="B8D261F2D1BF304E" modified="2005-12-20" version="1" precursor="true">
+MARTKLKFRLHRAVIVLFCLALLVALMQGASWFSQNHQRQRNPQLEELARTLARQVTLNV
+APLMRTDSPDEKRIQAILDQLTDESRILDAGVYDEQGDLIARSGESVEVRDRLALDGKKA
+GGYFNQQIVEPIAGKNGPLGYLRLTLDTHTLATEAQQVDNTTNILRLMLLLSLAIGVVLT
+RTLLQGKRTRWQQSPFLLTASKPVPEEEESEKKE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

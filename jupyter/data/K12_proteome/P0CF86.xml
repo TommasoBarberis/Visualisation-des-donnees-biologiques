@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-05-18" modified="2019-05-08" version="41">
+<accession>P0CF86</accession>
+<accession>A0A385XJL7</accession>
+<accession>P52136</accession>
+<accession>P76606</accession>
+<accession>P77012</accession>
+<name>YFJU_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative arsenate reductase-like protein</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yfjU</name>
+<name type="ordered locus">b2638</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="miscellaneous">
+<text evidence="1">Encoded by the CP4-57 prophage.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="1">Is missing about 40 C-terminal residues compared to orthologs.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the ArsC family.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AYC08235.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000065803.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0CF86"/>
+<dbReference type="PRIDE" id="P0CF86"/>
+<dbReference type="PATRIC" id="fig|83333.103.peg.3523"/>
+<dbReference type="EchoBASE" id="EB2999"/>
+<dbReference type="EcoGene" id="EG13207">
+<property type="gene designation" value="yfjU"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1393">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="PhylomeDB" id="P0CF86"/>
+<dbReference type="BioCyc" id="EcoCyc:G7373-MONOMER"/>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016491">
+<property type="term" value="F:oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046685">
+<property type="term" value="P:response to arsenic-containing substance"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006660">
+<property type="entry name" value="Arsenate_reductase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036249">
+<property type="entry name" value="Thioredoxin-like_sf"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52833">
+<property type="entry name" value="SSF52833"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51353">
+<property type="entry name" value="ARSC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0059">Arsenical resistance</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative arsenate reductase-like protein" id="PRO_0000162582">
+<location>
+<begin position="1"/>
+<end position="104"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="104" mass="11824" checksum="D4C8B18493C8146B" modified="2016-11-30" version="2">
+MSNITIYHNPACGTSRNTLEMLHNNGNEPTIINYLDMPPTRDELIKLISDIFSDKIIECI
+REQCHLMPALSLNVIGHVDIRSIHSYLFNFNEKVSPSHGFIKNG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

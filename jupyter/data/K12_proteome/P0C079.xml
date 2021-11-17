@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-07-03" version="108">
+<accession>P0C079</accession>
+<accession>P07007</accession>
+<name>RELB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="17">Antitoxin RelB</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">relB</name>
+<name type="ordered locus">b1564</name>
+<name type="ordered locus">JW1556</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="EMBO J." volume="4" first="1059" last="1066">
+<title>Sequence of the relB transcription unit from Escherichia coli and identification of the relB gene.</title>
+<authorList>
+<person name="Bech F.W."/>
+<person name="Joergensen S.T."/>
+<person name="Diderichsen B."/>
+<person name="Karlstroem O.H."/>
+</authorList>
+<dbReference type="PubMed" id="2990907"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>OPERON</scope>
+<scope>MUTAGENESIS OF ALA-39 AND PRO-45</scope>
+<source>
+<strain>K12 / CS520</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="29" first="1065" last="1076">
+<title>The Escherichia coli relBE genes belong to a new toxin-antitoxin gene family.</title>
+<authorList>
+<person name="Gotfredsen M."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="9767574"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00993.x"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>FUNCTION AS A TRANSCRIPTIONAL REPRESSOR</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="J. Bacteriol." volume="183" first="2700" last="2703">
+<title>Purification of the RelB and RelE proteins of Escherichia coli: RelE binds to RelB and to ribosomes.</title>
+<authorList>
+<person name="Galvani C."/>
+<person name="Terry J."/>
+<person name="Ishiguro E.E."/>
+</authorList>
+<dbReference type="PubMed" id="11274135"/>
+<dbReference type="DOI" id="10.1128/JB.183.8.2700-2703.2001"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="14328" last="14333">
+<title>RelE, a global inhibitor of translation, is activated during nutritional stress.</title>
+<authorList>
+<person name="Christensen S.K."/>
+<person name="Mikkelsen M."/>
+<person name="Pedersen K."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="11717402"/>
+<dbReference type="DOI" id="10.1073/pnas.251327898"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CLEAVAGE BY LON PROTEASE</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="45" first="501" last="510">
+<title>Rapid induction and reversal of a bacteriostatic condition by controlled expression of toxins and antitoxins.</title>
+<authorList>
+<person name="Pedersen K."/>
+<person name="Christensen S.K."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="12123459"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2002.03027.x"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Mol. Microbiol." volume="69" first="841" last="857">
+<title>Messenger RNA interferase RelE controls relBE transcription by conditional cooperativity.</title>
+<authorList>
+<person name="Overgaard M."/>
+<person name="Borch J."/>
+<person name="Joergensen M.G."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="18532983"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06313.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DOMAIN</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="J. Mol. Biol." volume="394" first="183" last="196">
+<title>RelB and RelE of Escherichia coli form a tight complex that represses transcription via the ribbon-helix-helix motif in RelB.</title>
+<authorList>
+<person name="Overgaard M."/>
+<person name="Borch J."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="19747491"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2009.09.006"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INDUCTION</scope>
+<scope>CLEAVAGE BY LON PROTEASE</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF ARG-7; ILE-8; LYS-13 AND SER-28</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="PLoS ONE" volume="4" first="E6785" last="E6785">
+<title>A differential effect of E. coli toxin-antitoxin systems on cell death in liquid media and biofilm formation.</title>
+<authorList>
+<person name="Kolodkin-Gal I."/>
+<person name="Verdiger R."/>
+<person name="Shlosberg-Fedida A."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="19707553"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0006785"/>
+</citation>
+<scope>FUNCTION IN CELL DEATH</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="1169" last="1176">
+<title>RelE-mediated dormancy is enhanced at high cell density in Escherichia coli.</title>
+<authorList>
+<person name="Tashiro Y."/>
+<person name="Kawata K."/>
+<person name="Taniuchi A."/>
+<person name="Kakinuma K."/>
+<person name="May T."/>
+<person name="Okabe S."/>
+</authorList>
+<dbReference type="PubMed" id="22210768"/>
+<dbReference type="DOI" id="10.1128/JB.06628-11"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="BMC Microbiol." volume="13" first="45" last="45">
+<title>Transcriptional cross-activation between toxin-antitoxin systems of Escherichia coli.</title>
+<authorList>
+<person name="Kasari V."/>
+<person name="Mets T."/>
+<person name="Tenson T."/>
+<person name="Kaldalu N."/>
+</authorList>
+<dbReference type="PubMed" id="23432955"/>
+<dbReference type="DOI" id="10.1186/1471-2180-13-45"/>
+</citation>
+<scope>INDUCTION BY OTHER TA SYSTEMS</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2008" name="J. Mol. Biol." volume="380" first="107" last="119">
+<title>Structural mechanism of transcriptional autorepression of the Escherichia coli RelB/RelE antitoxin/toxin module.</title>
+<authorList>
+<person name="Li G.Y."/>
+<person name="Zhang Y."/>
+<person name="Inouye M."/>
+<person name="Ikura M."/>
+</authorList>
+<dbReference type="PubMed" id="18501926"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2008.04.039"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-50</scope>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+<scope>INDUCTION</scope>
+<scope>DOMAINS</scope>
+<scope>MUTAGENESIS OF ARG-7; 66-LEU--LEU-79 AND 71-PRO--LEU-79</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="14628" last="14636">
+<title>Inhibitory mechanism of Escherichia coli RelE-RelB toxin-antitoxin module involves a helix displacement near an mRNA interferase active site.</title>
+<authorList>
+<person name="Li G.Y."/>
+<person name="Zhang Y."/>
+<person name="Inouye M."/>
+<person name="Ikura M."/>
+</authorList>
+<dbReference type="PubMed" id="19297318"/>
+<dbReference type="DOI" id="10.1074/jbc.M809656200"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 47-79 IN COMPLEX WITH RELE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2012" name="Structure" volume="20" first="1641" last="1648">
+<title>The crystal structure of the intact E. coli RelBE toxin-antitoxin complex provides the structural basis for conditional cooperativity.</title>
+<authorList>
+<person name="Boggild A."/>
+<person name="Sofos N."/>
+<person name="Andersen K.R."/>
+<person name="Feddersen A."/>
+<person name="Easter A.D."/>
+<person name="Passmore L.A."/>
+<person name="Brodersen D.E."/>
+</authorList>
+<dbReference type="PubMed" id="22981948"/>
+<dbReference type="DOI" id="10.1016/j.str.2012.08.017"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) IN COMPLEX WITH RELB</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INDUCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5 6 8 9 11 12 15">Antitoxin component of a type II toxin-antitoxin (TA) system. Counteracts the effect of cognate toxin RelE via direct protein-protein interaction, preventing RelE from entering the ribosome A site and thus inhibiting its endoribonuclease activity. An autorepressor of relBE operon transcription. 2 RelB dimers bind to 2 operator sequences; DNA-binding and repression is stronger when complexed with toxin/corepressor RelE by conditional cooperativity (PubMed:18501926, PubMed:22981948). Increased transcription rate of relBE and activation of relE is consistent with a lower level of RelB in starved cells due to degradation of RelB by protease Lon.</text>
+</comment>
+<comment type="function">
+<text evidence="8">Seems to be a principal mediator of cell death in liquid media.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 5 6 7 9 12">Homotetramer formed by dimerization of dimers in solution (PubMed:19747491, PubMed:18501926). Forms an RelB(2)-RelE(2) heterotetramer (PubMed:18501926, PubMed:22981948). Also forms an RelB(2)-RelE heterotrimer (PubMed:18532983, PubMed:19747491). The RelB(2)-RelE complex is probably the one that binds DNA and represses transcription, possibly as 2 heterotrimers, 1 bound to each of 2 operators (PubMed:22981948, PubMed:19747491).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1124503"/>
+<interactant intactId="EBI-549378">
+<id>P0C077</id>
+<label>relE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="induction">
+<text evidence="3 5 6 9 12 13 14 15">By amino acid starvation, by glucose starvation and by chloramphenicol; induction is independent of ppGpp. Autorepressed by RelB, RelE acts as a corepressor (PubMed:9767574, PubMed:19747491, PubMed:18501926, PubMed:22981948). Member of the relBEF operon (PubMed:2990907). Operon induced by ectopic expression of toxins HicA, HipA, MazF, MqsR and RelE, but not by YafQ (PubMed:23432955).</text>
+</comment>
+<comment type="domain">
+<text evidence="5 6">Dimerizes and binds DNA via its N-terminus (residues 1-50), binds toxin RelE via the C-terminus (residues 47-79) (PubMed:18501926, PubMed:18532983). Tetramerization probably requires amino acids between residues 66 and 71 (PubMed:18501926).</text>
+</comment>
+<comment type="PTM">
+<text evidence="3 9">Probably degraded by Lon protease during amino acid starvation (PubMed:11717402). Degraded in vitro by Lon (PubMed:19747491).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 8 10">Essential, it cannot be deleted if a copy of relE remains in the cell. Cells missing relBE have a higher steady-state level of translation during amino acid starvation than wild-type cells. They survive antibiotic treatment in log phase better than wild-type cells. Cells missing mazE-mazF survive hydroxyurea treatment better than wild-type; further disruption of relE-relB and tonB yields even better survival (PubMed:20005847).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="16">A number of site directed mutants give rise to a delayed relaxed phenotype; RNA synthesis resumes 10 minutes after amino acid starvation, an unusually slow recovery from periods of starvation, accumulation of a translation inhibitor.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="9">There are estimated to be 550-1100 RelB and 50-100 RelE molecules in rapidly growing cells of MG1655; as they have quite high affinity for each other (dissociation constant of 0.33 nM) there is probably less than 1 free RelE molecule per cell. The RelB(2)-RelE complex has a half-life of over 70 minutes.</text>
+</comment>
+<comment type="similarity">
+<text evidence="18">Belongs to the RelB/DinJ antitoxin family.</text>
+</comment>
+<dbReference type="EMBL" id="X02405">
+<property type="protein sequence ID" value="CAA26250.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74637.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15263.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A22830">
+<property type="entry name" value="BVECRB"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416082.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000534858.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2K29">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-50"/>
+</dbReference>
+<dbReference type="PDB" id="2KC8">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=47-79"/>
+</dbReference>
+<dbReference type="PDB" id="4FXE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A/B/C=1-79"/>
+</dbReference>
+<dbReference type="PDBsum" id="2K29"/>
+<dbReference type="PDBsum" id="2KC8"/>
+<dbReference type="PDBsum" id="4FXE"/>
+<dbReference type="SMR" id="P0C079"/>
+<dbReference type="BioGrid" id="4260244">
+<property type="interactions" value="61"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1081">
+<property type="entry name" value="RelBE toxin-antitoxin complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48258N"/>
+<dbReference type="IntAct" id="P0C079">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1564"/>
+<dbReference type="jPOST" id="P0C079"/>
+<dbReference type="PaxDb" id="P0C079"/>
+<dbReference type="PRIDE" id="P0C079"/>
+<dbReference type="EnsemblBacteria" id="AAC74637">
+<property type="protein sequence ID" value="AAC74637"/>
+<property type="gene ID" value="b1564"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15263">
+<property type="protein sequence ID" value="BAA15263"/>
+<property type="gene ID" value="BAA15263"/>
+</dbReference>
+<dbReference type="GeneID" id="40046114"/>
+<dbReference type="GeneID" id="948308"/>
+<dbReference type="KEGG" id="ecj:JW1556"/>
+<dbReference type="KEGG" id="eco:b1564"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.698"/>
+<dbReference type="EchoBASE" id="EB0829"/>
+<dbReference type="EcoGene" id="EG10836">
+<property type="gene designation" value="relB"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3077">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000008424"/>
+<dbReference type="KO" id="K18918"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10836-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1556-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10836-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0C079"/>
+<dbReference type="PRO" id="PR:P0C079"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="CollecTF" id="EXPREG_000008a0"/>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001217">
+<property type="term" value="F:DNA-binding transcription repressor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1220.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013321">
+<property type="entry name" value="Arc_rbn_hlx_hlx"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007337">
+<property type="entry name" value="RelB/DinJ"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR38781">
+<property type="entry name" value="PTHR38781"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04221">
+<property type="entry name" value="RelB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02384">
+<property type="entry name" value="RelB_DinJ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Antitoxin RelB" id="PRO_0000097243">
+<location>
+<begin position="1"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of DNA binding, 100-fold derepression of operon, still binds RelE." evidence="5 9">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="7"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="43-fold derepression of operon, partial loss of DNA-binding, still binds RelE." evidence="9">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="83-fold derepression of operon, loss of DNA-binding, still binds RelE." evidence="9">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="100-fold derepression of operon, loss of DNA-binding, still binds RelE." evidence="9">
+<original>S</original>
+<variation>L</variation>
+<variation>R</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In relB101; a delayed relaxed phenotype." evidence="14">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In relB102; a delayed relaxed phenotype." evidence="14">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In relB35; a delayed relaxed phenotype." evidence="14">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Protein no longer tetramerizes." evidence="5">
+<location>
+<begin position="66"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Protein still tetramerizes." evidence="5">
+<location>
+<begin position="71"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="10"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="27"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="49"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="71"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4FXE"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11274135"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11717402"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12123459"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18501926"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18532983"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19297318"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19707553"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19747491"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22210768"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22981948"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23432955"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2990907"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9767574"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2990907"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9767574"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000305"/>
+<sequence length="79" mass="9071" checksum="3DD2107337226FAD" modified="1988-04-01" version="1">
+MGSINLRIDDELKARSYAALEKMGVTPSEALRLMLEYIADNERLPFKQTLLSDEDAELVE
+IVKERLRNPKPVRVTLDEL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2019-07-03" version="150">
+<accession>P28632</accession>
+<accession>Q2M5U6</accession>
+<name>HOLD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA polymerase III subunit psi</fullName>
+<ecNumber>2.7.7.7</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">holD</name>
+<name type="ordered locus">b4372</name>
+<name type="ordered locus">JW4334</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="11773" last="11778">
+<title>DNA polymerase III accessory proteins. III. holC and holD encoding chi and psi.</title>
+<authorList>
+<person name="Xiao H."/>
+<person name="Crombie R."/>
+<person name="Dong Z."/>
+<person name="Onrust R."/>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="8389364"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="5604" last="5610">
+<title>Identification, isolation, and overexpression of the gene encoding the psi subunit of DNA polymerase III holoenzyme.</title>
+<authorList>
+<person name="Carter J.R."/>
+<person name="Franden M.A."/>
+<person name="Aebersold R.H."/>
+<person name="McHenry C.S."/>
+</authorList>
+<dbReference type="PubMed" id="8366044"/>
+<dbReference type="DOI" id="10.1128/jb.175.17.5604-5610.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1987" name="Mol. Gen. Genet." volume="209" first="481" last="488">
+<title>Cloning and nucleotide sequencing of the genes rimI and rimJ which encode enzymes acetylating ribosomal proteins S18 and S5 of Escherichia coli K12.</title>
+<authorList>
+<person name="Yoshikawa A."/>
+<person name="Isono S."/>
+<person name="Sheback A."/>
+<person name="Isono K."/>
+</authorList>
+<dbReference type="PubMed" id="2828880"/>
+<dbReference type="DOI" id="10.1007/BF00331153"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="11779" last="11784">
+<title>DNA polymerase III accessory proteins. IV. Characterization of chi and psi.</title>
+<authorList>
+<person name="Xiao H."/>
+<person name="Dong Z."/>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="8505305"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="11328" last="11334">
+<title>Mechanism of the sliding beta-clamp of DNA polymerase III holoenzyme.</title>
+<authorList>
+<person name="Stukenberg P.T."/>
+<person name="Studwell-Vaughan P.S."/>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="2040637"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Science" volume="328" first="498" last="501">
+<title>Stoichiometry and architecture of active DNA replication machinery in Escherichia coli.</title>
+<authorList>
+<person name="Reyes-Lamothe R."/>
+<person name="Sherratt D.J."/>
+<person name="Leake M.C."/>
+</authorList>
+<dbReference type="PubMed" id="20413500"/>
+<dbReference type="DOI" id="10.1126/science.1185757"/>
+</citation>
+<scope>REPLISOME COMPLEX</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="Nat. Struct. Mol. Biol." volume="19" first="113" last="116">
+<title>Single-molecule studies reveal the function of a third polymerase in the replisome.</title>
+<authorList>
+<person name="Georgescu R.E."/>
+<person name="Kurth I."/>
+<person name="O'Donnell M.E."/>
+</authorList>
+<dbReference type="PubMed" id="22157955"/>
+<dbReference type="DOI" id="10.1038/nsmb.2179"/>
+</citation>
+<scope>REPLISOME COMPLEX</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1992" name="Bioessays" volume="14" first="105" last="111">
+<title>Accessory protein function in the DNA polymerase III holoenzyme from E. coli.</title>
+<authorList>
+<person name="O'Donnell M."/>
+</authorList>
+<dbReference type="PubMed" id="1575709"/>
+<dbReference type="DOI" id="10.1002/bies.950140206"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2004" name="Eur. J. Biochem." volume="271" first="439" last="449">
+<title>Crystal structure of the chi:psi sub-assembly of the Escherichia coli DNA polymerase clamp-loader complex.</title>
+<authorList>
+<person name="Gulbis J.M."/>
+<person name="Kazmirski S.L."/>
+<person name="Finkelstein J."/>
+<person name="Kelman Z."/>
+<person name="O'Donnell M."/>
+<person name="Kuriyan J."/>
+</authorList>
+<dbReference type="PubMed" id="14717711"/>
+<dbReference type="DOI" id="10.1046/j.1432-1033.2003.03944.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 26-137</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Part of the beta sliding clamp loading complex, which hydrolyzes ATP to load the beta clamp onto primed DNA to form the DNA replication pre-initiation complex (PubMed:2040637). DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The exact function of the psi subunit is unknown.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>a 2'-deoxyribonucleoside 5'-triphosphate + DNA(n) = diphosphate + DNA(n+1)</text>
+<dbReference type="Rhea" id="RHEA:22508"/>
+<dbReference type="Rhea" id="RHEA-COMP:11130"/>
+<dbReference type="Rhea" id="RHEA-COMP:11131"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:61560"/>
+<dbReference type="ChEBI" id="CHEBI:83828"/>
+<dbReference type="EC" id="2.7.7.7"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="4 5 6">The DNA polymerase III holoenzyme complex contains at least 10 different subunits organized into 3 functionally essential subassemblies: the Pol III core, the beta sliding clamp processivity factor and the clamp-loading complex. The Pol III core (subunits alpha, epsilon and theta) contains the polymerase and the 3'-5' exonuclease proofreading activities (PubMed:2040637). The polymerase is tethered to the template via the dimeric beta sliding clamp processivity factor. The clamp-loading complex (also called gamma complex) assembles the beta sliding clamp onto the primed template and plays a central role in the organization and communication at the replication fork. The clamp-loading complex contains delta, delta', psi and chi, and 3 copies of either or both of two different DnaX proteins, gamma and tau. The DNA replisome complex has a single clamp loader (3 tau and 1 each of delta, delta', psi and chi subunits) which binds 3 Pol III cores (1 core on the leading strand and 2 on the lagging strand) each with a beta sliding clamp dimer. Additional proteins in the replisome are other copies of gamma, psi and chi, Ssb, DNA helicase and RNA primase (PubMed:20413500, PubMed:22157955). The clamp loader hydrolyzes ATP to assemble the beta processivity factor onto the primed template (PubMed:2040637) and plays a central role in the organization and communication at the replication fork.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549176"/>
+<interactant intactId="EBI-549140">
+<id>P06710</id>
+<label>dnaX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>26</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549176"/>
+<interactant intactId="EBI-2604194">
+<id>P06710-2</id>
+<label>dnaX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549176"/>
+<interactant intactId="EBI-549169">
+<id>P28905</id>
+<label>holC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>25</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549176"/>
+<interactant intactId="EBI-552080">
+<id>P14294</id>
+<label>topB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549176"/>
+<interactant intactId="EBI-544837">
+<id>P76092</id>
+<label>ynbC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<dbReference type="EC" id="2.7.7.7"/>
+<dbReference type="EMBL" id="L04575">
+<property type="protein sequence ID" value="AAA24435.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L05387">
+<property type="protein sequence ID" value="AAA03076.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X06117">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97268.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77325.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78360.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A48647">
+<property type="entry name" value="A48647"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418789.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000204012.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1EM8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="B/D=26-137"/>
+</dbReference>
+<dbReference type="PDB" id="3GLI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="O/P=2-28"/>
+</dbReference>
+<dbReference type="PDB" id="3SXU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="B=2-137"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EM8"/>
+<dbReference type="PDBsum" id="3GLI"/>
+<dbReference type="PDBsum" id="3SXU"/>
+<dbReference type="SMR" id="P28632"/>
+<dbReference type="BioGrid" id="4262785">
+<property type="interactions" value="117"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1926">
+<property type="entry name" value="DNA polymerase III clamp loader complex"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1964">
+<property type="entry name" value="DNA polymerase III clamp loader chi-psi subcomplex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9934N"/>
+<dbReference type="IntAct" id="P28632">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="MINT" id="P28632"/>
+<dbReference type="STRING" id="511145.b4372"/>
+<dbReference type="jPOST" id="P28632"/>
+<dbReference type="PaxDb" id="P28632"/>
+<dbReference type="PRIDE" id="P28632"/>
+<dbReference type="EnsemblBacteria" id="AAC77325">
+<property type="protein sequence ID" value="AAC77325"/>
+<property type="gene ID" value="b4372"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78360">
+<property type="protein sequence ID" value="BAE78360"/>
+<property type="gene ID" value="BAE78360"/>
+</dbReference>
+<dbReference type="GeneID" id="948890"/>
+<dbReference type="KEGG" id="ecj:JW4334"/>
+<dbReference type="KEGG" id="eco:b4372"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2316"/>
+<dbReference type="EchoBASE" id="EB1386"/>
+<dbReference type="EcoGene" id="EG11414">
+<property type="gene designation" value="holD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108WPU">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3050">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000218328"/>
+<dbReference type="KO" id="K02344"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11414-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4334-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11414-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P28632"/>
+<dbReference type="PRO" id="PR:P28632"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008408">
+<property type="term" value="F:3'-5' exonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003887">
+<property type="term" value="F:DNA-directed DNA polymerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009314">
+<property type="term" value="P:response to radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10220">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004615">
+<property type="entry name" value="DNA_pol_III_psi"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036654">
+<property type="entry name" value="DNA_pol_III_psi_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018382">
+<property type="entry name" value="DNA_pol_III_psi_subgr"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03603">
+<property type="entry name" value="DNA_III_psi"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF029225">
+<property type="entry name" value="DNA_pol_III_psi"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF102220">
+<property type="entry name" value="SSF102220"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00664">
+<property type="entry name" value="DNA_III_psi"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0239">DNA-directed DNA polymerase</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="DNA polymerase III subunit psi" id="PRO_0000105520">
+<location>
+<begin position="1"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="4"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="16"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="22"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="39"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="52"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="68"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="73"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="87"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="97"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="102"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="108"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="115"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="129"/>
+<end position="132"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1EM8"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3GLI"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3SXU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2040637"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20413500"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22157955"/>
+</source>
+</evidence>
+<sequence length="137" mass="15174" checksum="5B7356201E7E27FE" modified="1992-12-01" version="1">
+MTSRRDWQLQQLGITQWSLRRPGALQGEIAIAIPAHVRLVMVANDLPALTDPLVSDVLRA
+LTVSPDQVLQLTPEKIAMLPQGSHCNSWRLGTDEPLSLEGAQVASPALTDLRANPTARAA
+LWQQICTYEHDFFPRND
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

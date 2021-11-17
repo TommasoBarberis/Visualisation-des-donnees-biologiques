@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2019-05-08" version="146">
+<accession>P52612</accession>
+<accession>P78073</accession>
+<name>FLII_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Flagellum-specific ATP synthase</fullName>
+<ecNumber>7.1.2.2</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">fliI</name>
+<name type="synonym">fla AIII</name>
+<name type="synonym">flaC</name>
+<name type="ordered locus">b1941</name>
+<name type="ordered locus">JW1925</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1995-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Macnab R.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Probable catalytic subunit of a protein translocase for flagellum-specific export, or a proton translocase involved in local circuits at the flagellum. May be involved in a specialized protein export pathway that proceeds without signal peptide cleavage.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>ATP + 4 H(+)(in) + H2O = ADP + 5 H(+)(out) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:57720"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="7.1.2.2"/>
+</reaction>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1118363"/>
+<interactant intactId="EBI-1118363"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the ATPase alpha/beta chains family.</text>
+</comment>
+<dbReference type="EC" id="7.1.2.2"/>
+<dbReference type="EMBL" id="L49147">
+<property type="protein sequence ID" value="AAA82637.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75008.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15766.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64958">
+<property type="entry name" value="B64958"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416451.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000213294.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P52612"/>
+<dbReference type="BioGrid" id="4260388">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9655N"/>
+<dbReference type="IntAct" id="P52612">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1941"/>
+<dbReference type="jPOST" id="P52612"/>
+<dbReference type="PaxDb" id="P52612"/>
+<dbReference type="PRIDE" id="P52612"/>
+<dbReference type="EnsemblBacteria" id="AAC75008">
+<property type="protein sequence ID" value="AAC75008"/>
+<property type="gene ID" value="b1941"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15766">
+<property type="protein sequence ID" value="BAA15766"/>
+<property type="gene ID" value="BAA15766"/>
+</dbReference>
+<dbReference type="GeneID" id="946457"/>
+<dbReference type="KEGG" id="ecj:JW1925"/>
+<dbReference type="KEGG" id="eco:b1941"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.310"/>
+<dbReference type="EchoBASE" id="EB4163"/>
+<dbReference type="EcoGene" id="EG20266">
+<property type="gene designation" value="fliI"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108JIR">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1157">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000257876"/>
+<dbReference type="InParanoid" id="P52612"/>
+<dbReference type="KO" id="K02412"/>
+<dbReference type="PhylomeDB" id="P52612"/>
+<dbReference type="BioCyc" id="EcoCyc:G377-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1925-MONOMER"/>
+<dbReference type="PRO" id="PR:P52612"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030257">
+<property type="term" value="C:type III protein secretion system complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006754">
+<property type="term" value="P:ATP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044780">
+<property type="term" value="P:bacterial-type flagellum assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071973">
+<property type="term" value="P:bacterial-type flagellum-dependent cell motility"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006811">
+<property type="term" value="P:ion transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030254">
+<property type="term" value="P:protein secretion by the type III secretion system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020003">
+<property type="entry name" value="ATPase_a/bsu_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000194">
+<property type="entry name" value="ATPase_F1/V1/A1_a/bsu_nucl-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032463">
+<property type="entry name" value="ATPase_T3SS_FliI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005714">
+<property type="entry name" value="ATPase_T3SS_FliI/YscN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020005">
+<property type="entry name" value="FliI_clade1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040627">
+<property type="entry name" value="T3SS_ATPase_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR15184:SF9">
+<property type="entry name" value="PTHR15184:SF9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00006">
+<property type="entry name" value="ATP-synt_ab"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF18269">
+<property type="entry name" value="T3SS_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03496">
+<property type="entry name" value="FliI_clade1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01026">
+<property type="entry name" value="fliI_yscN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00152">
+<property type="entry name" value="ATPASE_ALPHA_BETA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0066">ATP synthesis</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-1005">Bacterial flagellum biogenesis</keyword>
+<keyword id="KW-1006">Bacterial flagellum protein export</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0375">Hydrogen ion transport</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-1278">Translocase</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Flagellum-specific ATP synthase" id="PRO_0000144694">
+<location>
+<begin position="1"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="182"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>LG</original>
+<variation>SV</variation>
+<location>
+<begin position="112"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>QGA</original>
+<variation>RMP</variation>
+<location>
+<begin position="248"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA82637." ref="1" evidence="3">
+<original>QR</original>
+<variation>HG</variation>
+<location>
+<begin position="399"/>
+<end position="400"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10106"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="457" mass="49316" checksum="962D4268E8428C93" modified="1997-11-01" version="2">
+MTTRLTRWLTTLDNFEAKMAQLPAVRRYGRLTRATGLVLEATGLQLPLGATCVIERQNGS
+ETHEVESEVVGFNGQRLFLMPLEEVEGVLPGARVYAKNISAEGLQSGKQLPLGPALLGRV
+LDGSGKPLDGLPSPDTTETGALITPPFNPLQRTPIEHVLDTGVRPINALLTVGRGQRMGL
+FAGSGVGKSVLLGMMARYTRADVIVVGLIGERGREVKDFIENILGAEGRARSVVIAAPAD
+VSPLLRMQGAAYATRIAEDFRDRGQHVLLIMDSLTRYAMAQREIALAIGEPPATKGYPPS
+VFAKLPALVERAGNGISGGGSITAFYTVLTEGDDQQDPIADSARAILDGHIVLSRRLAEA
+GHYPAIDIEASISRAMTALISEQHYARVRTFKQLLSSFQRNRDLVSVGAYAKGSDPMLDK
+AIALWPQLEGYLQQGIFERADWEASLQGLERIFPTVS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

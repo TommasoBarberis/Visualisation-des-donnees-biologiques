@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-06-05" version="128">
+<accession>Q46939</accession>
+<accession>Q2M9Z3</accession>
+<name>YQEF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable acetyl-CoA acetyltransferase</fullName>
+<ecNumber>2.3.1.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Acetoacetyl-CoA thiolase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">yqeF</name>
+<name type="ordered locus">b2844</name>
+<name type="ordered locus">JW5453</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>2 acetyl-CoA = acetoacetyl-CoA + CoA</text>
+<dbReference type="Rhea" id="RHEA:21036"/>
+<dbReference type="ChEBI" id="CHEBI:57286"/>
+<dbReference type="ChEBI" id="CHEBI:57287"/>
+<dbReference type="ChEBI" id="CHEBI:57288"/>
+<dbReference type="EC" id="2.3.1.9"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the thiolase-like superfamily. Thiolase family.</text>
+</comment>
+<comment type="sequence caution" evidence="3">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB40491" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.9"/>
+<dbReference type="EMBL" id="U29581">
+<property type="protein sequence ID" value="AAB40491.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75883.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76913.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E65067">
+<property type="entry name" value="E65067"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417321.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000656030.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q46939"/>
+<dbReference type="BioGrid" id="4263512">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12853N"/>
+<dbReference type="STRING" id="511145.b2844"/>
+<dbReference type="EPD" id="Q46939"/>
+<dbReference type="jPOST" id="Q46939"/>
+<dbReference type="PaxDb" id="Q46939"/>
+<dbReference type="PRIDE" id="Q46939"/>
+<dbReference type="EnsemblBacteria" id="AAC75883">
+<property type="protein sequence ID" value="AAC75883"/>
+<property type="gene ID" value="b2844"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76913">
+<property type="protein sequence ID" value="BAE76913"/>
+<property type="gene ID" value="BAE76913"/>
+</dbReference>
+<dbReference type="GeneID" id="947324"/>
+<dbReference type="KEGG" id="ecj:JW5453"/>
+<dbReference type="KEGG" id="eco:b2844"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3890"/>
+<dbReference type="EchoBASE" id="EB2900"/>
+<dbReference type="EcoGene" id="EG13097">
+<property type="gene designation" value="yqeF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CHU">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0183">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000012238"/>
+<dbReference type="InParanoid" id="Q46939"/>
+<dbReference type="KO" id="K00626"/>
+<dbReference type="PhylomeDB" id="Q46939"/>
+<dbReference type="BioCyc" id="EcoCyc:G7464-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5453-MONOMER"/>
+<dbReference type="PRO" id="PR:Q46939"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003985">
+<property type="term" value="F:acetyl-CoA C-acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003988">
+<property type="term" value="F:acetyl-CoA C-acyltransferase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071271">
+<property type="term" value="P:1-butanol biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="CDD" id="cd00751">
+<property type="entry name" value="thiolase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.47.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002155">
+<property type="entry name" value="Thiolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016039">
+<property type="entry name" value="Thiolase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020615">
+<property type="entry name" value="Thiolase_acyl_enz_int_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020610">
+<property type="entry name" value="Thiolase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020617">
+<property type="entry name" value="Thiolase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020613">
+<property type="entry name" value="Thiolase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020616">
+<property type="entry name" value="Thiolase_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02803">
+<property type="entry name" value="Thiolase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00108">
+<property type="entry name" value="Thiolase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000429">
+<property type="entry name" value="Ac-CoA_Ac_transf"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53901">
+<property type="entry name" value="SSF53901"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01930">
+<property type="entry name" value="AcCoA-C-Actrans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00098">
+<property type="entry name" value="THIOLASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00737">
+<property type="entry name" value="THIOLASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00099">
+<property type="entry name" value="THIOLASE_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Probable acetyl-CoA acetyltransferase" id="PRO_0000206456">
+<location>
+<begin position="1"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="active site" description="Acyl-thioester intermediate" evidence="1">
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="348"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="378"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10020"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="393" mass="41019" checksum="FF21A11064A9B88B" modified="2000-05-30" version="2">
+MKDVVIVGALRTPIGCFRGALAGHSAVELGSLVVKALIERTGVPAYAVDEVILGQVLTAG
+AGQNPARQSAIKGGLPNSVSAITINDVCGSGLKALHLATQAIQCGEADIVIAGGQENMSR
+APHVLTDSRTGAQLGNSQLVDSLVHDGLWDAFNDYHIGVTAENLAREYGISRQLQDAYAL
+SSQQKARAAIDAGRFKDEIVPVMTQSNGQTLVVDTDEQPRTDASAEGLARLNPSFDSLGS
+VTAGNASSINDGAAAVMMMSEAKARALNLPVLARIRAFASVGVDPALMGIAPVYATRRCL
+ERVGWQLAEVDLIEANEAFAAQALSVGKMLEWDERRVNVNGGAIALGHPIGASGCRILVS
+LVHEMVKRNARKGLATLCIGGGQGVALTIERDE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

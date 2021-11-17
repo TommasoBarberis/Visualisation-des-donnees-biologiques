@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-07-03" version="134">
+<accession>P45758</accession>
+<accession>Q2M6Z0</accession>
+<name>GSPD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Putative secretin GspD</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Putative general secretion pathway protein D</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Putative type II secretion system protein D</fullName>
+<shortName>T2SS protein D</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">gspD</name>
+<name type="synonym">yheF</name>
+<name type="ordered locus">b3325</name>
+<name type="ordered locus">JW5707</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="3544" last="3549">
+<title>The cryptic general secretory pathway (gsp) operon of Escherichia coli K-12 encodes functional proteins.</title>
+<authorList>
+<person name="Francetic O."/>
+<person name="Pugsley A.P."/>
+</authorList>
+<dbReference type="PubMed" id="8655552"/>
+<dbReference type="DOI" id="10.1128/jb.178.12.3544-3549.1996"/>
+</citation>
+<scope>LACK OF EXPRESSION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="EMBO J." volume="19" first="6697" last="6703">
+<title>Expression of the endogenous type II secretion pathway in Escherichia coli leads to chitinase secretion.</title>
+<authorList>
+<person name="Francetic O."/>
+<person name="Belin D."/>
+<person name="Badaut C."/>
+<person name="Pugsley A.P."/>
+</authorList>
+<dbReference type="PubMed" id="11118204"/>
+<dbReference type="DOI" id="10.1093/emboj/19.24.6697"/>
+</citation>
+<scope>LACK OF EXPRESSION</scope>
+<scope>TRANSCRIPTIONAL REGULATION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="5" evidence="1">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="177" last="183">
+<title>Structural insights into the secretin translocation channel in the type II secretion system.</title>
+<authorList>
+<person name="Yan Z."/>
+<person name="Yin M."/>
+<person name="Xu D."/>
+<person name="Zhu Y."/>
+<person name="Li X."/>
+</authorList>
+<dbReference type="PubMed" id="28067918"/>
+<dbReference type="DOI" id="10.1038/nsmb.3350"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.04 ANGSTROMS) OF 24-650</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">Involved in a type II secretion system (T2SS, formerly general secretion pathway, GSP) for the export of folded proteins across the outer membrane. This subunit would form the outer membrane channel.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6">Forms a cylindrical channel with 15 subunits; approximately 25% of the particles have 16-subunit channels. Closed pentadeacameric channels are 180 Angstroms long and 145 Angstroms in diameter. Each subunit turns in a clock-wise manner around the channel.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9">Cell outer membrane</location>
+</subcellularLocation>
+<text evidence="9">Most of the protein is in the periplasm which it traverses to contact proteins of the cell inner membrane.</text>
+</comment>
+<comment type="induction">
+<text evidence="5">Silenced by the DNA-binding protein H-NS under standard growth conditions.</text>
+</comment>
+<comment type="domain">
+<text evidence="6">The N0, N1, N2 and N3 domains are periplasmic, while the secretin and S domains form a channel that is partially inserted in the outer membrane. The N1, N2 and N3 domains each form a periplasmic ring; the N0 domain was present but not resolved by electron microscopy. The secretin domain forms a double beta-barrel structure; the outer barrel has a diameter of about 110 Angstroms while the inner barrel forms the central gate with a small pore in the closed state.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Part of a cryptic operon that encodes proteins involved in type II secretion machinery in other organisms, but is not expressed in strain K12.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the GSP D family.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA58122" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58122.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76350.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77966.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65125">
+<property type="entry name" value="H65125"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417784.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001326512.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5WQ7">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.04"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O=24-650"/>
+</dbReference>
+<dbReference type="PDBsum" id="5WQ7"/>
+<dbReference type="SMR" id="P45758"/>
+<dbReference type="BioGrid" id="4261297">
+<property type="interactions" value="269"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3325"/>
+<dbReference type="TCDB" id="1.B.22.1.3">
+<property type="family name" value="the outer bacterial membrane secretin (secretin) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P45758"/>
+<dbReference type="PaxDb" id="P45758"/>
+<dbReference type="PRIDE" id="P45758"/>
+<dbReference type="EnsemblBacteria" id="AAC76350">
+<property type="protein sequence ID" value="AAC76350"/>
+<property type="gene ID" value="b3325"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77966">
+<property type="protein sequence ID" value="BAE77966"/>
+<property type="gene ID" value="BAE77966"/>
+</dbReference>
+<dbReference type="GeneID" id="947822"/>
+<dbReference type="KEGG" id="ecj:JW5707"/>
+<dbReference type="KEGG" id="eco:b3325"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3406"/>
+<dbReference type="EchoBASE" id="EB2727"/>
+<dbReference type="EcoGene" id="EG12890">
+<property type="gene designation" value="gspD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105GVR">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1450">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000253751"/>
+<dbReference type="InParanoid" id="P45758"/>
+<dbReference type="KO" id="K02453"/>
+<dbReference type="PhylomeDB" id="P45758"/>
+<dbReference type="BioCyc" id="EcoCyc:G7703-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5707-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7703-MONOMER"/>
+<dbReference type="PRO" id="PR:P45758"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009279">
+<property type="term" value="C:cell outer membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015627">
+<property type="term" value="C:type II protein secretion system complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015628">
+<property type="term" value="P:protein secretion by the type II secretion system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1370.120">
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001775">
+<property type="entry name" value="GspD/PilQ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005644">
+<property type="entry name" value="NolW-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038591">
+<property type="entry name" value="NolW-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004846">
+<property type="entry name" value="T2SS/T3SS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013356">
+<property type="entry name" value="T2SS_GspD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004845">
+<property type="entry name" value="T2SS_GspD_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00263">
+<property type="entry name" value="Secretin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03958">
+<property type="entry name" value="Secretin_N"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00811">
+<property type="entry name" value="BCTERIALGSPD"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02517">
+<property type="entry name" value="type_II_gspD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00875">
+<property type="entry name" value="T2SP_D"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0998">Cell outer membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1134">Transmembrane beta strand</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="signal peptide" evidence="4">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Putative secretin GspD" id="PRO_0000013099">
+<location>
+<begin position="24"/>
+<end position="650"/>
+</location>
+</feature>
+<feature type="region of interest" description="N0" evidence="9">
+<location>
+<begin position="24"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="region of interest" description="N1" evidence="9">
+<location>
+<begin position="124"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="region of interest" description="N2" evidence="9">
+<location>
+<begin position="189"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="region of interest" description="N3" evidence="9">
+<location>
+<begin position="266"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="region of interest" description="Secretin" evidence="9">
+<location>
+<begin position="345"/>
+<end position="596"/>
+</location>
+</feature>
+<feature type="region of interest" description="S domain" evidence="9">
+<location>
+<begin position="598"/>
+<end position="650"/>
+</location>
+</feature>
+<feature type="site" description="May serve as a pivot that allows opening of the central gate for substrate egress" evidence="3">
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="126"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="133"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="137"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="141"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="151"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="156"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="164"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="171"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="193"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="202"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="230"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="234"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="238"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="245"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="267"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="274"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="278"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="312"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="317"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="321"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="328"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="347"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="372"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="375"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="386"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="409"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="417"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="427"/>
+<end position="451"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="456"/>
+<end position="467"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="482"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="499"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="504"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="516"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="526"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="543"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="563"/>
+<end position="565"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="569"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="575"/>
+<end position="594"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="597"/>
+<end position="621"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5WQ7"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="E3PJ86"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P45779"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11118204"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28067918"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28067918"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28067918"/>
+</source>
+</evidence>
+<sequence length="650" mass="70698" checksum="973259A12A7237B2" modified="2001-07-11" version="2" precursor="true">
+MKGLNKITCCLLAALLMPCAGHAENEQYGANFNNADIRQFVEIVGQHLGKTILIDPSVQG
+TISVRSNDTFSQQEYYQFFLSILDLYGYSVITLDNGFLKVVRSANVKTSPGMIADSSRPG
+VGDELVTRIVPLENVPARDLAPLLRQMMDAGSVGNVVHYEPSNVLILTGRASTINKLIEV
+IKRVDVIGTEKQQIIHLEYASAEDLAEILNQLISESHGKSQMPALLSAKIVADKRTNSLI
+ISGPEKARQRITSLLKSLDVEESEEGNTRVYYLKYAKATNLVEVLTGVSEKLKDEKGNAR
+KPSSSGAMDNVAITADEQTNSLVITADQSVQEKLATVIARLDIRRAQVLVEAIIVEVQDG
+NGLNLGVQWANKNVGAQQFTNTGLPIFNAAQGVADYKKNGGITSANPAWDMFSAYNGMAA
+GFFNGDWGVLLTALASNNKNDILATPSIVTLDNKLASFNVGQDVPVLSGSQTTSGDNVFN
+TVERKTVGTKLKVTPQVNEGDAVLLEIEQEVSSVDSSSNSTLGPTFNTRTIQNAVLVKTG
+ETVVLGGLLDDFSKEQVSKVPLLGDIPLVGQLFRYTSTERAKRNLMVFIRPTIIRDDDVY
+RSLSKEKYTRYRQEQQQRIDGKSKALVGSEDLPVLDENTFNSHAPAPSSR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

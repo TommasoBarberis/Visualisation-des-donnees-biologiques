@@ -1,0 +1,936 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-04-26" modified="2019-07-03" version="115">
+<accession>P60955</accession>
+<accession>P37149</accession>
+<accession>Q2MA09</accession>
+<name>LGT_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 10">Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase</fullName>
+<ecNumber evidence="3 6 7 8">2.5.1.145</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="11">Prolipoprotein diacylglyceryl transferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3 10">lgt</name>
+<name type="synonym" evidence="10">umpA</name>
+<name type="ordered locus" evidence="15">b2828</name>
+<name type="ordered locus" evidence="16">JW2796</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="J. Bacteriol." volume="177" first="1879" last="1882">
+<title>The umpA gene of Escherichia coli encodes phosphatidylglycerol:prolipoprotein diacylglyceryl transferase (lgt) and regulates thymidylate synthase levels through translational coupling.</title>
+<authorList>
+<person name="Gan K."/>
+<person name="Sankaran K."/>
+<person name="Williams M.G."/>
+<person name="Aldea M."/>
+<person name="Rudd K.E."/>
+<person name="Kushner S.R."/>
+<person name="Wu H.C."/>
+</authorList>
+<dbReference type="PubMed" id="7896715"/>
+<dbReference type="DOI" id="10.1128/jb.177.7.1879-1882.1995"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="4914" last="4918">
+<title>Primary structure of the Escherichia coli thyA gene and its thymidylate synthase product.</title>
+<authorList>
+<person name="Belfort M."/>
+<person name="Maley G.F."/>
+<person name="Pedersen-Lane J."/>
+<person name="Maley F."/>
+</authorList>
+<dbReference type="PubMed" id="6308660"/>
+<dbReference type="DOI" id="10.1073/pnas.80.16.4914"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 226-291</scope>
+<source>
+<strain>K12 / JM103 / ATCC 39403 / DSM 2829 / NCIMB 12044</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="19701" last="19706">
+<title>Lipid modification of bacterial prolipoprotein. Transfer of diacylglyceryl moiety from phosphatidylglycerol.</title>
+<authorList>
+<person name="Sankaran K."/>
+<person name="Wu H.C."/>
+</authorList>
+<dbReference type="PubMed" id="8051048"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="J. Bacteriol." volume="177" first="6820" last="6824">
+<title>Structure-function relationship of bacterial prolipoprotein diacylglyceryl transferase: functionally significant conserved regions.</title>
+<authorList>
+<person name="Qi H.Y."/>
+<person name="Sankaran K."/>
+<person name="Gan K."/>
+<person name="Wu H.C."/>
+</authorList>
+<dbReference type="PubMed" id="7592473"/>
+<dbReference type="DOI" id="10.1128/jb.177.23.6820-6824.1995"/>
+</citation>
+<scope>VARIANTS SK634; SK635 AND SK636</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="2944" last="2948">
+<title>Roles of histidine-103 and tyrosine-235 in the function of the prolipoprotein diacylglyceryl transferase of Escherichia coli.</title>
+<authorList>
+<person name="Sankaran K."/>
+<person name="Gan K."/>
+<person name="Rash B."/>
+<person name="Qi H.-Y."/>
+<person name="Wu H.C."/>
+<person name="Rick P.D."/>
+</authorList>
+<dbReference type="PubMed" id="9139912"/>
+<dbReference type="DOI" id="10.1128/jb.179.9.2944-2948.1997"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-7; HIS-24; TYR-26; TYR-62; TYR-76; HIS-103; TYR-190; HIS-196; TYR-201; TYR-235; TYR-282 AND HIS-289</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="2142" last="2151">
+<title>Phosphatidylglycerol::prolipoprotein diacylglyceryl transferase (Lgt) of Escherichia coli has seven transmembrane segments, and its essential residues are embedded in the membrane.</title>
+<authorList>
+<person name="Pailler J."/>
+<person name="Aucher W."/>
+<person name="Pires M."/>
+<person name="Buddelmeijer N."/>
+</authorList>
+<dbReference type="PubMed" id="22287519"/>
+<dbReference type="DOI" id="10.1128/JB.06641-11"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF TYR-26; GLY-98; HIS-103; GLY-104; ASP-129; ARG-143; ASN-146; GLU-151; GLY-154; ARG-239 AND GLU-243</scope>
+</reference>
+<reference key="10" evidence="1 2">
+<citation type="journal article" date="2016" name="Nat. Commun." volume="7" first="10198" last="10198">
+<title>Crystal structure of E. coli lipoprotein diacylglyceryl transferase.</title>
+<authorList>
+<person name="Mao G."/>
+<person name="Zhao Y."/>
+<person name="Kang X."/>
+<person name="Li Z."/>
+<person name="Zhang Y."/>
+<person name="Wang X."/>
+<person name="Sun F."/>
+<person name="Sankaran K."/>
+<person name="Zhang X.C."/>
+</authorList>
+<dbReference type="PubMed" id="26729647"/>
+<dbReference type="DOI" id="10.1038/ncomms10198"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEXES WITH PHOSPHATIDYLGLYCEROL AND PALMITATE</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>PATHWAY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ARG-143</scope>
+</reference>
+<comment type="function">
+<text evidence="3 6 7 8">Catalyzes the transfer of the diacylglyceryl group from phosphatidylglycerol to the sulfhydryl group of the N-terminal cysteine of a prolipoprotein, the first step in the formation of mature lipoproteins.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3 6 7 8">
+<text>1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol) + L-cysteinyl-[prolipoprotein] = H(+) + S-1,2-diacyl-sn-glyceryl-L-cysteinyl-[prolipoprotein] + sn-glycerol 1-phosphate</text>
+<dbReference type="Rhea" id="RHEA:56712"/>
+<dbReference type="Rhea" id="RHEA-COMP:14679"/>
+<dbReference type="Rhea" id="RHEA-COMP:14680"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29950"/>
+<dbReference type="ChEBI" id="CHEBI:57685"/>
+<dbReference type="ChEBI" id="CHEBI:64716"/>
+<dbReference type="ChEBI" id="CHEBI:140658"/>
+<dbReference type="EC" id="2.5.1.145"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="6">Inhibited by palmitate.</text>
+</comment>
+<comment type="pathway" evidence="3 6 7 8">
+<text>Protein modification; lipoprotein biosynthesis (diacylglyceryl transfer).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3 4 5 6">Cell inner membrane</location>
+<topology evidence="3 5 6">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="6">Contains several lipid molecules that are bound within the central cavity of the protein.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 7">Mutants are defective in diacylglyceryl modification of prolipoprotein.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3 11">Belongs to the Lgt family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.145" evidence="3 6 7 8"/>
+<dbReference type="EMBL" id="U12289">
+<property type="protein sequence ID" value="AAA69024.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29581">
+<property type="protein sequence ID" value="AAB40475.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75867.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76897.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J01710">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A56149">
+<property type="entry name" value="A56149"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417305.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000204658.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5AZB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-291"/>
+</dbReference>
+<dbReference type="PDB" id="5AZC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-291"/>
+</dbReference>
+<dbReference type="PDBsum" id="5AZB"/>
+<dbReference type="PDBsum" id="5AZC"/>
+<dbReference type="SMR" id="P60955"/>
+<dbReference type="BioGrid" id="4263276">
+<property type="interactions" value="176"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2828"/>
+<dbReference type="ChEMBL" id="CHEMBL3309026"/>
+<dbReference type="jPOST" id="P60955"/>
+<dbReference type="PaxDb" id="P60955"/>
+<dbReference type="PRIDE" id="P60955"/>
+<dbReference type="EnsemblBacteria" id="AAC75867">
+<property type="protein sequence ID" value="AAC75867"/>
+<property type="gene ID" value="b2828"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76897">
+<property type="protein sequence ID" value="BAE76897"/>
+<property type="gene ID" value="BAE76897"/>
+</dbReference>
+<dbReference type="GeneID" id="947303"/>
+<dbReference type="KEGG" id="ecj:JW2796"/>
+<dbReference type="KEGG" id="eco:b2828"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3907"/>
+<dbReference type="EchoBASE" id="EB2049"/>
+<dbReference type="EcoGene" id="EG12128">
+<property type="gene designation" value="lgt"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C3B">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0682">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000098666"/>
+<dbReference type="InParanoid" id="P60955"/>
+<dbReference type="KO" id="K13292"/>
+<dbReference type="PhylomeDB" id="P60955"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12128-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2796-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12128-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00664"/>
+<dbReference type="PRO" id="PR:P60955"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009898">
+<property type="term" value="C:cytoplasmic side of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008961">
+<property type="term" value="F:phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042158">
+<property type="term" value="P:lipoprotein biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01147">
+<property type="entry name" value="Lgt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001640">
+<property type="entry name" value="Lgt"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30589">
+<property type="entry name" value="PTHR30589"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01790">
+<property type="entry name" value="LGT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00544">
+<property type="entry name" value="lgt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01311">
+<property type="entry name" value="LGT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase" id="PRO_0000172596">
+<location>
+<begin position="1"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="5 6">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="25"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="6 13">
+<location>
+<begin position="44"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="57"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="6 13">
+<location>
+<begin position="77"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="99"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="6 13">
+<location>
+<begin position="120"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="130"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="6 13">
+<location>
+<begin position="151"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="198"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="6 13">
+<location>
+<begin position="219"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="226"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="6 13">
+<location>
+<begin position="245"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6 17">
+<location>
+<begin position="262"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="6 12 13">
+<location>
+<begin position="283"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="binding site" description="Lipid substrate" evidence="3 6 17 18">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SK636, temperature-sensitive." evidence="14">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SK634, temperature-sensitive." evidence="14">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SK635, temperature-sensitive." evidence="14">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="7"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="98"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="9">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity (PubMed:9139912). No effect (PubMed:22287519)." evidence="5 9">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="5">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in activity. No effect on affinity for lipids." evidence="5 6">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in activity." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>H</original>
+<variation>N</variation>
+<variation>L</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="50% decrease in activity." evidence="9">
+<original>H</original>
+<variation>Q</variation>
+<variation>R</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<variation>T</variation>
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="37% decrease in activity." evidence="9">
+<original>Y</original>
+<variation>S</variation>
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in activity." evidence="5">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in activity." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="13"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="21"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="25"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="54"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="82"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="89"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="95"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="102"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="132"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="135"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="167"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="170"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="184"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="198"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="208"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="226"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="255"/>
+<end position="284"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5AZB"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5AZC"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01147"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22287519"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26729647"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7896715"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8051048"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9139912"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7896715"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22287519"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7592473"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAC75867.1"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAE76897.1"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000312">
+<source>
+<dbReference type="PDB" id="5AZB"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000312">
+<source>
+<dbReference type="PDB" id="5AZC"/>
+</source>
+</evidence>
+<sequence length="291" mass="33108" checksum="5F946E4E60D0112A" modified="2004-04-26" version="1">
+MTSSYLHFPEFDPVIFSIGPVALHWYGLMYLVGFIFAMWLATRRANRPGSGWTKNEVENL
+LYAGFLGVFLGGRIGYVLFYNFPQFMADPLYLFRVWDGGMSFHGGLIGVIVVMIIFARRT
+KRSFFQVSDFIAPLIPFGLGAGRLGNFINGELWGRVDPNFPFAMLFPGSRTEDILLLQTN
+PQWQSIFDTYGVLPRHPSQLYELLLEGVVLFIILNLYIRKPRPMGAVSGLFLIGYGAFRI
+IVEFFRQPDAQFTGAWVQYISMGQILSIPMIVAGVIMMVWAYRRSPQQHVS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

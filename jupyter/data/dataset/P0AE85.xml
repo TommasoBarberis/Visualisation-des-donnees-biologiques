@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2019-06-05" version="94">
+<accession>P0AE85</accession>
+<accession>O65939</accession>
+<accession>P32158</accession>
+<accession>Q2M8L0</accession>
+<name>CPXP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="16">Periplasmic protein CpxP</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="15">ORF_o167</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Periplasmic accessory protein CpxP</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="16">cpxP</name>
+<name type="synonym">yiiO</name>
+<name type="ordered locus">b4484</name>
+<name type="ordered locus">JW5558</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="1" last="9">
+<title>Escherichia coli K-12: a cooperatively developed annotation snapshot -- 2005.</title>
+<authorList>
+<person name="Riley M."/>
+<person name="Abe T."/>
+<person name="Arnaud M.B."/>
+<person name="Berlyn M.K.B."/>
+<person name="Blattner F.R."/>
+<person name="Chaudhuri R.R."/>
+<person name="Glasner J.D."/>
+<person name="Horiuchi T."/>
+<person name="Keseler I.M."/>
+<person name="Kosuge T."/>
+<person name="Mori H."/>
+<person name="Perna N.T."/>
+<person name="Plunkett G. III"/>
+<person name="Rudd K.E."/>
+<person name="Serres M.H."/>
+<person name="Thomas G.H."/>
+<person name="Thomson N.R."/>
+<person name="Wishart D."/>
+<person name="Wanner B.L."/>
+</authorList>
+<dbReference type="PubMed" id="16397293"/>
+<dbReference type="DOI" id="10.1093/nar/gkj405"/>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="EMBO J." volume="16" first="6394" last="6406">
+<title>The chaperone-assisted membrane release and folding pathway is sensed by two signal transduction systems.</title>
+<authorList>
+<person name="Jones C.H."/>
+<person name="Danese P.N."/>
+<person name="Pinkner J.S."/>
+<person name="Silhavy T.J."/>
+<person name="Hultgren S.J."/>
+</authorList>
+<dbReference type="PubMed" id="9351822"/>
+<dbReference type="DOI" id="10.1093/emboj/16.21.6394"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="831" last="839">
+<title>CpxP, a stress-combative member of the Cpx regulon.</title>
+<authorList>
+<person name="Danese P.N."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="9473036"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="37" first="1186" last="1197">
+<title>Tethering of CpxP to the inner membrane prevents spheroplast induction of the cpx envelope stress response.</title>
+<authorList>
+<person name="Raivio T.L."/>
+<person name="Laird M.W."/>
+<person name="Joly J.C."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="10972835"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.02074.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="6622" last="6630">
+<title>Cpx signal transduction is influenced by a conserved N-terminal domain in the novel inhibitor CpxP and the periplasmic protease DegP.</title>
+<authorList>
+<person name="Buelow D.R."/>
+<person name="Raivio T.L."/>
+</authorList>
+<dbReference type="PubMed" id="16166523"/>
+<dbReference type="DOI" id="10.1128/JB.187.19.6622-6630.2005"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INDUCTION BY ALKALI</scope>
+<scope>DOMAIN</scope>
+<scope>DEGRADATION BY DEGP</scope>
+<scope>MUTAGENESIS OF GLN-55; MET-59; ARG-60; ASP-61 AND GLN-128</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="17775" last="17779">
+<title>The extracytoplasmic adaptor protein CpxP is degraded with substrate by DegP.</title>
+<authorList>
+<person name="Isaac D.D."/>
+<person name="Pinkner J.S."/>
+<person name="Hultgren S.J."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="16303867"/>
+<dbReference type="DOI" id="10.1073/pnas.0508936102"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DEGRADATION BY DEGP</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="BMC Microbiol." volume="6" first="53" last="53">
+<title>Persisters: a distinct physiological state of E. coli.</title>
+<authorList>
+<person name="Shah D."/>
+<person name="Zhang Z."/>
+<person name="Khodursky A."/>
+<person name="Kaldalu N."/>
+<person name="Kurg K."/>
+<person name="Lewis K."/>
+</authorList>
+<dbReference type="PubMed" id="16768798"/>
+<dbReference type="DOI" id="10.1186/1471-2180-6-53"/>
+</citation>
+<scope>INDUCTION IN PERSISTER CELLS</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="8583" last="8593">
+<title>Purification, reconstitution, and characterization of the CpxRAP envelope stress system of Escherichia coli.</title>
+<authorList>
+<person name="Fleischer R."/>
+<person name="Heermann R."/>
+<person name="Jung K."/>
+<person name="Hunke S."/>
+</authorList>
+<dbReference type="PubMed" id="17259177"/>
+<dbReference type="DOI" id="10.1074/jbc.M605785200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="Nat. Struct. Mol. Biol." volume="18" first="262" last="269">
+<title>Genetic selection designed to stabilize proteins uncovers a chaperone called Spy.</title>
+<authorList>
+<person name="Quan S."/>
+<person name="Koldewey P."/>
+<person name="Tapley T."/>
+<person name="Kirsch N."/>
+<person name="Ruane K.M."/>
+<person name="Pfizenmaier J."/>
+<person name="Shi R."/>
+<person name="Hofmann S."/>
+<person name="Foit L."/>
+<person name="Ren G."/>
+<person name="Jakob U."/>
+<person name="Xu Z."/>
+<person name="Cygler M."/>
+<person name="Bardwell J.C."/>
+</authorList>
+<dbReference type="PubMed" id="21317898"/>
+<dbReference type="DOI" id="10.1038/nsmb.2016"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E107383" last="E107383">
+<title>Dynamic interaction between the CpxA sensor kinase and the periplasmic accessory protein CpxP mediates signal recognition in E. coli.</title>
+<authorList>
+<person name="Tschauner K."/>
+<person name="Hoernschemeyer P."/>
+<person name="Mueller V.S."/>
+<person name="Hunke S."/>
+</authorList>
+<dbReference type="PubMed" id="25207645"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0107383"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH CPXA AND PAPE</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ARG-56 AND ALA-108</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2011" name="J. Bacteriol." volume="193" first="2149" last="2157">
+<title>Structure of the periplasmic stress response protein CpxP.</title>
+<authorList>
+<person name="Thede G.L."/>
+<person name="Arthur D.C."/>
+<person name="Edwards R.A."/>
+<person name="Buelow D.R."/>
+<person name="Wong J.L."/>
+<person name="Raivio T.L."/>
+<person name="Glover J.N."/>
+</authorList>
+<dbReference type="PubMed" id="21317318"/>
+<dbReference type="DOI" id="10.1128/JB.01296-10"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.85 ANGSTROMS) OF 40-151</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF GLN-55 AND GLN-128</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="9805" last="9814">
+<title>Structural basis for two-component system inhibition and pilus sensing by the auxiliary CpxP protein.</title>
+<authorList>
+<person name="Zhou X."/>
+<person name="Keller R."/>
+<person name="Volkmer R."/>
+<person name="Krauss N."/>
+<person name="Scheerer P."/>
+<person name="Hunke S."/>
+</authorList>
+<dbReference type="PubMed" id="21239493"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.194092"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) OF 21-150</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ALA-103; ILE-107 AND ALA-108</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 8 9 10 11 12 14">Acts as an auxiliary protein in the Cpx two-component envelope stress response system, helping modulate the Cpx response systems response to some inducers (PubMed:25207645, PubMed:16303867). Binds the periplasmic domain of sensor histidine kinase CpxA, inhibiting induction of the Cpx envelope stress response in the absence of inducer; overexpression decreases Cpx pathway activity (PubMed:16166523, PubMed:21317318). Some periplasmic stimulii (shown for P pili subunit PapE and probably 0.3 M NaCl) increase CpxP's susceptibility to DegP, leading to CpxP degradation, inducing the Cpx pathway (PubMed:16166523, PubMed:16303867). Aids in combating extracytoplasmic protein-mediated toxicity (PubMed:9473036, PubMed:16303867, PubMed:21239493). Overexpression leads to degradation by DegP of misfolded P pili subunits in the periplasm (tested using PapE) (PubMed:21239493). Inhibits autophosphorylation of CpxA in reconstituted liposomes by 50% but has no effect on phosphatase activity of CpxA (PubMed:17259177, PubMed:21239493). Has mild protein chaperone activity (PubMed:21317898, PubMed:21239493).</text>
+</comment>
+<comment type="subunit">
+<text evidence="9 10 12 18">Homodimer; it might alter shape slightly at pH 8.0 when Cpx is induced (PubMed:21317318, PubMed:21239493). Binds the periplasmic sensor domain of CpxA (PubMed:16166523, PubMed:21317318, PubMed:21239493, PubMed:25207645). Interaction with CpxA is not seen in vivo when cells are grown in 0.3 M NaCl, or if the misfolded P pili protein PapE is overexpressed (PubMed:25207645).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6413881"/>
+<interactant intactId="EBI-6413881"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12 14">Periplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4 5 7 13 14">Induced by envelope stress such as overexpression of misfolded periplasmic proteins (PubMed:9351822). Induced by alkaine pH (tested up to pH 8.4) (PubMed:9473036, PubMed:16166523). Induction is decreased in a degP deletion (PubMed:16166523). Transcription is stimulated by the Cpx two-component signal transduction pathway; sigma factor E (rpoE) is not involved (PubMed:9351822, PubMed:9473036, PubMed:10972835). Transcription induced by spheroplasting, which removes the periplasm and thus this protein; if the protein is anchored to the outer surface of the inner membrane induction does not occur (PubMed:10972835). Induced in persister cells (PubMed:16768798).</text>
+</comment>
+<comment type="domain">
+<text evidence="5 9">A region in the N-terminus (residues 55-61) probably interacts with the periplasmic sensor domain of CpxA to inhibit its kinase activity and is also important for CpxP stability (PubMed:16166523). The homodimer has an elongated cradle shape; a hydrophobic cleft on the convex face may interact with periplasmic protein PapE (PubMed:21239493).</text>
+</comment>
+<comment type="PTM">
+<text evidence="5 6">Degraded by DegP; some CpxP mutant proteins are more susceptible to the protease than others (PubMed:16166523). Degradation probably occurs when CpxP is associated with some misfolded proteins; overexpression of PapE leads to DegP-mediated degradation of CpxP and PapE, which requires the N-terminus of PapE. Overexpression of NlpE does not induce this degradation however (PubMed:16303867).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="6 14">Hypersensitive to alkaline pH (greater than pH 8.8) (PubMed:9473036). Increased accumulation and toxicity of overexpressed, misfolded periplasmic proteins (PubMed:16303867).</text>
+</comment>
+<comment type="similarity">
+<text evidence="17">Belongs to the CpxP/Spy family.</text>
+</comment>
+<comment type="sequence caution" evidence="17">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB03046" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03046.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAT48235.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77396.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001223800.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_026277.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="PDB" id="3ITF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=21-150"/>
+</dbReference>
+<dbReference type="PDB" id="3QZC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/B=40-151"/>
+</dbReference>
+<dbReference type="PDBsum" id="3ITF"/>
+<dbReference type="PDBsum" id="3QZC"/>
+<dbReference type="SMR" id="P0AE85"/>
+<dbReference type="BioGrid" id="4262646">
+<property type="interactions" value="127"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47937N"/>
+<dbReference type="IntAct" id="P0AE85">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4484"/>
+<dbReference type="jPOST" id="P0AE85"/>
+<dbReference type="PaxDb" id="P0AE85"/>
+<dbReference type="PRIDE" id="P0AE85"/>
+<dbReference type="EnsemblBacteria" id="AAT48235">
+<property type="protein sequence ID" value="AAT48235"/>
+<property type="gene ID" value="b4484"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77396">
+<property type="protein sequence ID" value="BAE77396"/>
+<property type="gene ID" value="BAE77396"/>
+</dbReference>
+<dbReference type="GeneID" id="2847688"/>
+<dbReference type="KEGG" id="ecj:JW5558"/>
+<dbReference type="KEGG" id="eco:b4484"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2791"/>
+<dbReference type="EchoBASE" id="EB1818"/>
+<dbReference type="EcoGene" id="EG11872">
+<property type="gene designation" value="cpxP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105FMW">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3678">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000285733"/>
+<dbReference type="InParanoid" id="P0AE85"/>
+<dbReference type="KO" id="K06006"/>
+<dbReference type="BioCyc" id="EcoCyc:G7816-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5558-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0AE85"/>
+<dbReference type="PRO" id="PR:P0AE85"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd09916">
+<property type="entry name" value="CpxP_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012899">
+<property type="entry name" value="LTXXQ"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07813">
+<property type="entry name" value="LTXXQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF034445">
+<property type="entry name" value="CpxP_Spy"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="signal peptide" evidence="3">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Periplasmic protein CpxP" id="PRO_0000020992">
+<location>
+<begin position="22"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="region of interest" description="Important for protein stability, probably interacts with CpxA" evidence="5">
+<location>
+<begin position="55"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="region of interest" description="Not required for activation of CpxA or to induce degradation of misfolded P pili subunits" evidence="9">
+<location>
+<begin position="151"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer inhibits Cpx pathway, protein more susceptible to DegP." evidence="5 10">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer interacts with CpxA." evidence="12">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer inhibits Cpx pathway, protein more susceptible to DegP." evidence="5">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer inhibits Cpx pathway." evidence="5">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="60"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer inhibits Cpx pathway." evidence="5">
+<original>D</original>
+<variation>E</variation>
+<variation>V</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, significantly reduced degradation of PapE." evidence="9">
+<original>A</original>
+<variation>D</variation>
+<variation>G</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, significantly reduced degradation of PapE." evidence="9">
+<original>I</original>
+<variation>D</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, wild-type degradation of PapE." evidence="9">
+<original>I</original>
+<variation>G</variation>
+<variation>N</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, significantly reduced degradation of PapE." evidence="9">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, wild-type degradation of PapE." evidence="9">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein stability, significantly reduced degradation of PapE, retains most Cpx inhibition activity." evidence="9 12">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer inhibits Cpx pathway in wild-type cells, protein more susceptible to DegP, in the absence of DegP protease partially inhibits Cpx." evidence="5 10">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="45"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="53"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="75"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="87"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="92"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="126"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="146"/>
+<end position="149"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3ITF"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3QZC"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10972835"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16166523"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16303867"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16768798"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17259177"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21239493"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21317318"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21317898"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25207645"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9351822"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9473036"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8346018"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9473036"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="16166523"/>
+</source>
+</evidence>
+<sequence length="166" mass="18965" checksum="BD517D2D14D90209" modified="2005-12-06" version="1" precursor="true">
+MRIVTAAVMASTLAVSSLSHAAEVGSGDNWHPGEELTQRSTQSHMFDGISLTEHQRQQMR
+DLMQQARHEQPPVNVSELETMHRLVTAENFDENAVRAQAEKMANEQIARQVEMAKVRNQM
+YRLLTPEQQAVLNEKHQQRMEQLRDVTQWQKSSSLKLLSSSNSRSQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

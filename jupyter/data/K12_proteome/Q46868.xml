@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-05-08" version="111">
+<accession>Q46868</accession>
+<accession>Q2M9F8</accession>
+<name>UBIK_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Ubiquinone biosynthesis accessory factor UbiK</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">ubiK</name>
+<name type="synonym">yqiC</name>
+<name type="ordered locus">b3042</name>
+<name type="ordered locus">JW5505</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="FEMS Microbiol. Lett." volume="169" first="375" last="382">
+<title>Small genes/gene-products in Escherichia coli K-12.</title>
+<authorList>
+<person name="Wasinger V.C."/>
+<person name="Humphery-Smith I."/>
+</authorList>
+<dbReference type="PubMed" id="9868784"/>
+<dbReference type="DOI" id="10.1111/j.1574-6968.1998.tb13343.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2017" name="J. Biol. Chem." volume="292" first="11937" last="11950">
+<title>The UbiK protein is an accessory factor necessary for bacterial ubiquinone (UQ) biosynthesis and forms a complex with the UQ biogenesis factor UbiJ.</title>
+<authorList>
+<person name="Loiseau L."/>
+<person name="Fyfe C."/>
+<person name="Aussel L."/>
+<person name="Hajj Chehade M."/>
+<person name="Hernandez S.B."/>
+<person name="Faivre B."/>
+<person name="Hamdane D."/>
+<person name="Mellot-Draznieks C."/>
+<person name="Rascalou B."/>
+<person name="Pelosi L."/>
+<person name="Velours C."/>
+<person name="Cornu D."/>
+<person name="Lombard M."/>
+<person name="Casadesus J."/>
+<person name="Pierrel F."/>
+<person name="Fontecave M."/>
+<person name="Barras F."/>
+</authorList>
+<dbReference type="PubMed" id="28559279"/>
+<dbReference type="DOI" id="10.1074/jbc.M117.789164"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PATHWAY</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH UBIJ</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Required for efficient ubiquinone (coenzyme Q) biosynthesis under aerobic conditions. Likely to contribute to global ubiquinone biosynthesis rather than to a specific biosynthetic step. UbiK is probably an accessory factor of Ubi enzymes and facilitates ubiquinone biosynthesis by acting as an assembly factor, a targeting factor, or both. Dispensable for ubiquinone biosynthesis under anaerobiosis.</text>
+</comment>
+<comment type="pathway" evidence="5">
+<text>Cofactor biosynthesis; ubiquinone biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homotrimer (PubMed:28559279). Interacts with the C-terminal part of UbiJ and forms a complex composed of 2 UbiK subunits and 1 UbiJ subunit. The UbiK-UbiJ complex interacts with palmitoleic acid (PubMed:28559279).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">Deletion of the gene impacts ubiquinone biosynthesis in aerobic conditions but does not decrease menaquinone biosynthesis. Mutant accumulates octaprenylphenol, an early intermediate of the ubiquinone biosynthetic pathway.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the UbiK family.</text>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA69210" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69210.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76078.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77098.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65091">
+<property type="entry name" value="H65091"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417514.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="SMR" id="Q46868"/>
+<dbReference type="BioGrid" id="4259251">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="Q46868">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3042"/>
+<dbReference type="jPOST" id="Q46868"/>
+<dbReference type="PaxDb" id="Q46868"/>
+<dbReference type="PRIDE" id="Q46868"/>
+<dbReference type="EnsemblBacteria" id="AAC76078">
+<property type="protein sequence ID" value="AAC76078"/>
+<property type="gene ID" value="b3042"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77098">
+<property type="protein sequence ID" value="BAE77098"/>
+<property type="gene ID" value="BAE77098"/>
+</dbReference>
+<dbReference type="GeneID" id="947524"/>
+<dbReference type="KEGG" id="ecj:JW5505"/>
+<dbReference type="KEGG" id="eco:b3042"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3135"/>
+<dbReference type="EchoBASE" id="EB2847"/>
+<dbReference type="EcoGene" id="EG13031">
+<property type="gene designation" value="yqiC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105W0Z">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2960">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000265044"/>
+<dbReference type="InParanoid" id="Q46868"/>
+<dbReference type="KO" id="K09806"/>
+<dbReference type="PhylomeDB" id="Q46868"/>
+<dbReference type="BioCyc" id="EcoCyc:G7582-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5505-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00232"/>
+<dbReference type="PRO" id="PR:Q46868"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006744">
+<property type="term" value="P:ubiquinone biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007475">
+<property type="entry name" value="UbiK"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04380">
+<property type="entry name" value="BMFP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0831">Ubiquinone biosynthesis</keyword>
+<feature type="chain" description="Ubiquinone biosynthesis accessory factor UbiK" id="PRO_0000169417">
+<location>
+<begin position="1"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="59"/>
+<end position="86"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28559279"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28559279"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28559279"/>
+</source>
+</evidence>
+<sequence length="96" mass="11276" checksum="393A8D90E7F6ACCC" modified="2007-12-04" version="2">
+MIDPKKIEQIARQVHESMPKGIREFGEDVEKKIRQTLQAQLTRLDLVSREEFDVQTQVLL
+RTREKLALLEQRISELENRSTEIKKQPDPETLPPTL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

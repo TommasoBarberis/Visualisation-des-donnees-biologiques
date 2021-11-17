@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-04-16" modified="2019-05-08" version="139">
+<accession>P76342</accession>
+<accession>Q2MAZ7</accession>
+<name>MSRP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 9">Protein-methionine-sulfoxide reductase catalytic subunit MsrP</fullName>
+<ecNumber evidence="3 7">1.8.5.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="8">msrP</name>
+<name type="synonym" evidence="10">yedY</name>
+<name type="ordered locus">b1971</name>
+<name type="ordered locus">JW1954</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="50391" last="50400">
+<title>Structural and biochemical identification of a novel bacterial oxidoreductase.</title>
+<authorList>
+<person name="Loschi L."/>
+<person name="Brokx S.J."/>
+<person name="Hills T.L."/>
+<person name="Zhang G."/>
+<person name="Bertero M.G."/>
+<person name="Lovering A.L."/>
+<person name="Weiner J.H."/>
+<person name="Strynadka N.C."/>
+</authorList>
+<dbReference type="PubMed" id="15355966"/>
+<dbReference type="DOI" id="10.1074/jbc.M408876200"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 45-50</scope>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 45-334 IN COMPLEXES WITH MOLYBDOPTERIN AND MOLYBDENUM OR TUNGSTEN</scope>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="8309" last="8316">
+<title>Export pathway selectivity of Escherichia coli twin arginine translocation signal peptides.</title>
+<authorList>
+<person name="Tullman-Ercek D."/>
+<person name="DeLisa M.P."/>
+<person name="Kawarasaki Y."/>
+<person name="Iranpour P."/>
+<person name="Ribnicky B."/>
+<person name="Palmer T."/>
+<person name="Georgiou G."/>
+</authorList>
+<dbReference type="PubMed" id="17218314"/>
+<dbReference type="DOI" id="10.1074/jbc.M610507200"/>
+</citation>
+<scope>EXPORT VIA THE TAT-SYSTEM AND THE SEC-SYSTEM</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="10339" last="10348">
+<title>Characterization of an Escherichia coli sulfite oxidase homologue reveals the role of a conserved active site cysteine in assembly and function.</title>
+<authorList>
+<person name="Brokx S.J."/>
+<person name="Rothery R.A."/>
+<person name="Zhang G."/>
+<person name="Ng D.P."/>
+<person name="Weiner J.H."/>
+</authorList>
+<dbReference type="PubMed" id="16042411"/>
+<dbReference type="DOI" id="10.1021/bi050621a"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>EPR SPECTROSCOPY</scope>
+<scope>MUTAGENESIS OF CYS-146</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH MSRQ</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="J. Am. Chem. Soc." volume="131" first="15612" last="15614">
+<title>Spectroscopic characterization of YedY: the role of sulfur coordination in a Mo(V) sulfite oxidase family enzyme form.</title>
+<authorList>
+<person name="Yang J."/>
+<person name="Rothery R."/>
+<person name="Sempombe J."/>
+<person name="Weiner J.H."/>
+<person name="Kirk M.L."/>
+</authorList>
+<dbReference type="PubMed" id="19860477"/>
+<dbReference type="DOI" id="10.1021/ja903087k"/>
+</citation>
+<scope>CHARACTERIZATION OF MO ION WITH ELECTRONIC ABSORPTION; MAGNETIC CIRCULAR DICHROISM AND EPR SPECTROSCOPY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="Nature" volume="528" first="409" last="412">
+<title>Repairing oxidized proteins in the bacterial envelope using respiratory chain electrons.</title>
+<authorList>
+<person name="Gennaris A."/>
+<person name="Ezraty B."/>
+<person name="Henry C."/>
+<person name="Agrebi R."/>
+<person name="Vergnes A."/>
+<person name="Oheix E."/>
+<person name="Bos J."/>
+<person name="Leverrier P."/>
+<person name="Espinosa L."/>
+<person name="Szewczyk J."/>
+<person name="Vertommen D."/>
+<person name="Iranzo O."/>
+<person name="Collet J.F."/>
+<person name="Barras F."/>
+</authorList>
+<dbReference type="PubMed" id="26641313"/>
+<dbReference type="DOI" id="10.1038/nature15764"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>PROTEIN SUBSTRATES</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4 7">Part of the MsrPQ system that repairs oxidized periplasmic proteins containing methionine sulfoxide residues (Met-O), using respiratory chain electrons (PubMed:26641313). Thus protects these proteins from oxidative-stress damage caused by reactive species of oxygen and chlorine (PubMed:26641313). MsrPQ is essential for the maintenance of envelope integrity under bleach stress, rescuing a wide series of structurally unrelated periplasmic proteins from methionine oxidation, including the primary periplasmic chaperone SurA and the lipoprotein Pal (PubMed:26641313). The catalytic subunit MsrP is non-stereospecific, being able to reduce both (R-) and (S-) diastereoisomers of methionine sulfoxide (PubMed:26641313). Can catalyze the reduction of a variety of substrates in vitro, including dimethyl sulfoxide, trimethylamine N-oxide, phenylmethyl sulfoxide and L-methionine sulfoxide (PubMed:15355966). Cannot reduce cyclic N-oxides (PubMed:15355966). Shows no activity as sulfite oxidase (PubMed:15355966).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="7">
+<text>a quinone + H2O + L-methionyl-[protein] = a quinol + L-methionyl-(S)-S-oxide-[protein]</text>
+<dbReference type="Rhea" id="RHEA:51292"/>
+<dbReference type="Rhea" id="RHEA-COMP:12313"/>
+<dbReference type="Rhea" id="RHEA-COMP:12315"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:16044"/>
+<dbReference type="ChEBI" id="CHEBI:24646"/>
+<dbReference type="ChEBI" id="CHEBI:44120"/>
+<dbReference type="ChEBI" id="CHEBI:132124"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="7">
+<text>a quinone + H2O + L-methionyl-[protein] = a quinol + L-methionyl-(R)-S-oxide-[protein]</text>
+<dbReference type="Rhea" id="RHEA:51296"/>
+<dbReference type="Rhea" id="RHEA-COMP:12313"/>
+<dbReference type="Rhea" id="RHEA-COMP:12314"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:16044"/>
+<dbReference type="ChEBI" id="CHEBI:24646"/>
+<dbReference type="ChEBI" id="CHEBI:45764"/>
+<dbReference type="ChEBI" id="CHEBI:132124"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="4">
+<name>Mo-molybdopterin</name>
+<dbReference type="ChEBI" id="CHEBI:71302"/>
+</cofactor>
+<text evidence="4">Binds 1 Mo-molybdopterin (Mo-MPT) cofactor per subunit. The oxidation state of Mo is +5. Is inactive in the presence of the tungsten-substituted form (W-MPT) of the cofactor.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">12 mM for dimethyl sulfoxide</KM>
+<KM evidence="4">22 mM for trimethylamine N-oxide</KM>
+<KM evidence="4">27.9 mM for tetramethylene sulfoxide</KM>
+<KM evidence="4">119 mM for L-methionine sulfoxide</KM>
+<KM evidence="7">3.8 mM for N-acetyl-Met-O</KM>
+<KM evidence="7">8.0 mM for L-methionine (S)-S-oxide</KM>
+<KM evidence="7">25.7 mM for L-methionine (R)-S-oxide</KM>
+<Vmax evidence="7">56.3 umol/min/mg enzyme with N-acetyl-Met-O as substrate</Vmax>
+<Vmax evidence="7">67.2 umol/min/mg enzyme with L-methionine (S)-S-oxide as substrate</Vmax>
+<Vmax evidence="7">313.4 umol/min/mg enzyme with L-methionine (R)-S-oxide as substrate</Vmax>
+<text evidence="7">kcat is 30.5 sec(-1) with N-acetyl-Met-O as substrate. kcat is 36.0 sec(-1) with L-methionine (S)-S-oxide as substrate. kcat is 168.3 sec(-1) with L-methionine (R)-S-oxide as substrate.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5">Heterodimer of a catalytic subunit (MsrP) and a heme-binding subunit (MsrQ).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Periplasm</location>
+</subcellularLocation>
+<text>Is attached to the inner membrane when interacting with the MsrQ subunit.</text>
+</comment>
+<comment type="induction">
+<text evidence="7">Is induced at protein level by hypochlorous acid (HOCl), a powerful antimicrobial released by neutrophils, but not by H(2)O(2). Induction by HOCl is dependent on the presence of a functional YedV/YedW two-component system.</text>
+</comment>
+<comment type="PTM">
+<text evidence="6">Exported by the Tat system. Can also be exported by the Sec system.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">Cells lacking the msrPQ genes display no visible growth defect.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the MsrP family.</text>
+</comment>
+<dbReference type="EC" id="1.8.5.-" evidence="3 7"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75037.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76559.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64961">
+<property type="entry name" value="G64961"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416480.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="PDB" id="1XDQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A/B/C/D/E=45-334"/>
+</dbReference>
+<dbReference type="PDB" id="1XDY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J=45-334"/>
+</dbReference>
+<dbReference type="PDBsum" id="1XDQ"/>
+<dbReference type="PDBsum" id="1XDY"/>
+<dbReference type="SMR" id="P76342"/>
+<dbReference type="BioGrid" id="4259675">
+<property type="interactions" value="54"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47888N"/>
+<dbReference type="IntAct" id="P76342">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1971"/>
+<dbReference type="PaxDb" id="P76342"/>
+<dbReference type="PRIDE" id="P76342"/>
+<dbReference type="EnsemblBacteria" id="AAC75037">
+<property type="protein sequence ID" value="AAC75037"/>
+<property type="gene ID" value="b1971"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76559">
+<property type="protein sequence ID" value="BAE76559"/>
+<property type="gene ID" value="BAE76559"/>
+</dbReference>
+<dbReference type="GeneID" id="946484"/>
+<dbReference type="KEGG" id="ecj:JW1954"/>
+<dbReference type="KEGG" id="eco:b1971"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2051"/>
+<dbReference type="EchoBASE" id="EB3800"/>
+<dbReference type="EcoGene" id="EG14047">
+<property type="gene designation" value="yedY"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CCD">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2041">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000255004"/>
+<dbReference type="InParanoid" id="P76342"/>
+<dbReference type="KO" id="K07147"/>
+<dbReference type="PhylomeDB" id="P76342"/>
+<dbReference type="BioCyc" id="EcoCyc:G7059-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1954-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7059-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P76342"/>
+<dbReference type="PRO" id="PR:P76342"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043546">
+<property type="term" value="F:molybdopterin cofactor binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016675">
+<property type="term" value="F:oxidoreductase activity, acting on a heme group of donors"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016672">
+<property type="term" value="F:oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042128">
+<property type="term" value="P:nitrate assimilation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055114">
+<property type="term" value="P:oxidation-reduction process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030091">
+<property type="term" value="P:protein repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901530">
+<property type="term" value="P:response to hypochlorite"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.420.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01206">
+<property type="entry name" value="MsrP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022867">
+<property type="entry name" value="MsrP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000572">
+<property type="entry name" value="OxRdtase_Mopterin-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036374">
+<property type="entry name" value="OxRdtase_Mopterin-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006311">
+<property type="entry name" value="TAT_signal"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00174">
+<property type="entry name" value="Oxidored_molyb"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56524">
+<property type="entry name" value="SSF56524"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51318">
+<property type="entry name" value="TAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0500">Molybdenum</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" description="Tat-type signal" evidence="6">
+<location>
+<begin position="1"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="chain" description="Protein-methionine-sulfoxide reductase catalytic subunit MsrP" id="PRO_0000070684">
+<location>
+<begin position="45"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="region of interest" description="Molybdopterin binding" evidence="4">
+<location>
+<begin position="91"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="region of interest" description="Molybdopterin binding" evidence="4">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Molybdenum" evidence="4">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="binding site" description="Molybdopterin" evidence="4">
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="binding site" description="Molybdopterin" evidence="4">
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="binding site" description="Molybdopterin" evidence="4">
+<location>
+<position position="233"/>
+</location>
+</feature>
+<feature type="binding site" description="Molybdopterin" evidence="4">
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of enzymatic activity. Enhances binding to MsrQ and targeting to the inner membrane." evidence="5">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="81"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="99"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="104"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="113"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="124"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="128"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="138"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="150"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="161"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="176"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="185"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="194"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="205"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="210"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="219"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="238"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="246"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="252"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="266"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="272"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="293"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="308"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="313"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="318"/>
+<end position="325"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XDQ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XDY"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01206"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15355966"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16042411"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17218314"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26641313"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="26641313"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26641313"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAC75037.1"/>
+</source>
+</evidence>
+<sequence length="334" mass="37369" checksum="A8B5E2AEE28040AD" modified="1997-02-01" version="1" precursor="true">
+MKKNQFLKESDVTAESVFFMKRRQVLKALGISATALSLPHAAHADLLSWFKGNDRPPAPA
+GKALEFSKPAAWQNNLPLTPADKVSGYNNFYEFGLDKADPAANAGSLKTDPWTLKISGEV
+AKPLTLDHDDLTRRFPLEERIYRMRCVEAWSMVVPWIGFPLHKLLALAEPTSNAKYVAFE
+TIYAPEQMPGQQDRFIGGGLKYPYVEGLRLDEAMHPLTLMTVGVYGKALPPQNGAPVRLI
+VPWKYGFKGIKSIVSIKLTRERPPTTWNLAAPDEYGFYANVNPYVDHPRWSQATERFIGS
+GGILDVQRQPTLLFNGYAAQVASLYRGLDLRENF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

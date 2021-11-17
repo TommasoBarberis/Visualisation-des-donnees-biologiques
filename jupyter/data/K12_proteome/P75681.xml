@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2019-05-08" version="132">
+<accession>P75681</accession>
+<accession>Q9XB40</accession>
+<name>AFUB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative ferric transport system permease-like protein AfuB</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">afuB</name>
+<name type="synonym">fbpB</name>
+<name type="ordered locus">b0263</name>
+<name type="ordered locus">JW0255</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4">A severely truncated paralog of the AfuB uptake protein, homologous only to the last 20% of the intact protein in Actinobacillus.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell inner membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="3">When overexpressed using vectors that provide a promoter and ribosome binding site (PubMed:15919996).</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the binding-protein-dependent transport system permease family. FbpB subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">Could be the product of a pseudogene. The original protein is truncated by an IS1 element which is inserted right before residue 6. What was the original N-terminal of this protein is not known. Other genes of the operon were presumably also deleted by this IS1 event.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77931.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64751">
+<property type="entry name" value="G64751"/>
+</dbReference>
+<dbReference type="BioGrid" id="4263057">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="316407.85674407"/>
+<dbReference type="EPD" id="P75681"/>
+<dbReference type="PRIDE" id="P75681"/>
+<dbReference type="EnsemblBacteria" id="BAA77931">
+<property type="protein sequence ID" value="BAA77931"/>
+<property type="gene ID" value="BAA77931"/>
+</dbReference>
+<dbReference type="KEGG" id="ecj:JW0255"/>
+<dbReference type="PATRIC" id="fig|83333.103.peg.1017"/>
+<dbReference type="EchoBASE" id="EB4025"/>
+<dbReference type="EcoGene" id="EG14277">
+<property type="gene designation" value="afuB"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1178">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000201003"/>
+<dbReference type="KO" id="K02011"/>
+<dbReference type="PhylomeDB" id="P75681"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0255-MONOMER"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd06261">
+<property type="entry name" value="TM_PBP2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.3720.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000515">
+<property type="entry name" value="MetI-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035906">
+<property type="entry name" value="MetI-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00528">
+<property type="entry name" value="BPD_transp_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF161098">
+<property type="entry name" value="SSF161098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50928">
+<property type="entry name" value="ABC_TM1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Putative ferric transport system permease-like protein AfuB" id="PRO_0000060016">
+<location>
+<begin position="1"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="1"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="39"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="60"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="82"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1 5">
+<location>
+<begin position="103"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="2">
+<location>
+<begin position="1"/>
+<end position="102"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00441"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<sequence length="120" mass="13093" checksum="DF63F7D8DB7F8655" modified="2016-11-30" version="3">
+MESLPGQIDKSLDEASLSLRAGSLRTITHILLPLLRPAILSALIYSFVRAITTVSAIVFL
+VTPDTRVATAYILNRVEDGEYGVAIAYGSILIVVMLAIIFIFDWLIGESRTSRSKAKNQA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

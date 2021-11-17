@@ -1,0 +1,759 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-07-03" version="114">
+<accession>P0A912</accession>
+<accession>P07176</accession>
+<name>PAL_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4 16">Peptidoglycan-associated lipoprotein</fullName>
+<shortName evidence="4 17">PAL</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="17">Tol-Pal system lipoprotein Pal</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="4 16">pal</name>
+<name type="synonym" evidence="15">excC</name>
+<name type="ordered locus">b0741</name>
+<name type="ordered locus">JW0731</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Eur. J. Biochem." volume="163" first="73" last="77">
+<title>Nucleotide sequence of the gene for the peptidoglycan-associated lipoprotein of Escherichia coli K12.</title>
+<authorList>
+<person name="Chen R."/>
+<person name="Henning U."/>
+</authorList>
+<dbReference type="PubMed" id="3545827"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1987.tb10738.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>DIACYLGLYCEROL AT CYS-22</scope>
+<scope>PALMITOYLATION AT CYS-22</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Mol. Microbiol." volume="6" first="735" last="742">
+<title>The excC gene of Escherichia coli K-12 required for cell envelope integrity encodes the peptidoglycan-associated lipoprotein (PAL).</title>
+<authorList>
+<person name="Lazzaroni J.-C."/>
+<person name="Portalier R."/>
+</authorList>
+<dbReference type="PubMed" id="1574003"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1992.tb01523.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="6600" last="6609">
+<title>Nucleotide sequences of the tolA and tolB genes and localization of their products, components of a multistep translocation system in Escherichia coli.</title>
+<authorList>
+<person name="Levengood S.K."/>
+<person name="Webster R.E."/>
+</authorList>
+<dbReference type="PubMed" id="2687247"/>
+<dbReference type="DOI" id="10.1128/jb.171.12.6600-6609.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-30</scope>
+<source>
+<strain>K12 / JM105 / ATCC 47016</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="11071" last="11077">
+<title>Peptidoglycan-associated lipoprotein-TolB interaction. A possible key to explaining the formation of contact sites between the inner and outer membranes of Escherichia coli.</title>
+<authorList>
+<person name="Bouveret E."/>
+<person name="Derouiche R."/>
+<person name="Rigal A."/>
+<person name="Lloubes R."/>
+<person name="Lazdunski C."/>
+<person name="Benedetti H."/>
+</authorList>
+<dbReference type="PubMed" id="7744736"/>
+</citation>
+<scope>INTERACTION WITH TOLB</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="29" first="359" last="367">
+<title>TolB protein of Escherichia coli K-12 interacts with the outer membrane peptidoglycan-associated proteins Pal, Lpp and OmpA.</title>
+<authorList>
+<person name="Clavel T."/>
+<person name="Germon P."/>
+<person name="Vianney A."/>
+<person name="Portalier R."/>
+<person name="Lazzaroni J.-C."/>
+</authorList>
+<dbReference type="PubMed" id="9701827"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00945.x"/>
+</citation>
+<scope>INTERACTION WITH TOLB AND OMPA</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="38" first="904" last="915">
+<title>Proton motive force drives the interaction of the inner membrane TolA and outer membrane pal proteins in Escherichia coli.</title>
+<authorList>
+<person name="Cascales E."/>
+<person name="Gavioli M."/>
+<person name="Sturgis J.N."/>
+<person name="Lloubes R."/>
+</authorList>
+<dbReference type="PubMed" id="11115123"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH TOLA</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="42" first="795" last="807">
+<title>The TolQ-TolR proteins energize TolA and share homologies with the flagellar motor proteins MotA-MotB.</title>
+<authorList>
+<person name="Cascales E."/>
+<person name="Lloubes R."/>
+<person name="Sturgis J.N."/>
+</authorList>
+<dbReference type="PubMed" id="11722743"/>
+</citation>
+<scope>INTERACTION WITH TOLA</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="63" first="1008" last="1025">
+<title>The trans-envelope Tol-Pal complex is part of the cell division machinery and required for proper outer-membrane invagination during cell constriction in E. coli.</title>
+<authorList>
+<person name="Gerding M.A."/>
+<person name="Ogata Y."/>
+<person name="Pecora N.D."/>
+<person name="Niki H."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="17233825"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05571.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2014" name="Mol. Microbiol." volume="92" first="985" last="1004">
+<title>Polar localization of Escherichia coli chemoreceptors requires an intact Tol-Pal complex.</title>
+<authorList>
+<person name="Santos T.M."/>
+<person name="Lin T.Y."/>
+<person name="Rajendran M."/>
+<person name="Anderson S.M."/>
+<person name="Weibel D.B."/>
+</authorList>
+<dbReference type="PubMed" id="24720726"/>
+<dbReference type="DOI" id="10.1111/mmi.12609"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13" evidence="1">
+<citation type="journal article" date="2001" name="Acta Crystallogr. D" volume="57" first="317" last="319">
+<title>Crystallization and preliminary crystallographic study of the peptidoglycan-associated lipoprotein from Escherichia coli.</title>
+<authorList>
+<person name="Abergel C."/>
+<person name="Walburger A."/>
+<person name="Chenivesse S."/>
+<person name="Lazdunski C."/>
+</authorList>
+<dbReference type="PubMed" id="11173492"/>
+<dbReference type="DOI" id="10.1107/S0907444900019739"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS) OF 65-173</scope>
+</reference>
+<reference key="14" evidence="2">
+<citation type="journal article" date="2007" name="J. Am. Chem. Soc." volume="129" first="4800" last="4807">
+<title>Molecular mimicry enables competitive recruitment by a natively disordered protein.</title>
+<authorList>
+<person name="Bonsor D.A."/>
+<person name="Grishkovskaya I."/>
+<person name="Dodson E.J."/>
+<person name="Kleanthous C."/>
+</authorList>
+<dbReference type="PubMed" id="17375930"/>
+<dbReference type="DOI" id="10.1021/ja070153n"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 64-173 IN COMPLEX WITH TOLB</scope>
+</reference>
+<reference key="15" evidence="3">
+<citation type="journal article" date="2009" name="EMBO J." volume="28" first="2846" last="2857">
+<title>Allosteric beta-propeller signalling in TolB and its manipulation by translocating colicins.</title>
+<authorList>
+<person name="Bonsor D.A."/>
+<person name="Hecht O."/>
+<person name="Vankemmelbeke M."/>
+<person name="Sharma A."/>
+<person name="Krachler A.M."/>
+<person name="Housden N.G."/>
+<person name="Lilly K.J."/>
+<person name="James R."/>
+<person name="Moore G.R."/>
+<person name="Kleanthous C."/>
+</authorList>
+<dbReference type="PubMed" id="19696740"/>
+<dbReference type="DOI" id="10.1038/EMBOJ.2009.224"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.86 ANGSTROMS) OF 64-173 IN COMPLEX WITH TOLB</scope>
+</reference>
+<comment type="function">
+<text evidence="5 8 11">Part of the Tol-Pal system, which plays a role in outer membrane invagination during cell division and is important for maintaining outer membrane integrity (PubMed:11115123, PubMed:17233825). The Tol-Pal system is also required for polar localization of chemoreceptors clusters (PubMed:24720726).</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 9 10 13 14 18">The Tol-Pal system is composed of five core proteins: the inner membrane proteins TolA, TolQ and TolR, the periplasmic protein TolB and the outer membrane protein Pal. They form a network linking the inner and outer membranes and the peptidoglycan layer (PubMed:17233825). Pal interacts with TolB (PubMed:7744736, PubMed:17375930, PubMed:19696740). Interacts with the C-terminal domain of TolA. This interaction is proton motive force dependent and requires TolQ and TolR (PubMed:11115123, PubMed:11722743). Can form a complex with TolB and OmpA (PubMed:9701827).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1124760"/>
+<interactant intactId="EBI-553532">
+<id>P61316</id>
+<label>lolA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1124760"/>
+<interactant intactId="EBI-1122794">
+<id>P61320</id>
+<label>lolB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1124760"/>
+<interactant intactId="EBI-1125190">
+<id>P75958</id>
+<label>lolE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1124760"/>
+<interactant intactId="EBI-7180728">
+<id>P0A855</id>
+<label>tolB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4 7">Cell outer membrane</location>
+<topology evidence="4 7">Lipid-anchor</topology>
+</subcellularLocation>
+<text evidence="8">Accumulates at cell constriction sites. Recruitment to the division site is dependent on FtsN activity.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="8">Mutants lacking the tol-pal cluster suffer delayed outer membrane invagination and contain large outer membrane blebs at constriction sites and cell poles.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4 17">Belongs to the Pal lipoprotein family.</text>
+</comment>
+<dbReference type="EMBL" id="X05123">
+<property type="protein sequence ID" value="CAA28771.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X65796">
+<property type="protein sequence ID" value="CAA46673.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73835.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35407.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M28232">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A27534">
+<property type="entry name" value="LPECPG"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415269.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295306.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1OAP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A=65-173"/>
+</dbReference>
+<dbReference type="PDB" id="2HQS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="C/E/G/H=65-173"/>
+</dbReference>
+<dbReference type="PDB" id="2W8B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="C/E/G/H=65-173"/>
+</dbReference>
+<dbReference type="PDBsum" id="1OAP"/>
+<dbReference type="PDBsum" id="2HQS"/>
+<dbReference type="PDBsum" id="2W8B"/>
+<dbReference type="SMR" id="P0A912"/>
+<dbReference type="BioGrid" id="4260724">
+<property type="interactions" value="260"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-51001N"/>
+<dbReference type="IntAct" id="P0A912">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="P0A912"/>
+<dbReference type="STRING" id="511145.b0741"/>
+<dbReference type="EPD" id="P0A912"/>
+<dbReference type="jPOST" id="P0A912"/>
+<dbReference type="PaxDb" id="P0A912"/>
+<dbReference type="PRIDE" id="P0A912"/>
+<dbReference type="EnsemblBacteria" id="AAC73835">
+<property type="protein sequence ID" value="AAC73835"/>
+<property type="gene ID" value="b0741"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35407">
+<property type="protein sequence ID" value="BAA35407"/>
+<property type="gene ID" value="BAA35407"/>
+</dbReference>
+<dbReference type="GeneID" id="945004"/>
+<dbReference type="KEGG" id="ecj:JW0731"/>
+<dbReference type="KEGG" id="eco:b0741"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1531"/>
+<dbReference type="EchoBASE" id="EB0678"/>
+<dbReference type="EcoGene" id="EG10684">
+<property type="gene designation" value="pal"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105KCK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2885">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000189913"/>
+<dbReference type="InParanoid" id="P0A912"/>
+<dbReference type="KO" id="K03640"/>
+<dbReference type="PhylomeDB" id="P0A912"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10684-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0731-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A912"/>
+<dbReference type="PRO" id="PR:P0A912"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009279">
+<property type="term" value="C:cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031246">
+<property type="term" value="C:intrinsic component of periplasmic side of cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007049">
+<property type="term" value="P:cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07185">
+<property type="entry name" value="OmpA_C-like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1330.60">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02204">
+<property type="entry name" value="Pal"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006664">
+<property type="entry name" value="OMP_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006665">
+<property type="entry name" value="OmpA-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006690">
+<property type="entry name" value="OMPA-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036737">
+<property type="entry name" value="OmpA-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039001">
+<property type="entry name" value="Pal"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014169">
+<property type="entry name" value="Pal_lipo_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00691">
+<property type="entry name" value="OmpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01021">
+<property type="entry name" value="OMPADOMAIN"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF103088">
+<property type="entry name" value="SSF103088"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02802">
+<property type="entry name" value="Pal_lipo"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01068">
+<property type="entry name" value="OMPA_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51123">
+<property type="entry name" value="OMPA_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51257">
+<property type="entry name" value="PROKAR_LIPOPROTEIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0998">Cell outer membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="4">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Peptidoglycan-associated lipoprotein" id="PRO_0000020120" evidence="4">
+<location>
+<begin position="22"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="domain" description="OmpA-like" evidence="4">
+<location>
+<begin position="60"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-palmitoyl cysteine" evidence="4 12">
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-diacylglycerol cysteine" evidence="4 19">
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="69"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="82"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="85"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="103"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="115"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="140"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="143"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="160"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="167"/>
+<end position="172"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1OAP"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2HQS"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2W8B"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02204"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11115123"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11722743"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1574003"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17233825"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17375930"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19696740"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24720726"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3545827"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7744736"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9701827"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1574003"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3545827"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="17233825"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3545827"/>
+</source>
+</evidence>
+<sequence length="173" mass="18824" checksum="449F9959C0274430" modified="1988-04-01" version="1" precursor="true">
+MQLNKVLKGLMIALPVMAIAACSSNKNASNDGSEGMLGAGTGMDANGGNGNMSSEEQARL
+QMQQLQQNNIVYFDLDKYDIRSDFAQMLDAHANFLRSNPSYKVTVEGHADERGTPEYNIS
+LGERRANAVKMYLQGKGVSADQISIVSYGKEKPAVLGHDEAAYSKNRRAVLVY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

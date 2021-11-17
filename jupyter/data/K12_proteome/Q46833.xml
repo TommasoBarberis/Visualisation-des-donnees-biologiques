@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-07-03" version="105">
+<accession>Q46833</accession>
+<name>YGHE_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative type II secretion system L-type protein YghE</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Putative general secretion pathway L-type protein YghE</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">yghE</name>
+<name type="ordered locus">b2969</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2019" name="MBio" volume="10">
+<title>Identifying small proteins by ribosome profiling with stalled initiation complexes.</title>
+<authorList>
+<person name="Weaver J."/>
+<person name="Mohammad F."/>
+<person name="Buskirk A.R."/>
+<person name="Storz G."/>
+</authorList>
+<dbReference type="PubMed" id="30837344"/>
+<dbReference type="DOI" id="10.1128/mBio.02819-18"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3">Involved in a type II secretion system (T2SS, formerly general secretion pathway, GSP) for the export of folded proteins across the outer membrane.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell inner membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="2">Expressed at low levels in exponential phase in rich medium (at protein level).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="3">In many other E.coli strains this gene is part of a type II secretion system, but in MG1655 the locus is missing a number of genes.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the GSP L family.</text>
+</comment>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69136.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65082">
+<property type="entry name" value="G65082"/>
+</dbReference>
+<dbReference type="SMR" id="Q46833"/>
+<dbReference type="DIP" id="DIP-12203N"/>
+<dbReference type="IntAct" id="Q46833">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="PRIDE" id="Q46833"/>
+<dbReference type="PATRIC" id="fig|83333.103.peg.3867"/>
+<dbReference type="EchoBASE" id="EB2813"/>
+<dbReference type="EcoGene" id="EG12989">
+<property type="gene designation" value="yghE"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000124870"/>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009276">
+<property type="term" value="C:Gram-negative-bacterium-type cell wall"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015627">
+<property type="term" value="C:type II protein secretion system complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015628">
+<property type="term" value="P:protein secretion by the type II secretion system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025691">
+<property type="entry name" value="GspL_pp_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007812">
+<property type="entry name" value="T2SS_protein-L"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12693">
+<property type="entry name" value="GspL_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01709">
+<property type="entry name" value="typeII_sec_gspL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Putative type II secretion system L-type protein YghE" id="PRO_0000207321">
+<location>
+<begin position="1"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="136"/>
+<end position="156"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30837344"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="286" mass="32058" checksum="15305711D0597FCA" modified="1996-11-01" version="1">
+MIHQQHMRNIAQWLQENGITRATVAPDWMSIPCGFMACDAQRVICRIDECRGWSAGLALA
+PVMFRAQLNEQDLPLSLTVVGIAPEKLSAWAGADAERLTVTALPAITTYGEPEGNLLTGP
+WQPRVSYRKQWARWRVMILPILLILVALAVERGVTLWSVSEQVAQSRTQAEEQFLTLFPE
+QKRIVNLRSQVTMALKKYRPQADDTRLLAELSAIASTLKSASLSDIEMRGFTFDQKRQIL
+HLQLRAANFASFDKLRSVLATDYVVQQDALQKEGDAVSGGVTLRRK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

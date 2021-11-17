@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="100">
+<accession>P0ACL2</accession>
+<accession>P42608</accession>
+<accession>P76665</accession>
+<accession>Q2M9B2</accession>
+<accession>Q8X4Y9</accession>
+<name>EXUR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Exu regulon transcriptional regulator</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">exuR</name>
+<name type="ordered locus">b3094</name>
+<name type="ordered locus">JW3065</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1992-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Repressor for the exu regulon that encode genes involved in hexuronate utilization. It regulates the ExuT, UxaCA and UxuRAB operons. Binds D-tagaturonate and D-fructuronate as inducers.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA57898" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="D13328">
+<property type="protein sequence ID" value="BAA02589.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57898.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76129.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77144.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C65098">
+<property type="entry name" value="C65098"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417565.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000406488.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0ACL2"/>
+<dbReference type="BioGrid" id="4262410">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="IntAct" id="P0ACL2">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3094"/>
+<dbReference type="jPOST" id="P0ACL2"/>
+<dbReference type="PaxDb" id="P0ACL2"/>
+<dbReference type="PRIDE" id="P0ACL2"/>
+<dbReference type="EnsemblBacteria" id="AAC76129">
+<property type="protein sequence ID" value="AAC76129"/>
+<property type="gene ID" value="b3094"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77144">
+<property type="protein sequence ID" value="BAE77144"/>
+<property type="gene ID" value="BAE77144"/>
+</dbReference>
+<dbReference type="GeneID" id="947602"/>
+<dbReference type="KEGG" id="ecj:JW3065"/>
+<dbReference type="KEGG" id="eco:b3094"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3189"/>
+<dbReference type="EchoBASE" id="EB2595"/>
+<dbReference type="EcoGene" id="EG12739">
+<property type="gene designation" value="exuR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107YCY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2186">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000273991"/>
+<dbReference type="InParanoid" id="P0ACL2"/>
+<dbReference type="KO" id="K19775"/>
+<dbReference type="PhylomeDB" id="P0ACL2"/>
+<dbReference type="BioCyc" id="EcoCyc:PD03270"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3065-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ACL2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07377">
+<property type="entry name" value="WHTH_GntR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.120.530">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011711">
+<property type="entry name" value="GntR_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008920">
+<property type="entry name" value="TF_FadR/GntR_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000524">
+<property type="entry name" value="Tscrpt_reg_HTH_GntR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07729">
+<property type="entry name" value="FCD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00392">
+<property type="entry name" value="GntR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00035">
+<property type="entry name" value="HTHGNTR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00895">
+<property type="entry name" value="FCD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00345">
+<property type="entry name" value="HTH_GNTR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48008">
+<property type="entry name" value="SSF48008"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50949">
+<property type="entry name" value="HTH_GNTR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Exu regulon transcriptional regulator" id="PRO_0000050622">
+<location>
+<begin position="1"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="domain" description="HTH gntR-type" evidence="1">
+<location>
+<begin position="7"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="35"/>
+<end position="54"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00307"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="258" mass="29836" checksum="689758815BC501FD" modified="2005-11-22" version="1">
+MEITEPRRLYQQLAADLKERIEQGVYLVGDKLPAERFIADEKNVSRTVVREAIIMLEVEG
+YVEVRKGSGIHVVSNQPRHQQAADNNMEFANYGPFELLQARQLIESNIAEFAATQVTKQD
+IMKLMAIQEQARGEQCFRDSEWDLQFHIQVALATQNSALAAIVEKMWTQRSHNPYWKKLH
+EHIDSRTVDNWCDDHDQILKALIRKDPHAAKLAMWQHLENTKIMLFNETSDDFEFNADRY
+LFAENPVVHLDTATSGSK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

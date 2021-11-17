@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="123">
+<accession>P77754</accession>
+<name>SPY_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="11">Periplasmic chaperone Spy</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="12">Spheroplast protein Y</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="12">spy</name>
+<name type="ordered locus">b1743</name>
+<name type="ordered locus">JW1732</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="2073" last="2076">
+<title>A new periplasmic protein of Escherichia coli which is synthesized in spheroplasts but not in intact cells.</title>
+<authorList>
+<person name="Hagenmaier S."/>
+<person name="Stierhof Y.-D."/>
+<person name="Henning U."/>
+</authorList>
+<dbReference type="PubMed" id="9068658"/>
+<dbReference type="DOI" id="10.1128/jb.179.6.2073-2076.1997"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 24-40</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="21393" last="21401">
+<title>Identification of a novel transcription regulator from Proteus mirabilis, PMTR, revealed a possible role of YJAI protein in balancing zinc in Escherichia coli.</title>
+<authorList>
+<person name="Noll M."/>
+<person name="Petrukhin K."/>
+<person name="Lutsenko S."/>
+</authorList>
+<dbReference type="PubMed" id="9694902"/>
+<dbReference type="DOI" id="10.1074/jbc.273.33.21393"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 24-38</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION BY ZINC</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="37" first="1186" last="1197">
+<title>Tethering of CpxP to the inner membrane prevents spheroplast induction of the cpx envelope stress response.</title>
+<authorList>
+<person name="Raivio T.L."/>
+<person name="Laird M.W."/>
+<person name="Joly J.C."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="10972835"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.02074.x"/>
+</citation>
+<scope>INDUCTION BY CPX ENVELOPE STRESS RESPONSE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="45" first="1599" last="1611">
+<title>A third envelope stress signal transduction pathway in Escherichia coli.</title>
+<authorList>
+<person name="Raffa R.G."/>
+<person name="Raivio T.L."/>
+</authorList>
+<dbReference type="PubMed" id="12354228"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2002.03112.x"/>
+</citation>
+<scope>INDUCTION BY BOTH BAE AND CXP ENVELOPE STRESS RESPONSES</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="Nat. Struct. Mol. Biol." volume="18" first="262" last="269">
+<title>Genetic selection designed to stabilize proteins uncovers a chaperone called Spy.</title>
+<authorList>
+<person name="Quan S."/>
+<person name="Koldewey P."/>
+<person name="Tapley T."/>
+<person name="Kirsch N."/>
+<person name="Ruane K.M."/>
+<person name="Pfizenmaier J."/>
+<person name="Shi R."/>
+<person name="Hofmann S."/>
+<person name="Foit L."/>
+<person name="Ren G."/>
+<person name="Jakob U."/>
+<person name="Xu Z."/>
+<person name="Cygler M."/>
+<person name="Bardwell J.C."/>
+</authorList>
+<dbReference type="PubMed" id="21317898"/>
+<dbReference type="DOI" id="10.1038/nsmb.2016"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE-BINDING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2014" name="Elife" volume="3" first="E01584" last="E01584">
+<title>Super Spy variants implicate flexibility in chaperone action.</title>
+<authorList>
+<person name="Quan S."/>
+<person name="Wang L."/>
+<person name="Petrotchenko E.V."/>
+<person name="Makepeace K.A."/>
+<person name="Horowitz S."/>
+<person name="Yang J."/>
+<person name="Zhang Y."/>
+<person name="Borchers C.H."/>
+<person name="Bardwell J.C."/>
+</authorList>
+<dbReference type="PubMed" id="24497545"/>
+<dbReference type="DOI" id="10.7554/eLife.01584"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE-BINDING</scope>
+<scope>MUTAGENESIS OF GLN-48; LEU-55; GLN-72; HIS-119; GLN-123 AND PHE-138</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2014" name="Gene" volume="548" first="142" last="148">
+<title>Genetic regulation of spy gene expression in Escherichia coli in the presence of protein unfolding agent ethanol.</title>
+<authorList>
+<person name="Srivastava S.K."/>
+<person name="Lambadi P.R."/>
+<person name="Ghosh T."/>
+<person name="Pathania R."/>
+<person name="Navani N.K."/>
+</authorList>
+<dbReference type="PubMed" id="24999585"/>
+<dbReference type="DOI" id="10.1016/j.gene.2014.07.003"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2016" name="Nat. Struct. Mol. Biol." volume="23" first="53" last="58">
+<title>Substrate protein folds while it is bound to the ATP-independent chaperone Spy.</title>
+<authorList>
+<person name="Stull F."/>
+<person name="Koldewey P."/>
+<person name="Humes J.R."/>
+<person name="Radford S.E."/>
+<person name="Bardwell J.C."/>
+</authorList>
+<dbReference type="PubMed" id="26619265"/>
+<dbReference type="DOI" id="10.1038/nsmb.3133"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REACTION MECHANISM</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 8">An ATP-independent periplasmic chaperone, decreases protein aggregation and helps protein refolding. Binds substrate over a large region of its convex inner surface (PubMed:21317898, PubMed:24497545). Substrate protein folds while it is bound to chaperone (PubMed:26619265). Increasing Spy flexibility increases its substrate affinity and overall chaperone activity (shown for 3 different substrates) (PubMed:24497545). Protects proteins in vitro against tannin inactivation; tannins have antimicrobial activity (PubMed:21317898). Overexpression enhances the stability of otherwise unstable periplasmic proteins (PubMed:21317898).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1121716"/>
+<interactant intactId="EBI-1035025">
+<id>Q03708</id>
+<label>imm</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5 9 10">Periplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="developmental stage">
+<text evidence="9">Produced abundantly in spheroplasts, not detected in intact cells.</text>
+</comment>
+<comment type="induction">
+<text evidence="3 4 5 7 9 10">Induced by many sorts of periplasmic stress. Produced upon spheroplast formation, not induced by growth in 0.5 M sucrose or 0.35 M NaCl, nor by mutants that have a leaky periplasmic space (at protein level) (PubMed:9068658). Induction is partially dependent on the Cpx envelope stress response encoded by cpxA-cpxR; does not depend on sigma factor E (rpoE) (PubMed:10972835). Induction is also partially dependent on the Bae envelope stress response encoded by baeS-baeR; cpx and baeS effects are independent (PubMed:12354228). Overexpression of P pili protein PapG induces spy expression via both Cpx and Bae, overexpression of outer membrane protein NlpE induces spy via only Cpx whereas indole induces spy expression only via Bae (PubMed:12354228). Induced by 1 mM zinc (at protein level) (PubMed:9694902), via Bae, which also regulates ethanol induction of spy (PubMed:24999585). Induced by copper via Cpx (PubMed:24999585). Induced by tannic acid (to 25% of total periplasmic protein), butanol (to 20% total periplasmic protein) and ethanol (to 5% total periplasmic protein) (at protein level) (PubMed:21317898).</text>
+</comment>
+<comment type="domain">
+<text evidence="2 14">Has an elongated cradle shape.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 5 9">No observed growth phenotype (PubMed:9068658). Increased levels of degP and rpoH transcription; may induce the sigma factor E regulon (rpoE) (PubMed:10972835). Loss of about 50% of periplasmic alkaline phosphatase activity; very sensitive to tannic acid (PubMed:21317898).</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the CpxP/Spy family.</text>
+</comment>
+<dbReference type="EMBL" id="Y07714">
+<property type="protein sequence ID" value="CAA68986.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74813.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15531.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64933">
+<property type="entry name" value="G64933"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416257.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001228984.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5WNW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A/B=52-147"/>
+</dbReference>
+<dbReference type="PDB" id="5WO1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=52-147"/>
+</dbReference>
+<dbReference type="PDB" id="5WO2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.77"/>
+<property type="chains" value="A/B=52-147"/>
+</dbReference>
+<dbReference type="PDB" id="5WO3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=52-147"/>
+</dbReference>
+<dbReference type="PDB" id="6BIE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.77"/>
+<property type="chains" value="A/B=52-147"/>
+</dbReference>
+<dbReference type="PDBsum" id="5WNW"/>
+<dbReference type="PDBsum" id="5WO1"/>
+<dbReference type="PDBsum" id="5WO2"/>
+<dbReference type="PDBsum" id="5WO3"/>
+<dbReference type="PDBsum" id="6BIE"/>
+<dbReference type="SMR" id="P77754"/>
+<dbReference type="BioGrid" id="4262237">
+<property type="interactions" value="147"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10914N"/>
+<dbReference type="IntAct" id="P77754">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1743"/>
+<dbReference type="EPD" id="P77754"/>
+<dbReference type="jPOST" id="P77754"/>
+<dbReference type="PaxDb" id="P77754"/>
+<dbReference type="PRIDE" id="P77754"/>
+<dbReference type="EnsemblBacteria" id="AAC74813">
+<property type="protein sequence ID" value="AAC74813"/>
+<property type="gene ID" value="b1743"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15531">
+<property type="protein sequence ID" value="BAA15531"/>
+<property type="gene ID" value="BAA15531"/>
+</dbReference>
+<dbReference type="GeneID" id="946253"/>
+<dbReference type="KEGG" id="ecj:JW1732"/>
+<dbReference type="KEGG" id="eco:b1743"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.513"/>
+<dbReference type="EchoBASE" id="EB3263"/>
+<dbReference type="EcoGene" id="EG13490">
+<property type="gene designation" value="spy"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108SPG">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3678">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000285733"/>
+<dbReference type="InParanoid" id="P77754"/>
+<dbReference type="KO" id="K06006"/>
+<dbReference type="PhylomeDB" id="P77754"/>
+<dbReference type="BioCyc" id="EcoCyc:G6939-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1732-MONOMER"/>
+<dbReference type="PRO" id="PR:P77754"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990507">
+<property type="term" value="P:ATP-independent chaperone mediated protein folding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061077">
+<property type="term" value="P:chaperone-mediated protein folding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014070">
+<property type="term" value="P:response to organic cyclic compound"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd09916">
+<property type="entry name" value="CpxP_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012899">
+<property type="entry name" value="LTXXQ"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07813">
+<property type="entry name" value="LTXXQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF034445">
+<property type="entry name" value="CpxP_Spy"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="signal peptide" evidence="9 10">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Periplasmic chaperone Spy" id="PRO_0000022405">
+<location>
+<begin position="24"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility." evidence="6">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility." evidence="6">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility, despite decreased Spy stability." evidence="6">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility." evidence="6">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility." evidence="6">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="123"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased chaperone activity, substrate affinity and chaperone flexibility." evidence="6">
+<original>F</original>
+<variation>I</variation>
+<variation>L</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="13">
+<original>M</original>
+<variation>MM</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="53"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="59"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="81"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="92"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="98"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="109"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="132"/>
+<end position="143"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5WO2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8XDZ4"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10972835"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12354228"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21317898"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24497545"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24999585"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26619265"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9068658"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9694902"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21317898"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9068658"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24497545"/>
+</source>
+</evidence>
+<sequence length="161" mass="18199" checksum="B4733B967FC5F5BD" modified="1997-02-01" version="1" precursor="true">
+MRKLTALFVASTLALGAANLAHAADTTTAAPADAKPMMHHKGKFGPHQDMMFKDLNLTDA
+QKQQIREIMKGQRDQMKRPPLEERRAMHDIIASDTFDKVKAEAQIAKMEEQRKANMLAHM
+ETQNKIYNILTPEQKKQFNANFEKRLTERPAAKGKMPATAE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

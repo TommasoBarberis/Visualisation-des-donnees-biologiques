@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2019-05-08" version="152">
+<accession>P10100</accession>
+<name>RLPA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Endolytic peptidoglycan transglycosylase RlpA</fullName>
+<ecNumber evidence="1">4.2.2.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Rare lipoprotein A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 5">rlpA</name>
+<name type="ordered locus">b0633</name>
+<name type="ordered locus">JW0628</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="5692" last="5699">
+<title>Genes encoding two lipoproteins in the leuS-dacA region of the Escherichia coli chromosome.</title>
+<authorList>
+<person name="Takase I."/>
+<person name="Ishino F."/>
+<person name="Wachi M."/>
+<person name="Kamata H."/>
+<person name="Doi M."/>
+<person name="Asoh S."/>
+<person name="Matsuzawa H."/>
+<person name="Ohta T."/>
+<person name="Matsuhashi M."/>
+</authorList>
+<dbReference type="PubMed" id="3316191"/>
+<dbReference type="DOI" id="10.1128/jb.169.12.5692-5699.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>DIACYLGLYCEROL AT CYS-18</scope>
+<scope>PALMITOYLATION AT CYS-18</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="558" last="560">
+<title>Nucleotide sequence of the rodA gene, responsible for the rod shape of Escherichia coli: rodA and the pbpA gene, encoding penicillin-binding protein 2, constitute the rodA operon.</title>
+<authorList>
+<person name="Matsuzawa H."/>
+<person name="Asoh S."/>
+<person name="Kunai K."/>
+<person name="Muraiso K."/>
+<person name="Takasuga A."/>
+<person name="Ohta T."/>
+</authorList>
+<dbReference type="PubMed" id="2644207"/>
+<dbReference type="DOI" id="10.1128/jb.171.1.558-560.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-16</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="7383" last="7401">
+<title>Self-enhanced accumulation of FtsN at division sites and roles for other proteins with a SPOR domain (DamX, DedD, and RlpA) in Escherichia coli cell constriction.</title>
+<authorList>
+<person name="Gerding M.A."/>
+<person name="Liu B."/>
+<person name="Bendezu F.O."/>
+<person name="Hale C.A."/>
+<person name="Bernhardt T.G."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="19684127"/>
+<dbReference type="DOI" id="10.1128/JB.00811-09"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="J. Bacteriol." volume="192" first="242" last="255">
+<title>Discovery and characterization of three new Escherichia coli septal ring proteins that contain a SPOR domain: DamX, DedD, and RlpA.</title>
+<authorList>
+<person name="Arends S.J."/>
+<person name="Williams K."/>
+<person name="Scott R.J."/>
+<person name="Rolong S."/>
+<person name="Popham D.L."/>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="19880599"/>
+<dbReference type="DOI" id="10.1128/JB.01244-09"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cell membrane</location>
+<topology evidence="1 6">Lipid-anchor</topology>
+</subcellularLocation>
+<text evidence="2 3">Localizes at the septal ring. Is also associated with some other structures/complexes along the cell cylinder.</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The SPOR domain binds septal peptidoglycans and is required to target RlpA to the septal ring.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">Deletion does not result in any obvious growth or division defects.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the RlpA family.</text>
+</comment>
+<dbReference type="EC" id="4.2.2.-" evidence="1"/>
+<dbReference type="EMBL" id="M18276">
+<property type="protein sequence ID" value="AAA24552.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82598">
+<property type="protein sequence ID" value="AAB40833.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73734.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35276.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M22857">
+<property type="protein sequence ID" value="AAA24572.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A28387">
+<property type="entry name" value="LPECRA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415166.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001231430.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P10100"/>
+<dbReference type="BioGrid" id="4260680">
+<property type="interactions" value="171"/>
+</dbReference>
+<dbReference type="IntAct" id="P10100">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0633"/>
+<dbReference type="jPOST" id="P10100"/>
+<dbReference type="PaxDb" id="P10100"/>
+<dbReference type="PRIDE" id="P10100"/>
+<dbReference type="EnsemblBacteria" id="AAC73734">
+<property type="protein sequence ID" value="AAC73734"/>
+<property type="gene ID" value="b0633"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35276">
+<property type="protein sequence ID" value="BAA35276"/>
+<property type="gene ID" value="BAA35276"/>
+</dbReference>
+<dbReference type="GeneID" id="945241"/>
+<dbReference type="KEGG" id="ecj:JW0628"/>
+<dbReference type="KEGG" id="eco:b0633"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1635"/>
+<dbReference type="EchoBASE" id="EB0847"/>
+<dbReference type="EcoGene" id="EG10854">
+<property type="gene designation" value="rlpA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105K6T">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0797">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000117956"/>
+<dbReference type="InParanoid" id="P10100"/>
+<dbReference type="KO" id="K03642"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10854-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0628-MONOMER"/>
+<dbReference type="PRO" id="PR:P10100"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009279">
+<property type="term" value="C:cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016829">
+<property type="term" value="F:lyase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008932">
+<property type="term" value="F:lytic endotransglycosylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042834">
+<property type="term" value="F:peptidoglycan binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071555">
+<property type="term" value="P:cell wall organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000270">
+<property type="term" value="P:peptidoglycan metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.1070">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02071">
+<property type="entry name" value="RlpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034718">
+<property type="entry name" value="RlpA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009009">
+<property type="entry name" value="RlpA-like_DPBB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036908">
+<property type="entry name" value="RlpA-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012997">
+<property type="entry name" value="RplA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007730">
+<property type="entry name" value="SPOR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036680">
+<property type="entry name" value="SPOR-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03330">
+<property type="entry name" value="DPBB_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05036">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF110997">
+<property type="entry name" value="SSF110997"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50685">
+<property type="entry name" value="SSF50685"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00413">
+<property type="entry name" value="rlpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51257">
+<property type="entry name" value="PROKAR_LIPOPROTEIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51724">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0961">Cell wall biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0456">Lyase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1 6">
+<location>
+<begin position="1"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="chain" description="Endolytic peptidoglycan transglycosylase RlpA" id="PRO_0000030796" evidence="1">
+<location>
+<begin position="18"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="domain" description="SPOR" evidence="1">
+<location>
+<begin position="285"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-palmitoyl cysteine" evidence="1 4">
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-diacylglycerol cysteine" evidence="1 4">
+<location>
+<position position="18"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02071"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19684127"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19880599"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3316191"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3316191"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3316191"/>
+</source>
+</evidence>
+<sequence length="362" mass="37528" checksum="E28B57023CF15686" modified="1989-07-01" version="1" precursor="true">
+MRKQWLGICIAAGMLAACTSDDGQQQTVSVPQPAVCNGPIVEISGADPRFEPLNATANQD
+YQRDGKSYKIVQDPSRFSQAGLAAIYDAEPGSNLTASGEAFDPTQLTAAHPTLPIPSYAR
+ITNLANGRMIVVRINDRGPYGNDRVISLSRAAADRLNTSNNTKVRIDPIIVAQDGSLSGP
+GMACTTVAKQTYALPAPPDLSGGAGTSSVSGPQGDILPVSNSTLKSEDPTGAPVTSSGFL
+GAPTTLAPGVLEGSEPTPAPQPVVTAPSTTPATSPAMVTPQAVSQSASGNFMVQVGAVSD
+QARAQQYQQQLGQKFGVPGRVTQNGAVWRIQLGPFASKAEASTLQQRLQTEAQLQSFITT
+AQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

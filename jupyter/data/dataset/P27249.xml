@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-08-01" modified="2019-05-08" version="170">
+<accession>P27249</accession>
+<accession>Q2MCG1</accession>
+<name>GLND_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Bifunctional uridylyltransferase/uridylyl-removing enzyme</fullName>
+<shortName evidence="1">UTase/UR</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Bifunctional [protein-PII] modification enzyme</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Bifunctional nitrogen sensor protein</fullName>
+</alternativeName>
+<domain>
+<recommendedName>
+<fullName evidence="1">[Protein-PII] uridylyltransferase</fullName>
+<shortName evidence="1">PII uridylyltransferase</shortName>
+<shortName evidence="1">UTase</shortName>
+<ecNumber evidence="1">2.7.7.59</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName evidence="1">[Protein-PII]-UMP uridylyl-removing enzyme</fullName>
+<shortName evidence="1">UR</shortName>
+<ecNumber evidence="1">3.1.4.-</ecNumber>
+</recommendedName>
+</domain>
+</protein>
+<gene>
+<name type="primary" evidence="1">glnD</name>
+<name type="ordered locus">b0167</name>
+<name type="ordered locus">JW0162</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1992-07" db="EMBL/GenBank/DDBJ databases">
+<title>Molecular cloning and sequencing of gldD, the gene for uridylyl transferase and uridyl removing enzyme of E. coli.</title>
+<authorList>
+<person name="Park S.-C."/>
+<person name="Kim I.H."/>
+<person name="Rhee S.G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Mol. Microbiol." volume="9" first="443" last="458">
+<title>The genes of the glutamine synthetase adenylylation cascade are not regulated by nitrogen in Escherichia coli.</title>
+<authorList>
+<person name="van Heeswijk W.C."/>
+<person name="Rabenberg M."/>
+<person name="Westerhoff H.V."/>
+<person name="Kahn D.D."/>
+</authorList>
+<dbReference type="PubMed" id="8412694"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1993.tb01706.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="2246" last="2253">
+<title>Cascade control of Escherichia coli glutamine synthetase. Purification and properties of PII uridylyltransferase and uridylyl-removing enzyme.</title>
+<authorList>
+<person name="Garcia E."/>
+<person name="Rhee S.G."/>
+</authorList>
+<dbReference type="PubMed" id="6130097"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="Mol. Microbiol." volume="21" first="133" last="146">
+<title>An alternative PII protein in the regulation of glutamine synthetase in Escherichia coli.</title>
+<authorList>
+<person name="van Heeswijk W.C."/>
+<person name="Hoving S."/>
+<person name="Molenaar D."/>
+<person name="Stegeman B."/>
+<person name="Kahn D."/>
+<person name="Westerhoff H.V."/>
+</authorList>
+<dbReference type="PubMed" id="8843440"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1996.6281349.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="12782" last="12794">
+<title>Enzymological characterization of the signal-transducing uridylyltransferase/uridylyl-removing enzyme (EC 2.7.7.59) of Escherichia coli and its interaction with the PII protein.</title>
+<authorList>
+<person name="Jiang P."/>
+<person name="Peliska J.A."/>
+<person name="Ninfa A.J."/>
+</authorList>
+<dbReference type="PubMed" id="9737855"/>
+<dbReference type="DOI" id="10.1021/bi980667m"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>KINETIC PARAMETERS</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>KINETIC MECHANISM</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1999" name="Mol. Microbiol." volume="32" first="301" last="313">
+<title>Characterization of the GlnK protein of Escherichia coli.</title>
+<authorList>
+<person name="Atkinson M.R."/>
+<person name="Ninfa A.J."/>
+</authorList>
+<dbReference type="PubMed" id="10231487"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1999.01349.x"/>
+</citation>
+<scope>FUNCTION WITH GLNK AS SUBSTRATE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2010" name="J. Bacteriol." volume="192" first="2711" last="2721">
+<title>Mutagenesis and functional characterization of the four domains of GlnD, a bifunctional nitrogen sensor protein.</title>
+<authorList>
+<person name="Zhang Y."/>
+<person name="Pohlmann E.L."/>
+<person name="Serate J."/>
+<person name="Conrad M.C."/>
+<person name="Roberts G.P."/>
+</authorList>
+<dbReference type="PubMed" id="20363937"/>
+<dbReference type="DOI" id="10.1128/JB.01674-09"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>DOMAIN</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>MUTAGENESIS OF GLY-93; GLY-94; ASP-107 AND 514-HIS-ASP-515</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 7">Modifies, by uridylylation and deuridylylation, the PII regulatory proteins GlnB and GlnK, in response to the nitrogen status of the cell that GlnD senses through the glutamine level. Under low glutamine levels, catalyzes the conversion of the PII proteins and UTP to PII-UMP and PPi, while under higher glutamine levels, GlnD hydrolyzes PII-UMP to PII and UMP (deuridylylation). Thus, controls uridylylation state and activity of the PII proteins, and plays an important role in the regulation of nitrogen assimilation and metabolism.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>[protein-PII]-L-tyrosine + UTP = [protein-PII]-uridylyl-L-tyrosine + diphosphate</text>
+<dbReference type="Rhea" id="RHEA:13673"/>
+<dbReference type="Rhea" id="RHEA-COMP:12147"/>
+<dbReference type="Rhea" id="RHEA-COMP:12148"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:46398"/>
+<dbReference type="ChEBI" id="CHEBI:46858"/>
+<dbReference type="ChEBI" id="CHEBI:90602"/>
+<dbReference type="EC" id="2.7.7.59"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>[protein-PII]-uridylyl-L-tyrosine + H2O = [protein-PII]-L-tyrosine + H(+) + UMP</text>
+<dbReference type="Rhea" id="RHEA:48600"/>
+<dbReference type="Rhea" id="RHEA-COMP:12147"/>
+<dbReference type="Rhea" id="RHEA-COMP:12148"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:46858"/>
+<dbReference type="ChEBI" id="CHEBI:57865"/>
+<dbReference type="ChEBI" id="CHEBI:90602"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 7">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1 7">Mg(2+) appears to be the physiologically relevant metal ion cofactor for both transferase and uridylyl-removing activities.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="1 3 4 6 7">Uridylyltransferase (UTase) activity is inhibited by glutamine, while glutamine activates uridylyl-removing (UR) activity. Both reactions are activated by ATP and 2-ketoglutarate, via the binding of these effector molecules to the substrates PII and PII-UMP.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="7">3.0 uM for GlnB protein</KM>
+<KM evidence="7">40 uM for UTP</KM>
+<KM evidence="7">2.3 uM for uridylyl-[protein-PII] (in the absence of glutamine)</KM>
+<KM evidence="7">0.82 uM for uridylyl-[protein-PII] (in the presence of 2.5 mM glutamine)</KM>
+<text>kcat is 137 min(-1) for the UTase reaction. kcat is 2.7 min(-1) for the UR reaction in the absence of glutamine, and 6.5 min(-1) in the presence of 2.5 mM glutamine.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5">Monomer. Can also form homooligomers that are much less active.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552032"/>
+<interactant intactId="EBI-551053">
+<id>P0A9Z1</id>
+<label>glnB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552032"/>
+<interactant intactId="EBI-559503">
+<id>P0AC55</id>
+<label>glnK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="domain">
+<text evidence="1 4">Has four distinct domains: an N-terminal nucleotidyltransferase (NT) domain responsible for UTase activity, a central HD domain that encodes UR activity, and two C-terminal ACT domains that seem to have a role in glutamine sensing.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="9">The transferase reaction proceeds by an ordered bi-bi kinetic mechanism, with PII binding before UTP and pyrophosphate (PPi) released before PII-UMP. The uridylyl-removing reaction proceeds with rapid equilibrium binding of substrate and random release of products (PubMed:9737855).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the GlnD family.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.59" evidence="1"/>
+<dbReference type="EC" id="3.1.4.-" evidence="1"/>
+<dbReference type="EMBL" id="M96431">
+<property type="protein sequence ID" value="AAA23878.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z21842">
+<property type="protein sequence ID" value="CAA79887.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08596.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73278.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76045.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64740">
+<property type="entry name" value="G64740"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414709.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001094586.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P27249"/>
+<dbReference type="BioGrid" id="4259747">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9779N"/>
+<dbReference type="IntAct" id="P27249">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0167"/>
+<dbReference type="jPOST" id="P27249"/>
+<dbReference type="PaxDb" id="P27249"/>
+<dbReference type="PRIDE" id="P27249"/>
+<dbReference type="EnsemblBacteria" id="AAC73278">
+<property type="protein sequence ID" value="AAC73278"/>
+<property type="gene ID" value="b0167"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76045">
+<property type="protein sequence ID" value="BAE76045"/>
+<property type="gene ID" value="BAE76045"/>
+</dbReference>
+<dbReference type="GeneID" id="944863"/>
+<dbReference type="KEGG" id="ecj:JW0162"/>
+<dbReference type="KEGG" id="eco:b0167"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2114"/>
+<dbReference type="EchoBASE" id="EB1383"/>
+<dbReference type="EcoGene" id="EG11411">
+<property type="gene designation" value="glnD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E1P">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2844">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000261778"/>
+<dbReference type="InParanoid" id="P27249"/>
+<dbReference type="KO" id="K00990"/>
+<dbReference type="PhylomeDB" id="P27249"/>
+<dbReference type="BioCyc" id="EcoCyc:GLND-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0162-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:GLND-MONOMER"/>
+<dbReference type="BRENDA" id="2.7.7.59">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P27249"/>
+<dbReference type="PRO" id="PR:P27249"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008773">
+<property type="term" value="F:[protein-PII] uridylyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008081">
+<property type="term" value="F:phosphoric diester hydrolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006464">
+<property type="term" value="P:cellular protein modification process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006808">
+<property type="term" value="P:regulation of nitrogen utilization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00077">
+<property type="entry name" value="HDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00277">
+<property type="entry name" value="PII_uridylyl_transf"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002912">
+<property type="entry name" value="ACT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003607">
+<property type="entry name" value="HD/PDEase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006674">
+<property type="entry name" value="HD_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013546">
+<property type="entry name" value="PII_UdlTrfase/GS_AdlTrfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002934">
+<property type="entry name" value="Polymerase_NTP_transf_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010043">
+<property type="entry name" value="UTase/UR"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR47320">
+<property type="entry name" value="PTHR47320"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01842">
+<property type="entry name" value="ACT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08335">
+<property type="entry name" value="GlnD_UR_UTase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01966">
+<property type="entry name" value="HD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01909">
+<property type="entry name" value="NTP_transf_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006288">
+<property type="entry name" value="PII_uridyltransf"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00471">
+<property type="entry name" value="HDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01693">
+<property type="entry name" value="UTase_glnD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51671">
+<property type="entry name" value="ACT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51831">
+<property type="entry name" value="HD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Bifunctional uridylyltransferase/uridylyl-removing enzyme" id="PRO_0000192732">
+<location>
+<begin position="1"/>
+<end position="890"/>
+</location>
+</feature>
+<feature type="domain" description="HD" evidence="2">
+<location>
+<begin position="468"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="domain" description="ACT 1" evidence="1">
+<location>
+<begin position="709"/>
+<end position="789"/>
+</location>
+</feature>
+<feature type="domain" description="ACT 2" evidence="1">
+<location>
+<begin position="816"/>
+<end position="890"/>
+</location>
+</feature>
+<feature type="region of interest" description="Uridylyltransferase">
+<location>
+<begin position="1"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="region of interest" description="Uridylyl-removing">
+<location>
+<begin position="350"/>
+<end position="708"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of UTase activity, while no significant effect on UR activity." evidence="4">
+<original>G</original>
+<variation>L</variation>
+<variation>V</variation>
+<location>
+<position position="93"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of UTase activity, while no significant effect on UR activity." evidence="4">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of UTase activity, while no significant effect on UR activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<variation>V</variation>
+<variation>Y</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of UR activity, while no significant effect on UTase activity." evidence="4">
+<original>HD</original>
+<variation>AA</variation>
+<variation>QN</variation>
+<location>
+<begin position="514"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23878." ref="1" evidence="8">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3." ref="3" evidence="8">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23878." ref="1" evidence="8">
+<original>RG</original>
+<variation>TR</variation>
+<location>
+<begin position="357"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23878." ref="1" evidence="8">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="523"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA79887." ref="2" evidence="8">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="703"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00277"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01175"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10231487"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20363937"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6130097"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8843440"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9737855"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9737855"/>
+</source>
+</evidence>
+<sequence length="890" mass="102390" checksum="6FF0006341A71D34" modified="1994-06-01" version="2">
+MNTLPEQYANTALPTLPGQPQNPCVWPRDELTVGGIKAHIDTFQRWLGDAFDNGISAEQL
+IEARTEFIDQLLQRLWIEAGFSQIADLALVAVGGYGRGELHPLSDVDLLILSRKKLPDDQ
+AQKVGELLTLLWDVKLEVGHSVRTLEECMLEGLSDLTVATNLIESRLLIGDVALFLELQK
+HIFSEGFWPSDKFYAAKVEEQNQRHQRYHGTSYNLEPDIKSSPGGLRDIHTLQWVARRHF
+GATSLDEMVGFGFLTSAERAELNECLHILWRIRFALHLVVSRYDNRLLFDRQLSVAQRLN
+YSGEGNEPVERMMKDYFRVTRRVSELNQMLLQLFDEAILALPADEKPRPIDDEFQLRGTL
+IDLRDETLFMRQPEAILRMFYTMVHNSAITGIYSTTLRQLRHARRHLQQPLCNIPEARKL
+FLSILRHPGAVRRGLLPMHRHSVLGAYMPQWSHIVGQMQFDLFHAYTVDEHTIRVMLKLE
+SFASEETRQRHPLCVDVWPRLPSTELIFIAALFHDIAKGRGGDHSILGAQDVVHFAELHG
+LNSRETQLVAWLVRQHLLMSVTAQRRDIQDPEVIKQFAEEVQTENRLRYLVCLTVADICA
+TNETLWNSWKQSLLRELYFATEKQLRRGMQNTPDMRERVRHHQLQALALLRMDNIDEEAL
+HQIWSRCRANYFVRHSPNQLAWHARHLLQHDLSKPLVLLSPQATRGGTEIFIWSPDRPYL
+FAAVCAELDRRNLSVHDAQIFTTRDGMAMDTFIVLEPDGNPLSADRHEVIRFGLEQVLTQ
+SSWQPPQPRRQPAKLRHFTVETEVTFLPTHTDRKSFLELIALDQPGLLARVGKIFADLGI
+SLHGARITTIGERVEDLFIIATADRRALNNELQQEVHQRLTEALNPNDKG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

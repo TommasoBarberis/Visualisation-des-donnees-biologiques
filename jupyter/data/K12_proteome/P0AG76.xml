@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="97">
+<accession>P0AG76</accession>
+<accession>P13457</accession>
+<accession>Q2MC28</accession>
+<name>SBCD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Nuclease SbcCD subunit D</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">sbcD</name>
+<name type="synonym">yajA</name>
+<name type="ordered locus">b0398</name>
+<name type="ordered locus">JW0388</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="8033" last="8046">
+<title>Molecular organization of sbcC, a gene that affects genetic recombination and the viability of DNA palindromes in Escherichia coli K-12.</title>
+<authorList>
+<person name="Naom I.S."/>
+<person name="Morton S.J."/>
+<person name="Leach D.R.F."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="2530497"/>
+<dbReference type="DOI" id="10.1093/nar/17.20.8033"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="1222" last="1228">
+<title>Identification of sbcD mutations as cosuppressors of recBC that allow propagation of DNA palindromes in Escherichia coli K-12.</title>
+<authorList>
+<person name="Gibson F.P."/>
+<person name="Leach D.R.F."/>
+<person name="Lloyd R.G."/>
+</authorList>
+<dbReference type="PubMed" id="1531222"/>
+<dbReference type="DOI" id="10.1128/jb.174.4.1222-1228.1992"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="Genetica" volume="87" first="95" last="100">
+<title>The SbcCD protein of Escherichia coli is related to two putative nucleases in the UvrA superfamily of nucleotide-binding proteins.</title>
+<authorList>
+<person name="Leach D.R.F."/>
+<person name="Lloyd R.G."/>
+<person name="Coulson A.F."/>
+</authorList>
+<dbReference type="PubMed" id="1490631"/>
+<dbReference type="DOI" id="10.1007/BF00120998"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="7969" last="7974">
+<title>The SbcCD nuclease of Escherichia coli is a structural maintenance of chromosomes (SMC) family protein that cleaves hairpin DNA.</title>
+<authorList>
+<person name="Connelly J.C."/>
+<person name="Kirkham L.A."/>
+<person name="Leach D.R."/>
+</authorList>
+<dbReference type="PubMed" id="9653124"/>
+<dbReference type="DOI" id="10.1073/pnas.95.14.7969"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="Nucleic Acids Res." volume="27" first="1039" last="1046">
+<title>DNA cleavage and degradation by the SbcCD protein complex from Escherichia coli.</title>
+<authorList>
+<person name="Connelly J.C."/>
+<person name="de Leau E.S."/>
+<person name="Leach D.R."/>
+</authorList>
+<dbReference type="PubMed" id="9927737"/>
+<dbReference type="DOI" id="10.1093/nar/27.4.1039"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<comment type="function">
+<text>SbcCD cleaves DNA hairpin structures. These structures can inhibit DNA replication and are intermediates in certain DNA recombination reactions. The complex acts as a 3'->5' double strand exonuclease that can open hairpins. It also has a 5' single-strand endonuclease activity.</text>
+</comment>
+<comment type="subunit">
+<text>Heterodimer of SbcC and SbcD.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the SbcD family.</text>
+</comment>
+<comment type="sequence caution" evidence="1">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB18122" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="X15981">
+<property type="protein sequence ID" value="CAA34103.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U73857">
+<property type="protein sequence ID" value="AAB18122.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73501.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76178.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JS0349">
+<property type="entry name" value="JS0349"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414932.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001221319.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AG76"/>
+<dbReference type="BioGrid" id="4262090">
+<property type="interactions" value="138"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-4021">
+<property type="entry name" value="sbcCD DNA exo/endonuclease complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10828N"/>
+<dbReference type="IntAct" id="P0AG76">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0398"/>
+<dbReference type="jPOST" id="P0AG76"/>
+<dbReference type="PaxDb" id="P0AG76"/>
+<dbReference type="PRIDE" id="P0AG76"/>
+<dbReference type="EnsemblBacteria" id="AAC73501">
+<property type="protein sequence ID" value="AAC73501"/>
+<property type="gene ID" value="b0398"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76178">
+<property type="protein sequence ID" value="BAE76178"/>
+<property type="gene ID" value="BAE76178"/>
+</dbReference>
+<dbReference type="GeneID" id="945049"/>
+<dbReference type="KEGG" id="ecj:JW0388"/>
+<dbReference type="KEGG" id="eco:b0398"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1881"/>
+<dbReference type="EchoBASE" id="EB1086"/>
+<dbReference type="EcoGene" id="EG11094">
+<property type="gene designation" value="sbcD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107RH8">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0420">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000026261"/>
+<dbReference type="InParanoid" id="P0AG76"/>
+<dbReference type="KO" id="K03547"/>
+<dbReference type="PhylomeDB" id="P0AG76"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11094-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0388-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11094-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AG76"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008408">
+<property type="term" value="F:3'-5' exonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990238">
+<property type="term" value="F:double-stranded DNA endodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004529">
+<property type="term" value="F:exodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000014">
+<property type="term" value="F:single-stranded DNA endodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00840">
+<property type="entry name" value="MPP_Mre11_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.60.21.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004843">
+<property type="entry name" value="Calcineurin-like_PHP_ApaH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029052">
+<property type="entry name" value="Metallo-depent_PP-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041796">
+<property type="entry name" value="Mre11_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004593">
+<property type="entry name" value="SbcD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026843">
+<property type="entry name" value="SbcD_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00149">
+<property type="entry name" value="Metallophos"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12320">
+<property type="entry name" value="SbcD_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00619">
+<property type="entry name" value="sbcd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Nuclease SbcCD subunit D" id="PRO_0000182195">
+<location>
+<begin position="1"/>
+<end position="400"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="400" mass="44714" checksum="E8894089198C6D5B" modified="2005-12-20" version="1">
+MRILHTSDWHLGQNFYSKSREAEHQAFLDWLLETAQTHQVDAIIVAGDVFDTGSPPSYAR
+TLYNRFVVNLQQTGCHLVVLAGNHDSVATLNESRDIMAFLNTTVVASAGHAPQILPRRDG
+TPGAVLCPIPFLRPRDIITSQAGLNGIEKQQHLLAAITDYYQQHYADACKLRGDQPLPII
+ATGHLTTVGASKSDAVRDIYIGTLDAFPAQNFPPADYIALGHIHRAQIIGGMEHVRYCGS
+PIPLSFDECGKSKYVHLVTFSNGKLESVENLNVPVTQPMAVLKGDLASITAQLEQWRDVS
+QEPPVWLDIEITTDEYLHDIQRKIQALTESLPVEVLLVRRSREQRERVLASQQRETLSEL
+SVEEVFNRRLALEELDESQQQRLQHLFTTTLHTLAGEHEA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

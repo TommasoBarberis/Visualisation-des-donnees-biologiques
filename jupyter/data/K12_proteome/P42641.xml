@@ -1,0 +1,1251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-05-08" version="148">
+<accession>P42641</accession>
+<accession>Q2M929</accession>
+<name>OBG_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">GTPase ObgE/CgtA</fullName>
+<ecNumber evidence="2 4">3.6.5.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">GTP-binding protein Obg</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="21">obgE</name>
+<name type="synonym" evidence="22">cgtA</name>
+<name type="synonym" evidence="2">obg</name>
+<name type="synonym">yhbZ</name>
+<name type="ordered locus">b3183</name>
+<name type="ordered locus">JW3150</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="Nat. Biotechnol." volume="16" first="851" last="856">
+<title>A genome-based approach for the identification of essential bacterial genes.</title>
+<authorList>
+<person name="Arigoni F."/>
+<person name="Talabot F."/>
+<person name="Peitsch M.C."/>
+<person name="Edgerton M.D."/>
+<person name="Meldrum E."/>
+<person name="Allet E."/>
+<person name="Fish R."/>
+<person name="Jamotte T."/>
+<person name="Curchod M.-L."/>
+<person name="Loferer H."/>
+</authorList>
+<dbReference type="PubMed" id="9743119"/>
+<dbReference type="DOI" id="10.1038/nbt0998-851"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="41" first="1037" last="1051">
+<title>Deficiency of essential GTP-binding protein ObgE in Escherichia coli inhibits chromosome partition.</title>
+<authorList>
+<person name="Kobayashi G."/>
+<person name="Moriya S."/>
+<person name="Wada C."/>
+</authorList>
+<dbReference type="PubMed" id="11555285"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02574.x"/>
+</citation>
+<scope>FUNCTION IN CHROMOSOME PARTITIONING</scope>
+<scope>GTPASE-ACTIVITY</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+<scope>POSSIBLE COFACTOR</scope>
+<scope>MUTAGENESIS OF GLY-80 AND ASP-85</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="Curr. Microbiol." volume="45" first="440" last="445">
+<title>Overexpression of the cgtA (yhbZ, obgE) gene, coding for an essential GTP-binding protein, impairs the regulation of chromosomal functions in Escherichia coli.</title>
+<authorList>
+<person name="Dutkiewicz R."/>
+<person name="Slominska M."/>
+<person name="Wegrzyn G."/>
+<person name="Czyz A."/>
+</authorList>
+<dbReference type="PubMed" id="12402086"/>
+<dbReference type="DOI" id="10.1007/s00284-002-3713-x"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="2692" last="2698">
+<title>Overexpression of two different GTPases rescues a null mutation in a heat-induced rRNA methyltransferase.</title>
+<authorList>
+<person name="Tan J."/>
+<person name="Jakob U."/>
+<person name="Bardwell J.C.A."/>
+</authorList>
+<dbReference type="PubMed" id="11976298"/>
+<dbReference type="DOI" id="10.1128/JB.184.10.2692-2698.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Microbiology" volume="149" first="1763" last="1770">
+<title>Involvement of the cgtA gene function in stimulation of DNA repair in Escherichia coli and Vibrio harveyi.</title>
+<authorList>
+<person name="Zielke R."/>
+<person name="Sikora A."/>
+<person name="Dutkiewicz R."/>
+<person name="Wegrzyn G."/>
+<person name="Czyz A."/>
+</authorList>
+<dbReference type="PubMed" id="12855728"/>
+<dbReference type="DOI" id="10.1099/mic.0.26292-0"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Plasmid" volume="50" first="45" last="52">
+<title>Role of the cgtA gene function in DNA replication of extrachromosomal elements in Escherichia coli.</title>
+<authorList>
+<person name="Ulanowska K."/>
+<person name="Sikora A."/>
+<person name="Wegrzyn G."/>
+<person name="Czyz A."/>
+</authorList>
+<dbReference type="PubMed" id="12826057"/>
+<dbReference type="DOI" id="10.1016/S0147-619X(03)00021-0"/>
+</citation>
+<scope>FUNCTION IN PLASMID REPLICATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="J. Bacteriol." volume="186" first="5249" last="5257">
+<title>The Escherichia coli GTPase CgtAE cofractionates with the 50S ribosomal subunit and interacts with SpoT, a ppGpp synthetase/hydrolase.</title>
+<authorList>
+<person name="Wout P."/>
+<person name="Pu K."/>
+<person name="Sullivan S.M."/>
+<person name="Reese V."/>
+<person name="Zhou S."/>
+<person name="Lin B."/>
+<person name="Maddock J.R."/>
+</authorList>
+<dbReference type="PubMed" id="15292126"/>
+<dbReference type="DOI" id="10.1128/JB.186.16.5249-5257.2004"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>RIBOSOMAL-ASSOCIATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>INTERACTION WITH SPOT</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="Genes Cells" volume="10" first="393" last="408">
+<title>The GTP binding protein Obg homolog ObgE is involved in ribosome maturation.</title>
+<authorList>
+<person name="Sato A."/>
+<person name="Kobayashi G."/>
+<person name="Hayashi H."/>
+<person name="Yoshida H."/>
+<person name="Wada A."/>
+<person name="Maeda M."/>
+<person name="Hiraga S."/>
+<person name="Takeyasu K."/>
+<person name="Wada C."/>
+</authorList>
+<dbReference type="PubMed" id="15836769"/>
+<dbReference type="DOI" id="10.1111/j.1365-2443.2005.00851.x"/>
+</citation>
+<scope>FUNCTION IN RIBOSOME BIOGENESIS</scope>
+<scope>RRNA-BINDING</scope>
+<scope>INDUCTION</scope>
+<scope>ASSOCIATION WITH 30S AND 50S RIBOSOMAL SUBUNITS</scope>
+<scope>MUTAGENESIS OF SER-314</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2005" name="Mol. Cell" volume="17" first="549" last="560">
+<title>A bacterial G protein-mediated response to replication arrest.</title>
+<authorList>
+<person name="Foti J.J."/>
+<person name="Schienda J."/>
+<person name="Sutera V.A. Jr."/>
+<person name="Lovett S.T."/>
+</authorList>
+<dbReference type="PubMed" id="15721258"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2005.01.012"/>
+</citation>
+<scope>MUTAGENESIS OF PRO-168</scope>
+<scope>POSSIBLE FUNCTION IN REPLICATION FORK STABILITY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2006" name="Arch. Microbiol." volume="185" first="340" last="347">
+<title>DNA replication defect in the Escherichia coli cgtA(ts) mutant arising from reduced DnaA levels.</title>
+<authorList>
+<person name="Sikora A.E."/>
+<person name="Zielke R."/>
+<person name="Wegrzyn A."/>
+<person name="Wegrzyn G."/>
+</authorList>
+<dbReference type="PubMed" id="16518617"/>
+<dbReference type="DOI" id="10.1007/s00203-006-0099-3"/>
+</citation>
+<scope>FUNCTION IN DNAA REGULATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="6757" last="6770">
+<title>The Escherichia coli GTPase CgtAE is involved in late steps of large ribosome assembly.</title>
+<authorList>
+<person name="Jiang M."/>
+<person name="Datta K."/>
+<person name="Walker A."/>
+<person name="Strahler J."/>
+<person name="Bagamasbad P."/>
+<person name="Andrews P.C."/>
+<person name="Maddock J.R."/>
+</authorList>
+<dbReference type="PubMed" id="16980477"/>
+<dbReference type="DOI" id="10.1128/JB.00444-06"/>
+</citation>
+<scope>FUNCTION IN LATE STAGES OF 50S RIBOSOMAL SUBUNIT ASSEMBLY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="6140" last="6147">
+<title>G-protein control of the ribosome-associated stress response protein SpoT.</title>
+<authorList>
+<person name="Jiang M."/>
+<person name="Sullivan S.M."/>
+<person name="Wout P.K."/>
+<person name="Maddock J.R."/>
+</authorList>
+<dbReference type="PubMed" id="17616600"/>
+<dbReference type="DOI" id="10.1128/JB.00315-07"/>
+</citation>
+<scope>FUNCTION UNDER AMINO ACID STARVATION</scope>
+<scope>ASSOCIATION WITH SPOT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="65" first="569" last="581">
+<title>Chromosome segregation control by Escherichia coli ObgE GTPase.</title>
+<authorList>
+<person name="Foti J.J."/>
+<person name="Persky N.S."/>
+<person name="Ferullo D.J."/>
+<person name="Lovett S.T."/>
+</authorList>
+<dbReference type="PubMed" id="17578452"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2007.05811.x"/>
+</citation>
+<scope>FUNCTION IN CHROMOSOME SEGREGATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="Mol. Microbiol." volume="73" first="253" last="266">
+<title>The ObgE/CgtA GTPase influences the stringent response to amino acid starvation in Escherichia coli.</title>
+<authorList>
+<person name="Persky N.S."/>
+<person name="Ferullo D.J."/>
+<person name="Cooper D.L."/>
+<person name="Moore H.R."/>
+<person name="Lovett S.T."/>
+</authorList>
+<dbReference type="PubMed" id="19555460"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2009.06767.x"/>
+</citation>
+<scope>FUNCTION IN STRINGENT RESPONSE</scope>
+<scope>PPGPP-BINDING</scope>
+<scope>POSSIBLE ROLE IN INHIBITION OF DNA REPLICATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2012" name="FEBS J." volume="279" first="3692" last="3704">
+<title>The Escherichia coli GTPase ObgE modulates hydroxyl radical levels in response to DNA replication fork arrest.</title>
+<authorList>
+<person name="Kint C.I."/>
+<person name="Verstraeten N."/>
+<person name="Wens I."/>
+<person name="Liebens V.R."/>
+<person name="Hofkens J."/>
+<person name="Versees W."/>
+<person name="Fauvart M."/>
+<person name="Michiels J."/>
+</authorList>
+<dbReference type="PubMed" id="22863262"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2012.08731.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LEU-159; GLY-163; PRO-168; GLY-216 AND ARG-237</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2015" name="Mol. Cell" volume="59" first="9" last="21">
+<title>Obg and membrane depolarization are part of a microbial bet-hedging strategy that leads to antibiotic tolerance.</title>
+<authorList>
+<person name="Verstraeten N."/>
+<person name="Knapen W.J."/>
+<person name="Kint C.I."/>
+<person name="Liebens V."/>
+<person name="Van den Bergh B."/>
+<person name="Dewachter L."/>
+<person name="Michiels J.E."/>
+<person name="Fu Q."/>
+<person name="David C.C."/>
+<person name="Fierro A.C."/>
+<person name="Marchal K."/>
+<person name="Beirlant J."/>
+<person name="Versees W."/>
+<person name="Hofkens J."/>
+<person name="Jansen M."/>
+<person name="Fauvart M."/>
+<person name="Michiels J."/>
+</authorList>
+<dbReference type="PubMed" id="26051177"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2015.05.011"/>
+</citation>
+<scope>FUNCTION IN PERSISTENCE</scope>
+<scope>MUTAGENESIS OF GLY-93; GLY-166; PRO-168; SER-173; THR-193 AND GLY-216</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>TOP10</strain>
+</source>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="Acta Biochim. Pol." volume="52" first="35" last="43">
+<title>The Obg subfamily of bacterial GTP-binding proteins: essential proteins of largely unknown functions that are evolutionarily conserved from bacteria to humans.</title>
+<authorList>
+<person name="Czyz A."/>
+<person name="Wegrzyn G."/>
+</authorList>
+<dbReference type="PubMed" id="15827604"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2005" name="Dev. Cell" volume="8" first="300" last="301">
+<title>Obg/CtgA, a signaling protein that controls replication, translation, and morphological development?</title>
+<authorList>
+<person name="Michel B."/>
+</authorList>
+<dbReference type="PubMed" id="15737924"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2005.02.002"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2014" name="PLoS Biol." volume="12" first="E1001866" last="E1001866">
+<title>Structural and functional insights into the mode of action of a universally conserved Obg GTPase.</title>
+<authorList>
+<person name="Feng B."/>
+<person name="Mandava C.S."/>
+<person name="Guo Q."/>
+<person name="Wang J."/>
+<person name="Cao W."/>
+<person name="Li N."/>
+<person name="Zhang Y."/>
+<person name="Zhang Y."/>
+<person name="Wang Z."/>
+<person name="Wu J."/>
+<person name="Sanyal S."/>
+<person name="Lei J."/>
+<person name="Gao N."/>
+</authorList>
+<dbReference type="PubMed" id="24844575"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1001866"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (5.5 ANGSTROMS) IN COMPLEX WITH 50S RIBOSOMAL SUBUNIT AND GMP-PNP</scope>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>RRNA-BINDING</scope>
+<scope>MUTAGENESIS OF 27-LYS--LYS-31; 76-ARG--ARG-82 AND 136-ARG--ARG-139</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 11 13 14 15 16 19 24">An abundant, essential GTPase which binds GTP, GDP and ppGpp with moderate affinity. Has high guanosine nucleotide exchange rate constants for GTP and GDP, and a relatively low GTP hydrolysis rate stimulated by the 50S ribosomal subunit. It is estimated there are 34000 molecules in log-phase cells and 5600 molecules in stationary-phase cells. Required for chromosome segregation. Plays a role in the stringent response, perhaps by sequestering 50S ribosomal subunits and decreasing protein synthesis (PubMed:19555460), and a non-essential role in the late steps of ribosome biogenesis, perhaps acting as a checkpoint for correct 50S subunit synthesis (Probable) (PubMed:24844575). Overexpression increases bacterial persistence (in exponential and stationary phase) in response to antibiotics (PubMed:26051177). Cells expressing high levels of Obg are more likely to form persister cells upon antibiotic exposure; this requires alarmone (p)ppGpp and acts via induced HokB, depolarizing cells, which probably reduces metabolic activity and induces persistence (PubMed:26051177). The persister phenotype can be separated from the essential phenotype (PubMed:26051177).</text>
+</comment>
+<comment type="function">
+<text evidence="4 6 7 8 10 12 14 17">Required for correct chromosome partitioning; in temperature-sensitive (ts) mutant nucleoids do not partition but remain in the middle of cell, cells elongate but do not divide. Overexpression protects cells against UV damage. Ts mutants have impaired plasmid and lamdba phage replication, possibly via effects on DnaA (PubMed:12826057). Regulates DnaA levels. Genetic interactions of Val-168 and a C-terminal insertion mutant with the double-strand break repair factors recA and recBCD, and with seqA suggests that ObgE, either directly or indirectly, promotes replication fork stability (PubMed:15721258). May protect replication forks from stress induced by toxic levels of hydroxyl radicals (PubMed:22863262). Initiation of DNA replication continues in ObgE-depleted cells.</text>
+</comment>
+<comment type="function">
+<text evidence="4 5 9 11 13 15 16 18">Binds to pre-50S ribosomal subunits in a salt-dependent manner. Acts as a ribosome anti-association factor; guanosine nucleotides stimulate ObgE 50S subunit binding and also ObgE-mediated 70S ribosome dissociation (GDP&lt;GTP&lt;GMP-PNP&lt;ppGpp) (PubMed:24844575). Overexpression rescues an rrmJ deletion stabilizing the 70S ribosome. Even at permissive temperatures the ts mutant (Gln-80/Asn-85) shows disrupted 50S ribosomal subunit assembly, defects in 16 and 23S rRNA processing and altered association of some late-assembling ribosomal proteins (PubMed:11555285). Dissociates from the pre-50S ribosome under conditions of amino acid starvation. The levels of (p)ppGpp rise in the ts mutant (Gln-80/Asn-85), possibly because ObgE controls SpoT. Binds GDP and ppGpp with the same affinity. During ribosome assembly ObgE acts later than the rRNA methyltransferase RrmJ and DEAD-box RNA helicases DeaD and SrmB.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2 23">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="5 9">18 uM for GTP (at 37 degrees Celsius</KM>
+<KM evidence="5 9">7.9 uM for GTP (at 30 degrees Celsius</KM>
+<text>Turnover number of 0.02/min.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="4 9 11 15 18">Monomer. Binds to the intersubunit face of the 50S ribosomal subunit where translation factors bind, protruding into the peptidyl-transfer center, leading to significant changes in both ObgE and 50S ribosome structure (PubMed:24844575). Associates with SpoT (PubMed:15292126, PubMed:17616600). Binding to 50S ribosomes does not require SpoT. 50S ribosomal subunit binding is enhanced by guanosine nucleotides (PubMed:24844575).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370839"/>
+<interactant intactId="EBI-543702">
+<id>P0A7K2</id>
+<label>rplL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 9">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="9 11">The majority is associated with the 50S ribosomal subunit (PubMed:15292126), another group also sees association with 30S subunit (PubMed:15836769).</text>
+</comment>
+<comment type="induction">
+<text evidence="8 11">Constitutively expressed, levels decrease toward stationary phase (at protein level). Induced in a dose-dependent manner by UV irradiation.</text>
+</comment>
+<comment type="domain">
+<text evidence="18">The C-terminus (residues 341-390) is not required for either 50S ribosome subunit association nor 70S ribosome dissociation.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="20">Essential for growth, it cannot be disrupted.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.5.-" evidence="2 4"/>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57984.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76215.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77227.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65109">
+<property type="entry name" value="A65109"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417650.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000673575.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4CSU">
+<property type="method" value="EM"/>
+<property type="resolution" value="5.50"/>
+<property type="chains" value="9=1-390"/>
+</dbReference>
+<dbReference type="PDB" id="5M04">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-340"/>
+</dbReference>
+<dbReference type="PDBsum" id="4CSU"/>
+<dbReference type="PDBsum" id="5M04"/>
+<dbReference type="SMR" id="P42641"/>
+<dbReference type="BioGrid" id="4261647">
+<property type="interactions" value="163"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12273N"/>
+<dbReference type="IntAct" id="P42641">
+<property type="interactions" value="28"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3183"/>
+<dbReference type="EPD" id="P42641"/>
+<dbReference type="jPOST" id="P42641"/>
+<dbReference type="PaxDb" id="P42641"/>
+<dbReference type="PRIDE" id="P42641"/>
+<dbReference type="EnsemblBacteria" id="AAC76215">
+<property type="protein sequence ID" value="AAC76215"/>
+<property type="gene ID" value="b3183"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77227">
+<property type="protein sequence ID" value="BAE77227"/>
+<property type="gene ID" value="BAE77227"/>
+</dbReference>
+<dbReference type="GeneID" id="947694"/>
+<dbReference type="KEGG" id="ecj:JW3150"/>
+<dbReference type="KEGG" id="eco:b3183"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3548"/>
+<dbReference type="EchoBASE" id="EB2647"/>
+<dbReference type="EcoGene" id="EG12795">
+<property type="gene designation" value="obgE"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C9R">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0536">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000019084"/>
+<dbReference type="InParanoid" id="P42641"/>
+<dbReference type="KO" id="K03979"/>
+<dbReference type="PhylomeDB" id="P42641"/>
+<dbReference type="BioCyc" id="EcoCyc:G7656-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3150-MONOMER"/>
+<dbReference type="PRO" id="PR:P42641"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019003">
+<property type="term" value="F:GDP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032561">
+<property type="term" value="F:guanyl ribonucleotide binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043023">
+<property type="term" value="F:ribosomal large subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007059">
+<property type="term" value="P:chromosome segregation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022611">
+<property type="term" value="P:dormancy process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090071">
+<property type="term" value="P:negative regulation of ribosome biogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042255">
+<property type="term" value="P:ribosome assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd01898">
+<property type="entry name" value="Obg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.210.12">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01454">
+<property type="entry name" value="GTPase_Obg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031167">
+<property type="entry name" value="G_OBG"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035101">
+<property type="entry name" value="GTP-bd_Obg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014100">
+<property type="entry name" value="GTP-bd_Obg/CgtA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006074">
+<property type="entry name" value="GTP1-OBG_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006169">
+<property type="entry name" value="GTP1_OBG_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036726">
+<property type="entry name" value="GTP1_OBG_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006073">
+<property type="entry name" value="GTP_binding_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01018">
+<property type="entry name" value="GTP1_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01926">
+<property type="entry name" value="MMR_HSR1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002401">
+<property type="entry name" value="GTP_bd_Obg/CgtA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00326">
+<property type="entry name" value="GTP1OBG"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF82051">
+<property type="entry name" value="SSF82051"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02729">
+<property type="entry name" value="Obg_CgtA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51710">
+<property type="entry name" value="G_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00905">
+<property type="entry name" value="GTP1_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51883">
+<property type="entry name" value="OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<feature type="chain" description="GTPase ObgE/CgtA" id="PRO_0000205433">
+<location>
+<begin position="1"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="domain" description="Obg" evidence="3">
+<location>
+<begin position="1"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="domain" description="OBG-type G" evidence="2">
+<location>
+<begin position="160"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="166"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="191"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="213"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="283"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="314"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="region of interest" description="Not required for 50S ribosome subunit association nor 70S dissociation" evidence="18">
+<location>
+<begin position="341"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="region of interest" description="Not essential, but deletion increases sensitivity to DNA replication inhibitor hydroxyurea (HU)" evidence="17">
+<location>
+<begin position="360"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost abolishes 50S subunit binding." evidence="18">
+<original>KYIPK</original>
+<variation>EYIPE</variation>
+<location>
+<begin position="27"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight reduction in 50S subunit binding." evidence="18">
+<original>RDCTGKR</original>
+<variation>GDCTGKG</variation>
+<location>
+<begin position="76"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Temperature-sensitive for growth at 42 degrees Celsius, defects in chromosome partitioning; when associated with N-85." evidence="4">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Temperature-sensitive for growth at 42 degrees Celsius, defects in chromosome partitioning; when associated with E-80." evidence="4">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on persister cell formation upon overexpression." evidence="19">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="93"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost abolishes 50S subunit binding." evidence="18">
+<original>RTPR</original>
+<variation>GTPG</variation>
+<location>
+<begin position="136"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sensitivity to HU upon overexpression, supports normal growth, no effect in mazEF/relBE or tonB deletions." evidence="17">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sensitivity to HU upon overexpression, supports normal growth, no effect in mazEF/relBE or tonB deletions." evidence="17">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No increase in persister cells upon overexpression, does not induce hokB expression, supports normal growth." evidence="19">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sensitivity to HU upon overexpression, supports normal growth, no effect in mazEF/relBE or tonB deletions. No effect on persister cell formation upon overexpression." evidence="10 17 19">
+<original>P</original>
+<variation>V</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on persister cell formation upon overexpression." evidence="19">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on persister cell formation upon overexpression." evidence="19">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sensitivity to HU upon overexpression, supports normal growth, no effect in mazEF/relBE or tonB deletions. No effect on persister cell formation upon overexpression." evidence="17 19">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sensitivity to HU upon overexpression, supports normal growth, no effect in mazEF/relBE or tonB deletions." evidence="17">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="237"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severe growth defect at 42 degrees Celsius. Decreased levels of some ribosomal proteins, altered PTMs of others." evidence="11">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="27"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="45"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="57"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="86"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="99"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="104"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="114"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="127"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="149"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="161"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="172"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="185"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="192"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="198"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="207"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="214"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="221"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="226"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="234"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="240"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="255"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="271"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="278"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="285"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="290"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="315"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="321"/>
+<end position="334"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5M04"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01454"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01231"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11555285"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11976298"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12402086"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12826057"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12855728"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15292126"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15721258"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15836769"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16518617"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16980477"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17578452"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17616600"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19555460"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22863262"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24844575"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26051177"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9743119"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11555285"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12402086"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11555285"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24844575"/>
+</source>
+</evidence>
+<sequence length="390" mass="43286" checksum="3A6EBF56F24B7C47" modified="1995-11-01" version="1">
+MKFVDEASILVVAGDGGNGCVSFRREKYIPKGGPDGGDGGDGGDVWMEADENLNTLIDYR
+FEKSFRAERGQNGASRDCTGKRGKDVTIKVPVGTRVIDQGTGETMGDMTKHGQRLLVAKG
+GWHGLGNTRFKSSVNRTPRQKTNGTPGDKRELLLELMLLADVGMLGMPNAGKSTFIRAVS
+AAKPKVADYPFTTLVPSLGVVRMDNEKSFVVADIPGLIEGAAEGAGLGIRFLKHLERCRV
+LLHLIDIDPIDGTDPVENARIIISELEKYSQDLATKPRWLVFNKIDLLDKVEAEEKAKAI
+AEALGWEDKYYLISAASGLGVKDLCWDVMTFIIENPVVQAEEAKQPEKVEFMWDDYHRQQ
+LEEIAEEDDEDWDDDWDEDDEEGVEFIYKR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-25" modified="2019-05-08" version="101">
+<accession>P0ABU9</accession>
+<accession>P05828</accession>
+<name>TOLQ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 13">Tol-Pal system protein TolQ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1 12">tolQ</name>
+<name type="synonym" evidence="12">fii</name>
+<name type="ordered locus">b0737</name>
+<name type="ordered locus">JW0727</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="2667" last="2674">
+<title>Nucleotide sequence of a gene cluster involved in entry of E colicins and single-stranded DNA of infecting filamentous bacteriophages into Escherichia coli.</title>
+<authorList>
+<person name="Sun T.-P."/>
+<person name="Webster R.E."/>
+</authorList>
+<dbReference type="PubMed" id="3294803"/>
+<dbReference type="DOI" id="10.1128/jb.169.6.2667-2674.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="Mol. Microbiol." volume="5" first="1005" last="1011">
+<title>The tol gene products and the import of macromolecules into Escherichia coli.</title>
+<authorList>
+<person name="Webster R.E."/>
+</authorList>
+<dbReference type="PubMed" id="1683466"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="4485" last="4491">
+<title>Membrane topologies of the TolQ and TolR proteins of Escherichia coli: inactivation of TolQ by a missense mutation in the proposed first transmembrane segment.</title>
+<authorList>
+<person name="Kampfenkel K."/>
+<person name="Braun V."/>
+</authorList>
+<dbReference type="PubMed" id="8331075"/>
+<dbReference type="DOI" id="10.1128/jb.175.14.4485-4491.1993"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="822" last="829">
+<title>Membrane topology and mutational analysis of the TolQ protein of Escherichia coli required for the uptake of macromolecules and cell envelope integrity.</title>
+<authorList>
+<person name="Vianney A."/>
+<person name="Lewin T.M."/>
+<person name="Beyer W.F. Jr."/>
+<person name="Lazzaroni J.C."/>
+<person name="Portalier R."/>
+<person name="Webster R.E."/>
+</authorList>
+<dbReference type="PubMed" id="8300535"/>
+<dbReference type="DOI" id="10.1128/jb.176.3.822-829.1994"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="11078" last="11084">
+<title>Protein complex within Escherichia coli inner membrane. TolA N-terminal domain interacts with TolQ and TolR proteins.</title>
+<authorList>
+<person name="Derouiche R."/>
+<person name="Benedetti H."/>
+<person name="Lazzaroni J.C."/>
+<person name="Lazdunski C."/>
+<person name="Lloubes R."/>
+</authorList>
+<dbReference type="PubMed" id="7744737"/>
+</citation>
+<scope>INTERACTION WITH TOLA</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="J. Bacteriol." volume="181" first="4476" last="4484">
+<title>Role of TolR N-terminal, central, and C-terminal domains in dimerization and interaction with TolA and tolQ.</title>
+<authorList>
+<person name="Journet L."/>
+<person name="Rigal A."/>
+<person name="Lazdunski C."/>
+<person name="Benedetti H."/>
+</authorList>
+<dbReference type="PubMed" id="10419942"/>
+</citation>
+<scope>INTERACTION WITH TOLR</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="42" first="795" last="807">
+<title>The TolQ-TolR proteins energize TolA and share homologies with the flagellar motor proteins MotA-MotB.</title>
+<authorList>
+<person name="Cascales E."/>
+<person name="Lloubes R."/>
+<person name="Sturgis J.N."/>
+</authorList>
+<dbReference type="PubMed" id="11722743"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ALA-177</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="63" first="1008" last="1025">
+<title>The trans-envelope Tol-Pal complex is part of the cell division machinery and required for proper outer-membrane invagination during cell constriction in E. coli.</title>
+<authorList>
+<person name="Gerding M.A."/>
+<person name="Ogata Y."/>
+<person name="Pecora N.D."/>
+<person name="Niki H."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="17233825"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05571.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="Mol. Microbiol." volume="92" first="985" last="1004">
+<title>Polar localization of Escherichia coli chemoreceptors requires an intact Tol-Pal complex.</title>
+<authorList>
+<person name="Santos T.M."/>
+<person name="Lin T.Y."/>
+<person name="Rajendran M."/>
+<person name="Anderson S.M."/>
+<person name="Weibel D.B."/>
+</authorList>
+<dbReference type="PubMed" id="24720726"/>
+<dbReference type="DOI" id="10.1111/mmi.12609"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="3 5 6 7 8 14">Part of the Tol-Pal system, which plays a role in outer membrane invagination during cell division and is important for maintaining outer membrane integrity (PubMed:1683466, PubMed:17233825). Required, with TolR, for the proton motive force-dependent activation of TolA and for TolA-Pal interaction (PubMed:11722743). Is also involved in the uptake of group A colicins (colicins A, E1, E2, E3, and K) and in the uptake of filamentous phage DNA (PubMed:1683466, PubMed:3294803). The Tol-Pal system is also required for polar localization of chemoreceptors clusters (PubMed:24720726).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 9 15">The Tol-Pal system is composed of five core proteins: the inner membrane proteins TolA, TolQ and TolR, the periplasmic protein TolB and the outer membrane protein Pal. They form a network linking the inner and outer membranes and the peptidoglycan layer (PubMed:17233825). TolQ interacts with the N-terminal domain of TolA and with TolR (PubMed:7744737, PubMed:10419942).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 10 11">Cell inner membrane</location>
+<topology evidence="1 10 16">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="6">Accumulates at cell constriction sites. Recruitment to the division site is dependent on FtsN activity.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="6">Mutants lacking the tol-pal cluster suffer delayed outer membrane invagination and contain large outer membrane blebs at constriction sites and cell poles.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 13">Belongs to the ExbB/TolQ family.</text>
+</comment>
+<dbReference type="EMBL" id="M16489">
+<property type="protein sequence ID" value="AAA83919.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73831.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35403.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B25980">
+<property type="entry name" value="BVECTQ"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415265.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000131314.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0ABU9"/>
+<dbReference type="BioGrid" id="4259453">
+<property type="interactions" value="275"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11008N"/>
+<dbReference type="STRING" id="511145.b0737"/>
+<dbReference type="TCDB" id="1.A.30.2.2">
+<property type="family name" value="the h(+)- or na(+)-translocating bacterial flagellar motor/exbbd outer membrane transport energizer (mot/exb) superfamily"/>
+</dbReference>
+<dbReference type="jPOST" id="P0ABU9"/>
+<dbReference type="PaxDb" id="P0ABU9"/>
+<dbReference type="PRIDE" id="P0ABU9"/>
+<dbReference type="EnsemblBacteria" id="AAC73831">
+<property type="protein sequence ID" value="AAC73831"/>
+<property type="gene ID" value="b0737"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35403">
+<property type="protein sequence ID" value="BAA35403"/>
+<property type="gene ID" value="BAA35403"/>
+</dbReference>
+<dbReference type="GeneID" id="948900"/>
+<dbReference type="KEGG" id="ecj:JW0727"/>
+<dbReference type="KEGG" id="eco:b0737"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1535"/>
+<dbReference type="EchoBASE" id="EB1003"/>
+<dbReference type="EcoGene" id="EG11010">
+<property type="gene designation" value="tolQ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E02">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0811">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000134795"/>
+<dbReference type="InParanoid" id="P0ABU9"/>
+<dbReference type="KO" id="K03562"/>
+<dbReference type="PhylomeDB" id="P0ABU9"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11010-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0727-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ABU9"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030313">
+<property type="term" value="C:cell envelope"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043213">
+<property type="term" value="P:bacteriocin transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007049">
+<property type="term" value="P:cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017038">
+<property type="term" value="P:protein import"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02202">
+<property type="entry name" value="TolQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002898">
+<property type="entry name" value="MotA_ExbB_proton_chnl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014163">
+<property type="entry name" value="Tol-Pal_TolQ"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01618">
+<property type="entry name" value="MotA_ExbB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02796">
+<property type="entry name" value="tolQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Tol-Pal system protein TolQ" id="PRO_0000145822">
+<location>
+<begin position="1"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="10 16">
+<location>
+<begin position="1"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="16"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="10 16">
+<location>
+<begin position="37"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="139"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="10 16">
+<location>
+<begin position="160"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="171"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4 10 16">
+<location>
+<begin position="192"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Significantly reduces TolA-Pal interaction." evidence="3">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="177"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02202"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10419942"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11722743"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1683466"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17233825"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24720726"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3294803"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7744737"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8300535"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8331075"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3294803"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1683466"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="17233825"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8331075"/>
+</source>
+</evidence>
+<sequence length="230" mass="25598" checksum="F4356F6C5B0F753C" modified="2005-10-25" version="1">
+MTDMNILDLFLKASLLVKLIMLILIGFSIASWAIIIQRTRILNAAAREAEAFEDKFWSGI
+ELSRLYQESQGKRDNLTGSEQIFYSGFKEFVRLHRANSHAPEAVVEGASRAMRISMNREL
+ENLETHIPFLGTVGSISPYIGLFGTVWGIMHAFIALGAVKQATLQMVAPGIAEALIATAI
+GLFAAIPAVMAYNRLNQRVNKLELNYDNFMEEFTAILHRQAFTVSESNKG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

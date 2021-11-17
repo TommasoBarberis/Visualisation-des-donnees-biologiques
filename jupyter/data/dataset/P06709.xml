@@ -1,0 +1,985 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-07-03" version="180">
+<accession>P06709</accession>
+<accession>Q2M8R4</accession>
+<name>BIRA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Bifunctional ligase/repressor BirA</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="4">Biotin operon repressor</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="4">Biotin--[acetyl-CoA-carboxylase] ligase</fullName>
+<ecNumber evidence="4">6.3.4.15</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName evidence="4">Biotin--protein ligase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="4">Biotin-[acetyl-CoA carboxylase] synthetase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="4">birA</name>
+<name type="synonym">bioR</name>
+<name type="synonym">dhbB</name>
+<name type="ordered locus">b3973</name>
+<name type="ordered locus">JW3941</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Gene" volume="35" first="321" last="331">
+<title>Nucleotide sequence of the birA gene encoding the biotin operon repressor and biotin holoenzyme synthetase functions of Escherichia coli.</title>
+<authorList>
+<person name="Howard P.K."/>
+<person name="Shaw J."/>
+<person name="Otsuka A.J."/>
+</authorList>
+<dbReference type="PubMed" id="3899863"/>
+<dbReference type="DOI" id="10.1016/0378-1119(85)90011-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1986" name="Gene" volume="44" first="255" last="261">
+<title>DNA-binding and enzymatic domains of the bifunctional biotin operon repressor (BirA) of Escherichia coli.</title>
+<authorList>
+<person name="Buoncristiani M.R."/>
+<person name="Howard P.K."/>
+<person name="Otsuka A.J."/>
+</authorList>
+<dbReference type="PubMed" id="3536662"/>
+<dbReference type="DOI" id="10.1016/0378-1119(86)90189-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="1690" last="1693">
+<title>Cloning and identification of the Escherichia coli murB DNA sequence, which encodes UDP-N-acetylenolpyruvoylglucosamine reductase.</title>
+<authorList>
+<person name="Pucci M.J."/>
+<person name="Discotto L.F."/>
+<person name="Dougherty T.J."/>
+</authorList>
+<dbReference type="PubMed" id="1311302"/>
+<dbReference type="DOI" id="10.1128/jb.174.5.1690-1693.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-76</scope>
+<source>
+<strain>RDD012</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="6411" last="6417">
+<title>Cloning, sequencing, and expression of the pantothenate kinase (coaA) gene of Escherichia coli.</title>
+<authorList>
+<person name="Song W.-J."/>
+<person name="Jackowski S."/>
+</authorList>
+<dbReference type="PubMed" id="1328157"/>
+<dbReference type="DOI" id="10.1128/jb.174.20.6411-6417.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 226-321</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="15167" last="15173">
+<title>Purification and properties of the biotin repressor. A bifunctional protein.</title>
+<authorList>
+<person name="Eisenberg M.A."/>
+<person name="Prakash O."/>
+<person name="Hsiung S.C."/>
+</authorList>
+<dbReference type="PubMed" id="6129246"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1989" name="Cell" volume="58" first="427" last="429">
+<title>The E. coli bio operon: transcriptional repression by an essential protein modification enzyme.</title>
+<authorList>
+<person name="Cronan J.E. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="2667763"/>
+<dbReference type="DOI" id="10.1016/0092-8674(89)90421-2"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1994" name="Biochemistry" volume="33" first="7354" last="7360">
+<title>Kinetics of biotinyl-5'-adenylate synthesis catalyzed by the Escherichia coli repressor of biotin biosynthesis and the stability of the enzyme-product complex.</title>
+<authorList>
+<person name="Xu Y."/>
+<person name="Beckett D."/>
+</authorList>
+<dbReference type="PubMed" id="8003500"/>
+<dbReference type="DOI" id="10.1021/bi00189a041"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="325" first="937" last="948">
+<title>Coupling of protein assembly and DNA binding: biotin repressor dimerization precedes biotin operator binding.</title>
+<authorList>
+<person name="Streaker E.D."/>
+<person name="Beckett D."/>
+</authorList>
+<dbReference type="PubMed" id="12527300"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)01308-6"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="36029" last="36039">
+<title>The wing of a winged helix-turn-helix transcription factor organizes the active site of BirA, a bifunctional repressor/ligase.</title>
+<authorList>
+<person name="Chakravartty V."/>
+<person name="Cronan J.E."/>
+</authorList>
+<dbReference type="PubMed" id="24189073"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.525618"/>
+</citation>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF THR-52; GLY-57 AND TYR-58</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2013" name="J. Mol. Biol." volume="425" first="4584" last="4594">
+<title>Protein:protein interactions in control of a transcriptional switch.</title>
+<authorList>
+<person name="Adikaram P.R."/>
+<person name="Beckett D."/>
+</authorList>
+<dbReference type="PubMed" id="23896299"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2013.07.029"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH BCCP</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="9257" last="9261">
+<title>Escherichia coli biotin holoenzyme synthetase/bio repressor crystal structure delineates the biotin- and DNA-binding domains.</title>
+<authorList>
+<person name="Wilson K.P."/>
+<person name="Shewchuk L.M."/>
+<person name="Brennan R.G."/>
+<person name="Otsuka A.J."/>
+<person name="Matthews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="1409631"/>
+<dbReference type="DOI" id="10.1073/pnas.89.19.9257"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH BIOTIN</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="6045" last="6050">
+<title>Corepressor-induced organization and assembly of the biotin repressor: a model for allosteric activation of a transcriptional regulator.</title>
+<authorList>
+<person name="Weaver L.H."/>
+<person name="Kwon K."/>
+<person name="Beckett D."/>
+<person name="Matthews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="11353844"/>
+<dbReference type="DOI" id="10.1073/pnas.111128198"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH BIOTIN</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="357" first="509" last="523">
+<title>Co-repressor induced order and biotin repressor dimerization: a case for divergent followed by convergent evolution.</title>
+<authorList>
+<person name="Wood Z.A."/>
+<person name="Weaver L.H."/>
+<person name="Brown P.H."/>
+<person name="Beckett D."/>
+<person name="Matthews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="16438984"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.12.066"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) IN COMPLEX WITH BIOTINOL-5'-AMP</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+</reference>
+<comment type="function">
+<text evidence="4 7 12 13 14">Acts both as a biotin--[acetyl-CoA-carboxylase] ligase and a biotin-operon repressor. In the presence of ATP, BirA activates biotin to form the BirA-biotinyl-5'-adenylate (BirA-bio-5'-AMP or holoBirA) complex. HoloBirA can either transfer the biotinyl moiety to the biotin carboxyl carrier protein (BCCP) subunit of acetyl-CoA carboxylase, or bind to the biotin operator site and inhibit transcription of the operon.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="4 13 14">
+<text>ATP + biotin + L-lysyl-[protein] = AMP + diphosphate + H(+) + N(6)-biotinyl-L-lysyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:11756"/>
+<dbReference type="Rhea" id="RHEA-COMP:9752"/>
+<dbReference type="Rhea" id="RHEA-COMP:10505"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29969"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57586"/>
+<dbReference type="ChEBI" id="CHEBI:83144"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.3.4.15"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="10">The switch between the enzymatic activity and the repressor activity is regulated by cellular demand for biotin. The switch occurs by swapping of protein interaction partners by holoBirA. In conditions of high biotin demand, holoBirA associates with apoBCCP to transfer biotin. In conditions of low biotin demand, holoBirA dimerizes, binds DNA and represses transcription of the biotin operon.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 7 8 9 10 13">Monomer in solution. Interacts with BCCP. Homodimerizes to bind DNA. Interaction with the corepressor bio-5'-AMP increases dimerization.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-545740"/>
+<interactant intactId="EBI-561432">
+<id>P0A761</id>
+<label>nanE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="domain">
+<text evidence="6 8 9 11">Contains an N-terminal helix-turn-helix DNA-binding domain, connected via a linker to the central catalytic domain and the C-terminal domain, which plays roles in dimerization, catalytic function and DNA binding. The N-terminal domain is required for both ligase and repressor activities. It may orient the active site and thereby play an important role in enzymatic activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the biotin--protein ligase family.</text>
+</comment>
+<dbReference type="EC" id="6.3.4.15" evidence="4"/>
+<dbReference type="EMBL" id="M10123">
+<property type="protein sequence ID" value="AAA23520.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15820">
+<property type="protein sequence ID" value="AAA23521.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L14557">
+<property type="protein sequence ID" value="AAA24186.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43075.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76951.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77342.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B24029">
+<property type="entry name" value="BVECBF"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418404.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000654630.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1BIA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-321"/>
+</dbReference>
+<dbReference type="PDB" id="1BIB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-321"/>
+</dbReference>
+<dbReference type="PDB" id="1HXD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1-321"/>
+</dbReference>
+<dbReference type="PDB" id="1K67">
+<property type="method" value="Model"/>
+<property type="chains" value="A=65-317"/>
+</dbReference>
+<dbReference type="PDB" id="2EWN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=1-321"/>
+</dbReference>
+<dbReference type="PDB" id="4WF2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.31"/>
+<property type="chains" value="A=1-321"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BIA"/>
+<dbReference type="PDBsum" id="1BIB"/>
+<dbReference type="PDBsum" id="1HXD"/>
+<dbReference type="PDBsum" id="1K67"/>
+<dbReference type="PDBsum" id="2EWN"/>
+<dbReference type="PDBsum" id="4WF2"/>
+<dbReference type="SMR" id="P06709"/>
+<dbReference type="BioGrid" id="4263391">
+<property type="interactions" value="269"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9224N"/>
+<dbReference type="IntAct" id="P06709">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3973"/>
+<dbReference type="BindingDB" id="P06709"/>
+<dbReference type="ChEMBL" id="CHEMBL3559644"/>
+<dbReference type="DrugBank" id="DB04651">
+<property type="generic name" value="BIOTINOL-5-AMP"/>
+</dbReference>
+<dbReference type="MoonProt" id="P06709"/>
+<dbReference type="jPOST" id="P06709"/>
+<dbReference type="PaxDb" id="P06709"/>
+<dbReference type="PRIDE" id="P06709"/>
+<dbReference type="EnsemblBacteria" id="AAC76951">
+<property type="protein sequence ID" value="AAC76951"/>
+<property type="gene ID" value="b3973"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77342">
+<property type="protein sequence ID" value="BAE77342"/>
+<property type="gene ID" value="BAE77342"/>
+</dbReference>
+<dbReference type="GeneID" id="948469"/>
+<dbReference type="KEGG" id="ecj:JW3941"/>
+<dbReference type="KEGG" id="eco:b3973"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2735"/>
+<dbReference type="EchoBASE" id="EB0121"/>
+<dbReference type="EcoGene" id="EG10123">
+<property type="gene designation" value="birA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105HJX">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0340">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1654">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000041812"/>
+<dbReference type="InParanoid" id="P06709"/>
+<dbReference type="KO" id="K03524"/>
+<dbReference type="PhylomeDB" id="P06709"/>
+<dbReference type="BioCyc" id="EcoCyc:BIOTINLIG-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3941-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:BIOTINLIG-MONOMER"/>
+<dbReference type="BRENDA" id="6.3.4.15">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P06709"/>
+<dbReference type="PRO" id="PR:P06709"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017053">
+<property type="term" value="C:transcriptional repressor complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000984">
+<property type="term" value="F:bacterial-type RNA polymerase regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009374">
+<property type="term" value="F:biotin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004077">
+<property type="term" value="F:biotin-[acetyl-CoA-carboxylase] ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009102">
+<property type="term" value="P:biotin biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006768">
+<property type="term" value="P:biotin metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009305">
+<property type="term" value="P:protein biotinylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd16442">
+<property type="entry name" value="BPL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00349"/>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00978">
+<property type="entry name" value="Bifunct_BirA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030855">
+<property type="entry name" value="Bifunct_BirA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004408">
+<property type="entry name" value="Biotin_CoA_COase_ligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004409">
+<property type="entry name" value="Biotin_operon_repress_HTH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003142">
+<property type="entry name" value="BPL_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004143">
+<property type="entry name" value="BPL_LPL_catalytic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013196">
+<property type="entry name" value="HTH_11"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008988">
+<property type="entry name" value="Transcriptional_repressor_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02237">
+<property type="entry name" value="BPL_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03099">
+<property type="entry name" value="BPL_LplA_LipB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08279">
+<property type="entry name" value="HTH_11"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50037">
+<property type="entry name" value="SSF50037"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00121">
+<property type="entry name" value="birA_ligase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00122">
+<property type="entry name" value="birA_repr_reg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51733">
+<property type="entry name" value="BPL_LPL_CATALYTIC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0092">Biotin</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Bifunctional ligase/repressor BirA" id="PRO_0000064932">
+<location>
+<begin position="1"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="domain" description="BPL/LPL catalytic" evidence="5">
+<location>
+<begin position="67"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="4">
+<location>
+<begin position="22"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="region of interest" description="Biotin binding">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="region of interest" description="Biotin binding">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="binding site" description="Biotin" evidence="4 6 8">
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="binding site" description="Biotin" evidence="4 6 8">
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RDD012.">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RDD012.">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect repressor activity." evidence="11">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="5-fold increase of repressor activity. Increases binding to DNA." evidence="11">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of repressor activity. Does not bind DNA." evidence="11">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of repressor activity." evidence="11">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect repressor activity." evidence="11">
+<original>Y</original>
+<variation>T</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="22"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="33"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="69"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="76"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="85"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="90"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="96"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="129"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="147"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="173"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="176"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="182"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="195"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="199"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="226"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="235"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="259"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="262"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="270"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="274"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="283"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="294"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="298"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="305"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="313"/>
+<end position="316"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1BIA"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1HXD"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EWN"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00978"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01067"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11353844"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12527300"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1409631"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16438984"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23896299"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24189073"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2667763"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6129246"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8003500"/>
+</source>
+</evidence>
+<sequence length="321" mass="35312" checksum="B80AEBCEEE1BD2D4" modified="1988-01-01" version="1">
+MKDNTVPLKLIALLANGEFHSGEQLGETLGMSRAAINKHIQTLRDWGVDVFTVPGKGYSL
+PEPIQLLNAKQILGQLDGGSVAVLPVIDSTNQYLLDRIGELKSGDACIAEYQQAGRGRRG
+RKWFSPFGANLYLSMFWRLEQGPAAAIGLSLVIGIVMAEVLRKLGADKVRVKWPNDLYLQ
+DRKLAGILVELTGKTGDAAQIVIGAGINMAMRRVEESVVNQGWITLQEAGINLDRNTLAA
+MLIRELRAALELFEQEGLAPYLSRWEKLDNFINRPVKLIIGDKEIFGISRGIDKQGALLL
+EQDGIIKPWMGGEISLRSAEK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

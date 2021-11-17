@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-05-08" version="141">
+<accession>P37651</accession>
+<accession>Q2M7J3</accession>
+<name>GUN_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Endoglucanase</fullName>
+<ecNumber>3.2.1.4</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Carboxymethylcellulase</fullName>
+<shortName>CMCase</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Cellulase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Endo-1,4-beta-glucanase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">bcsZ</name>
+<name type="synonym">bcsC</name>
+<name type="synonym">yhjM</name>
+<name type="ordered locus">b3531</name>
+<name type="ordered locus">JW3499</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Mol. Gen. Genet." volume="261" first="236" last="241">
+<title>Cloning of the Escherichia coli endo-1,4-D-glucanase gene and identification of its product.</title>
+<authorList>
+<person name="Park Y.W."/>
+<person name="Yun H.D."/>
+</authorList>
+<dbReference type="PubMed" id="10102357"/>
+<dbReference type="DOI" id="10.1007/s004380050962"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="39" first="1452" last="1463">
+<title>The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix.</title>
+<authorList>
+<person name="Zogaj X."/>
+<person name="Nimtz M."/>
+<person name="Rohde M."/>
+<person name="Bokranz W."/>
+<person name="Roemling U."/>
+</authorList>
+<dbReference type="PubMed" id="11260463"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02337.x"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>ECOR 10</strain>
+<strain>ECOR 12</strain>
+<strain>TOB1</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Hydrolyzes carboxymethylcellulose.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Endohydrolysis of (1->4)-beta-D-glucosidic linkages in cellulose, lichenin and cereal beta-D-glucans.</text>
+<dbReference type="EC" id="3.2.1.4"/>
+</reaction>
+</comment>
+<comment type="pathway">
+<text>Glycan metabolism; bacterial cellulose biosynthesis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="miscellaneous">
+<text>The genes bscA, bcsB, bcsZ and bcsC are constitutively transcribed but cellulose synthesis occurs only when DgcC, a putative transmembrane protein regulated by CsgD, is expressed. Cellulose production is abolished in E.coli K12.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the glycosyl hydrolase 8 (cellulase D) family.</text>
+</comment>
+<dbReference type="EC" id="3.2.1.4"/>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18508.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76556.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77763.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S47752">
+<property type="entry name" value="S47752"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417988.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001311203.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3QXF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B/C/D=22-368"/>
+</dbReference>
+<dbReference type="PDB" id="3QXQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D=22-368"/>
+</dbReference>
+<dbReference type="PDBsum" id="3QXF"/>
+<dbReference type="PDBsum" id="3QXQ"/>
+<dbReference type="SMR" id="P37651"/>
+<dbReference type="BioGrid" id="4263272">
+<property type="interactions" value="100"/>
+</dbReference>
+<dbReference type="IntAct" id="P37651">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3531"/>
+<dbReference type="CAZy" id="GH8">
+<property type="family name" value="Glycoside Hydrolase Family 8"/>
+</dbReference>
+<dbReference type="TCDB" id="4.D.3.1.6">
+<property type="family name" value="the glycan glucosyl transferase (opgh) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P37651"/>
+<dbReference type="PaxDb" id="P37651"/>
+<dbReference type="PRIDE" id="P37651"/>
+<dbReference type="EnsemblBacteria" id="AAC76556">
+<property type="protein sequence ID" value="AAC76556"/>
+<property type="gene ID" value="b3531"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77763">
+<property type="protein sequence ID" value="BAE77763"/>
+<property type="gene ID" value="BAE77763"/>
+</dbReference>
+<dbReference type="GeneID" id="948046"/>
+<dbReference type="KEGG" id="ecj:JW3499"/>
+<dbReference type="KEGG" id="eco:b3531"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3642"/>
+<dbReference type="EchoBASE" id="EB2167"/>
+<dbReference type="EcoGene" id="EG12258">
+<property type="gene designation" value="bcsZ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105K2Z">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3405">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000259088"/>
+<dbReference type="InParanoid" id="P37651"/>
+<dbReference type="KO" id="K20542"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12258-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3499-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12258-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00694"/>
+<dbReference type="PRO" id="PR:P37651"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008810">
+<property type="term" value="F:cellulase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030245">
+<property type="term" value="P:cellulose catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.50.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008928">
+<property type="entry name" value="6-hairpin_glycosidase_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012341">
+<property type="entry name" value="6hp_glycosidase-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002037">
+<property type="entry name" value="Glyco_hydro_8"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019834">
+<property type="entry name" value="Glyco_hydro_8_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01270">
+<property type="entry name" value="Glyco_hydro_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00735">
+<property type="entry name" value="GLHYDRLASE8"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48208">
+<property type="entry name" value="SSF48208"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00812">
+<property type="entry name" value="GLYCOSYL_HYDROL_F8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0119">Carbohydrate metabolism</keyword>
+<keyword id="KW-0136">Cellulose degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0326">Glycosidase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0624">Polysaccharide degradation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="3">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Endoglucanase" id="PRO_0000007938">
+<location>
+<begin position="22"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="2">
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="4">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="26"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="54"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="70"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="96"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="115"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="135"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="153"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="157"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="160"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="165"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="175"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="185"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="192"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="198"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="220"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="226"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="239"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="242"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="245"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="259"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="269"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="283"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="287"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="292"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="298"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="311"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="331"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="347"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3QXF"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10058"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="368" mass="41700" checksum="6539C03D4D0CFDEA" modified="1994-10-01" version="1" precursor="true">
+MNVLRSGIVTMLLLAAFSVQAACTWPAWEQFKKDYISQEGRVIDPSDARKITTSEGQSYG
+MFSALAANDRAAFDNILDWTQNNLAQGSLKERLPAWLWGKKENSKWEVLDSNSASDGDVW
+MAWSLLEAGRLWKEQRYTDIGSALLKRIAREEVVTVPGLGSMLLPGKVGFAEDNSWRFNP
+SYLPPTLAQYFTRFGAPWTTLRETNQRLLLETAPKGFSPDWVRYEKDKGWQLKAEKTLIS
+SYDAIRVYMWVGMMPDSDPQKARMLNRFKPMATFTEKNGYPPEKVDVATGKAQGKGPVGF
+SAAMLPFLQNRDAQAVQRQRVADNFPGSDAYYNYVLTLFGQGWDQHRFRFSTKGELLPDW
+GQECANSH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

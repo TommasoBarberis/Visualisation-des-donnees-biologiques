@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-05-01" modified="2019-06-05" version="141">
+<accession>P25772</accession>
+<accession>P78120</accession>
+<accession>Q2M7W0</accession>
+<name>LIGB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA ligase B</fullName>
+<ecNumber>6.5.1.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Polydeoxyribonucleotide synthase [NAD(+)] B</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ligB</name>
+<name type="synonym">yicF</name>
+<name type="ordered locus">b3647</name>
+<name type="ordered locus">JW3622</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Genomics" volume="16" first="551" last="561">
+<title>DNA sequence and analysis of 136 kilobases of the Escherichia coli genome: organizational symmetry around the origin of replication.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7686882"/>
+<dbReference type="DOI" id="10.1006/geno.1993.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="14316" last="14321">
+<title>Guanylate kinase of Escherichia coli K-12.</title>
+<authorList>
+<person name="Gentry D."/>
+<person name="Bengra C."/>
+<person name="Ikehara K."/>
+<person name="Cashel M."/>
+</authorList>
+<dbReference type="PubMed" id="8390989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-217</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Nucleic Acids Res." volume="29" first="4930" last="4934">
+<title>A second NAD(+)-dependent DNA ligase (LigB) in Escherichia coli.</title>
+<authorList>
+<person name="Sriskanda V."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="11812821"/>
+<dbReference type="DOI" id="10.1093/nar/29.24.4930"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF LYS-124</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>NAD(+) + (deoxyribonucleotide)(n)-3'-hydroxyl + 5'-phospho-(deoxyribonucleotide)(m) = (deoxyribonucleotide)(n+m) + AMP + beta-nicotinamide D-nucleotide.</text>
+<dbReference type="EC" id="6.5.1.2"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<cofactor evidence="1">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+</comment>
+<comment type="miscellaneous">
+<text>Considerably less active in nick joining than LigA.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the NAD-dependent DNA ligase family. LigB subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA62000" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB88710" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="6.5.1.2"/>
+<dbReference type="EMBL" id="L10328">
+<property type="protein sequence ID" value="AAA62000.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76671.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77646.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M84400">
+<property type="protein sequence ID" value="AAB88710.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65166">
+<property type="entry name" value="A65166"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418104.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000870036.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P25772"/>
+<dbReference type="BioGrid" id="4262567">
+<property type="interactions" value="167"/>
+</dbReference>
+<dbReference type="IntAct" id="P25772">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3647"/>
+<dbReference type="PaxDb" id="P25772"/>
+<dbReference type="PRIDE" id="P25772"/>
+<dbReference type="DNASU" id="948164"/>
+<dbReference type="EnsemblBacteria" id="AAC76671">
+<property type="protein sequence ID" value="AAC76671"/>
+<property type="gene ID" value="b3647"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77646">
+<property type="protein sequence ID" value="BAE77646"/>
+<property type="gene ID" value="BAE77646"/>
+</dbReference>
+<dbReference type="GeneID" id="948164"/>
+<dbReference type="KEGG" id="ecj:JW3622"/>
+<dbReference type="KEGG" id="eco:b3647"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3767"/>
+<dbReference type="EchoBASE" id="EB1310"/>
+<dbReference type="EcoGene" id="EG11334">
+<property type="gene designation" value="ligB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410649J">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0272">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000267776"/>
+<dbReference type="KO" id="K01972"/>
+<dbReference type="PhylomeDB" id="P25772"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11334-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3622-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11334-MONOMER"/>
+<dbReference type="PRO" id="PR:P25772"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003911">
+<property type="term" value="F:DNA ligase (NAD+) activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006266">
+<property type="term" value="P:DNA ligation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051103">
+<property type="term" value="P:DNA ligation involved in DNA repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00114">
+<property type="entry name" value="LIGANc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01587">
+<property type="entry name" value="DNA_ligase_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018239">
+<property type="entry name" value="DNA_ligase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020923">
+<property type="entry name" value="DNA_ligase_B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033136">
+<property type="entry name" value="DNA_ligase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013839">
+<property type="entry name" value="DNAligase_adenylation"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013840">
+<property type="entry name" value="DNAligase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004150">
+<property type="entry name" value="NAD_DNA_ligase_OB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010994">
+<property type="entry name" value="RuvA_2-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01653">
+<property type="entry name" value="DNA_ligase_aden"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03120">
+<property type="entry name" value="DNA_ligase_OB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00532">
+<property type="entry name" value="LIGANc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47781">
+<property type="entry name" value="SSF47781"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01055">
+<property type="entry name" value="DNA_LIGASE_N1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01056">
+<property type="entry name" value="DNA_LIGASE_N2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="DNA ligase B" id="PRO_0000161776">
+<location>
+<begin position="1"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="active site" description="N6-AMP-lysine intermediate" evidence="2">
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="1">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11812821"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="560" mass="63179" checksum="2C1BA1F9B247A599" modified="1993-07-01" version="2">
+MKVWMAILIGILCWQSSVWAVCPAWSPARAQEEISRLQQQIKQWDDDYWKEGKSEVEDGV
+YDQLSARLTQWQRCFGSEPRDVMMPPLNGAVMHPVAHTGVRKMVDKNALSLWMRERSDLW
+VQPKVDGVAVTLVYRDGKLNKAISRGNGLKGEDWTQKVSLISAVPQTVSGPLANSTLQGE
+IFLQREGHIQQQMGGINARAKVAGLMMRQDDSDTLNSLGVFVWAWPDGPQLMSDRLKELA
+TAGFTLTQTYTRAVKNADEVARVRNEWWKAELPFVTDGVVVRAAKEPESRHWLPGQAEWL
+VAWKYQPVAQVAEVKAIQFAVGKSGKISVVASLAPVMLDDKKVQRVNIGSVRRWQEWDIA
+PGDQILVSLAGQGIPRIDDVVWRGAERTKPTPPENRFNSLTCYFASDVCQEQFISRLVWL
+GAKQVLGLDGIGEAGWRALHQTHRFEHIFSWLLLTPEQLQNTPGIAKSKSAQLWHQFNLA
+RKQPFTRWVMAMGIPLTRAALNASDERSWSQLLFSTEQFWQQLPGTGSGRARQVIEWKEN
+AQIKKLGSWLAAQQITGFEP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

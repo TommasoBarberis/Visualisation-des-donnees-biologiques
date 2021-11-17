@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-05-08" version="137">
+<accession>P32717</accession>
+<accession>Q2M6M1</accession>
+<name>YJCS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative alkyl/aryl-sulfatase YjcS</fullName>
+<ecNumber>3.1.6.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yjcS</name>
+<name type="ordered locus">b4083</name>
+<name type="ordered locus">JW5721</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO 614</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="3">Belongs to the metallo-beta-lactamase superfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="3">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC43177" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.1.6.-"/>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43177.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77044.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78085.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65217">
+<property type="entry name" value="B65217"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418507.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001066019.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4PDX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=30-661"/>
+</dbReference>
+<dbReference type="PDBsum" id="4PDX"/>
+<dbReference type="SMR" id="P32717"/>
+<dbReference type="BioGrid" id="4262954">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4083"/>
+<dbReference type="jPOST" id="P32717"/>
+<dbReference type="PaxDb" id="P32717"/>
+<dbReference type="PRIDE" id="P32717"/>
+<dbReference type="EnsemblBacteria" id="AAC77044">
+<property type="protein sequence ID" value="AAC77044"/>
+<property type="gene ID" value="b4083"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78085">
+<property type="protein sequence ID" value="BAE78085"/>
+<property type="gene ID" value="BAE78085"/>
+</dbReference>
+<dbReference type="GeneID" id="948597"/>
+<dbReference type="KEGG" id="ecj:JW5721"/>
+<dbReference type="KEGG" id="eco:b4083"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4209"/>
+<dbReference type="EchoBASE" id="EB1898"/>
+<dbReference type="EcoGene" id="EG11955">
+<property type="gene designation" value="yjcS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EUZ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2015">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000050609"/>
+<dbReference type="InParanoid" id="P32717"/>
+<dbReference type="PhylomeDB" id="P32717"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11955-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5721-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11955-MONOMER"/>
+<dbReference type="PRO" id="PR:P32717"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018741">
+<property type="term" value="F:alkyl sulfatase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046983">
+<property type="term" value="F:protein dimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018909">
+<property type="term" value="P:dodecyl sulfate metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.880">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1050.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038536">
+<property type="entry name" value="Alkyl/aryl-sulf_dimr_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029229">
+<property type="entry name" value="Alkyl_sulf_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029228">
+<property type="entry name" value="Alkyl_sulf_dimr"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001279">
+<property type="entry name" value="Metallo-B-lactamas"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036866">
+<property type="entry name" value="RibonucZ/Hydroxyglut_hydro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036527">
+<property type="entry name" value="SCP2_sterol-bd_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14864">
+<property type="entry name" value="Alkyl_sulf_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14863">
+<property type="entry name" value="Alkyl_sulf_dimr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00753">
+<property type="entry name" value="Lactamase_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00849">
+<property type="entry name" value="Lactamase_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55718">
+<property type="entry name" value="SSF55718"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56281">
+<property type="entry name" value="SSF56281"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="chain" description="Putative alkyl/aryl-sulfatase YjcS" id="PRO_0000169726">
+<location>
+<begin position="30"/>
+<end position="661"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC43177." ref="1" evidence="3">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="614"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="38"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="57"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="71"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="83"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="87"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="104"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="117"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="125"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="136"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="154"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="165"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="173"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="180"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="183"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="186"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="195"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="202"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="211"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="218"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="223"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="234"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="249"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="265"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="274"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="280"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="295"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="301"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="305"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="330"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="345"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="350"/>
+<end position="352"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="354"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="359"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="362"/>
+<end position="388"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="393"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="404"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="410"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="415"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="419"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="438"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="446"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="460"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="476"/>
+<end position="489"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="494"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="514"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="544"/>
+<end position="547"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="550"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="563"/>
+<end position="566"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="570"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="582"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="591"/>
+<end position="597"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="603"/>
+<end position="607"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="610"/>
+<end position="617"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="623"/>
+<end position="628"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="629"/>
+<end position="631"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="633"/>
+<end position="636"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="640"/>
+<end position="645"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="657"/>
+<end position="659"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4PDX"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="661" mass="73151" checksum="64D5037ACEF5E455" modified="1998-07-15" version="2" precursor="true">
+MNNSRLFRLSRIVIALTAASGMMVNTANAKEEAKAATQYTQQVNQNYAKSLPFSDRQDFD
+DAQRGFIAPLLDEGILRDANGKVYYRADDYKFDINAAAPETVNPSLWRQSQINGISGLFK
+VTDKMYQVRGQDISNITFVEGEKGIIVIDPLVTPPAAKAALDLYFQHRPQKPIVAVIYTH
+SHTDHYGGVKGIISEADVKSGKVQVIAPAGFMDEAISENVLAGNIMSRRALYSYGLLLPH
+NAQGNVGNGLGVTLATGDPSIIAPTKTIVRTGEKMIIDGLEFDFLMTPGSEAPAEMHFYI
+PALKALCTAENATHTLHNFYTLRGAKTRDTSKWTEYLNETLDMWGNDAEVLFMPHTWPVW
+GNKHINDYIGKYRDTIKYIHDQTLHLANQGYTMNEIGDMIKLPPALANNWASRGYYGSVS
+HNARAVYNFYLGYYDGNPANLHPYGQVEMGKRYVQALGGSARVINLAQEANKQGDYRWSA
+ELLKQVIAANPGDQVAKNLQANNFEQLGYQAESATWRGFYLTGAKELREGVHKFSHGTTG
+SPDTIRGMSVEMLFDFMAVRLDSAKAAGKNISLNFNMSNGDNLNLTLNDSVLNYRKTLQP
+QADASFYISREDLHAVLTGQAKMADLVKAKKAKIIGNGAKLEEIIACLDNFDLWVNIVTP
+N
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

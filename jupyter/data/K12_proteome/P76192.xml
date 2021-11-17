@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-05-08" version="117">
+<accession>P76192</accession>
+<accession>P71277</accession>
+<accession>Q2MB58</accession>
+<name>YDHV_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Uncharacterized oxidoreductase YdhV</fullName>
+<ecNumber>1.-.-.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ydhV</name>
+<name type="ordered locus">b1673</name>
+<name type="ordered locus">JW5272</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="1105" last="1111">
+<title>Analysis of the boundaries of Salmonella pathogenicity island 2 and the corresponding chromosomal region of Escherichia coli K-12.</title>
+<authorList>
+<person name="Hensel M."/>
+<person name="Shea J.E."/>
+<person name="Baeumler A.J."/>
+<person name="Gleeson C."/>
+<person name="Blattner F.R."/>
+<person name="Holden D.W."/>
+</authorList>
+<dbReference type="PubMed" id="9023191"/>
+<dbReference type="DOI" id="10.1128/jb.179.4.1105-1111.1997"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Microbiology" volume="154" first="608" last="618">
+<title>Characterization of the Escherichia coli K-12 ydhYVWXUT operon: regulation by FNR, NarL and NarP.</title>
+<authorList>
+<person name="Partridge J.D."/>
+<person name="Browning D.F."/>
+<person name="Xu M."/>
+<person name="Newnham L.J."/>
+<person name="Scott C."/>
+<person name="Roberts R.E."/>
+<person name="Poole R.K."/>
+<person name="Green J."/>
+</authorList>
+<dbReference type="PubMed" id="18227264"/>
+<dbReference type="DOI" id="10.1099/mic.0.2007/012146-0"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="1">Binds 1 [4Fe-4S] cluster per subunit.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mo-molybdopterin</name>
+<dbReference type="ChEBI" id="CHEBI:71302"/>
+</cofactor>
+<cofactor evidence="1">
+<name>tungstopterin</name>
+<dbReference type="ChEBI" id="CHEBI:30402"/>
+</cofactor>
+<text evidence="1">Binds 1 Mo-molybdopterin (Mo-MPT) or 1 tungstopterin cofactor per subunit.</text>
+</comment>
+<comment type="induction">
+<text evidence="2">Up-regulated by the oxygen-responsive transcription factor FNR under anaerobic conditions. Repressed in the presence of nitrate or nitrite via the two-component systems NarXL and NarPQ, respectively.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the AOR/FOR family.</text>
+</comment>
+<comment type="sequence caution" evidence="3">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB47949" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="1.-.-.-"/>
+<dbReference type="EMBL" id="U68703">
+<property type="protein sequence ID" value="AAB47949.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74743.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76498.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64925">
+<property type="entry name" value="A64925"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416188.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001273527.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4260274">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1673"/>
+<dbReference type="PaxDb" id="P76192"/>
+<dbReference type="PRIDE" id="P76192"/>
+<dbReference type="EnsemblBacteria" id="AAC74743">
+<property type="protein sequence ID" value="AAC74743"/>
+<property type="gene ID" value="b1673"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76498">
+<property type="protein sequence ID" value="BAE76498"/>
+<property type="gene ID" value="BAE76498"/>
+</dbReference>
+<dbReference type="GeneID" id="948756"/>
+<dbReference type="KEGG" id="ecj:JW5272"/>
+<dbReference type="KEGG" id="eco:b1673"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.586"/>
+<dbReference type="EchoBASE" id="EB3714"/>
+<dbReference type="EcoGene" id="EG13956">
+<property type="gene designation" value="ydhV"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105WE2">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2414">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000012376"/>
+<dbReference type="InParanoid" id="P76192"/>
+<dbReference type="PhylomeDB" id="P76192"/>
+<dbReference type="BioCyc" id="EcoCyc:G6901-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5272-MONOMER"/>
+<dbReference type="PRO" id="PR:P76192"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009055">
+<property type="term" value="F:electron transfer activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016625">
+<property type="term" value="F:oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.569.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.599.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.60.9.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013984">
+<property type="entry name" value="Ald_Fedxn_OxRdtase_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013985">
+<property type="entry name" value="Ald_Fedxn_OxRdtase_dom3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013983">
+<property type="entry name" value="Ald_Fedxn_OxRdtase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036503">
+<property type="entry name" value="Ald_Fedxn_OxRdtase_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001203">
+<property type="entry name" value="OxRdtase_Ald_Fedxn_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036021">
+<property type="entry name" value="Tungsten_al_ferr_oxy-like_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01314">
+<property type="entry name" value="AFOR_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02730">
+<property type="entry name" value="AFOR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00790">
+<property type="entry name" value="AFOR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48310">
+<property type="entry name" value="SSF48310"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56228">
+<property type="entry name" value="SSF56228"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Uncharacterized oxidoreductase YdhV" id="PRO_0000168980">
+<location>
+<begin position="1"/>
+<end position="700"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="558"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18227264"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="700" mass="77877" checksum="AA8C1A670C02D804" modified="1997-02-01" version="1">
+MANGWTGNILRVNLTTGNITLEDSSKFKSFVGGMGFGYKIMYDEVPPGTKPFDEANKLVF
+ATGPLTGSGAPCSSRVNITSLSTFTKGNLVVDAHMGGFFAAQMKFAGYDVIIIEGKAKSP
+VWLKIKDDKVSLEKADFLWGKGTRATTEEICRLTSPETCVAAIGQAGENLVPLSGMLNSR
+NHSGGAGTGAIMGSKNLKAIAVEGTKGVNIADRQEMKRLNDYMMTELIGANNNHVVPSTP
+QSWAEYSDPKSRWTARKGLFWGAAEGGPIETGEIPPGNQNTVGFRTYKSVFDLGPAAEKY
+TVKMSGCHSCPIRCMTQMNIPRVKEFGVPSTGGNTCVANFVHTTIFPNGPKDFEDKDDGR
+VIGNLVGLNLFDDYGLWCNYGQLHRDFTYCYSKGVFKRVLPAEEYAEIRWDQLEAGDVNF
+IKDFYYRLAHRVGELSHLADGSYAIAERWNLGEEYWGYAKNKLWSPFGYPVHHANEASAQ
+VGSIVNCMFNRDCMTHTHINFIGSGLPLKLQREVAKELFGSEDAYDETKNYTPINDAKIK
+YAKWSLLRVCLHNAVTLCNWVWPMTVSPLKSRNYRGDLALEAKFFKAITGEEMTQEKLDL
+AAERIFTLHRAYTVKLMQTKDMRNEHDLICSWVFDKDPQIPVFTEGTDKMDRDDMHASLT
+MFYKEMGWDPQLGCPTRETLQRLGLEDIAADLAAHNLLPA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

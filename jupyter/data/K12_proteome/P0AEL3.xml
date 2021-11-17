@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="94">
+<accession>P0AEL3</accession>
+<accession>P33649</accession>
+<accession>Q2M773</accession>
+<name>FEOA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Fe(2+) transport protein A</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Ferrous iron transport protein A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">feoA</name>
+<name type="ordered locus">b3408</name>
+<name type="ordered locus">JW3371</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="6212" last="6219">
+<title>Characterization of the ferrous iron uptake system of Escherichia coli.</title>
+<authorList>
+<person name="Kammler M."/>
+<person name="Schoen C."/>
+<person name="Hantke K."/>
+</authorList>
+<dbReference type="PubMed" id="8407793"/>
+<dbReference type="DOI" id="10.1128/jb.175.19.6212-6219.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>INDUCTION BY HYDROXYUREA</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="5" evidence="1">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="46" last="55">
+<title>Solution structure of Escherichia coli FeoA and its potential role in bacterial ferrous iron transport.</title>
+<authorList>
+<person name="Lau C.K."/>
+<person name="Ishida H."/>
+<person name="Liu Z."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="23104801"/>
+<dbReference type="DOI" id="10.1128/JB.01121-12"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4">Involved in Fe(2+) ion uptake (PubMed:8407793). Does not stimulate the GTPase activity of the N-terminus of FeoB (residues 1-276).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="2">Induced by hydroxyurea (PubMed:20005847).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Reduced uptake of Fe(2+).</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the FeoA family.</text>
+</comment>
+<dbReference type="EMBL" id="X71063">
+<property type="protein sequence ID" value="CAA50386.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58206.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76433.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77883.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B36932">
+<property type="entry name" value="B36932"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417867.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001200455.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2LX9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-75"/>
+</dbReference>
+<dbReference type="PDBsum" id="2LX9"/>
+<dbReference type="SMR" id="P0AEL3"/>
+<dbReference type="BioGrid" id="4261724">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="IntAct" id="P0AEL3">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3408"/>
+<dbReference type="TCDB" id="9.A.8.1.1">
+<property type="family name" value="the ferrous iron uptake (feob) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P0AEL3"/>
+<dbReference type="PRIDE" id="P0AEL3"/>
+<dbReference type="EnsemblBacteria" id="AAC76433">
+<property type="protein sequence ID" value="AAC76433"/>
+<property type="gene ID" value="b3408"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77883">
+<property type="protein sequence ID" value="BAE77883"/>
+<property type="gene ID" value="BAE77883"/>
+</dbReference>
+<dbReference type="GeneID" id="947909"/>
+<dbReference type="KEGG" id="ecj:JW3371"/>
+<dbReference type="KEGG" id="eco:b3408"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3321"/>
+<dbReference type="EchoBASE" id="EB2025"/>
+<dbReference type="EcoGene" id="EG12101">
+<property type="gene designation" value="feoA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105XFK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1918">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000053908"/>
+<dbReference type="InParanoid" id="P0AEL3"/>
+<dbReference type="KO" id="K04758"/>
+<dbReference type="PhylomeDB" id="P0AEL3"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12101-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3371-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0AEL3"/>
+<dbReference type="PRO" id="PR:P0AEL3"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046914">
+<property type="term" value="F:transition metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098711">
+<property type="term" value="P:iron ion import across plasma membrane"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.30.90">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007167">
+<property type="entry name" value="Fe-transptr_FeoA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038157">
+<property type="entry name" value="FeoA_core_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008988">
+<property type="entry name" value="Transcriptional_repressor_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04023">
+<property type="entry name" value="FeoA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00899">
+<property type="entry name" value="FeoA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50037">
+<property type="entry name" value="SSF50037"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0410">Iron transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Fe(2+) transport protein A" id="PRO_0000087222">
+<location>
+<begin position="1"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="8"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="16"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="20"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="33"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="44"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="49"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="62"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="68"/>
+<end position="72"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2LX9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23104801"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8407793"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23104801"/>
+</source>
+</evidence>
+<sequence length="75" mass="8371" checksum="945AC2E01C24CC92" modified="2005-12-20" version="1">
+MQYTPDTAWKITGFSREISPAYRQKLLSLGMLPGSSFNVVRVAPLGDPIHIETRRVSLVL
+RKKDLALLEVEAVSC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

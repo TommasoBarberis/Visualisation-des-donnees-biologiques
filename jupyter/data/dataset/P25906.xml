@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-05-01" modified="2019-05-08" version="134">
+<accession>P25906</accession>
+<name>PDXI_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Pyridoxine 4-dehydrogenase</fullName>
+<ecNumber evidence="3">1.1.1.65</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">pdxI</name>
+<name type="synonym" evidence="6">ydbC</name>
+<name type="ordered locus">b1406</name>
+<name type="ordered locus">JW1403</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Biochimie" volume="73" first="1361" last="1374">
+<title>Multiple IS insertion sequences near the replication terminus in Escherichia coli K-12.</title>
+<authorList>
+<person name="Moszer I."/>
+<person name="Glaser P."/>
+<person name="Danchin A."/>
+</authorList>
+<dbReference type="PubMed" id="1665988"/>
+<dbReference type="DOI" id="10.1016/0300-9084(91)90166-X"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="25974" last="25986">
+<title>Catabolism of phenylacetic acid in Escherichia coli. Characterization of a new aerobic hybrid pathway.</title>
+<authorList>
+<person name="Ferrandez A."/>
+<person name="Minambres B."/>
+<person name="Garcia B."/>
+<person name="Olivera E.R."/>
+<person name="Luengo J.M."/>
+<person name="Garcia J.L."/>
+<person name="Diaz E."/>
+</authorList>
+<dbReference type="PubMed" id="9748275"/>
+<dbReference type="DOI" id="10.1074/jbc.273.40.25974"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-69</scope>
+<source>
+<strain>W / ATCC 11105 / DSM 1900</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Biochemistry" volume="50" first="2683" last="2690">
+<title>Role of chemistry versus substrate binding in recruiting promiscuous enzyme functions.</title>
+<authorList>
+<person name="Khersonsky O."/>
+<person name="Malitsky S."/>
+<person name="Rogachev I."/>
+<person name="Tawfik D.S."/>
+</authorList>
+<dbReference type="PubMed" id="21332126"/>
+<dbReference type="DOI" id="10.1021/bi101763c"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2017" name="Nat. Methods" volume="14" first="187" last="194">
+<title>Nontargeted in vitro metabolomics for high-throughput identification of novel enzymes in Escherichia coli.</title>
+<authorList>
+<person name="Sevin D.C."/>
+<person name="Fuhrer T."/>
+<person name="Zamboni N."/>
+<person name="Sauer U."/>
+</authorList>
+<dbReference type="PubMed" id="27941785"/>
+<dbReference type="DOI" id="10.1038/nmeth.4103"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 3">Catalyzes the NAD(P)H-dependent reduction of pyridoxal to pyridoxine in vitro. Is not able to reduce 4-pyridoxate, and to oxidize pyridoxine or pyridoxamine (PubMed:27941785). Has Kemp eliminase activity towards the non-physiological substrate 5-nitrobenzisoxazole, producing 4-nitro-2-cyanophenol; this activity is not considered to be physiologically relevant (PubMed:21332126).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>NADP(+) + pyridoxine = H(+) + NADPH + pyridoxal</text>
+<dbReference type="Rhea" id="RHEA:16129"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16709"/>
+<dbReference type="ChEBI" id="CHEBI:17310"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+<dbReference type="EC" id="1.1.1.65"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>NAD(+) + pyridoxine = H(+) + NADH + pyridoxal</text>
+<dbReference type="Rhea" id="RHEA:52684"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16709"/>
+<dbReference type="ChEBI" id="CHEBI:17310"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="2">270 uM for 5-nitrobenzisoxazole</KM>
+<text evidence="2">kcat is 0.11 sec(-1) for the Kemp eliminase activity towards 5-nitrobenzisoxazole.</text>
+</kinetics>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the aldo/keto reductase family. Aldo/keto reductase 2 subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.1.1.65" evidence="3"/>
+<dbReference type="EMBL" id="X62680">
+<property type="protein sequence ID" value="CAA44553.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74488.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15021.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X97452">
+<property type="protein sequence ID" value="CAA66103.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A48399">
+<property type="entry name" value="A48399"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415924.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000097801.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P25906"/>
+<dbReference type="BioGrid" id="4263019">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11632N"/>
+<dbReference type="IntAct" id="P25906">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1406"/>
+<dbReference type="SWISS-2DPAGE" id="P25906"/>
+<dbReference type="jPOST" id="P25906"/>
+<dbReference type="PaxDb" id="P25906"/>
+<dbReference type="PRIDE" id="P25906"/>
+<dbReference type="DNASU" id="945980"/>
+<dbReference type="EnsemblBacteria" id="AAC74488">
+<property type="protein sequence ID" value="AAC74488"/>
+<property type="gene ID" value="b1406"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15021">
+<property type="protein sequence ID" value="BAA15021"/>
+<property type="gene ID" value="BAA15021"/>
+</dbReference>
+<dbReference type="GeneID" id="945980"/>
+<dbReference type="KEGG" id="ecj:JW1403"/>
+<dbReference type="KEGG" id="eco:b1406"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.865"/>
+<dbReference type="EchoBASE" id="EB1285"/>
+<dbReference type="EcoGene" id="EG11309">
+<property type="gene designation" value="ydbC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107S5I">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRV3">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000250284"/>
+<dbReference type="InParanoid" id="P25906"/>
+<dbReference type="KO" id="K05275"/>
+<dbReference type="PhylomeDB" id="P25906"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11309-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1403-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11309-MONOMER"/>
+<dbReference type="PRO" id="PR:P25906"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050236">
+<property type="term" value="F:pyridoxine:NADP 4-dehydrogenase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="CDD" id="cd06660">
+<property type="entry name" value="Aldo_ket_red"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.100">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023210">
+<property type="entry name" value="NADP_OxRdtase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036812">
+<property type="entry name" value="NADP_OxRdtase_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00248">
+<property type="entry name" value="Aldo_ket_red"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51430">
+<property type="entry name" value="SSF51430"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Pyridoxine 4-dehydrogenase" id="PRO_0000070393">
+<location>
+<begin position="1"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="1">
+<location>
+<begin position="210"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="1">
+<location>
+<position position="59"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21332126"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27941785"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27941785"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAC74488.1"/>
+</source>
+</evidence>
+<sequence length="286" mass="30706" checksum="82B587AEA9115EF9" modified="1992-05-01" version="1">
+MSSNTFTLGTKSVNRLGYGAMQLAGPGVFGPPRDRHVAITVLREALALGVNHIDTSDFYG
+PHVTNQIIREALYPYSDDLTIVTKIGARRGEDASWLPAFSPAELQKAVHDNLRNLGLDVL
+DVVNLRVMMGDGHGPAEGSIEASLTVLAEMQQQGLVKHIGLSNVTPTQVAEARKIAEIVC
+VQNEYNIAHRADDAMIDALAHDGIAYVPFFPLGGFTPLQSSTLSDVAASLGATPMQVALA
+WLLQRSPNILLIPGTSSVAHLRENMAAEKLHLSEEVLSTLDGISRE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-05-01" modified="2019-05-08" version="151">
+<accession>P21693</accession>
+<name>DBPA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">ATP-dependent RNA helicase DbpA</fullName>
+<ecNumber evidence="1">3.6.4.13</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">dbpA</name>
+<name type="ordered locus">b1343</name>
+<name type="ordered locus">JW1337</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Nucleic Acids Res." volume="18" first="5413" last="5417">
+<title>Identification of a putative RNA helicase in E.coli.</title>
+<authorList>
+<person name="Iggo R."/>
+<person name="Picksley S."/>
+<person name="Southgate J."/>
+<person name="McPheat J."/>
+<person name="Lane D.P."/>
+</authorList>
+<dbReference type="PubMed" id="2216714"/>
+<dbReference type="DOI" id="10.1093/nar/18.18.5413"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="EMBO J." volume="12" first="3619" last="3626">
+<title>DbpA: a DEAD box protein specifically activated by 23s rRNA.</title>
+<authorList>
+<person name="Fuller-Pace F.V."/>
+<person name="Nicol S.M."/>
+<person name="Reid A.D."/>
+<person name="Lane D.P."/>
+</authorList>
+<dbReference type="PubMed" id="8253085"/>
+</citation>
+<scope>SEQUENCE REVISION TO N-TERMINUS</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Nucleic Acids Res." volume="25" first="537" last="544">
+<title>Characterization of DbpA, an Escherichia coli DEAD box protein with ATP independent RNA unwinding activity.</title>
+<authorList>
+<person name="Boeddecker N."/>
+<person name="Stade K."/>
+<person name="Franceschi F."/>
+</authorList>
+<dbReference type="PubMed" id="9016593"/>
+<dbReference type="DOI" id="10.1093/nar/25.3.537"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="16989" last="16996">
+<title>Kinetic analysis of the RNA-dependent adenosinetriphosphatase activity of DbpA, an Escherichia coli DEAD protein specific for 23S ribosomal RNA.</title>
+<authorList>
+<person name="Tsu C.A."/>
+<person name="Uhlenbeck O.C."/>
+</authorList>
+<dbReference type="PubMed" id="9836593"/>
+<dbReference type="DOI" id="10.1021/bi981837y"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="5503" last="5512">
+<title>Escherichia coli DbpA is an RNA helicase that requires hairpin 92 of 23S rRNA.</title>
+<authorList>
+<person name="Diges C.M."/>
+<person name="Uhlenbeck O.C."/>
+</authorList>
+<dbReference type="PubMed" id="11574482"/>
+<dbReference type="DOI" id="10.1093/emboj/20.19.5503"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DOMAIN</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="RNA" volume="7" first="702" last="709">
+<title>The Escherichia coli DEAD protein DbpA recognizes a small RNA hairpin in 23S rRNA.</title>
+<authorList>
+<person name="Tsu C.A."/>
+<person name="Kossen K."/>
+<person name="Uhlenbeck O.C."/>
+</authorList>
+<dbReference type="PubMed" id="11350034"/>
+<dbReference type="DOI" id="10.1017/S1355838201010135"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DOMAIN</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="7903" last="7911">
+<title>Escherichia coli DbpA is a 3' --> 5' RNA helicase.</title>
+<authorList>
+<person name="Diges C.M."/>
+<person name="Uhlenbeck O.C."/>
+</authorList>
+<dbReference type="PubMed" id="15910005"/>
+<dbReference type="DOI" id="10.1021/bi050033x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="355" first="697" last="707">
+<title>Hydrodynamic characterization of the DEAD-box RNA helicase DbpA.</title>
+<authorList>
+<person name="Talavera M.A."/>
+<person name="Matthews E.E."/>
+<person name="Eliason W.K."/>
+<person name="Sagi I."/>
+<person name="Wang J."/>
+<person name="Henn A."/>
+<person name="De La Cruz E.M."/>
+</authorList>
+<dbReference type="PubMed" id="16325852"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.10.058"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="J. Mol. Biol." volume="377" first="193" last="205">
+<title>The ATPase cycle mechanism of the DEAD-box rRNA helicase, DbpA.</title>
+<authorList>
+<person name="Henn A."/>
+<person name="Cao W."/>
+<person name="Hackney D.D."/>
+<person name="De La Cruz E.M."/>
+</authorList>
+<dbReference type="PubMed" id="18237742"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2007.12.046"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2009" name="Nucleic Acids Res." volume="37" first="6503" last="6514">
+<title>A dominant negative mutant of the E. coli RNA helicase DbpA blocks assembly of the 50S ribosomal subunit.</title>
+<authorList>
+<person name="Sharpe Elles L.M."/>
+<person name="Sykes M.T."/>
+<person name="Williamson J.R."/>
+<person name="Uhlenbeck O.C."/>
+</authorList>
+<dbReference type="PubMed" id="19734347"/>
+<dbReference type="DOI" id="10.1093/nar/gkp711"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF LYS-53; GLU-154 AND ARG-331</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2010" name="Proc. Natl. Acad. Sci. U.S.A." volume="107" first="4046" last="4050">
+<title>Pathway of ATP utilization and duplex rRNA unwinding by the DEAD-box helicase, DbpA.</title>
+<authorList>
+<person name="Henn A."/>
+<person name="Cao W."/>
+<person name="Licciardello N."/>
+<person name="Heitkamp S.E."/>
+<person name="Hackney D.D."/>
+<person name="De La Cruz E.M."/>
+</authorList>
+<dbReference type="PubMed" id="20160110"/>
+<dbReference type="DOI" id="10.1073/pnas.0913081107"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3 4 6 7 8 9 10 11">DEAD-box RNA helicase involved in the assembly of the 50S ribosomal subunit. Has an RNA-dependent ATPase activity, which is specific for 23S rRNA, and a 3' to 5' RNA helicase activity that uses the energy of ATP hydrolysis to destabilize and unwind short rRNA duplexes. Requires a single-stranded RNA loading site on the 3' side of the substrate helix.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 3 4 6 8">
+<text>ATP + H2O = ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:13065"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="3.6.4.13"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="2 3 6">Requires hairpin 92 of 23S rRNA for optimal activity. ATPase activity is stimulated by interaction of the N-terminal domain with RNA.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="1 2 3">Contains an N-terminal domain that binds non-specifically to RNA and a C-terminal domain that binds specifically and tightly to hairpin 92 of 23S rRNA.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the DEAD box helicase family. DbpA subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="12">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA36872" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13" evidence="1"/>
+<dbReference type="EMBL" id="X52647">
+<property type="protein sequence ID" value="CAA36872.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74425.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA14946.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64884">
+<property type="entry name" value="B64884"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415859.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000123737.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P21693"/>
+<dbReference type="BioGrid" id="4262985">
+<property type="interactions" value="99"/>
+</dbReference>
+<dbReference type="IntAct" id="P21693">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1343"/>
+<dbReference type="PaxDb" id="P21693"/>
+<dbReference type="PRIDE" id="P21693"/>
+<dbReference type="EnsemblBacteria" id="AAC74425">
+<property type="protein sequence ID" value="AAC74425"/>
+<property type="gene ID" value="b1343"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA14946">
+<property type="protein sequence ID" value="BAA14946"/>
+<property type="gene ID" value="BAA14946"/>
+</dbReference>
+<dbReference type="GeneID" id="947153"/>
+<dbReference type="KEGG" id="ecj:JW1337"/>
+<dbReference type="KEGG" id="eco:b1343"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.933"/>
+<dbReference type="EchoBASE" id="EB0206"/>
+<dbReference type="EcoGene" id="EG10210">
+<property type="gene designation" value="dbpA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C1J">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0513">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000268809"/>
+<dbReference type="InParanoid" id="P21693"/>
+<dbReference type="KO" id="K05591"/>
+<dbReference type="PhylomeDB" id="P21693"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10210-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1337-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10210-MONOMER"/>
+<dbReference type="PRO" id="PR:P21693"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034459">
+<property type="term" value="F:ATP-dependent 3'-5' RNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033677">
+<property type="term" value="F:DNA/RNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003724">
+<property type="term" value="F:RNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000027">
+<property type="term" value="P:ribosomal large subunit assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.330">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00965">
+<property type="entry name" value="DEAD_helicase_DbpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005580">
+<property type="entry name" value="DbpA/CsdA_RNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028619">
+<property type="entry name" value="DEAD_helicase_DbpA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012677">
+<property type="entry name" value="Nucleotide-bd_a/b_plait_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000629">
+<property type="entry name" value="RNA-helicase_DEAD-box_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014014">
+<property type="entry name" value="RNA_helicase_DEAD_Q_motif"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03880">
+<property type="entry name" value="DbpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00039">
+<property type="entry name" value="DEAD_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51195">
+<property type="entry name" value="Q_MOTIF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0690">Ribosome biogenesis</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<feature type="chain" description="ATP-dependent RNA helicase DbpA" id="PRO_0000055096">
+<location>
+<begin position="1"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="34"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="1">
+<location>
+<begin position="230"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="47"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="region of interest" description="Involved in 23S rRNA binding" evidence="1">
+<location>
+<begin position="383"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Q motif">
+<location>
+<begin position="3"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAD box">
+<location>
+<begin position="153"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Shows accumulation of partially-assembled 45S particles." evidence="7">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Shows accumulation of partially-assembled 45S particles." evidence="7">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Shows accumulation of partially-assembled 45S particles. Binds rRNA normally but is severely impaired in ATPase and helicase activities. Overexpression confers a dominant slow growth and cold-sensitive phenotype." evidence="7">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="331"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00965"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11350034"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11574482"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15910005"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16325852"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18237742"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19734347"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20160110"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8253085"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9016593"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9836593"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="457" mass="49188" checksum="D9198B1FABA4D38A" modified="1993-10-01" version="2">
+MTAFSTLNVLPPAQLTNLNELGYLTMTPVQAAALPAILAGKDVRVQAKTGSGKTAAFGLG
+LLQQIDASLFQTQALVLCPTRELADQVAGELRRLARFLPNTKILTLCGGQPFGMQRDSLQ
+HAPHIIVATPGRLLDHLQKGTVSLDALNTLVMDEADRMLDMGFSDAIDDVIRFAPASRQT
+LLFSATWPEAIAAISGRVQRDPLAIEIDSTDALPPIEQQFYETSSKGKIPLLQRLLSLHQ
+PSSCVVFCNTKKDCQAVCDALNEVGQSALSLHGDLEQRDRDQTLVRFANGSARVLVATDV
+AARGLDIKSLELVVNFELAWDPEVHVHRIGRTARAGNSGLAISFCAPEEAQRANIISDML
+QIKLNWQTPPANSSIATLEAEMATLCIDGGKKAKMRPGDVLGALTGDIGLDGADIGKIAV
+HPAHVYVAVRQAVAHKAWKQLQGGKIKGKTCRVRLLK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

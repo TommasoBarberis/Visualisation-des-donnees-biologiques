@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="137">
+<accession>Q47149</accession>
+<name>YAFQ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>mRNA interferase toxin YafQ</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Endoribonuclease YafQ</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Toxin YafQ</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">yafQ</name>
+<name type="ordered locus">b0225</name>
+<name type="ordered locus">JW0215</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Mutat. Res." volume="347" first="1" last="7">
+<title>dinP, a new gene in Escherichia coli, whose product shows similarities to UmuC and its homologues.</title>
+<authorList>
+<person name="Ohmori H."/>
+<person name="Hatada E."/>
+<person name="Qiao Y."/>
+<person name="Tsuji M."/>
+<person name="Fukuda R."/>
+</authorList>
+<dbReference type="PubMed" id="7596361"/>
+<dbReference type="DOI" id="10.1016/0165-7992(95)90024-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-02" db="EMBL/GenBank/DDBJ databases">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 4.0 - 6.0 min (189,987 - 281,416bp) region.</title>
+<authorList>
+<person name="Takemoto K."/>
+<person name="Mori H."/>
+<person name="Murayama N."/>
+<person name="Kataoka K."/>
+<person name="Yano M."/>
+<person name="Itoh T."/>
+<person name="Yamamoto Y."/>
+<person name="Inokuchi H."/>
+<person name="Miki T."/>
+<person name="Hatada E."/>
+<person name="Fukuda R."/>
+<person name="Ichihara S."/>
+<person name="Mizuno T."/>
+<person name="Makino K."/>
+<person name="Nakata A."/>
+<person name="Yura T."/>
+<person name="Sampei G."/>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="FEMS Microbiol. Lett." volume="268" first="112" last="119">
+<title>Escherichia coli dinJ-yafQ genes act as a toxin-antitoxin module.</title>
+<authorList>
+<person name="Motiejunaite R."/>
+<person name="Armalyte J."/>
+<person name="Markuckas A."/>
+<person name="Suziedeliene E."/>
+</authorList>
+<dbReference type="PubMed" id="17263853"/>
+<dbReference type="DOI" id="10.1111/j.1574-6968.2006.00563.x"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Antimicrob. Agents Chemother." volume="53" first="2253" last="2258">
+<title>The chromosomal toxin gene yafQ is a determinant of multidrug tolerance for Escherichia coli growing in a biofilm.</title>
+<authorList>
+<person name="Harrison J.J."/>
+<person name="Wade W.D."/>
+<person name="Akierman S."/>
+<person name="Vacchi-Suzzi C."/>
+<person name="Stremick C.A."/>
+<person name="Turner R.J."/>
+<person name="Ceri H."/>
+</authorList>
+<dbReference type="PubMed" id="19307375"/>
+<dbReference type="DOI" id="10.1128/AAC.00043-09"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>FUNCTION IN ANTIBIOTIC TOLERANCE IN BIOFILM</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Mol. Microbiol." volume="71" first="1071" last="1087">
+<title>Bacterial toxin YafQ is an endoribonuclease that associates with the ribosome and blocks translation elongation through sequence-specific and frame-dependent mRNA cleavage.</title>
+<authorList>
+<person name="Prysak M.H."/>
+<person name="Mozdzierz C.J."/>
+<person name="Cook A.M."/>
+<person name="Zhu L."/>
+<person name="Zhang Y."/>
+<person name="Inouye M."/>
+<person name="Woychik N.A."/>
+</authorList>
+<dbReference type="PubMed" id="19210620"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06572.x"/>
+</citation>
+<scope>FUNCTION AS AN MRNA INTERFERASE</scope>
+<scope>ENDORIBONUCLEASE ACTIVITY</scope>
+<scope>PROBABLE ACTIVE SITE</scope>
+<scope>RNA SEQUENCE SPECIFICITY</scope>
+<scope>SUBUNIT</scope>
+<scope>LARGE RIBOSOMAL SUBUNIT-BINDING</scope>
+<scope>DNA-BINDING</scope>
+<scope>INDUCTION</scope>
+<scope>MUTAGENESIS OF HIS-87</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="PLoS ONE" volume="4" first="E6785" last="E6785">
+<title>A differential effect of E. coli toxin-antitoxin systems on cell death in liquid media and biofilm formation.</title>
+<authorList>
+<person name="Kolodkin-Gal I."/>
+<person name="Verdiger R."/>
+<person name="Shlosberg-Fedida A."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="19707553"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0006785"/>
+</citation>
+<scope>FUNCTION IN BIOFILM FORMATION</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="13206" last="13211">
+<title>Bacterial persistence by RNA endonucleases.</title>
+<authorList>
+<person name="Maisonneuve E."/>
+<person name="Shakespeare L.J."/>
+<person name="Joergensen M.G."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="21788497"/>
+<dbReference type="DOI" id="10.1073/pnas.1100186108"/>
+</citation>
+<scope>FUNCTION IN PERSISTENCE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="10" evidence="1">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="20559" last="20569">
+<title>Mechanisms of toxin inhibition and transcriptional repression by Escherichia coli DinJ-YafQ.</title>
+<authorList>
+<person name="Ruangprasert A."/>
+<person name="Maehigashi T."/>
+<person name="Miles S.J."/>
+<person name="Giridharan N."/>
+<person name="Liu J.X."/>
+<person name="Dunham C.M."/>
+</authorList>
+<dbReference type="PubMed" id="24898247"/>
+<dbReference type="DOI" id="10.1074/jbc.M114.573006"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 2-92</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 7">Toxic component of a type II toxin-antitoxin (TA) system (PubMed:17263853). A sequence-specific mRNA endoribonuclease that inhibits translation elongation and induces bacterial stasis (PubMed:19210620). Cleavage occurs between the second and third residue of the Lys codon followed by a G or A (5'AAA(G/A)3'), is reading-frame dependent and occurs within the 5' end of most mRNAs (PubMed:19210620). Ribosome-binding confers the sequence specificity and reading frame-dependence (PubMed:19210620). When overexpressed in liquid media YafQ partially inhibits protein synthesis, with a reduction in growth rate and colony growth rate. This effect is counteracted by coexpression with cognate antitoxin DinJ (PubMed:17263853). YafQ and DinJ together bind their own promoter, and repress its expression (PubMed:24898247).</text>
+</comment>
+<comment type="function">
+<text evidence="5 6">Cell death governed by the MazE-MazF and DinJ-YafQ TA systems seems to play a role in biofilm formation (PubMed:19707553). mRNA interferases play a role in bacterial persistence to antibiotics (PubMed:21788497).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 7">Monomer in the absence of antitoxin (PubMed:24898247). Forms a heterotetramer with antitoxin DinJ, with 2 YafQ-DinJ dimers associated via the N-terminus of the DinJ antitoxins (YafQ-(DinJ)2-YafQ) (PubMed:17263853, PubMed:24898247). In this complex the toxin activity is inhibited. Binds the 70S ribosome via the 50S ribosomal subunit (PubMed:19210620).</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="5">May function as a drug tolerance determinant in biofilm, but not stationary phase planktonic cells.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">By the DNA damaging agent mitomycin C.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5 6">Cells missing yafQ show increased biofilm sensitivity to the antibiotics cefazolin (a beta-lactam inhibitor) and tobramycin (a protein synthesis inhibitor). There is no difference in antibiotic sensitivity in stationary phase planktonic cells (PubMed:19307375). Cells missing dinJ-yafQ have reduced biofilm formation. mRNA interferases play a role in bacterial persistence to antibiotics; as 10 mRNA interferases are successively deleted reduced levels of persisters are generated (PubMed:21788497).</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the RelE toxin family. YafQ subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="D38582">
+<property type="protein sequence ID" value="BAA07587.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73329.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77895.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64747">
+<property type="entry name" value="B64747"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414760.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000615983.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4Q2U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="B/D/F/H/J/L/N/P=2-92"/>
+</dbReference>
+<dbReference type="PDBsum" id="4Q2U"/>
+<dbReference type="SMR" id="Q47149"/>
+<dbReference type="BioGrid" id="4259771">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1079">
+<property type="entry name" value="DinJ-YafQ toxin-antitoxin complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11221N"/>
+<dbReference type="IntAct" id="Q47149">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0225"/>
+<dbReference type="PaxDb" id="Q47149"/>
+<dbReference type="PRIDE" id="Q47149"/>
+<dbReference type="EnsemblBacteria" id="AAC73329">
+<property type="protein sequence ID" value="AAC73329"/>
+<property type="gene ID" value="b0225"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA77895">
+<property type="protein sequence ID" value="BAA77895"/>
+<property type="gene ID" value="BAA77895"/>
+</dbReference>
+<dbReference type="GeneID" id="944911"/>
+<dbReference type="KEGG" id="ecj:JW0215"/>
+<dbReference type="KEGG" id="eco:b0225"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2058"/>
+<dbReference type="EchoBASE" id="EB2948"/>
+<dbReference type="EcoGene" id="EG13154">
+<property type="gene designation" value="yafQ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105VXN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3041">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000062216"/>
+<dbReference type="InParanoid" id="Q47149"/>
+<dbReference type="KO" id="K19157"/>
+<dbReference type="PhylomeDB" id="Q47149"/>
+<dbReference type="BioCyc" id="EcoCyc:G6109-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0215-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6109-MONOMER"/>
+<dbReference type="PRO" id="PR:Q47149"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="CollecTF" id="EXPREG_00000de0"/>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004521">
+<property type="term" value="F:endoribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016892">
+<property type="term" value="F:endoribonuclease activity, producing 3'-phosphomonoesters"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043022">
+<property type="term" value="F:ribosome binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006402">
+<property type="term" value="P:mRNA catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044010">
+<property type="term" value="P:single-species biofilm formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006415">
+<property type="term" value="P:translational termination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.2310.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007712">
+<property type="entry name" value="RelE/ParE_toxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035093">
+<property type="entry name" value="RelE/ParE_toxin_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004386">
+<property type="entry name" value="Toxin_YafQ-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR40588">
+<property type="entry name" value="PTHR40588"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF15738">
+<property type="entry name" value="YafQ_toxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006156">
+<property type="entry name" value="YafQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF143011">
+<property type="entry name" value="SSF143011"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02385">
+<property type="entry name" value="RelE_StbE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00053">
+<property type="entry name" value="TIGR00053"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="mRNA interferase toxin YafQ" id="PRO_0000168540">
+<location>
+<begin position="1"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="8">
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of mRNA cleavage, loss of toxic effect. Still associates with the ribosome." evidence="3">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="10"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="26"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="45"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="53"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="68"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="76"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="87"/>
+<end position="91"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4Q2U"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17263853"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19210620"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19307375"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19707553"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21788497"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24898247"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="92" mass="10847" checksum="6EF6BD97C7F74291" modified="1997-11-01" version="1">
+MIQRDIEYSGQYSKDVKLAQKRHKDMNKLKYLMTLLINNTLPLPAVYKDHPLQGSWKGYR
+DAHVEPDWILIYKLTDKLLRFERTGTHAALFG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-05-08" version="144">
+<accession>P76329</accession>
+<accession>Q2MB01</accession>
+<name>MPGP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 4">Mannosyl-3-phosphoglycerate phosphatase</fullName>
+<shortName evidence="2">MPGP</shortName>
+<ecNumber evidence="2 3">3.1.3.70</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yedP</name>
+<name type="ordered locus">b1955</name>
+<name type="ordered locus">JW1938</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2015" name="Proc. Natl. Acad. Sci. U.S.A." volume="112" first="E1974" last="E1983">
+<title>Panoramic view of a superfamily of phosphatases through substrate profiling.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Pandya C."/>
+<person name="Liu C."/>
+<person name="Al-Obaidi N.F."/>
+<person name="Wang M."/>
+<person name="Zheng L."/>
+<person name="Toews Keating S."/>
+<person name="Aono M."/>
+<person name="Love J.D."/>
+<person name="Evans B."/>
+<person name="Seidel R.D."/>
+<person name="Hillerich B.S."/>
+<person name="Garforth S.J."/>
+<person name="Almo S.C."/>
+<person name="Mariano P.S."/>
+<person name="Dunaway-Mariano D."/>
+<person name="Allen K.N."/>
+<person name="Farelli J.D."/>
+</authorList>
+<dbReference type="PubMed" id="25848029"/>
+<dbReference type="DOI" id="10.1073/pnas.1423570112"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="4" evidence="1">
+<citation type="submission" date="2004-10" db="PDB data bank">
+<title>Crystal Structure of YedP, phosphatase-like domain protein from Escherichia coli K12.</title>
+<authorList>
+<person name="Kim Y."/>
+<person name="Joachimiak A."/>
+<person name="Cymborowski M."/>
+<person name="Skarina T."/>
+<person name="Savchenko A."/>
+<person name="Edwards A."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.26 ANGSTROMS)</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="2 3">
+<text>2-O-(alpha-D-mannosyl)-3-phosphoglycerate + H2O = 2-O-(alpha-D-mannosyl)-D-glycerate + phosphate</text>
+<dbReference type="Rhea" id="RHEA:19309"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:57541"/>
+<dbReference type="ChEBI" id="CHEBI:57744"/>
+<dbReference type="EC" id="3.1.3.70"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2 3">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the HAD-like hydrolase superfamily. MPGP family.</text>
+</comment>
+<dbReference type="EC" id="3.1.3.70" evidence="2 3"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75021.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76555.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64959">
+<property type="entry name" value="G64959"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416464.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000491520.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1XVI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.26"/>
+<property type="chains" value="A/B=1-271"/>
+</dbReference>
+<dbReference type="PDBsum" id="1XVI"/>
+<dbReference type="SMR" id="P76329"/>
+<dbReference type="BioGrid" id="4261051">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11848N"/>
+<dbReference type="IntAct" id="P76329">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1955"/>
+<dbReference type="jPOST" id="P76329"/>
+<dbReference type="PaxDb" id="P76329"/>
+<dbReference type="PRIDE" id="P76329"/>
+<dbReference type="EnsemblBacteria" id="AAC75021">
+<property type="protein sequence ID" value="AAC75021"/>
+<property type="gene ID" value="b1955"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76555">
+<property type="protein sequence ID" value="BAE76555"/>
+<property type="gene ID" value="BAE76555"/>
+</dbReference>
+<dbReference type="GeneID" id="946472"/>
+<dbReference type="KEGG" id="ecj:JW1938"/>
+<dbReference type="KEGG" id="eco:b1955"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.297"/>
+<dbReference type="EchoBASE" id="EB3793"/>
+<dbReference type="EcoGene" id="EG14039">
+<property type="gene designation" value="yedP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108ZFX">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3769">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000224319"/>
+<dbReference type="KO" id="K07026"/>
+<dbReference type="BioCyc" id="EcoCyc:G7048-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1938-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P76329"/>
+<dbReference type="PRO" id="PR:P76329"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050531">
+<property type="term" value="F:mannosyl-3-phosphoglycerate phosphatase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051479">
+<property type="term" value="P:mannosylglycerate biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd07507">
+<property type="entry name" value="HAD_Pase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1000">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00617">
+<property type="entry name" value="MPGP_rel"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036412">
+<property type="entry name" value="HAD-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006381">
+<property type="entry name" value="HAD-SF-IIB-MPGP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006379">
+<property type="entry name" value="HAD-SF_hydro_IIB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012815">
+<property type="entry name" value="MPG_Pase"/>
+</dbReference>
+<dbReference type="SFLD" id="SFLDG01142">
+<property type="entry name" value="C2.B.2:_Mannosyl-3-phosphoglyc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01484">
+<property type="entry name" value="HAD-SF-IIB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01486">
+<property type="entry name" value="HAD-SF-IIB-MPGP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Mannosyl-3-phosphoglycerate phosphatase" id="PRO_0000184974">
+<location>
+<begin position="1"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="2 5">
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; via carbonyl oxygen" evidence="2">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="8"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="15"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="30"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="68"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="71"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="86"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="90"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="97"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="115"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="123"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="134"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="147"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="179"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="188"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="208"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="225"/>
+<end position="230"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XVI"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00617"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25848029"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="25848029"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="271" mass="30439" checksum="1192A5DC83F71816" modified="1997-02-01" version="1">
+MFSIQQPLLVFSDLDGTLLDSHSYDWQPAAPWLTRLREANVPVILCSSKTSAEMLYLQKT
+LGLQGLPLIAENGAVIQLAEQWQEIDGFPRIISGISHGEISLVLNTLREKEHFKFTTFDD
+VDDATIAEWTGLSRSQAALTQLHEASVTLIWRDSDERMAQFTARLNELGLQFMQGARFWH
+VLDASAGKDQAANWIIATYQQLSGKRPTTLGLGDGPNDAPLLEVMDYAVIVKGLNREGVH
+LHDEDPARVWRTQREGPEGWREGLDHFFSAR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

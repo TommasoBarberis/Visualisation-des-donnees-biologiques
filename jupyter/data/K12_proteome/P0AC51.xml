@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-08" modified="2019-06-05" version="101">
+<accession>P0AC51</accession>
+<accession>P32692</accession>
+<accession>P76784</accession>
+<accession>Q2M6Q8</accession>
+<name>ZUR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Zinc uptake regulation protein</fullName>
+<shortName>Zinc uptake regulator</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">zur</name>
+<name type="synonym">yjbK</name>
+<name type="ordered locus">b4046</name>
+<name type="ordered locus">JW5714</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Mol. Microbiol." volume="28" first="1199" last="1210">
+<title>The ZnuABC high-affinity zinc uptake system and its regulator Zur in Escherichia coli.</title>
+<authorList>
+<person name="Patzer S.I."/>
+<person name="Hantke K."/>
+</authorList>
+<dbReference type="PubMed" id="9680209"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1998.00883.x"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<comment type="function">
+<text>Acts as a negative controlling element, employing Zn(2+) as a cofactor to bind the operator of the repressed genes (znuACB).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-16126292"/>
+<interactant intactId="EBI-16126292"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the Fur family.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC43140" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43140.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77016.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78048.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E65212">
+<property type="entry name" value="E65212"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418470.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295691.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4MTD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=1-171"/>
+</dbReference>
+<dbReference type="PDB" id="4MTE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=1-171"/>
+</dbReference>
+<dbReference type="PDBsum" id="4MTD"/>
+<dbReference type="PDBsum" id="4MTE"/>
+<dbReference type="SMR" id="P0AC51"/>
+<dbReference type="BioGrid" id="4261723">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12953N"/>
+<dbReference type="STRING" id="511145.b4046"/>
+<dbReference type="EPD" id="P0AC51"/>
+<dbReference type="jPOST" id="P0AC51"/>
+<dbReference type="PaxDb" id="P0AC51"/>
+<dbReference type="PRIDE" id="P0AC51"/>
+<dbReference type="EnsemblBacteria" id="AAC77016">
+<property type="protein sequence ID" value="AAC77016"/>
+<property type="gene ID" value="b4046"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78048">
+<property type="protein sequence ID" value="BAE78048"/>
+<property type="gene ID" value="BAE78048"/>
+</dbReference>
+<dbReference type="GeneID" id="948552"/>
+<dbReference type="KEGG" id="ecj:JW5714"/>
+<dbReference type="KEGG" id="eco:b4046"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4163"/>
+<dbReference type="EchoBASE" id="EB1873"/>
+<dbReference type="EcoGene" id="EG11929">
+<property type="gene designation" value="zur"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105MYN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0735">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000014146"/>
+<dbReference type="InParanoid" id="P0AC51"/>
+<dbReference type="KO" id="K09823"/>
+<dbReference type="PhylomeDB" id="P0AC51"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11929-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5714-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AC51"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001217">
+<property type="term" value="F:DNA-binding transcription repressor activity"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07153">
+<property type="entry name" value="Fur_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002481">
+<property type="entry name" value="FUR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR33202">
+<property type="entry name" value="PTHR33202"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01475">
+<property type="entry name" value="FUR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Zinc uptake regulation protein" id="PRO_0000095592">
+<location>
+<begin position="1"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="26"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="38"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="60"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="80"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="84"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="99"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="104"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="115"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="144"/>
+<end position="151"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4MTD"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="171" mass="19254" checksum="84B712B1BBF00D41" modified="2005-11-08" version="1">
+MEKTTTQELLAQAEKICAQRNVRLTPQRLEVLRLMSLQDGAISAYDLLDLLREAEPQAKP
+PTVYRALDFLLEQGFVHKVESTNSYVLCHLFDQPTHTSAMFICDRCGAVKEECAEGVEDI
+MHTLAAKMGFALRHNVIEAHGLCAACVEVEACRHPEQCQHDHSVQVKKKPR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

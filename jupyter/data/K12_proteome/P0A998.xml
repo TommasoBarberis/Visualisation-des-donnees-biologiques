@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-06-05" version="109">
+<accession>P0A998</accession>
+<accession>P23887</accession>
+<name>FTNA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Bacterial non-heme ferritin</fullName>
+<ecNumber>1.16.3.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Ferritin-1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ftnA</name>
+<name type="synonym">ftn</name>
+<name type="synonym">gen-165</name>
+<name type="synonym">rsgA</name>
+<name type="ordered locus">b1905</name>
+<name type="ordered locus">JW1893</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Mol. Gen. Genet." volume="225" first="510" last="513">
+<title>Cloning and sequencing of an Escherichia coli K12 gene which encodes a polypeptide having similarity to the human ferritin H subunit.</title>
+<authorList>
+<person name="Izuhara M."/>
+<person name="Takamune K."/>
+<person name="Takata R."/>
+</authorList>
+<dbReference type="PubMed" id="2017145"/>
+<dbReference type="DOI" id="10.1007/BF00261694"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="1995-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Robison K."/>
+<person name="O'Keeffe T."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 151-165</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="Eur. J. Biochem." volume="218" first="985" last="995">
+<title>Overproduction, purification and characterization of the Escherichia coli ferritin.</title>
+<authorList>
+<person name="Hudson A.J."/>
+<person name="Andrews S.C."/>
+<person name="Hawkins C."/>
+<person name="Williams J.M."/>
+<person name="Izuhara M."/>
+<person name="Meldrum F.C."/>
+<person name="Mann S."/>
+<person name="Harrison P.M."/>
+<person name="Guest J.R."/>
+</authorList>
+<dbReference type="PubMed" id="8281950"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1993.tb18457.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-20</scope>
+<scope>SUBUNIT</scope>
+<scope>IRON CONTENT</scope>
+<scope>MOSSBAUER SPECTROSCOPY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="FEBS Lett." volume="432" first="213" last="218">
+<title>How the presence of three iron binding sites affects the iron storage function of the ferritin (EcFtnA) of Escherichia coli.</title>
+<authorList>
+<person name="Treffry A."/>
+<person name="Zhao Z."/>
+<person name="Quail M.A."/>
+<person name="Guest J.R."/>
+<person name="Harrison P.M."/>
+</authorList>
+<dbReference type="PubMed" id="9720927"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(98)00867-9"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2014" name="Biochemistry" volume="53" first="483" last="495">
+<title>Functionality of the three-site ferroxidase center of Escherichia coli bacterial ferritin (EcFtnA).</title>
+<authorList>
+<person name="Bou-Abdallah F."/>
+<person name="Yang H."/>
+<person name="Awomolo A."/>
+<person name="Cooper B."/>
+<person name="Woodhall M.R."/>
+<person name="Andrews S.C."/>
+<person name="Chasteen N.D."/>
+</authorList>
+<dbReference type="PubMed" id="24380371"/>
+<dbReference type="DOI" id="10.1021/bi401517f"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF GLU-17; TYR-24; GLU-49; HIS-53; GLU-94; GLU-126 AND GLU-130</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>EPR SPECTROSCOPY</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="J. Mol. Biol." volume="307" first="587" last="603">
+<title>The high-resolution X-ray crystallographic structure of the ferritin (EcFtnA) of Escherichia coli; comparison with human H ferritin (HuHF) and the structures of the Fe(3+) and Zn(2+) derivatives.</title>
+<authorList>
+<person name="Stillman T.J."/>
+<person name="Hempstead P.D."/>
+<person name="Artymiuk P.J."/>
+<person name="Andrews S.C."/>
+<person name="Hudson A.J."/>
+<person name="Treffry A."/>
+<person name="Guest J.R."/>
+<person name="Harrison P.M."/>
+</authorList>
+<dbReference type="PubMed" id="11254384"/>
+<dbReference type="DOI" id="10.1006/jmbi.2001.4475"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS)</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Iron-storage protein.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="4">
+<text>4 Fe(2+) + 6 H2O + O2 = 12 H(+) + 4 iron(III) oxide-hydroxide</text>
+<dbReference type="Rhea" id="RHEA:11972"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+<dbReference type="ChEBI" id="CHEBI:78619"/>
+<dbReference type="EC" id="1.16.3.2"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="3 5">Homooligomer of 24 subunits that assemble into a spherical protein shell (12 +/- 1 nM diameter) that can sequester at least 2000 iron atoms.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the ferritin family. Prokaryotic subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.16.3.2"/>
+<dbReference type="EMBL" id="X53513">
+<property type="protein sequence ID" value="CAA37593.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74975.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15728.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U35066">
+<property type="protein sequence ID" value="AAA79049.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S14069">
+<property type="entry name" value="S14069"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416418.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000917208.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1EUM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B/C/D/E/F=1-165"/>
+</dbReference>
+<dbReference type="PDB" id="4XGS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B/C/D/E/F=2-165"/>
+</dbReference>
+<dbReference type="PDB" id="4ZTT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A/B/C/D/E/F=2-165"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EUM"/>
+<dbReference type="PDBsum" id="4XGS"/>
+<dbReference type="PDBsum" id="4ZTT"/>
+<dbReference type="SMR" id="P0A998"/>
+<dbReference type="BioGrid" id="4263007">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36198N"/>
+<dbReference type="IntAct" id="P0A998">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1905"/>
+<dbReference type="EPD" id="P0A998"/>
+<dbReference type="jPOST" id="P0A998"/>
+<dbReference type="PaxDb" id="P0A998"/>
+<dbReference type="PRIDE" id="P0A998"/>
+<dbReference type="EnsemblBacteria" id="AAC74975">
+<property type="protein sequence ID" value="AAC74975"/>
+<property type="gene ID" value="b1905"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15728">
+<property type="protein sequence ID" value="BAA15728"/>
+<property type="gene ID" value="BAA15728"/>
+</dbReference>
+<dbReference type="GeneID" id="946410"/>
+<dbReference type="KEGG" id="ecj:JW1893"/>
+<dbReference type="KEGG" id="eco:b1905"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.343"/>
+<dbReference type="EchoBASE" id="EB0914"/>
+<dbReference type="EcoGene" id="EG10921">
+<property type="gene designation" value="ftnA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41090A1">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1528">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000223382"/>
+<dbReference type="InParanoid" id="P0A998"/>
+<dbReference type="KO" id="K02217"/>
+<dbReference type="PhylomeDB" id="P0A998"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10921-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1893-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10921-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A998"/>
+<dbReference type="PRO" id="PR:P0A998"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008199">
+<property type="term" value="F:ferric iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004322">
+<property type="term" value="F:ferroxidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071281">
+<property type="term" value="P:cellular response to iron ion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006880">
+<property type="term" value="P:intracellular sequestering of iron ion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006826">
+<property type="term" value="P:iron ion transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="CDD" id="cd01055">
+<property type="entry name" value="Nonheme_Ferritin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1260.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001519">
+<property type="entry name" value="Ferritin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012347">
+<property type="entry name" value="Ferritin-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009040">
+<property type="entry name" value="Ferritin-like_diiron"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009078">
+<property type="entry name" value="Ferritin-like_SF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008331">
+<property type="entry name" value="Ferritin_DPS_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041719">
+<property type="entry name" value="Ferritin_prok"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11431">
+<property type="entry name" value="PTHR11431"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00210">
+<property type="entry name" value="Ferritin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47240">
+<property type="entry name" value="SSF47240"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50905">
+<property type="entry name" value="FERRITIN_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0409">Iron storage</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Bacterial non-heme ferritin" id="PRO_0000201085">
+<location>
+<begin position="1"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="domain" description="Ferritin-like diiron" evidence="2">
+<location>
+<begin position="1"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 1">
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 3">
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 1">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 2">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 1">
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 2">
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 3">
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 2">
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 2">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron 3">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially 100-fold slower Fe(2+) oxidation rate." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially reduces Fe(2+)/O(2) stoichiometry from 3.1 to 2.2." evidence="4">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially reduces Fe(2+)/O(2) stoichiometry from ~3 to ~2." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially 6000-fold slower Fe(2+) oxidation rate." evidence="4">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially 200-fold slower Fe(2+) oxidation rate." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially reduces Fe(2+)/O(2) stoichiometry from ~3 to ~2." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Initially reduces Fe(2+)/O(2) stoichiometry from ~3 to ~2." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="4"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="37"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="83"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="114"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="148"/>
+<end position="160"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4ZTT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00085"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11254384"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24380371"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8281950"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="165" mass="19424" checksum="5B3AA08BCFE6CDA0" modified="2005-07-19" version="1">
+MLKPEMIEKLNEQMNLELYSSLLYQQMSAWCSYHTFEGAAAFLRRHAQEEMTHMQRLFDY
+LTDTGNLPRINTVESPFAEYSSLDELFQETYKHEQLITQKINELAHAAMTNQDYPTFNFL
+QWYVSEQHEEEKLFKSIIDKLSLAGKSGEGLYFIDKELSTLDTQN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

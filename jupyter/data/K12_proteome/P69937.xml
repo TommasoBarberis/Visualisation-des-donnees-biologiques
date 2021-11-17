@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-01-04" modified="2019-07-03" version="104">
+<accession>P69937</accession>
+<accession>P30743</accession>
+<accession>Q2M6F4</accession>
+<name>GDX_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Guanidinium exporter</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="9">Quaternary ammonium compound-resistance protein SugE</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="7">gdx</name>
+<name type="synonym" evidence="8">sugE</name>
+<name type="ordered locus">b4148</name>
+<name type="ordered locus">JW5738</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="EMBO J." volume="12" first="889" last="896">
+<title>A novel multicopy suppressor of a groEL mutation includes two nested open reading frames transcribed from different promoters.</title>
+<authorList>
+<person name="Greener T."/>
+<person name="Govezensky D."/>
+<person name="Zamir A."/>
+</authorList>
+<dbReference type="PubMed" id="8096175"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="280" first="583" last="596">
+<title>The entericidin locus of Escherichia coli and its implications for programmed bacterial cell death.</title>
+<authorList>
+<person name="Bishop R.E."/>
+<person name="Leskiw B.K."/>
+<person name="Hodges R.S."/>
+<person name="Kay C.M."/>
+<person name="Weiner J.H."/>
+</authorList>
+<dbReference type="PubMed" id="9677290"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1894"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS520</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="2543" last="2545">
+<title>Overexpression of the Escherichia coli sugE gene confers resistance to a narrow range of quaternary ammonium compounds.</title>
+<authorList>
+<person name="Chung Y.J."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="11948170"/>
+<dbReference type="DOI" id="10.1128/JB.184.9.2543-2545.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>OVEREXPRESSION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Eur. J. Biochem." volume="271" first="568" last="580">
+<title>High level cell-free expression and specific labeling of integral membrane proteins.</title>
+<authorList>
+<person name="Klammt C."/>
+<person name="Loehr F."/>
+<person name="Schaefer B."/>
+<person name="Haase W."/>
+<person name="Doetsch V."/>
+<person name="Rueterjans H."/>
+<person name="Glaubitz C."/>
+<person name="Bernhard F."/>
+</authorList>
+<dbReference type="PubMed" id="14728684"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.2003.03959.x"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2017" name="Biochemistry" volume="56" first="352" last="358">
+<title>Biochemical validation of a second guanidine riboswitch class in bacteria.</title>
+<authorList>
+<person name="Sherlock M.E."/>
+<person name="Malkowski S.N."/>
+<person name="Breaker R.R."/>
+</authorList>
+<dbReference type="PubMed" id="28001368"/>
+<dbReference type="DOI" id="10.1021/acs.biochem.6b01270"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2018" name="Proc. Natl. Acad. Sci. U.S.A." volume="115" first="3060" last="3065">
+<title>Guanidinium export is the primal function of SMR family transporters.</title>
+<authorList>
+<person name="Kermani A.A."/>
+<person name="Macdonald C.B."/>
+<person name="Gundepudi R."/>
+<person name="Stockbridge R.B."/>
+</authorList>
+<dbReference type="PubMed" id="29507227"/>
+<dbReference type="DOI" id="10.1073/pnas.1719187115"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="2 6">Guanidinium ion exporter. Couples guanidinium export to the proton motive force, exchanging one guanidinium ion for two protons (PubMed:29507227). Overexpression leads to resistance to a subset of toxic quaternary ammonium compounds such as cetylpyridinium, cetyldimethylethyl ammonium and cetrimide cations (PubMed:11948170).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6">Homodimer. The subunits assemble with antiparallel topology.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3 4">Cell inner membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="5">Transcriptionally regulated by guanidine, via a guanidine-sensing riboswitch.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the drug/metabolite transporter (DMT) superfamily. Small multidrug resistance (SMR) (TC 2.A.7.1) family. Gdx/SugE subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="10 12">Was originally (PubMed:8096175) thought to suppress a groEL mutation and mimic the effect of groE overexpression. This was later shown (PubMed:11948170) to be probably due to an artifact.</text>
+</comment>
+<comment type="sequence caution" evidence="9">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA97047" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="9">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA49570" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="X69949">
+<property type="protein sequence ID" value="CAA49570.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X69949">
+<property type="protein sequence ID" value="CAA49571.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U21726">
+<property type="protein sequence ID" value="AAC46453.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97047.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77108.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78152.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S56376">
+<property type="entry name" value="S56376"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418572.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000118482.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P69937"/>
+<dbReference type="BioGrid" id="4262698">
+<property type="interactions" value="178"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4148"/>
+<dbReference type="TCDB" id="2.A.7.1.4">
+<property type="family name" value="the drug/metabolite transporter (dmt) superfamily"/>
+</dbReference>
+<dbReference type="PaxDb" id="P69937"/>
+<dbReference type="PRIDE" id="P69937"/>
+<dbReference type="EnsemblBacteria" id="AAC77108">
+<property type="protein sequence ID" value="AAC77108"/>
+<property type="gene ID" value="b4148"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78152">
+<property type="protein sequence ID" value="BAE78152"/>
+<property type="gene ID" value="BAE78152"/>
+</dbReference>
+<dbReference type="GeneID" id="948671"/>
+<dbReference type="KEGG" id="ecj:JW5738"/>
+<dbReference type="KEGG" id="eco:b4148"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2550"/>
+<dbReference type="EchoBASE" id="EB1573"/>
+<dbReference type="EcoGene" id="EG11616">
+<property type="gene designation" value="sugE"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105KPY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2076">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000268007"/>
+<dbReference type="InParanoid" id="P69937"/>
+<dbReference type="KO" id="K11741"/>
+<dbReference type="PhylomeDB" id="P69937"/>
+<dbReference type="BioCyc" id="EcoCyc:SUGE-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5738-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:SUGE-MONOMER"/>
+<dbReference type="PRO" id="PR:P69937"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042910">
+<property type="term" value="F:xenobiotic transmembrane transporter activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046618">
+<property type="term" value="P:drug export"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006811">
+<property type="term" value="P:ion transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000390">
+<property type="entry name" value="Small_multidrug_res"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30561">
+<property type="entry name" value="PTHR30561"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00893">
+<property type="entry name" value="Multi_Drug_Res"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Guanidinium exporter" id="PRO_0000108095">
+<location>
+<begin position="1"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="11">
+<location>
+<begin position="22"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="29"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="11">
+<location>
+<begin position="50"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="58"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="11">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="82"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="4">
+<location>
+<begin position="103"/>
+<end position="105"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11948170"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14728684"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28001368"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29507227"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="29507227"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8096175"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11948170"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8096175"/>
+</source>
+</evidence>
+<sequence length="105" mass="10900" checksum="C4686D9EDC1B7D08" modified="2005-01-04" version="1">
+MSWIILVIAGLLEVVWAVGLKYTHGFSRLTPSVITVTAMIVSMALLAWAMKSLPVGTAYA
+VWTGIGAVGAAITGIVLLGESANPMRLASLALIVLGIIGLKLSTH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

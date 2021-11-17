@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-05-08" version="123">
+<accession>P0A9P6</accession>
+<accession>P23304</accession>
+<accession>Q2M948</accession>
+<accession>Q8FD90</accession>
+<name>DEAD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">ATP-dependent RNA helicase DeaD</fullName>
+<ecNumber evidence="4">3.6.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="4">Cold-shock DEAD box protein A</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Translation factor W2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="4">deaD</name>
+<name type="synonym">csdA</name>
+<name type="synonym">mssB</name>
+<name type="synonym">rhlD</name>
+<name type="ordered locus">b3162</name>
+<name type="ordered locus">JW5531</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="3291" last="3302">
+<title>deaD, a new Escherichia coli gene encoding a presumed ATP-dependent RNA helicase, can suppress a mutation in rpsB, the gene encoding ribosomal protein S2.</title>
+<authorList>
+<person name="Toone W.M."/>
+<person name="Rudd K.E."/>
+<person name="Friesen J.D."/>
+</authorList>
+<dbReference type="PubMed" id="2045359"/>
+<dbReference type="DOI" id="10.1128/jb.173.11.3291-3302.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SUPPRESSION OF RPSB MUTATION</scope>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="76" last="80">
+<title>Cold shock induces a major ribosomal-associated protein that unwinds double-stranded RNA in Escherichia coli.</title>
+<authorList>
+<person name="Jones P.G."/>
+<person name="Mitta M."/>
+<person name="Kim Y."/>
+<person name="Jiang W."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="8552679"/>
+<dbReference type="DOI" id="10.1073/pnas.93.1.76"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-21</scope>
+<scope>FUNCTION IN HELIX-DESTABILIZING</scope>
+<scope>INTERACTION WITH RIBOSOME</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1999" name="Int. J. Biochem. Cell Biol." volume="31" first="215" last="229">
+<title>Molecular characterization of a prokaryotic translation factor homologous to the eukaryotic initiation factor eIF4A.</title>
+<authorList>
+<person name="Lu J."/>
+<person name="Aoki H."/>
+<person name="Ganoza M.C."/>
+</authorList>
+<dbReference type="PubMed" id="10216955"/>
+<dbReference type="DOI" id="10.1016/S1357-2725(98)00142-3"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-16</scope>
+<scope>FUNCTION AS A TRANSLATION FACTOR</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="J. Biochem." volume="115" first="409" last="414">
+<title>Nucleotide sequence and expression in Escherichia coli of the Klebsiella pneumoniae deaD gene.</title>
+<authorList>
+<person name="Peng H.L."/>
+<person name="Hsieh M.J."/>
+<person name="Zao C.L."/>
+<person name="Chang H.-Y."/>
+</authorList>
+<dbReference type="PubMed" id="8056751"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 519-629</scope>
+<source>
+<strain>K12 / JM101 / ATCC 33876 / DSM 3948 / NCIMB 11926</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Mol. Gen. Genet." volume="243" first="9" last="16">
+<title>Multicopy suppressors, mssA and mssB, of an smbA mutation of Escherichia coli.</title>
+<authorList>
+<person name="Yamanaka K."/>
+<person name="Ogura T."/>
+<person name="Koonin E.V."/>
+<person name="Niki H."/>
+<person name="Hiraga S."/>
+</authorList>
+<dbReference type="PubMed" id="8190075"/>
+<dbReference type="DOI" id="10.1007/BF00283870"/>
+</citation>
+<scope>SUPPRESSION OF PYRH MUTATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="Mol. Microbiol." volume="21" first="1207" last="1218">
+<title>RbfA, a 30S ribosomal binding factor, is a cold-shock protein whose absence triggers the cold-shock response.</title>
+<authorList>
+<person name="Jones P.G."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="8898389"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1996.tb02582.x"/>
+</citation>
+<scope>INDUCTION BY COLD-SHOCK</scope>
+<source>
+<strain>CSH142</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Biochemistry" volume="43" first="7857" last="7866">
+<title>Studies on three E. coli DEAD-box helicases point to an unwinding mechanism different from that of model DNA helicases.</title>
+<authorList>
+<person name="Bizebard T."/>
+<person name="Ferlenghi I."/>
+<person name="Iost I."/>
+<person name="Dreyfus M."/>
+</authorList>
+<dbReference type="PubMed" id="15196029"/>
+<dbReference type="DOI" id="10.1021/bi049852s"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="54" first="1409" last="1421">
+<title>Physical and functional interactions among RNase E, polynucleotide phosphorylase and the cold-shock protein, CsdA: evidence for a 'cold shock degradosome'.</title>
+<authorList>
+<person name="Prud'homme-Genereux A."/>
+<person name="Beran R.K."/>
+<person name="Iost I."/>
+<person name="Ramey C.S."/>
+<person name="Mackie G.A."/>
+<person name="Simons R.W."/>
+</authorList>
+<dbReference type="PubMed" id="15554978"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2004.04360.x"/>
+</citation>
+<scope>FUNCTION IN MRNA DECAY</scope>
+<scope>INTERACTION WITH RNASE E</scope>
+<source>
+<strain>CF881</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Nucleic Acids Res." volume="32" first="2751" last="2759">
+<title>CsdA, a cold-shock RNA helicase from Escherichia coli, is involved in the biogenesis of 50S ribosomal subunit.</title>
+<authorList>
+<person name="Charollais J."/>
+<person name="Dreyfus M."/>
+<person name="Iost I."/>
+</authorList>
+<dbReference type="PubMed" id="15148362"/>
+<dbReference type="DOI" id="10.1093/nar/gkh603"/>
+</citation>
+<scope>FUNCTION IN 50S RIBOSOME BIOGENESIS</scope>
+<scope>INTERACTION WITH 50S SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="2769" last="2776">
+<title>Mutational analysis of the Escherichia coli DEAD box protein CsdA.</title>
+<authorList>
+<person name="Turner A.-M.W."/>
+<person name="Love C.F."/>
+<person name="Alexander R.W."/>
+<person name="Jones P.G."/>
+</authorList>
+<dbReference type="PubMed" id="17259309"/>
+<dbReference type="DOI" id="10.1128/JB.01509-06"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF GLU-157</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 7 8 9 10">DEAD-box RNA helicase involved in various cellular processes at low temperature, including ribosome biogenesis, mRNA degradation and translation initiation. Exhibits RNA-stimulated ATP hydrolysis and RNA unwinding activity at low temperature. Involved in 50S ribosomal subunit assembly, acting after SrmB, and could also play a role in the biogenesis of the 30S ribosomal subunit. In addition, is involved in mRNA decay, via formation of a cold-shock degradosome with RNase E. Also stimulates translation of some mRNAs, probably at the level of initiation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="4 7 9">
+<text>ATP + H2O = ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:13065"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="3.6.4.13"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 10">Interacts with the 50S ribosomal subunit upon shifting to 15 degrees Celsius. Also found associated with the RNA degradosome at 15 degrees Celsius; binds RNase E (rne).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4 10">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="10 11">In response to low temperature (PubMed:8552679). Induced by cold shock (42 to 15 degrees Celsius) (at protein level) (PubMed:8898389).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="6 10">Cells lacking this gene grow very poorly at 15-20 degrees Celsius and accumulate an abnormal large ribosomal subunit.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="13 14">When overexpressed suppresses cold-sensitive mutants of rpsB (ribosomal protein S2) (PubMed:2045359) and pyrH/smbA2 (uridylate kinase) (PubMed:8190075).</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the DEAD box helicase family. DeaD subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="12">It is unclear whether it requires ATP: according to PubMed:8552679 and PubMed:10216955, it does not require ATP, while according to PubMed:15196029, PubMed:15554978 and PubMed:17259309, it requires ATP.</text>
+</comment>
+<comment type="sequence caution" evidence="12">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA23674" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="12">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA23674" version="1"/>
+</conflict>
+<location>
+<position position="536"/>
+</location>
+<location>
+<position position="565"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="12">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA57965" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13" evidence="4"/>
+<dbReference type="EMBL" id="M63288">
+<property type="protein sequence ID" value="AAA23674.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57965.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76196.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77208.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U03750">
+<property type="protein sequence ID" value="AAA03626.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65106">
+<property type="entry name" value="F65106"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417631.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295553.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5B88">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=482-564"/>
+</dbReference>
+<dbReference type="PDB" id="5GI4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.24"/>
+<property type="chains" value="A/B=218-445"/>
+</dbReference>
+<dbReference type="PDB" id="5GJU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=6-210"/>
+</dbReference>
+<dbReference type="PDBsum" id="5B88"/>
+<dbReference type="PDBsum" id="5GI4"/>
+<dbReference type="PDBsum" id="5GJU"/>
+<dbReference type="SMR" id="P0A9P6"/>
+<dbReference type="BioGrid" id="4262429">
+<property type="interactions" value="170"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35752N"/>
+<dbReference type="IntAct" id="P0A9P6">
+<property type="interactions" value="86"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3162"/>
+<dbReference type="SWISS-2DPAGE" id="P0A9P6"/>
+<dbReference type="EPD" id="P0A9P6"/>
+<dbReference type="jPOST" id="P0A9P6"/>
+<dbReference type="PaxDb" id="P0A9P6"/>
+<dbReference type="PRIDE" id="P0A9P6"/>
+<dbReference type="EnsemblBacteria" id="AAC76196">
+<property type="protein sequence ID" value="AAC76196"/>
+<property type="gene ID" value="b3162"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77208">
+<property type="protein sequence ID" value="BAE77208"/>
+<property type="gene ID" value="BAE77208"/>
+</dbReference>
+<dbReference type="GeneID" id="947674"/>
+<dbReference type="KEGG" id="ecj:JW5531"/>
+<dbReference type="KEGG" id="eco:b3162"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3568"/>
+<dbReference type="EchoBASE" id="EB0211"/>
+<dbReference type="EcoGene" id="EG10215">
+<property type="gene designation" value="deaD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C1J">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0513">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000268810"/>
+<dbReference type="InParanoid" id="P0A9P6"/>
+<dbReference type="KO" id="K05592"/>
+<dbReference type="PhylomeDB" id="P0A9P6"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10215-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5531-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A9P6"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004004">
+<property type="term" value="F:ATP-dependent RNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003724">
+<property type="term" value="F:RNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033592">
+<property type="term" value="F:RNA strand annealing activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070417">
+<property type="term" value="P:cellular response to cold"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048255">
+<property type="term" value="P:mRNA stabilization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045727">
+<property type="term" value="P:positive regulation of translation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009314">
+<property type="term" value="P:response to radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000027">
+<property type="term" value="P:ribosomal large subunit assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006401">
+<property type="term" value="P:RNA catabolic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd12499">
+<property type="entry name" value="RRM_EcCsdA_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.330">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00964">
+<property type="entry name" value="DEAD_helicase_DeaD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021046">
+<property type="entry name" value="Cold-shock_DEAD_Abox_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034415">
+<property type="entry name" value="CsdA_RRM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005580">
+<property type="entry name" value="DbpA/CsdA_RNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028618">
+<property type="entry name" value="DEAD_helicase_DeaD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012677">
+<property type="entry name" value="Nucleotide-bd_a/b_plait_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000629">
+<property type="entry name" value="RNA-helicase_DEAD-box_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014014">
+<property type="entry name" value="RNA_helicase_DEAD_Q_motif"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03880">
+<property type="entry name" value="DbpA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12343">
+<property type="entry name" value="DEADboxA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00039">
+<property type="entry name" value="DEAD_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51195">
+<property type="entry name" value="Q_MOTIF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5 10">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="ATP-dependent RNA helicase DeaD" id="PRO_0000055101">
+<location>
+<begin position="2"/>
+<end position="629"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="4">
+<location>
+<begin position="37"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="4">
+<location>
+<begin position="232"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="50"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Q motif">
+<location>
+<begin position="6"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAD box">
+<location>
+<begin position="156"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Arg/Glu/Gly-rich">
+<location>
+<begin position="568"/>
+<end position="629"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ATPase activity, drastically reduces helicase activity. In vivo acts as a dominant negative mutation in the presence of the wild-type protein at low temperature." evidence="9">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23674." ref="1" evidence="12">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="444"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="9"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="15"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="31"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="56"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="77"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="84"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="106"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="118"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="127"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="133"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="152"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="158"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="167"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="182"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="192"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="221"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="232"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="246"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="255"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="267"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="272"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="282"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="298"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="304"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="314"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="326"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="338"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="344"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="351"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="354"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="376"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="400"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="407"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="414"/>
+<end position="416"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="421"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="489"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="495"/>
+<end position="498"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="501"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="516"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="529"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="541"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="551"/>
+<end position="554"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5B88"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5GI4"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5GJU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00964"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10216955"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15148362"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15196029"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15554978"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17259309"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8552679"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8898389"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2045359"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8190075"/>
+</source>
+</evidence>
+<sequence length="629" mass="70546" checksum="9DB692D41C38D17C" modified="2007-01-23" version="2">
+MAEFETTFADLGLKAPILEALNDLGYEKPSPIQAECIPHLLNGRDVLGMAQTGSGKTAAF
+SLPLLQNLDPELKAPQILVLAPTRELAVQVAEAMTDFSKHMRGVNVVALYGGQRYDVQLR
+ALRQGPQIVVGTPGRLLDHLKRGTLDLSKLSGLVLDEADEMLRMGFIEDVETIMAQIPEG
+HQTALFSATMPEAIRRITRRFMKEPQEVRIQSSVTTRPDISQSYWTVWGMRKNEALVRFL
+EAEDFDAAIIFVRTKNATLEVAEALERNGYNSAALNGDMNQALREQTLERLKDGRLDILI
+ATDVAARGLDVERISLVVNYDIPMDSESYVHRIGRTGRAGRAGRALLFVENRERRLLRNI
+ERTMKLTIPEVELPNAELLGKRRLEKFAAKVQQQLESSDLDQYRALLSKIQPTAEGEELD
+LETLAAALLKMAQGERTLIVPPDAPMRPKREFRDRDDRGPRDRNDRGPRGDREDRPRRER
+RDVGDMQLYRIEVGRDDGVEVRHIVGAIANEGDISSRYIGNIKLFASHSTIELPKGMPGE
+VLQHFTRTRILNKPMNMQLLGDAQPHTGGERRGGGRGFGGERREGGRNFSGERREGGRGD
+GRRFSGERREGRAPRRDDSTGRRRFGGDA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

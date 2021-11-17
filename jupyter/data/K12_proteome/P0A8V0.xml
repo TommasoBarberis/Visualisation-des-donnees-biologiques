@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="122">
+<accession>P0A8V0</accession>
+<accession>P77449</accession>
+<accession>Q47012</accession>
+<name>RBN_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Ribonuclease BN</fullName>
+<shortName evidence="2">RNase BN</shortName>
+<ecNumber evidence="2">3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">Ribonuclease Z homolog</fullName>
+<shortName evidence="2">RNase Z homolog</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rbn</name>
+<name type="synonym">elaC</name>
+<name type="synonym">rnz</name>
+<name type="ordered locus">b2268</name>
+<name type="ordered locus">JW2263</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1996-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Huisman G.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="29078" last="29085">
+<title>ElaC encodes a novel binuclear zinc phosphodiesterase.</title>
+<authorList>
+<person name="Vogel A."/>
+<person name="Schilling O."/>
+<person name="Niecke M."/>
+<person name="Bettmer J."/>
+<person name="Meyer-Klaucke W."/>
+</authorList>
+<dbReference type="PubMed" id="12029081"/>
+<dbReference type="DOI" id="10.1074/jbc.M112047200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DIMERIZATION</scope>
+<scope>COFACTOR</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="16542" last="16545">
+<title>The RNase Z homologue encoded by Escherichia coli elaC gene is RNase BN.</title>
+<authorList>
+<person name="Ezraty B."/>
+<person name="Dahlgren B."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="15764599"/>
+<dbReference type="DOI" id="10.1074/jbc.C500098200"/>
+</citation>
+<scope>IDENTIFICATION AS RNASE BN</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="Mol. Microbiol." volume="60" first="723" last="737">
+<title>RNase Z in Escherichia coli plays a significant role in mRNA decay.</title>
+<authorList>
+<person name="Perwez T."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="16629673"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05124.x"/>
+</citation>
+<scope>FUNCTION IN MRNA DECAY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="15425" last="15431">
+<title>Catalytic properties of RNase BN/RNase Z from Escherichia coli: RNase BN is both an exo- and endoribonuclease.</title>
+<authorList>
+<person name="Dutta T."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="19366704"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.005462"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="22874" last="22881">
+<title>Mode of action of RNase BN/RNase Z on tRNA precursors: RNase BN does not remove the CCA sequence from tRNA.</title>
+<authorList>
+<person name="Dutta T."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="20489203"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.141101"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="1607" last="1614">
+<title>The crystal structure of the zinc phosphodiesterase from Escherichia coli provides insight into function and cooperativity of tRNase Z-family proteins.</title>
+<authorList>
+<person name="Kostelecky B."/>
+<person name="Pohl E."/>
+<person name="Vogel A."/>
+<person name="Schilling O."/>
+<person name="Meyer-Klaucke W."/>
+</authorList>
+<dbReference type="PubMed" id="16452444"/>
+<dbReference type="DOI" id="10.1128/JB.188.4.1607-1614.2006"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 3-305 IN COMPLEX WITH ZINC IONS</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 6 7 8">Zinc phosphodiesterase, which has both exoribonuclease and endoribonuclease activities, depending on the nature of the substrate and of the added divalent cation, and on its 3'-terminal structure. Can process the 3' termini of both CCA-less and CCA-containing tRNA precursors. CCA-less tRNAs are cleaved endonucleolytically after the discriminator base, whereas residues following the CCA sequence can be removed exonucleolytically or endonucleolytically in CCA-containing molecules. Does not remove the CCA sequence. May also be involved in the degradation of mRNAs. In vitro, hydrolyzes bis(p-nitrophenyl)phosphate and thymidine-5'-p-nitrophenyl phosphate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="3">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="3">Binds 2 Zn(2+) ions.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="4 7 8">Activated by cobalt and manganese. Strongly inhibited by the presence of a 3'-CCA sequence or a 3'-phosphoryl group.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5">Homodimer.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Mutants are unaffected in growth.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 9">Belongs to the RNase Z family. RNase BN subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="9">Was initially thought to be an arylsulfatase, given its similarity with the AtsA family. PubMed:12029081 however showed that it is a zinc phosphodiesterase.</text>
+</comment>
+<dbReference type="EC" id="3.1.-.-" evidence="2"/>
+<dbReference type="EMBL" id="U58768">
+<property type="protein sequence ID" value="AAB02732.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75328.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16095.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64998">
+<property type="entry name" value="B64998"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416771.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001300687.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2CBN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=1-305"/>
+</dbReference>
+<dbReference type="PDBsum" id="2CBN"/>
+<dbReference type="SMR" id="P0A8V0"/>
+<dbReference type="BioGrid" id="4263118">
+<property type="interactions" value="36"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9498N"/>
+<dbReference type="IntAct" id="P0A8V0">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2268"/>
+<dbReference type="jPOST" id="P0A8V0"/>
+<dbReference type="PaxDb" id="P0A8V0"/>
+<dbReference type="PRIDE" id="P0A8V0"/>
+<dbReference type="EnsemblBacteria" id="AAC75328">
+<property type="protein sequence ID" value="AAC75328"/>
+<property type="gene ID" value="b2268"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16095">
+<property type="protein sequence ID" value="BAA16095"/>
+<property type="gene ID" value="BAA16095"/>
+</dbReference>
+<dbReference type="GeneID" id="946760"/>
+<dbReference type="KEGG" id="ecj:JW2263"/>
+<dbReference type="KEGG" id="eco:b2268"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4468"/>
+<dbReference type="EchoBASE" id="EB4008"/>
+<dbReference type="EcoGene" id="EG14260">
+<property type="gene designation" value="rbn"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105IES">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1234">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000272419"/>
+<dbReference type="InParanoid" id="P0A8V0"/>
+<dbReference type="KO" id="K00784"/>
+<dbReference type="PhylomeDB" id="P0A8V0"/>
+<dbReference type="BioCyc" id="EcoCyc:G7175-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2263-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7175-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.26.11">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0A8V0"/>
+<dbReference type="EvolutionaryTrace" id="P0A8V0"/>
+<dbReference type="PRO" id="PR:P0A8V0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042781">
+<property type="term" value="F:3'-tRNA processing endoribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016891">
+<property type="term" value="F:endoribonuclease activity, producing 5'-phosphomonoesters"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004532">
+<property type="term" value="F:exoribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016896">
+<property type="term" value="F:exoribonuclease activity, producing 5'-phosphomonoesters"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004518">
+<property type="term" value="F:nuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008033">
+<property type="term" value="P:tRNA processing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd07717">
+<property type="entry name" value="RNaseZ_ZiPD-like_MBL-fold"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.60.15.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01818">
+<property type="entry name" value="RNase_Z_BN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001279">
+<property type="entry name" value="Metallo-B-lactamas"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036866">
+<property type="entry name" value="RibonucZ/Hydroxyglut_hydro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013469">
+<property type="entry name" value="Rnase_BN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013471">
+<property type="entry name" value="RNase_Z/BN"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12706">
+<property type="entry name" value="Lactamase_B_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00849">
+<property type="entry name" value="Lactamase_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56281">
+<property type="entry name" value="SSF56281"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02651">
+<property type="entry name" value="RNase_Z"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02649">
+<property type="entry name" value="true_RNase_BN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Ribonuclease BN" id="PRO_0000155863">
+<location>
+<begin position="1"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1; catalytic" evidence="2 5">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1; catalytic" evidence="2 5">
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic" evidence="2 5">
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic" evidence="2 5">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1; catalytic" evidence="2 5">
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1; catalytic" evidence="2 5">
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic" evidence="2 5">
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic" evidence="2 5">
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAB02732." ref="1" evidence="9">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAB02732." ref="1" evidence="9">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="9"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="21"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="34"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="43"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="67"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="73"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="89"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="97"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="116"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="123"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="130"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="140"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="146"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="161"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="173"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="187"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="194"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="206"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="227"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="240"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="251"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="264"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="277"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="294"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="302"/>
+<end position="304"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2CBN"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01818"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12029081"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15764599"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16452444"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16629673"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19366704"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20489203"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<sequence length="305" mass="32930" checksum="69A55EAE8BDDEF68" modified="2005-06-07" version="1">
+MELIFLGTSAGVPTRTRNVTAILLNLQHPTQSGLWLFDCGEGTQHQLLHTAFNPGKLDKI
+FISHLHGDHLFGLPGLLCSRSMSGIIQPLTIYGPQGIREFVETALRISGSWTDYPLEIVE
+IGAGEILDDGLRKVTAYPLEHPLECYGYRIEEHDKPGALNAQALKAAGVPPGPLFQELKA
+GKTITLEDGRQINGADYLAAPVPGKALAIFGDTGPCDAALDLAKGVDVMVHEATLDITME
+AKANSRGHSSTRQAATLAREAGVGKLIITHVSSRYDDKGCQHLLRECRSIFPATELANDF
+TVFNV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

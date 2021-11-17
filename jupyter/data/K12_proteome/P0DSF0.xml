@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2019-05-08" modified="2019-05-08" version="1">
+<accession>P0DSF0</accession>
+<name>YMID_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Protein YmiD</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ymiD</name>
+<name type="ordered locus">b4772</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2019" name="MBio" volume="10">
+<title>Identifying small proteins by ribosome profiling with stalled initiation complexes.</title>
+<authorList>
+<person name="Weaver J."/>
+<person name="Mohammad F."/>
+<person name="Buskirk A.R."/>
+<person name="Storz G."/>
+</authorList>
+<dbReference type="PubMed" id="30837344"/>
+<dbReference type="DOI" id="10.1128/mBio.02819-18"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="induction">
+<text evidence="1">Expressed in both exponential and stationary phase in rich medium; expression is higher in exponential phase (at protein level).</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Protein YmiD" id="PRO_0000447156">
+<location>
+<begin position="1"/>
+<end position="42"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30837344"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="30837344"/>
+</source>
+</evidence>
+<sequence length="42" mass="4937" checksum="9D532CD303636F84" modified="2019-05-08" version="1">
+MQKLPLKEKCLTATANYHPGIRYIMTGYSAKYIYSSTYARFR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

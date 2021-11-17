@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="115">
+<accession>P0A8L1</accession>
+<accession>P09156</accession>
+<name>SYS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Serine--tRNA ligase</fullName>
+<ecNumber>6.1.1.11</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Seryl-tRNA synthetase</fullName>
+<shortName>SerRS</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Seryl-tRNA(Ser/Sec) synthetase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">serS</name>
+<name type="ordered locus">b0893</name>
+<name type="ordered locus">JW0876</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Nucleic Acids Res." volume="15" first="1005" last="1017">
+<title>Cloning and characterization of the gene for Escherichia coli seryl-tRNA synthetase.</title>
+<authorList>
+<person name="Haertlein M."/>
+<person name="Madern D."/>
+<person name="Leberman R."/>
+</authorList>
+<dbReference type="PubMed" id="3029694"/>
+<dbReference type="DOI" id="10.1093/nar/15.3.1005"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1988" name="Mol. Microbiol." volume="2" first="785" last="795">
+<title>Nucleotide sequence of the dmsABC operon encoding the anaerobic dimethylsulphoxide reductase of Escherichia coli.</title>
+<authorList>
+<person name="Bilous P.T."/>
+<person name="Cole S.T."/>
+<person name="Anderson W.F."/>
+<person name="Weiner J.H."/>
+</authorList>
+<dbReference type="PubMed" id="3062312"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1988.tb00090.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 251-430</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1988" name="Nature" volume="331" first="723" last="725">
+<title>Gene for a novel tRNA species that accepts L-serine and cotranslationally inserts selenocysteine.</title>
+<authorList>
+<person name="Leinfelder W."/>
+<person name="Zehelein E."/>
+<person name="Mandrand-Berthelot M.A."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="2963963"/>
+<dbReference type="DOI" id="10.1038/331723a0"/>
+</citation>
+<scope>FUNCTION AS A SERYL-TRNA(SEC) SYNTHETASE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1991" name="Biochim. Biophys. Acta" volume="1089" first="287" last="298">
+<title>Escherichia coli seryl-tRNA synthetase: the structure of a class 2 aminoacyl-tRNA synthetase.</title>
+<authorList>
+<person name="Leberman R."/>
+<person name="Haertlein M."/>
+<person name="Cusack S."/>
+</authorList>
+<dbReference type="PubMed" id="1859832"/>
+<dbReference type="DOI" id="10.1016/0167-4781(91)90168-L"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1993" name="FEBS Lett." volume="324" first="167" last="170">
+<title>Crystallization of the seryl-tRNA synthetase:tRNA(Ser) complex of Escherichia coli.</title>
+<authorList>
+<person name="Price S."/>
+<person name="Cusack S."/>
+<person name="Borel F."/>
+<person name="Berthet-Colominas C."/>
+<person name="Leberman R."/>
+</authorList>
+<dbReference type="PubMed" id="8508916"/>
+<dbReference type="DOI" id="10.1016/0014-5793(93)81386-E"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>CRYSTALLIZATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2963" last="2969">
+<title>Seryl-tRNA synthetase from Escherichia coli: implication of its N-terminal domain in aminoacylation activity and specificity.</title>
+<authorList>
+<person name="Borel F."/>
+<person name="Vincent C."/>
+<person name="Leberman R."/>
+<person name="Haertlein M."/>
+</authorList>
+<dbReference type="PubMed" id="8065908"/>
+<dbReference type="DOI" id="10.1093/nar/22.15.2963"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>KINETIC PARAMETERS</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="1113" last="1118">
+<title>Seryl-tRNA synthetase from Escherichia coli: functional evidence for cross-dimer tRNA binding during aminoacylation.</title>
+<authorList>
+<person name="Vincent C."/>
+<person name="Borel F."/>
+<person name="Willison J.C."/>
+<person name="Leberman R."/>
+<person name="Haertlein M."/>
+</authorList>
+<dbReference type="PubMed" id="7537870"/>
+<dbReference type="DOI" id="10.1093/nar/23.7.1113"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>KINETIC PARAMETERS</scope>
+<scope>MUTAGENESIS OF GLU-355</scope>
+<scope>SUBUNIT</scope>
+<scope>REACTION MECHANISM</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1990" name="Nature" volume="347" first="249" last="255">
+<title>A second class of synthetase structure revealed by X-ray analysis of Escherichia coli seryl-tRNA synthetase at 2.5 A.</title>
+<authorList>
+<person name="Cusack S."/>
+<person name="Berthet-Colominas C."/>
+<person name="Haertlein M."/>
+<person name="Nassar N."/>
+<person name="Leberman R."/>
+</authorList>
+<dbReference type="PubMed" id="2205803"/>
+<dbReference type="DOI" id="10.1038/347249a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4">Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L-seryl-tRNA(Sec), which will be further converted into selenocysteinyl-tRNA(Sec).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-serine + tRNA(Ser) = AMP + diphosphate + H(+) + L-seryl-tRNA(Ser)</text>
+<dbReference type="Rhea" id="RHEA:12292"/>
+<dbReference type="Rhea" id="RHEA-COMP:9669"/>
+<dbReference type="Rhea" id="RHEA-COMP:9703"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:33384"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78533"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.11"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-serine + tRNA(Sec) = AMP + diphosphate + H(+) + L-seryl-tRNA(Sec)</text>
+<dbReference type="Rhea" id="RHEA:42580"/>
+<dbReference type="Rhea" id="RHEA-COMP:9742"/>
+<dbReference type="Rhea" id="RHEA-COMP:10128"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:33384"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78533"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.11"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="3 4">64 uM for serine</KM>
+<KM evidence="3 4">0.068 uM for ATP</KM>
+</kinetics>
+</comment>
+<comment type="pathway">
+<text>Aminoacyl-tRNA biosynthesis; selenocysteinyl-tRNA(Sec) biosynthesis; L-seryl-tRNA(Sec) from L-serine and tRNA(Sec): step 1/1.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5">Homodimer. The tRNA molecule binds across the dimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-548422"/>
+<interactant intactId="EBI-548422"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="4 5">Consists of two distinct domains, a catalytic core and a N-terminal extension that is involved in tRNA binding.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the class-II aminoacyl-tRNA synthetase family. Type-1 seryl-tRNA synthetase subfamily.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.11"/>
+<dbReference type="EMBL" id="X05017">
+<property type="protein sequence ID" value="CAA28673.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73979.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35625.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J03412">
+<property type="protein sequence ID" value="AAA83842.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A26400">
+<property type="entry name" value="YSEC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415413.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000886683.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0A8L1"/>
+<dbReference type="BioGrid" id="4261485">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35989N"/>
+<dbReference type="IntAct" id="P0A8L1">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0893"/>
+<dbReference type="SWISS-2DPAGE" id="P0A8L1"/>
+<dbReference type="EPD" id="P0A8L1"/>
+<dbReference type="jPOST" id="P0A8L1"/>
+<dbReference type="PaxDb" id="P0A8L1"/>
+<dbReference type="PRIDE" id="P0A8L1"/>
+<dbReference type="EnsemblBacteria" id="AAC73979">
+<property type="protein sequence ID" value="AAC73979"/>
+<property type="gene ID" value="b0893"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35625">
+<property type="protein sequence ID" value="BAA35625"/>
+<property type="gene ID" value="BAA35625"/>
+</dbReference>
+<dbReference type="GeneID" id="945506"/>
+<dbReference type="KEGG" id="ecj:JW0876"/>
+<dbReference type="KEGG" id="eco:b0893"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1384"/>
+<dbReference type="EchoBASE" id="EB0940"/>
+<dbReference type="EcoGene" id="EG10947">
+<property type="gene designation" value="serS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CGR">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0172">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000035938"/>
+<dbReference type="InParanoid" id="P0A8L1"/>
+<dbReference type="KO" id="K01875"/>
+<dbReference type="PhylomeDB" id="P0A8L1"/>
+<dbReference type="BioCyc" id="EcoCyc:SERS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0876-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:SERS-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00906">
+<property type="reaction ID" value="UER00895"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P0A8L1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004828">
+<property type="term" value="F:serine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016260">
+<property type="term" value="P:selenocysteine biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097056">
+<property type="term" value="P:selenocysteinyl-tRNA(Sec) biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006434">
+<property type="term" value="P:seryl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd00770">
+<property type="entry name" value="SerRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.287.40">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00176">
+<property type="entry name" value="Ser_tRNA_synth_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002314">
+<property type="entry name" value="aa-tRNA-synt_IIb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006195">
+<property type="entry name" value="aa-tRNA-synth_II"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002317">
+<property type="entry name" value="Ser-tRNA-ligase_type_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015866">
+<property type="entry name" value="Ser-tRNA-synth_1_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042103">
+<property type="entry name" value="SerRS_1_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033729">
+<property type="entry name" value="SerRS_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010978">
+<property type="entry name" value="tRNA-bd_arm"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43697">
+<property type="entry name" value="PTHR43697"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02403">
+<property type="entry name" value="Seryl_tRNA_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00587">
+<property type="entry name" value="tRNA-synt_2b"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001529">
+<property type="entry name" value="Ser-tRNA-synth_IIa"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00981">
+<property type="entry name" value="TRNASYNTHSER"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46589">
+<property type="entry name" value="SSF46589"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00414">
+<property type="entry name" value="serS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50862">
+<property type="entry name" value="AA_TRNA_LIGASE_II"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Serine--tRNA ligase" id="PRO_0000122044">
+<location>
+<begin position="1"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="268"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="355"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="region of interest" description="Serine binding" evidence="1">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="binding site" description="Serine" evidence="1">
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="binding site" description="Serine" evidence="1">
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of serine activation activity." evidence="3">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="355"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2963963"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7537870"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8065908"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8508916"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="430" mass="48414" checksum="87675745A512A626" modified="2005-06-07" version="1">
+MLDPNLLRNEPDAVAEKLARRGFKLDVDKLGALEERRKVLQVKTENLQAERNSRSKSIGQ
+AKARGEDIEPLRLEVNKLGEELDAAKAELDALQAEIRDIALTIPNLPADEVPVGKDENDN
+VEVSRWGTPREFDFEVRDHVTLGEMHSGLDFAAAVKLTGSRFVVMKGQIARMHRALSQFM
+LDLHTEQHGYSENYVPYLVNQDTLYGTGQLPKFAGDLFHTRPLEEEADTSNYALIPTAEV
+PLTNLVRGEIIDEDDLPIKMTAHTPCFRSEAGSYGRDTRGLIRMHQFDKVEMVQIVRPED
+SMAALEEMTGHAEKVLQLLGLPYRKIILCTGDMGFGACKTYDLEVWIPAQNTYREISSCS
+NVWDFQARRMQARCRSKSDKKTRLVHTLNGSGLAVGRTLVAVMENYQQADGRIEVPEVLR
+PYMNGLEYIG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

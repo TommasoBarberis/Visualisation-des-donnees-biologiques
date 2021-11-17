@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-05-08" version="107">
+<accession>P0ABH0</accession>
+<accession>P06137</accession>
+<accession>Q47229</accession>
+<name>FTSA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Cell division protein FtsA</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">ftsA</name>
+<name type="synonym">divA</name>
+<name type="ordered locus">b0094</name>
+<name type="ordered locus">JW0092</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="J. Bacteriol." volume="160" first="546" last="555">
+<title>DNA sequence and transcriptional organization of essential cell division genes ftsQ and ftsA of Escherichia coli: evidence for overlapping transcriptional units.</title>
+<authorList>
+<person name="Robinson A.C."/>
+<person name="Kenan D.J."/>
+<person name="Hatfull G.F."/>
+<person name="Sullivan N.F."/>
+<person name="Spiegelberg R."/>
+<person name="Donachie W.D."/>
+</authorList>
+<dbReference type="PubMed" id="6094474"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="J. Mol. Biol." volume="184" first="399" last="412">
+<title>Structure and expression of the cell division genes ftsQ, ftsA and ftsZ.</title>
+<authorList>
+<person name="Yi Q.-M."/>
+<person name="Rockenbach S."/>
+<person name="Ward J.E. Jr."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="2995680"/>
+<dbReference type="DOI" id="10.1016/0022-2836(85)90290-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1988" name="Mol. Microbiol." volume="2" first="581" last="588">
+<title>Mapping and characterization of mutants of the Escherichia coli cell division gene, ftsA.</title>
+<authorList>
+<person name="Robinson A.C."/>
+<person name="Begg K.J."/>
+<person name="Sweeney J."/>
+<person name="Condie A."/>
+<person name="Donachie W.D."/>
+</authorList>
+<dbReference type="PubMed" id="2846985"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1988.tb00066.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>MUTANTS TEMPERATURE-SENSITIVE</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="6611" last="6614">
+<title>Regulation of expression of the ftsA cell division gene by sequences in upstream genes.</title>
+<authorList>
+<person name="Dewar S.J."/>
+<person name="Donachie W.D."/>
+</authorList>
+<dbReference type="PubMed" id="2228979"/>
+<dbReference type="DOI" id="10.1128/jb.172.11.6611-6614.1990"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-116</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1985" name="Gene" volume="36" first="241" last="247">
+<title>The nucleotide sequence of the essential cell-division gene ftsZ of Escherichia coli.</title>
+<authorList>
+<person name="Yi Q.-M."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="3000876"/>
+<dbReference type="DOI" id="10.1016/0378-1119(85)90179-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 318-420</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="5097" last="5102">
+<title>The native form of FtsA, a septal protein of Escherichia coli, is located in the cytoplasmic membrane.</title>
+<authorList>
+<person name="Pla J."/>
+<person name="Dopazo A."/>
+<person name="Vicente M."/>
+</authorList>
+<dbReference type="PubMed" id="2203741"/>
+<dbReference type="DOI" id="10.1128/jb.172.9.5097-5102.1990"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / ATCC 35607 / JM83</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="7167" last="7172">
+<title>FtsA is localized to the septum in an FtsZ-dependent manner.</title>
+<authorList>
+<person name="Addinall S.G."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="8955398"/>
+<dbReference type="DOI" id="10.1128/jb.178.24.7167-7172.1996"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="12998" last="13003">
+<title>Colocalization of cell division proteins FtsZ and FtsA to cytoskeletal structures in living Escherichia coli cells by using green fluorescent protein.</title>
+<authorList>
+<person name="Ma X."/>
+<person name="Ehrhardt D.W."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="8917533"/>
+<dbReference type="DOI" id="10.1073/pnas.93.23.12998"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FTSZ</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1997" name="Mol. Microbiol." volume="25" first="303" last="309">
+<title>FtsN, a late recruit to the septum in Escherichia coli.</title>
+<authorList>
+<person name="Addinall S.G."/>
+<person name="Cao C."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="9282742"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1997.4641833.x"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSN</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="1296" last="1304">
+<title>Localization of cell division protein FtsK to the Escherichia coli septum and identification of a potential N-terminal targeting domain.</title>
+<authorList>
+<person name="Yu X.C."/>
+<person name="Tran A.H."/>
+<person name="Sun Q."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="9495771"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSK</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="2810" last="2816">
+<title>FtsI and FtsW are localized to the septum in Escherichia coli.</title>
+<authorList>
+<person name="Wang L."/>
+<person name="Khattar M.K."/>
+<person name="Donachie W.D."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="9603865"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSI</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1999" name="J. Bacteriol." volume="181" first="521" last="530">
+<title>Septal localization of FtsQ, an essential cell division protein in Escherichia coli.</title>
+<authorList>
+<person name="Chen J.C."/>
+<person name="Weiss D.S."/>
+<person name="Ghigo J.M."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="9882666"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSQ</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="Mol. Microbiol." volume="31" first="725" last="737">
+<title>Localization of FtsL to the Escherichia coli septal ring.</title>
+<authorList>
+<person name="Ghigo J.M."/>
+<person name="Weiss D.S."/>
+<person name="Chen J.C."/>
+<person name="Yarrow J.C."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="10027987"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1999.01213.x"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSL</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2000" name="J. Bacteriol." volume="182" first="6366" last="6373">
+<title>Role of the carboxy terminus of Escherichia coli FtsA in self-interaction and cell division.</title>
+<authorList>
+<person name="Yim L."/>
+<person name="Vandenbussche G."/>
+<person name="Mingorance J."/>
+<person name="Rueda S."/>
+<person name="Casanova M."/>
+<person name="Ruysschaert J.M."/>
+<person name="Vicente M."/>
+</authorList>
+<dbReference type="PubMed" id="11053380"/>
+<dbReference type="DOI" id="10.1128/JB.182.22.6366-6373.2000"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ATP-BINDING</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ASP-210</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="EMBO J." volume="21" first="685" last="693">
+<title>Unique and overlapping roles for ZipA and FtsA in septal ring assembly in Escherichia coli.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="11847116"/>
+<dbReference type="DOI" id="10.1093/emboj/21.4.685"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="Mol. Microbiol." volume="55" first="1722" last="1734">
+<title>Tethering the Z ring to the membrane through a conserved membrane targeting sequence in FtsA.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="15752196"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2005.04522.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF TRP-408; ILE-409; ARG-411; LEU-412; TRP-415; LEU-416 AND PHE-420</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="64" first="1129" last="1138">
+<title>Identification of a region of FtsA required for interaction with FtsZ.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="17501933"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2007.05735.x"/>
+</citation>
+<scope>INTERACTION WITH FTSZ AND SELF-INTERACTION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="1989" last="2000">
+<title>The early divisome protein FtsA interacts directly through its 1c subdomain with the cytoplasmic domain of the late divisome protein FtsN.</title>
+<authorList>
+<person name="Busiek K.K."/>
+<person name="Eraso J.M."/>
+<person name="Wang Y."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="22328664"/>
+<dbReference type="DOI" id="10.1128/JB.06683-11"/>
+</citation>
+<scope>INTERACTION WITH FTSN</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2014" name="Mol. Microbiol." volume="92" first="1212" last="1226">
+<title>A role for FtsA in SPOR-independent localization of the essential Escherichia coli cell division protein FtsN.</title>
+<authorList>
+<person name="Busiek K.K."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="24750258"/>
+<dbReference type="DOI" id="10.1111/mmi.12623"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF FTSN</scope>
+<scope>INTERACTION WITH FTSN</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5 9 12 13 14 15">Essential cell division protein that assists in the assembly of the Z ring (PubMed:11847116). May serve as the principal membrane anchor for the Z ring (PubMed:15752196). Also required for the recruitment to the septal ring of the downstream cell division proteins FtsK, FtsQ, FtsL, FtsI and FtsN (PubMed:9282742, PubMed:9495771, PubMed:9603865, PubMed:9882666, PubMed:10027987, PubMed:24750258). Binds ATP (PubMed:11053380).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 6 8 9 10">Self-interacts (PubMed:11053380, PubMed:17501933). Interacts with FtsZ. This interaction plays an essential role in cell division (PubMed:8917533, PubMed:17501933). Interacts directly with the cytoplasmic region of FtsN (PubMed:22328664, PubMed:24750258).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550562"/>
+<interactant intactId="EBI-550562"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550562"/>
+<interactant intactId="EBI-1134233">
+<id>P29131</id>
+<label>ftsN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550562"/>
+<interactant intactId="EBI-370963">
+<id>P0A9A6</id>
+<label>ftsZ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550562"/>
+<interactant intactId="EBI-371008">
+<id>P0A9X4</id>
+<label>mreB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550562"/>
+<interactant intactId="EBI-550623">
+<id>P0ADX7</id>
+<label>yhhA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5 7">Cell inner membrane</location>
+<topology evidence="5 7">Peripheral membrane protein</topology>
+<orientation evidence="5 7">Cytoplasmic side</orientation>
+</subcellularLocation>
+<text evidence="5 10 11 13">Localizes to the Z ring in an FtsZ-dependent manner (PubMed:8955398, PubMed:8917533, PubMed:9495771). Targeted to the membrane through a conserved C-terminal amphiphatic helix (PubMed:15752196).</text>
+</comment>
+<comment type="domain">
+<text evidence="3 5">The extreme C-terminus is essential for localization to the membrane and the Z ring, self-interaction and activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 16">Belongs to the FtsA/MreB family.</text>
+</comment>
+<dbReference type="EMBL" id="K02668">
+<property type="protein sequence ID" value="AAA23817.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M36531">
+<property type="protein sequence ID" value="AAA23811.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55034">
+<property type="protein sequence ID" value="CAA38871.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73205.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96662.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B23318">
+<property type="entry name" value="CEECA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414636.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000588474.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0ABH0"/>
+<dbReference type="BioGrid" id="4261886">
+<property type="interactions" value="382"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47983N"/>
+<dbReference type="IntAct" id="P0ABH0">
+<property type="interactions" value="27"/>
+</dbReference>
+<dbReference type="MINT" id="P0ABH0"/>
+<dbReference type="STRING" id="511145.b0094"/>
+<dbReference type="ChEMBL" id="CHEMBL3309010"/>
+<dbReference type="EPD" id="P0ABH0"/>
+<dbReference type="jPOST" id="P0ABH0"/>
+<dbReference type="PaxDb" id="P0ABH0"/>
+<dbReference type="PRIDE" id="P0ABH0"/>
+<dbReference type="EnsemblBacteria" id="AAC73205">
+<property type="protein sequence ID" value="AAC73205"/>
+<property type="gene ID" value="b0094"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96662">
+<property type="protein sequence ID" value="BAB96662"/>
+<property type="gene ID" value="BAB96662"/>
+</dbReference>
+<dbReference type="GeneID" id="944778"/>
+<dbReference type="KEGG" id="ecj:JW0092"/>
+<dbReference type="KEGG" id="eco:b0094"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2186"/>
+<dbReference type="EchoBASE" id="EB0335"/>
+<dbReference type="EcoGene" id="EG10339">
+<property type="gene designation" value="ftsA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CIT">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0849">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000049205"/>
+<dbReference type="InParanoid" id="P0ABH0"/>
+<dbReference type="KO" id="K03590"/>
+<dbReference type="PhylomeDB" id="P0ABH0"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10339-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0092-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ABH0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009898">
+<property type="term" value="C:cytoplasmic side of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043093">
+<property type="term" value="P:FtsZ-dependent cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02033">
+<property type="entry name" value="FtsA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020823">
+<property type="entry name" value="Cell_div_FtsA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003494">
+<property type="entry name" value="SHS2_FtsA"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02491">
+<property type="entry name" value="SHS2_FTSA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF003101">
+<property type="entry name" value="FtsA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00842">
+<property type="entry name" value="FtsA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01174">
+<property type="entry name" value="ftsA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Cell division protein FtsA" id="PRO_0000062734">
+<location>
+<begin position="1"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not bind ATP." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="210"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents localization to the Z ring. Lack of activity." evidence="5">
+<original>W</original>
+<variation>E</variation>
+<location>
+<position position="408"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents localization to the Z ring. Lack of activity." evidence="5">
+<original>I</original>
+<variation>E</variation>
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect localization or function." evidence="5">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="411"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents localization to the Z ring. Lack of activity." evidence="5">
+<original>L</original>
+<variation>E</variation>
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents localization to the Z ring. Lack of activity." evidence="5">
+<original>W</original>
+<variation>E</variation>
+<location>
+<position position="415"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents localization to the Z ring. Lack of activity." evidence="5">
+<original>L</original>
+<variation>E</variation>
+<location>
+<position position="416"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect localization or function." evidence="5">
+<original>F</original>
+<variation>E</variation>
+<location>
+<position position="420"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 3." ref="1 3" evidence="16">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="339"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02033"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10027987"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11053380"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11847116"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15752196"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17501933"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2203741"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22328664"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24750258"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8917533"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8955398"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9282742"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9495771"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9603865"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9882666"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000305"/>
+<sequence length="420" mass="45330" checksum="C2475377A229B982" modified="1988-01-01" version="1">
+MIKATDRKLVVGLEIGTAKVAALVGEVLPDGMVNIIGVGSCPSRGMDKGGVNDLESVVKC
+VQRAIDQAELMADCQISSVYLALSGKHISCQNEIGMVPISEEEVTQEDVENVVHTAKSVR
+VRDEHRVLHVIPQEYAIDYQEGIKNPVGLSGVRMQAKVHLITCHNDMAKNIVKAVERCGL
+KVDQLIFAGLASSYSVLTEDERELGVCVVDIGGGTMDIAVYTGGALRHTKVIPYAGNVVT
+SDIAYAFGTPPSDAEAIKVRHGCALGSIVGKDESVEVPSVGGRPPRSLQRQTLAEVIEPR
+YTELLNLVNEEILQLQEKLRQQGVKHHLAAGIVLTGGAAQIEGLAACAQRVFHTQVRIGA
+PLNITGLTDYAQEPYYSTAVGLLHYGKESHLNGEAEVEKRVTASVGSWIKRLNSWLRKEF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

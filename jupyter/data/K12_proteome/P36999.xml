@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-05-08" version="141">
+<accession>P36999</accession>
+<name>RLMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>23S rRNA (guanine(745)-N(1))-methyltransferase</fullName>
+<ecNumber>2.1.1.187</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>23S rRNA m1G745 methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Ribosomal RNA large subunit methyltransferase A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rlmA</name>
+<name type="synonym">rrmA</name>
+<name type="synonym">yebH</name>
+<name type="ordered locus">b1822</name>
+<name type="ordered locus">JW1811</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Mol. Microbiol." volume="13" first="301" last="312">
+<title>Cloning, sequencing, and characterization of multicopy suppressors of a mukB mutation in Escherichia coli.</title>
+<authorList>
+<person name="Yamanaka K."/>
+<person name="Mitani T."/>
+<person name="Ogura T."/>
+<person name="Niki H."/>
+<person name="Hiraga S."/>
+</authorList>
+<dbReference type="PubMed" id="7984109"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1994.tb00424.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="359" last="365">
+<title>Identification of the rrmA gene encoding the 23S rRNA m1G745 methyltransferase in Escherichia coli and characterization of an m1G745-deficient mutant.</title>
+<authorList>
+<person name="Gustafsson C."/>
+<person name="Persson B.C."/>
+</authorList>
+<dbReference type="PubMed" id="9440525"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="4041" last="4046">
+<title>Crystal structure of RlmAI: implications for understanding the 23S rRNA G745/G748-methylation at the macrolide antibiotic-binding site.</title>
+<authorList>
+<person name="Das K."/>
+<person name="Acton T."/>
+<person name="Chiang Y."/>
+<person name="Shih L."/>
+<person name="Arnold E."/>
+<person name="Montelione G.T."/>
+</authorList>
+<dbReference type="PubMed" id="14999102"/>
+<dbReference type="DOI" id="10.1073/pnas.0400189101"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH S-ADENOSYL-L-METHIONINE AND ZINC IONS</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Specifically methylates the guanosine in position 745 of 23S rRNA.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>guanosine(745) in 23S rRNA + S-adenosyl-L-methionine = H(+) + N(1)-methylguanosine(745) in 23S rRNA + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:42900"/>
+<dbReference type="Rhea" id="RHEA-COMP:10273"/>
+<dbReference type="Rhea" id="RHEA-COMP:10274"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:73542"/>
+<dbReference type="ChEBI" id="CHEBI:74269"/>
+<dbReference type="EC" id="2.1.1.187"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homodimer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the methyltransferase superfamily. RlmA family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.187"/>
+<dbReference type="EMBL" id="D28496">
+<property type="protein sequence ID" value="BAA05855.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74892.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15633.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S49049">
+<property type="entry name" value="S49049"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416336.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000010115.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1P91">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=1-269"/>
+</dbReference>
+<dbReference type="PDBsum" id="1P91"/>
+<dbReference type="SMR" id="P36999"/>
+<dbReference type="BioGrid" id="4260324">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="IntAct" id="P36999">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1822"/>
+<dbReference type="jPOST" id="P36999"/>
+<dbReference type="PaxDb" id="P36999"/>
+<dbReference type="PRIDE" id="P36999"/>
+<dbReference type="DNASU" id="946340"/>
+<dbReference type="EnsemblBacteria" id="AAC74892">
+<property type="protein sequence ID" value="AAC74892"/>
+<property type="gene ID" value="b1822"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15633">
+<property type="protein sequence ID" value="BAA15633"/>
+<property type="gene ID" value="BAA15633"/>
+</dbReference>
+<dbReference type="GeneID" id="946340"/>
+<dbReference type="KEGG" id="ecj:JW1811"/>
+<dbReference type="KEGG" id="eco:b1822"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.429"/>
+<dbReference type="EchoBASE" id="EB2122"/>
+<dbReference type="EcoGene" id="EG12207">
+<property type="gene designation" value="rlmA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DHI">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0500">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000040121"/>
+<dbReference type="InParanoid" id="P36999"/>
+<dbReference type="KO" id="K00563"/>
+<dbReference type="PhylomeDB" id="P36999"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12207-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1811-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12207-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.1.187">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P36999"/>
+<dbReference type="PRO" id="PR:P36999"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052911">
+<property type="term" value="F:23S rRNA (guanine(745)-N(1))-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008989">
+<property type="term" value="F:rRNA (guanine-N1-)-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070475">
+<property type="term" value="P:rRNA base methylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025714">
+<property type="entry name" value="Methyltranfer_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016718">
+<property type="entry name" value="rRNA_m1G-MeTrfase_A_prd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13847">
+<property type="entry name" value="Methyltransf_31"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF018249">
+<property type="entry name" value="MyrA_prd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0698">rRNA processing</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="23S rRNA (guanine(745)-N(1))-methyltransferase" id="PRO_0000097444">
+<location>
+<begin position="1"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="region of interest" description="S-adenosyl-L-methionine binding" evidence="5">
+<location>
+<begin position="96"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 2">
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 2">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 2">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 2">
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="5">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="5">
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="6"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="13"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="26"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="40"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="49"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="52"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="63"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="68"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="88"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="100"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="110"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="119"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="132"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="149"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="161"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="168"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="181"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="185"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="208"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="224"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="242"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="252"/>
+<end position="267"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1P91"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14999102"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9440525"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="14999102"/>
+</source>
+</evidence>
+<sequence length="269" mass="30419" checksum="F4A154A6EC3FB6D6" modified="1994-06-01" version="1">
+MSFSCPLCHQPLSREKNSYICPQRHQFDMAKEGYVNLLPVQHKRSRDPGDSAEMMQARRA
+FLDAGHYQPLRDAIVAQLRERLDDKATAVLDIGCGEGYYTHAFADALPEITTFGLDVSKV
+AIKAAAKRYPQVTFCVASSHRLPFSDTSMDAIIRIYAPCKAEELARVVKPGGWVITATPG
+PRHLMELKGLIYNEVHLHAPHAEQLEGFTLQQSAELCYPMRLRGDEAVALLQMTPFAWRA
+KPEVWQTLAAKEVFDCQTDFNIHLWQRSY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

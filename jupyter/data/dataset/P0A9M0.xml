@@ -1,0 +1,1453 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-08-01" modified="2019-06-05" version="131">
+<accession>P0A9M0</accession>
+<accession>P08177</accession>
+<accession>P78219</accession>
+<accession>Q2MBY7</accession>
+<name>LON_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Lon protease</fullName>
+<ecNumber evidence="5">3.4.21.53</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">ATP-dependent protease La</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5">lon</name>
+<name type="synonym">capR</name>
+<name type="synonym">deg</name>
+<name type="synonym">lopA</name>
+<name type="synonym">muc</name>
+<name type="ordered locus">b0439</name>
+<name type="ordered locus">JW0429</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Gene" volume="136" first="237" last="242">
+<title>Controlled high-level expression of the lon gene of Escherichia coli allows overproduction of Lon protease.</title>
+<authorList>
+<person name="Thomas C.D."/>
+<person name="Modha J."/>
+<person name="Razzaq T.M."/>
+<person name="Cullis P.M."/>
+<person name="Rivett A."/>
+</authorList>
+<dbReference type="PubMed" id="8294008"/>
+<dbReference type="DOI" id="10.1016/0378-1119(93)90471-E"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="Bioorg. Khim." volume="14" first="408" last="411">
+<title>Cloning, expression and structure of the functionally active shortened lon gene in Escherichia coli.</title>
+<authorList>
+<person name="Amerik A.Y."/>
+<person name="Chistyakova L.G."/>
+<person name="Ostroumova N.I."/>
+<person name="Gurevich A.I."/>
+<person name="Antonov V.K."/>
+</authorList>
+<dbReference type="PubMed" id="3289547"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="Bioorg. Khim." volume="16" first="869" last="880">
+<title>Cloning, structure and expression of the full-size lon gene in Escherichia coli coding for ATP-dependent La-proteinase.</title>
+<authorList>
+<person name="Amerik A.I.U."/>
+<person name="Antonov V.K."/>
+<person name="Ostroumova N.I."/>
+<person name="Rotanova T.V."/>
+<person name="Chistiakova L.G."/>
+</authorList>
+<dbReference type="PubMed" id="2242054"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="22502" last="22507">
+<title>ATP hydrolysis is not stoichiometrically linked with proteolysis in the ATP-dependent protease La from Escherichia coli.</title>
+<authorList>
+<person name="Fischer H."/>
+<person name="Glockshuber R."/>
+</authorList>
+<dbReference type="PubMed" id="8226758"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>MUTAGENESIS OF SER-679</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="11718" last="11728">
+<title>Sequence of the lon gene in Escherichia coli. A heat-shock gene which encodes the ATP-dependent protease La.</title>
+<authorList>
+<person name="Chin D.T."/>
+<person name="Goff S.A."/>
+<person name="Webster T."/>
+<person name="Smith T."/>
+<person name="Goldberg A.L."/>
+</authorList>
+<dbReference type="PubMed" id="3042779"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 783-783</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1985" name="J. Bacteriol." volume="162" first="271" last="275">
+<title>Regulatory region of the heat shock-inducible capR (lon) gene: DNA and protein sequences.</title>
+<authorList>
+<person name="Gayda R.C."/>
+<person name="Stephens P.E."/>
+<person name="Hewick R."/>
+<person name="Schoemaker J.M."/>
+<person name="Dreyer W.J."/>
+<person name="Markovitz A."/>
+</authorList>
+<dbReference type="PubMed" id="2984174"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-58</scope>
+<scope>PROTEIN SEQUENCE OF 1-14</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="534" last="538">
+<title>Bacterial protease Lon is a site-specific DNA-binding protein.</title>
+<authorList>
+<person name="Fu G.K."/>
+<person name="Smith M.J."/>
+<person name="Markovitz D.M."/>
+</authorList>
+<dbReference type="PubMed" id="8995294"/>
+<dbReference type="DOI" id="10.1074/jbc.272.41.25678"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-9</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>ATCC 37196 / Y1089</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1994" name="FEBS Lett." volume="356" first="101" last="103">
+<title>A point mutation within the ATP-binding site inactivates both catalytic functions of the ATP-dependent protease La (Lon) from Escherichia coli.</title>
+<authorList>
+<person name="Fischer H."/>
+<person name="Glockshuber R."/>
+</authorList>
+<dbReference type="PubMed" id="7988699"/>
+<dbReference type="DOI" id="10.1016/0014-5793(94)01244-X"/>
+</citation>
+<scope>MUTAGENESIS OF LYS-362</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1994" name="Mol. Microbiol." volume="11" first="1151" last="1157">
+<title>Lon-dependent proteolysis of CcdA is the key control for activation of CcdB in plasmid-free segregant bacteria.</title>
+<authorList>
+<person name="Van Melderen L."/>
+<person name="Bernard P."/>
+<person name="Couturier M."/>
+</authorList>
+<dbReference type="PubMed" id="8022284"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1994.tb00391.x"/>
+</citation>
+<scope>CLEAVAGE OF CCDA ANTITOXIN</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1998" name="FEBS Lett." volume="422" first="218" last="220">
+<title>Mutations in the proteolytic domain of Escherichia coli protease Lon impair the ATPase activity of the enzyme.</title>
+<authorList>
+<person name="Starkova N.N."/>
+<person name="Koroleva E.P."/>
+<person name="Rumsh L.D."/>
+<person name="Ginodman L.M."/>
+<person name="Rotanova T.V."/>
+</authorList>
+<dbReference type="PubMed" id="9490010"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(98)00012-X"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-665; HIS-667; ASP-676 AND ASP-743</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1998" name="Genes Dev." volume="12" first="3889" last="3899">
+<title>Lon-mediated proteolysis of the Escherichia coli UmuD mutagenesis protein: in vitro degradation and identification of residues required for proteolysis.</title>
+<authorList>
+<person name="Gonzalez M."/>
+<person name="Frank E.G."/>
+<person name="Levine A.S."/>
+<person name="Woodgate R."/>
+</authorList>
+<dbReference type="PubMed" id="9869642"/>
+<dbReference type="DOI" id="10.1101/gad.12.24.3889"/>
+</citation>
+<scope>CLEAVAGE OF UMUD</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="J. Bacteriol." volume="181" first="2236" last="2243">
+<title>A conserved domain in Escherichia coli Lon protease is involved in substrate discriminator activity.</title>
+<authorList>
+<person name="Ebel W."/>
+<person name="Skinner M.M."/>
+<person name="Dierksen K.P."/>
+<person name="Scott J.M."/>
+<person name="Trempy J.E."/>
+</authorList>
+<dbReference type="PubMed" id="10094703"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="Biochemistry" volume="41" first="9418" last="9425">
+<title>Kinetic characterization of the peptidase activity of Escherichia coli Lon reveals the mechanistic similarities in ATP-dependent hydrolysis of peptide and protein substrates.</title>
+<authorList>
+<person name="Thomas-Wohlever J."/>
+<person name="Lee I."/>
+</authorList>
+<dbReference type="PubMed" id="12135363"/>
+<dbReference type="DOI" id="10.1021/bi0255470"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="Eur. J. Biochem." volume="271" first="4361" last="4365">
+<title>The Thermoplasma acidophilum Lon protease has a Ser-Lys dyad active site.</title>
+<authorList>
+<person name="Besche H."/>
+<person name="Zwickl P."/>
+</authorList>
+<dbReference type="PubMed" id="15560777"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.2004.04421.x"/>
+</citation>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="51" first="1705" last="1717">
+<title>Overproduction of the Lon protease triggers inhibition of translation in Escherichia coli: involvement of the yefM-yoeB toxin-antitoxin system.</title>
+<authorList>
+<person name="Christensen S.K."/>
+<person name="Maenhaut-Michel G."/>
+<person name="Mine N."/>
+<person name="Gottesman S."/>
+<person name="Gerdes K."/>
+<person name="Van Melderen L."/>
+</authorList>
+<dbReference type="PubMed" id="15009896"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2003.03941.x"/>
+</citation>
+<scope>INTERACTION WITH THE YOEB-YEFM TOXIN-ANTITOXIN SYSTEM</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2006" name="Biochemistry" volume="45" first="4602" last="4610">
+<title>Single-turnover kinetic experiments confirm the existence of high- and low-affinity ATPase sites in Escherichia coli Lon protease.</title>
+<authorList>
+<person name="Vineyard D."/>
+<person name="Patterson-Ward J."/>
+<person name="Lee I."/>
+</authorList>
+<dbReference type="PubMed" id="16584195"/>
+<dbReference type="DOI" id="10.1021/bi052377t"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="357" first="718" last="731">
+<title>Sequence requirements for Lon-dependent degradation of the Escherichia coli transcription activator SoxS: identification of the SoxS residues critical to proteolysis and specific inhibition of in vitro degradation by a peptide comprised of the N-terminal 21 amino acid residues.</title>
+<authorList>
+<person name="Shah I.M."/>
+<person name="Wolf R.E. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="16460757"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.12.088"/>
+</citation>
+<scope>CLEAVAGE OF SOXS</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2006" name="Mol. Cells" volume="21" first="129" last="134">
+<title>Oligomeric structure of the ATP-dependent protease La (Lon) of Escherichia coli.</title>
+<authorList>
+<person name="Park S.C."/>
+<person name="Jia B."/>
+<person name="Yang J.K."/>
+<person name="Van D.L."/>
+<person name="Shao Y.G."/>
+<person name="Han S.W."/>
+<person name="Jeon Y.J."/>
+<person name="Chung C.H."/>
+<person name="Cheong G.W."/>
+</authorList>
+<dbReference type="PubMed" id="16511355"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2009" name="Antimicrob. Agents Chemother." volume="53" first="4944" last="4948">
+<title>Combined inactivation of lon and ycgE decreases multidrug susceptibility by reducing the amount of OmpF porin in Escherichia coli.</title>
+<authorList>
+<person name="Duval V."/>
+<person name="Nicoloff H."/>
+<person name="Levy S.B."/>
+</authorList>
+<dbReference type="PubMed" id="19721064"/>
+<dbReference type="DOI" id="10.1128/AAC.00787-09"/>
+</citation>
+<scope>ROLE IN REGULATION OF OMPF IN ASSOCIATION WITH YCGE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / AG100</strain>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="13206" last="13211">
+<title>Bacterial persistence by RNA endonucleases.</title>
+<authorList>
+<person name="Maisonneuve E."/>
+<person name="Shakespeare L.J."/>
+<person name="Joergensen M.G."/>
+<person name="Gerdes K."/>
+</authorList>
+<dbReference type="PubMed" id="21788497"/>
+<dbReference type="DOI" id="10.1073/pnas.1100186108"/>
+</citation>
+<scope>FUNCTION IN PERSISTENCE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF LYS-362 AND SER-679</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E39185" last="E39185">
+<title>Regulation of the Escherichia coli HipBA toxin-antitoxin system by proteolysis.</title>
+<authorList>
+<person name="Hansen S."/>
+<person name="Vulic M."/>
+<person name="Min J."/>
+<person name="Yen T.J."/>
+<person name="Schumacher M.A."/>
+<person name="Brennan R.G."/>
+<person name="Lewis K."/>
+</authorList>
+<dbReference type="PubMed" id="22720069"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0039185"/>
+</citation>
+<scope>CLEAVAGE OF HIPB ANTITOXIN</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="4191" last="4205">
+<title>MazF-induced growth inhibition and persister generation in Escherichia coli.</title>
+<authorList>
+<person name="Tripathi A."/>
+<person name="Dewan P.C."/>
+<person name="Siddique S.A."/>
+<person name="Varadarajan R."/>
+</authorList>
+<dbReference type="PubMed" id="24375411"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.510511"/>
+</citation>
+<scope>CLEAVAGE OF ANTITOXIN MAZE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="8140" last="8148">
+<title>The catalytic domain of Escherichia coli Lon protease has a unique fold and a Ser-Lys dyad in the active site.</title>
+<authorList>
+<person name="Botos I."/>
+<person name="Melnikov E.E."/>
+<person name="Cherry S."/>
+<person name="Tropea J.E."/>
+<person name="Khalatova A.G."/>
+<person name="Rasulova F."/>
+<person name="Dauter Z."/>
+<person name="Maurizi M.R."/>
+<person name="Rotanova T.V."/>
+<person name="Wlodawer A."/>
+<person name="Gustchina A."/>
+</authorList>
+<dbReference type="PubMed" id="14665623"/>
+<dbReference type="DOI" id="10.1074/jbc.M312243200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 585-784</scope>
+<scope>ACTIVE SITE LYS-722</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2004" name="J. Struct. Biol." volume="146" first="113" last="122">
+<title>Crystal structure of the AAA+ alpha domain of E. coli Lon protease at 1.9A resolution.</title>
+<authorList>
+<person name="Botos I."/>
+<person name="Melnikov E.E."/>
+<person name="Cherry S."/>
+<person name="Khalatova A.G."/>
+<person name="Rasulova F.S."/>
+<person name="Tropea J.E."/>
+<person name="Maurizi M.R."/>
+<person name="Rotanova T.V."/>
+<person name="Gustchina A."/>
+<person name="Wlodawer A."/>
+</authorList>
+<dbReference type="PubMed" id="15037242"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2003.09.003"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 491-584</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2005" name="Protein Sci." volume="14" first="2895" last="2900">
+<title>Crystal structure of the N-terminal domain of E. coli Lon protease.</title>
+<authorList>
+<person name="Li M."/>
+<person name="Rasulova F."/>
+<person name="Melnikov E.E."/>
+<person name="Rotanova T.V."/>
+<person name="Gustchina A."/>
+<person name="Maurizi M.R."/>
+<person name="Wlodawer A."/>
+</authorList>
+<dbReference type="PubMed" id="16199667"/>
+<dbReference type="DOI" id="10.1110/ps.051736805"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.03 ANGSTROMS) OF 1-118</scope>
+</reference>
+<comment type="function">
+<text evidence="8 10 12 14 15 16 17 18 20">ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins, including some antitoxins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner. Endogenous substrates include the regulatory proteins RcsA and SulA, the transcriptional activator SoxS, UmuD and at least type II antitoxins CcdA, HipB and MazE (PubMed:8022284, PubMed:16460757, PubMed:22720069, PubMed:24375411). Its overproduction specifically inhibits translation through at least two different pathways, one of them being the YoeB-YefM toxin-antitoxin system (PubMed:15009896). Overproduction leads to very high persister cell formation (cells highly resistant to antibiotics), but not when 10 mRNA interferases are deleted, nor when Lon catalytic residues are mutated (PubMed:21788497).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5">
+<text>Hydrolysis of proteins in presence of ATP.</text>
+<dbReference type="EC" id="3.4.21.53"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text>Contains an allosteric site (distinct from its active site), whose occupancy by an unfolded polypeptide leads to enzyme activation.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="11">0.201 mM for ATP for ATPase activity</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5 13">Homohexamer. Organized in a ring with a central cavity. ATP binding and hydrolysis do not affect the oligomeric state of the enzyme.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547203"/>
+<interactant intactId="EBI-546437">
+<id>P0A7R1</id>
+<label>rplI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547203"/>
+<interactant intactId="EBI-557008">
+<id>P33225</id>
+<label>torA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text>By accumulation of abnormal proteins, such as at high temperatures. Under stress conditions.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="15 16 18">When both lon and ycgE are disrupted levels of OmpF decrease, leading to lower drug susceptibility, with a greater effect at 26 degrees than at 37 degrees Celsius. The mechanism is not yet understood (PubMed:19721064). Decreased persister cell formation upon antibiotic challenge due probably due to increased levels of MazF toxin (PubMed:24375411). Decreased persister cell formation, further reduced when 10 mRNA toxin interferases are also deleted (PubMed:21788497).</text>
+</comment>
+<comment type="miscellaneous">
+<text>Both its proteolytic and protein-activated ATPase activities are stimulated by DNA, especially single-stranded DNA.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Both high- and low-affinity ATPase sites are present in the homooligomer. Optimal peptidase activity requires ATP binding and hydrolysis at both sites, but ATP hydrolysis is not stoichiometrically linked to peptide hydrolysis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the peptidase S16 family.</text>
+</comment>
+<comment type="sequence caution" evidence="24">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA23537" version="1"/>
+</conflict>
+<location>
+<position position="16"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="24">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB40195" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.53" evidence="5"/>
+<dbReference type="EMBL" id="L12349">
+<property type="protein sequence ID" value="AAC36871.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M38347">
+<property type="protein sequence ID" value="AAA24079.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L20572">
+<property type="protein sequence ID" value="AAA16837.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J03896">
+<property type="protein sequence ID" value="AAA24078.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82664">
+<property type="protein sequence ID" value="AAB40195.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73542.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76219.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10153">
+<property type="protein sequence ID" value="AAA23537.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A23101">
+<property type="entry name" value="A23101"/>
+</dbReference>
+<dbReference type="PIR" id="G64773">
+<property type="entry name" value="SUECLA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414973.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295325.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1QZM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=491-584"/>
+</dbReference>
+<dbReference type="PDB" id="1RR9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D/E/F=585-784"/>
+</dbReference>
+<dbReference type="PDB" id="1RRE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B/C/D/E/F=585-784"/>
+</dbReference>
+<dbReference type="PDB" id="2ANE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-118"/>
+</dbReference>
+<dbReference type="PDB" id="3LJC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-245"/>
+</dbReference>
+<dbReference type="PDBsum" id="1QZM"/>
+<dbReference type="PDBsum" id="1RR9"/>
+<dbReference type="PDBsum" id="1RRE"/>
+<dbReference type="PDBsum" id="2ANE"/>
+<dbReference type="PDBsum" id="3LJC"/>
+<dbReference type="SMR" id="P0A9M0"/>
+<dbReference type="BioGrid" id="4260734">
+<property type="interactions" value="201"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35845N"/>
+<dbReference type="IntAct" id="P0A9M0">
+<property type="interactions" value="72"/>
+</dbReference>
+<dbReference type="MINT" id="P0A9M0"/>
+<dbReference type="STRING" id="511145.b0439"/>
+<dbReference type="MEROPS" id="S16.001"/>
+<dbReference type="jPOST" id="P0A9M0"/>
+<dbReference type="PaxDb" id="P0A9M0"/>
+<dbReference type="PRIDE" id="P0A9M0"/>
+<dbReference type="EnsemblBacteria" id="AAC73542">
+<property type="protein sequence ID" value="AAC73542"/>
+<property type="gene ID" value="b0439"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76219">
+<property type="protein sequence ID" value="BAE76219"/>
+<property type="gene ID" value="BAE76219"/>
+</dbReference>
+<dbReference type="GeneID" id="945085"/>
+<dbReference type="KEGG" id="ecj:JW0429"/>
+<dbReference type="KEGG" id="eco:b0439"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1837"/>
+<dbReference type="EchoBASE" id="EB0537"/>
+<dbReference type="EcoGene" id="EG10542">
+<property type="gene designation" value="lon"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C6P">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0466">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000261408"/>
+<dbReference type="InParanoid" id="P0A9M0"/>
+<dbReference type="KO" id="K01338"/>
+<dbReference type="PhylomeDB" id="P0A9M0"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10542-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0429-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10542-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.21.53">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0A9M0"/>
+<dbReference type="EvolutionaryTrace" id="P0A9M0"/>
+<dbReference type="PRO" id="PR:P0A9M0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004176">
+<property type="term" value="F:ATP-dependent peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008233">
+<property type="term" value="F:peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034605">
+<property type="term" value="P:cellular response to heat"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:protein quality control for misfolded or incompletely synthesized proteins"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010165">
+<property type="term" value="P:response to X-ray"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01973">
+<property type="entry name" value="lon_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027543">
+<property type="entry name" value="Lon_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004815">
+<property type="entry name" value="Lon_bac/euk-typ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008269">
+<property type="entry name" value="Lon_proteolytic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027065">
+<property type="entry name" value="Lon_Prtase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003111">
+<property type="entry name" value="Lon_substr-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008268">
+<property type="entry name" value="Peptidase_S16_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015947">
+<property type="entry name" value="PUA-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10046">
+<property type="entry name" value="PTHR10046"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05362">
+<property type="entry name" value="Lon_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02190">
+<property type="entry name" value="LON_substr_bdg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001174">
+<property type="entry name" value="Lon_proteas"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00464">
+<property type="entry name" value="LON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF88697">
+<property type="entry name" value="SSF88697"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00763">
+<property type="entry name" value="lon"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51787">
+<property type="entry name" value="LON_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51786">
+<property type="entry name" value="LON_PROTEOLYTIC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01046">
+<property type="entry name" value="LON_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5 22">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Lon protease" id="PRO_0000076133">
+<location>
+<begin position="2"/>
+<end position="784"/>
+</location>
+</feature>
+<feature type="domain" description="Lon N-terminal" evidence="7">
+<location>
+<begin position="11"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="domain" description="Lon proteolytic" evidence="6">
+<location>
+<begin position="592"/>
+<end position="773"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="356"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Arg/Lys-rich (basic)">
+<location>
+<begin position="211"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Asp/Glu-rich (acidic)">
+<location>
+<begin position="240"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Arg/Lys-rich (basic)">
+<location>
+<begin position="255"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="679"/>
+</location>
+</feature>
+<feature type="active site" evidence="5 9">
+<location>
+<position position="722"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity and ATP-binding. No increased persister cell formation." evidence="16 19">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="23">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="665"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="23">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="667"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="23">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="676"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity. No increased persister cell formation." evidence="16 21">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="679"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="23">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="743"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA24078." ref="5" evidence="24">
+<original>PKEAKEKAEAELQKLKMMSPMSAEATVVRGYIDWMVQVPWNARSKVKKDLRQAQ</original>
+<variation>RKRQKRKRTGVAEAENDVSDVGRSDRSAWLYRLDGTGAVECAYEGQKRPASGA</variation>
+<location>
+<begin position="264"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAA16837." ref="4" evidence="24">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="273"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAA16837." ref="4" evidence="24">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA24078." ref="5" evidence="24">
+<original>AGVRGLEREISKLCRKAVKQLLLDK</original>
+<variation>RACVVWSVKSPNCVAKRLSSYCSIT</variation>
+<location>
+<begin position="539"/>
+<end position="563"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAA16837." ref="4" evidence="24">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="772"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA24079." ref="2" evidence="24">
+<original>QVVTAK</original>
+<variation>HHSLRRRCSTASTYYWAKS</variation>
+<location>
+<begin position="779"/>
+<end position="784"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="9"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="26"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="34"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="45"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="48"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="70"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="88"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="107"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="124"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="150"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="162"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="177"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="189"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="495"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="506"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="518"/>
+<end position="520"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="521"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="525"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="539"/>
+<end position="541"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="542"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="568"/>
+<end position="570"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="572"/>
+<end position="574"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="575"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="596"/>
+<end position="604"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="607"/>
+<end position="619"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="624"/>
+<end position="630"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="632"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="649"/>
+<end position="652"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="656"/>
+<end position="660"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="661"/>
+<end position="667"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="675"/>
+<end position="678"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="681"/>
+<end position="693"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="701"/>
+<end position="703"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="712"/>
+<end position="714"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="719"/>
+<end position="728"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="733"/>
+<end position="737"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="738"/>
+<end position="746"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="749"/>
+<end position="754"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="755"/>
+<end position="762"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="763"/>
+<end position="770"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="771"/>
+<end position="773"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QZM"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1RRE"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ANE"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3LJC"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01973"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01122"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01123"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12135363"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14665623"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15009896"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15560777"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16460757"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16511355"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16584195"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19721064"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21788497"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22720069"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24375411"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7988699"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8022284"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8226758"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8995294"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9490010"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000305"/>
+<sequence length="784" mass="87438" checksum="4042499C97694EF8" modified="2005-07-19" version="1">
+MNPERSERIEIPVLPLRDVVVYPHMVIPLFVGREKSIRCLEAAMDHDKKIMLVAQKEAST
+DEPGVNDLFTVGTVASILQMLKLPDGTVKVLVEGLQRARISALSDNGEHFSAKAEYLESP
+TIDEREQEVLVRTAISQFEGYIKLNKKIPPEVLTSLNSIDDPARLADTIAAHMPLKLADK
+QSVLEMSDVNERLEYLMAMMESEIDLLQVEKRIRNRVKKQMEKSQREYYLNEQMKAIQKE
+LGEMDDAPDENEALKRKIDAAKMPKEAKEKAEAELQKLKMMSPMSAEATVVRGYIDWMVQ
+VPWNARSKVKKDLRQAQEILDTDHYGLERVKDRILEYLAVQSRVNKIKGPILCLVGPPGV
+GKTSLGQSIAKATGRKYVRMALGGVRDEAEIRGHRRTYIGSMPGKLIQKMAKVGVKNPLF
+LLDEIDKMSSDMRGDPASALLEVLDPEQNVAFSDHYLEVDYDLSDVMFVATSNSMNIPAP
+LLDRMEVIRLSGYTEDEKLNIAKRHLLPKQIERNALKKGELTVDDSAIIGIIRYYTREAG
+VRGLEREISKLCRKAVKQLLLDKSLKHIEINGDNLHDYLGVQRFDYGRADNENRVGQVTG
+LAWTEVGGDLLTIETACVPGKGKLTYTGSLGEVMQESIQAALTVVRARAEKLGINPDFYE
+KRDIHVHVPEGATPKDGPSAGIAMCTALVSCLTGNPVRADVAMTGEITLRGQVLPIGGLK
+EKLLAAHRGGIKTVLIPFENKRDLEEIPDNVIADLDIHPVKRIEEVLTLALQNEPSGMQV
+VTAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

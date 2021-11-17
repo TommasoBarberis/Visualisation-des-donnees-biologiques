@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2019-05-08" version="98">
+<accession>P64559</accession>
+<accession>Q2M9U4</accession>
+<accession>Q46825</accession>
+<name>SDHE_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="10">FAD assembly factor SdhE</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="9">Antitoxin CptB</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="10">sdhE</name>
+<name type="synonym" evidence="9">cptB</name>
+<name type="synonym">ygfY</name>
+<name type="ordered locus">b2897</name>
+<name type="ordered locus">JW2865</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2012" name="FEMS Microbiol. Lett." volume="328" first="174" last="181">
+<title>A novel membrane-bound toxin for cell division, CptA (YgfX), inhibits polymerization of cytoskeleton proteins, FtsZ and MreB, in Escherichia coli.</title>
+<authorList>
+<person name="Masuda H."/>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Yamaguchi Y."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="22239607"/>
+<dbReference type="DOI" id="10.1111/j.1574-6968.2012.02496.x"/>
+</citation>
+<scope>PRELIMINARY (INCORRECT) FUNCTION AS AN ANTITOXIN</scope>
+<source>
+<strain>B / BL21-DE3</strain>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="18418" last="18428">
+<title>SdhE is a conserved protein required for flavinylation of succinate dehydrogenase in bacteria.</title>
+<authorList>
+<person name="McNeil M.B."/>
+<person name="Clulow J.S."/>
+<person name="Wilf N.M."/>
+<person name="Salmond G.P."/>
+<person name="Fineran P.C."/>
+</authorList>
+<dbReference type="PubMed" id="22474332"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.293803"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2013" name="Microbiology" volume="159" first="1352" last="1365">
+<title>YgfX (CptA) is a multimeric membrane protein that interacts with the succinate dehydrogenase assembly factor SdhE (YgfY).</title>
+<authorList>
+<person name="McNeil M.B."/>
+<person name="Iglesias-Cans M.C."/>
+<person name="Clulow J.S."/>
+<person name="Fineran P.C."/>
+</authorList>
+<dbReference type="PubMed" id="23657679"/>
+<dbReference type="DOI" id="10.1099/mic.0.068510-0"/>
+</citation>
+<scope>NOT A TOXIN-ANTITOXIN SYSTEM</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="FEBS Lett." volume="588" first="414" last="421">
+<title>The succinate dehydrogenase assembly factor, SdhE, is required for the flavinylation and activation of fumarate reductase in bacteria.</title>
+<authorList>
+<person name="McNeil M.B."/>
+<person name="Hampton H.G."/>
+<person name="Hards K.J."/>
+<person name="Watson B.N."/>
+<person name="Cook G.M."/>
+<person name="Fineran P.C."/>
+</authorList>
+<dbReference type="PubMed" id="24374335"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2013.12.019"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2016" name="J. Biol. Chem." volume="291" first="2904" last="2916">
+<title>Binding of the covalent flavin assembly factor to the flavoprotein subunit of complex II.</title>
+<authorList>
+<person name="Maklashina E."/>
+<person name="Rajagukguk S."/>
+<person name="Starbird C.A."/>
+<person name="McDonald W.H."/>
+<person name="Koganitsky A."/>
+<person name="Eisenbach M."/>
+<person name="Iverson T.M."/>
+<person name="Cecchini G."/>
+</authorList>
+<dbReference type="PubMed" id="26644464"/>
+<dbReference type="DOI" id="10.1074/jbc.M115.690396"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ARG-14 AND GLU-19</scope>
+<source>
+<strain>K12 / RP437</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Proteins" volume="58" first="759" last="763">
+<title>Crystal structure of the YgfY from Escherichia coli, a protein that may be involved in transcriptional regulation.</title>
+<authorList>
+<person name="Lim K."/>
+<person name="Doseeva V."/>
+<person name="Demirkan E.S."/>
+<person name="Pullalarevu S."/>
+<person name="Krajewski W."/>
+<person name="Galkin A."/>
+<person name="Howard A."/>
+<person name="Herzberg O."/>
+</authorList>
+<dbReference type="PubMed" id="15593094"/>
+<dbReference type="DOI" id="10.1002/prot.20337"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.2 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7 8 12">An FAD assembly protein, which accelerates covalent attachment of the cofactor into other proteins (PubMed:22474332, PubMed:26644464, PubMed:24374335). Plays an essential role in the assembly of succinate dehydrogenase (SDH, respiratory complex II), an enzyme complex that is a component of both the tricarboxylic acid cycle and the electron transport chain, and which couples the oxidation of succinate to fumarate with the reduction of ubiquinone (coenzyme Q) to ubiquinol. Required for flavinylation (covalent attachment of FAD) of the flavoprotein subunit SdhA of SDH (PubMed:24374335, PubMed:26644464, PubMed:22474332). Required for flavinylation of the flavoprotein subunit FdrA of fumarate reductase (FDR) (PubMed:26644464). Binds 2 different sites on the flavoprotein target FrdA (and presumably also SdhA), possibly positioning FAD and protein to facilitate the covalent bond formation; covalent attachment of FAD is not required for SDH or FDR complex enzyme formation (PubMed:26644464). Overexpression of this protein and YgfX (formerly cptA) restores production of prodigiosin antibiotic (Pig) in Serratia strains with deletions of sdhE-ygfX (PubMed:22474332).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 8">Monomer (PubMed:15593094). Can be cross-linked to FrdA and SdhA (PubMed:26644464).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 7 8">No aerobic growth on succinate, 80% reduction of succinate dehydrogenase (SDH) activity (PubMed:22474332). Significantly decreased anaerobic growth on glycerol fumarate medium, 70% reduction in fumarate reductase activity (PubMed:24374335). Low covalent attachment of FAD to FdrA or SdhA (PubMed:26644464).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the SdhE FAD assembly factor family.</text>
+</comment>
+<comment type="caution">
+<text evidence="4 6">Was originally thought to be the antitoxin component of a type II toxin-antitoxin (TA) system (PubMed:22239607). When coexpressed with cognate toxin CptA (now ygfX), the antitoxin neutralizes toxicity of CptA (PubMed:22239607). Has been suggested to be a transcriptional regulator (PubMed:22239607). The putative toxin, CptA (ygfX) has since been shown not to be toxic in E.coli or Serratia species (PubMed:23657679).</text>
+</comment>
+<dbReference type="EMBL" id="U28375">
+<property type="protein sequence ID" value="AAA83078.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75935.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76962.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65074">
+<property type="entry name" value="A65074"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417373.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000354046.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1X6I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A/B=1-88"/>
+</dbReference>
+<dbReference type="PDB" id="1X6J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-88"/>
+</dbReference>
+<dbReference type="PDB" id="6B58">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61"/>
+<property type="chains" value="B/D=6-84"/>
+</dbReference>
+<dbReference type="PDBsum" id="1X6I"/>
+<dbReference type="PDBsum" id="1X6J"/>
+<dbReference type="PDBsum" id="6B58"/>
+<dbReference type="SMR" id="P64559"/>
+<dbReference type="BioGrid" id="4262342">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="IntAct" id="P64559">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2897"/>
+<dbReference type="jPOST" id="P64559"/>
+<dbReference type="PaxDb" id="P64559"/>
+<dbReference type="PRIDE" id="P64559"/>
+<dbReference type="EnsemblBacteria" id="AAC75935">
+<property type="protein sequence ID" value="AAC75935"/>
+<property type="gene ID" value="b2897"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76962">
+<property type="protein sequence ID" value="BAE76962"/>
+<property type="gene ID" value="BAE76962"/>
+</dbReference>
+<dbReference type="GeneID" id="947382"/>
+<dbReference type="KEGG" id="ecj:JW2865"/>
+<dbReference type="KEGG" id="eco:b2897"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2991"/>
+<dbReference type="EchoBASE" id="EB2885"/>
+<dbReference type="EcoGene" id="EG13075">
+<property type="gene designation" value="sdhE"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105Y75">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2938">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000160701"/>
+<dbReference type="InParanoid" id="P64559"/>
+<dbReference type="KO" id="K09159"/>
+<dbReference type="BioCyc" id="EcoCyc:G7510-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2865-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P64559"/>
+<dbReference type="PRO" id="PR:P64559"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017013">
+<property type="term" value="P:protein flavinylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034552">
+<property type="term" value="P:respiratory chain complex II assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006105">
+<property type="term" value="P:succinate metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.150.250">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005631">
+<property type="entry name" value="SDH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036714">
+<property type="entry name" value="SDH_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03937">
+<property type="entry name" value="Sdh5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF109910">
+<property type="entry name" value="SSF109910"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="FAD assembly factor SdhE" id="PRO_0000214394">
+<location>
+<begin position="1"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Flavinylates both FrdA and SdhA." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Flavinylates FrdA but not SdhA." evidence="8">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="6"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="18"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="37"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="61"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="67"/>
+<end position="83"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1X6I"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="G4V4G2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15593094"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22239607"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22474332"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23657679"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24374335"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26644464"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22239607"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22474332"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22474332"/>
+</source>
+</evidence>
+<sequence length="88" mass="10547" checksum="B7047D93220989DE" modified="2004-10-11" version="1">
+MDINNKARIHWACRRGMRELDISIMPFFEHEYDSLSDDEKRIFIRLLECDDPDLFNWLMN
+HGKPADAELEMMVRLIQTRNRERGPVAI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

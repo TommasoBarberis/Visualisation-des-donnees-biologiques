@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="118">
+<accession>P0A7D1</accession>
+<accession>P23932</accession>
+<name>PTH_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Peptidyl-tRNA hydrolase</fullName>
+<shortName evidence="2">PTH</shortName>
+<ecNumber evidence="2">3.1.1.29</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">pth</name>
+<name type="ordered locus">b1204</name>
+<name type="ordered locus">JW1195</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="EMBO J." volume="10" first="3549" last="3555">
+<title>Peptidyl-tRNA hydrolase is involved in lambda inhibition of host protein synthesis.</title>
+<authorList>
+<person name="Garcia-Villegas M.R."/>
+<person name="de la Vega F.M."/>
+<person name="Galindo J.M."/>
+<person name="Segura M."/>
+<person name="Buckingham R.H."/>
+<person name="Guarneros G."/>
+</authorList>
+<dbReference type="PubMed" id="1833189"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-17</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Proteins" volume="28" first="135" last="136">
+<title>Crystallization and preliminary X-ray analysis of Escherichia coli peptidyl-tRNA hydrolase.</title>
+<authorList>
+<person name="Schmitt E."/>
+<person name="Fromant M."/>
+<person name="Plateau P."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="9144799"/>
+<dbReference type="DOI" id="10.1002/(SICI)1097-0134(199705)28:1&lt;135::AID-PROT14>3.3.CO;2-0"/>
+</citation>
+<scope>CRYSTALLIZATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="EMBO J." volume="16" first="4760" last="4769">
+<title>Crystal structure at 1.2-A resolution and active site mapping of Escherichia coli peptidyl-tRNA hydrolase.</title>
+<authorList>
+<person name="Schmitt E."/>
+<person name="Mechulam Y."/>
+<person name="Fromant M."/>
+<person name="Plateau P."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="9303320"/>
+<dbReference type="DOI" id="10.1093/emboj/16.15.4760"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.2 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>The natural substrate for this enzyme may be peptidyl-tRNAs which drop off the ribosome during protein synthesis. Involved in lambda inhibition of host protein synthesis. PTH activity may, directly or indirectly, be the target for lambda bar RNA leading to rap cell death.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>H2O + N-acyl-L-alpha-aminoacyl-tRNA = an N-acyl-L-amino acid + H(+) + tRNA</text>
+<dbReference type="Rhea" id="RHEA:54448"/>
+<dbReference type="Rhea" id="RHEA-COMP:10123"/>
+<dbReference type="Rhea" id="RHEA-COMP:13883"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:59874"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:138191"/>
+<dbReference type="EC" id="3.1.1.29"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the PTH family.</text>
+</comment>
+<dbReference type="EC" id="3.1.1.29" evidence="2"/>
+<dbReference type="EMBL" id="X61941">
+<property type="protein sequence ID" value="CAA43945.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74288.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA36062.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S16753">
+<property type="entry name" value="S16753"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415722.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000152933.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2PTH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=2-194"/>
+</dbReference>
+<dbReference type="PDB" id="3VJR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/C=1-194"/>
+</dbReference>
+<dbReference type="PDBsum" id="2PTH"/>
+<dbReference type="PDBsum" id="3VJR"/>
+<dbReference type="SMR" id="P0A7D1"/>
+<dbReference type="BioGrid" id="4262870">
+<property type="interactions" value="54"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35932N"/>
+<dbReference type="IntAct" id="P0A7D1">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1204"/>
+<dbReference type="EPD" id="P0A7D1"/>
+<dbReference type="jPOST" id="P0A7D1"/>
+<dbReference type="PaxDb" id="P0A7D1"/>
+<dbReference type="PRIDE" id="P0A7D1"/>
+<dbReference type="EnsemblBacteria" id="AAC74288">
+<property type="protein sequence ID" value="AAC74288"/>
+<property type="gene ID" value="b1204"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA36062">
+<property type="protein sequence ID" value="BAA36062"/>
+<property type="gene ID" value="BAA36062"/>
+</dbReference>
+<dbReference type="GeneID" id="945765"/>
+<dbReference type="KEGG" id="ecj:JW1195"/>
+<dbReference type="KEGG" id="eco:b1204"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1080"/>
+<dbReference type="EchoBASE" id="EB0778"/>
+<dbReference type="EcoGene" id="EG10785">
+<property type="gene designation" value="pth"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108ZPD">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0193">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000004796"/>
+<dbReference type="InParanoid" id="P0A7D1"/>
+<dbReference type="KO" id="K01056"/>
+<dbReference type="PhylomeDB" id="P0A7D1"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10785-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1195-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10785-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.1.29">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0A7D1"/>
+<dbReference type="EvolutionaryTrace" id="P0A7D1"/>
+<dbReference type="PRO" id="PR:P0A7D1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004045">
+<property type="term" value="F:aminoacyl-tRNA hydrolase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:protein quality control for misfolded or incompletely synthesized proteins"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00462">
+<property type="entry name" value="PTH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1470">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00083">
+<property type="entry name" value="Pept_tRNA_hydro_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001328">
+<property type="entry name" value="Pept_tRNA_hydro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018171">
+<property type="entry name" value="Pept_tRNA_hydro_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036416">
+<property type="entry name" value="Pept_tRNA_hydro_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR17224">
+<property type="entry name" value="PTHR17224"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01195">
+<property type="entry name" value="Pept_tRNA_hydro"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53178">
+<property type="entry name" value="SSF53178"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00447">
+<property type="entry name" value="pth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01195">
+<property type="entry name" value="PEPT_TRNA_HYDROL_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01196">
+<property type="entry name" value="PEPT_TRNA_HYDROL_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Peptidyl-tRNA hydrolase" id="PRO_0000187733">
+<location>
+<begin position="1"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Pth(ts) mutants synthesize thermosensitive PTH and die at 42 degrees Celsius from a defect in protein synthesis.">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Rap mutants do not support vegetative growth of bacteriophage lambda and die upon transcription of lambda DNA bar sites.">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="14"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="20"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="23"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="40"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="47"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="68"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="86"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="89"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="103"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="115"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="130"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="143"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="156"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="181"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="191"/>
+<end position="193"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2PTH"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00083"/>
+</source>
+</evidence>
+<sequence length="194" mass="21082" checksum="A28A69A63F2DD530" modified="2005-06-07" version="1">
+MTIKLIVGLANPGAEYAATRHNAGAWFVDLLAERLRAPLREEAKFFGYTSRVTLGGEDVR
+LLVPTTFMNLSGKAVAAMASFFRINPDEILVAHDELDLPPGVAKFKLGGGHGGHNGLKDI
+ISKLGNNPNFHRLRIGIGHPGDKNKVVGFVLGKPPVSEQKLIDEAIDEAARCTEMWFTDG
+LTKATNRLHAFKAQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

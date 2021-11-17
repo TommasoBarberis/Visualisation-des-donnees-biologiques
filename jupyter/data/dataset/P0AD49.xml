@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-06-05" version="111">
+<accession>P0AD49</accession>
+<accession>P11285</accession>
+<name>YFIA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="18">Ribosome-associated inhibitor A</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="17">Protein Y</fullName>
+<shortName evidence="18">pY</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="19">Ribosome associated factor Y</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="17">Spot Y</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="18">raiA</name>
+<name type="synonym" evidence="20">yfiA</name>
+<name type="ordered locus">b2597</name>
+<name type="ordered locus">JW2578</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="J. Mol. Biol." volume="180" first="1023" last="1051">
+<title>Nucleotide sequence and transcription of the phenylalanine and tyrosine operons of Escherichia coli K12.</title>
+<authorList>
+<person name="Hudson G.S."/>
+<person name="Davidson B.E."/>
+</authorList>
+<dbReference type="PubMed" id="6396419"/>
+<dbReference type="DOI" id="10.1016/0022-2836(84)90269-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-04" db="EMBL/GenBank/DDBJ databases">
+<title>Identification of two Escherichia coli K12 proteins which are induced in response to pollutant stress.</title>
+<authorList>
+<person name="Faber F."/>
+<person name="van Giezen M."/>
+<person name="van Gorcom R.F.M."/>
+<person name="Harder W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="21532" last="21535">
+<title>pheAo mutants of Escherichia coli have a defective pheA attenuator.</title>
+<authorList>
+<person name="Gavini N."/>
+<person name="Davidson B.E."/>
+</authorList>
+<dbReference type="PubMed" id="2254312"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 77-113</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="12345" last="12349">
+<title>A protein residing at the subunit interface of the bacterial ribosome.</title>
+<authorList>
+<person name="Agafonov D.E."/>
+<person name="Kolb V.A."/>
+<person name="Nazimov I.V."/>
+<person name="Spirin A.S."/>
+</authorList>
+<dbReference type="PubMed" id="10535924"/>
+<dbReference type="DOI" id="10.1073/pnas.96.22.12345"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-18</scope>
+<scope>FUNCTION IN STABILIZATION OF THE RIBOSOME</scope>
+<scope>INTERACTION WITH THE RIBOSOMAL 30S SUBUNIT</scope>
+<scope>MASS SPECTROMETRY</scope>
+<source>
+<strain>MRE-600</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-13</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="Genes Cells" volume="5" first="965" last="974">
+<title>Two proteins, YfiA and YhbH, associated with resting ribosomes in stationary phase Escherichia coli.</title>
+<authorList>
+<person name="Maki Y."/>
+<person name="Yoshida H."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="11168583"/>
+<dbReference type="DOI" id="10.1046/j.1365-2443.2000.00389.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-13</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH 70S AND 100S RIBOSOMES</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MC4100 / AD202</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="submission" date="1994-09" db="UniProtKB">
+<authorList>
+<person name="Pasquali C."/>
+<person name="Sanchez J.-C."/>
+<person name="Ravier F."/>
+<person name="Golaz O."/>
+<person name="Hughes G.J."/>
+<person name="Frutiger S."/>
+<person name="Paquet N."/>
+<person name="Wilkins M."/>
+<person name="Appel R.D."/>
+<person name="Bairoch A."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-12</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1999" name="Electrophoresis" volume="20" first="2181" last="2195">
+<title>Enrichment of low abundance proteins of Escherichia coli by hydroxyapatite chromatography.</title>
+<authorList>
+<person name="Fountoulakis M."/>
+<person name="Takacs M.-F."/>
+<person name="Berndt P."/>
+<person name="Langen H."/>
+<person name="Takacs B."/>
+</authorList>
+<dbReference type="PubMed" id="10493123"/>
+<dbReference type="DOI" id="10.1002/(SICI)1522-2683(19990801)20:11&lt;2181::AID-ELPS2181>3.0.CO;2-Q"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>B / BL21</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2001" name="EMBO Rep." volume="2" first="399" last="402">
+<title>Ribosome-associated protein that inhibits translation at the aminoacyl-tRNA binding stage.</title>
+<authorList>
+<person name="Agafonov D.E."/>
+<person name="Kolb V.A."/>
+<person name="Spirin A.S."/>
+</authorList>
+<dbReference type="PubMed" id="11375931"/>
+<dbReference type="DOI" id="10.1093/embo-reports/kve091"/>
+</citation>
+<scope>FUNCTION IN BLOCKING OF THE RIBOSOMAL A-SITE</scope>
+<scope>FUNCTION IN INHIBITION OF TRANSLATION</scope>
+<scope>INDUCTION BY COLD SHOCK</scope>
+<scope>GENE NAME</scope>
+<source>
+<strain>MRE-600</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="Biochem. Biophys. Res. Commun." volume="320" first="354" last="358">
+<title>The ribosome-associated inhibitor A reduces translation errors.</title>
+<authorList>
+<person name="Agafonov D.E."/>
+<person name="Spirin A.S."/>
+</authorList>
+<dbReference type="PubMed" id="15219834"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2004.05.171"/>
+</citation>
+<scope>FUNCTION IN THE REDUCTION OF TRANSLATION ERRORS</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2005" name="Genes Cells" volume="10" first="1103" last="1112">
+<title>Ribosome binding proteins YhbH and YfiA have opposite functions during 100S formation in the stationary phase of Escherichia coli.</title>
+<authorList>
+<person name="Ueta M."/>
+<person name="Yoshida H."/>
+<person name="Wada C."/>
+<person name="Baba T."/>
+<person name="Mori H."/>
+<person name="Wada A."/>
+</authorList>
+<dbReference type="PubMed" id="16324148"/>
+<dbReference type="DOI" id="10.1111/j.1365-2443.2005.00903.x"/>
+</citation>
+<scope>FUNCTION IN THE PREVENTION OF 70S RIBOSOME DIMERIZATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="2844" last="2853">
+<title>Essentiality of ribosomal and transcription antitermination proteins analyzed by systematic gene replacement in Escherichia coli.</title>
+<authorList>
+<person name="Bubunenko M."/>
+<person name="Baker T."/>
+<person name="Court D.L."/>
+</authorList>
+<dbReference type="PubMed" id="17277072"/>
+<dbReference type="DOI" id="10.1128/JB.01713-06"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="215" last="225">
+<title>Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Sprung R."/>
+<person name="Pei J."/>
+<person name="Tan X."/>
+<person name="Kim S."/>
+<person name="Zhu H."/>
+<person name="Liu C.F."/>
+<person name="Grishin N.V."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="18723842"/>
+<dbReference type="DOI" id="10.1074/mcp.M800187-MCP200"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-66</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / JW1106</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2013" name="MicrobiologyOpen" volume="2" first="293" last="307">
+<title>Role of the ribosome-associated protein PY in the cold-shock response of Escherichia coli.</title>
+<authorList>
+<person name="Di Pietro F."/>
+<person name="Brandi A."/>
+<person name="Dzeladini N."/>
+<person name="Fabbretti A."/>
+<person name="Carzaniga T."/>
+<person name="Piersimoni L."/>
+<person name="Pon C.L."/>
+<person name="Giuliodori A.M."/>
+</authorList>
+<dbReference type="PubMed" id="23420694"/>
+<dbReference type="DOI" id="10.1002/mbo3.68"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION BY COLD SHOCK</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>MRE-600</strain>
+</source>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="Biochem. Biophys. Res. Commun." volume="299" first="710" last="714">
+<title>Solution structure of the ribosome-associated cold shock response protein Yfia of Escherichia coli.</title>
+<authorList>
+<person name="Rak A."/>
+<person name="Kalinin A."/>
+<person name="Shcherbakov D."/>
+<person name="Bayer P."/>
+</authorList>
+<dbReference type="PubMed" id="12470636"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(02)02721-3"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2002" name="Eur. J. Biochem." volume="269" first="5182" last="5191">
+<title>Ribosome-associated factor Y adopts a fold resembling a double-stranded RNA binding domain scaffold.</title>
+<authorList>
+<person name="Ye K."/>
+<person name="Serganov A."/>
+<person name="Hu W."/>
+<person name="Garber M."/>
+<person name="Patel D.J."/>
+</authorList>
+<dbReference type="PubMed" id="12392550"/>
+<dbReference type="DOI" id="10.1046/j.1432-1033.2002.03222.x"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 2-113</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="Nat. Struct. Mol. Biol." volume="11" first="1054" last="1059">
+<title>Structural basis for the control of translation initiation during stress.</title>
+<authorList>
+<person name="Vila-Sanjurjo A."/>
+<person name="Schuwirth B.S."/>
+<person name="Hau C.W."/>
+<person name="Cate J.H."/>
+</authorList>
+<dbReference type="PubMed" id="15502846"/>
+<dbReference type="DOI" id="10.1038/nsmb850"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (11.50 ANGSTROMS) OF 2-91 BOUND TO THE E.COLI 70S RIBOSOME</scope>
+<scope>FUNCTION IN INHIBITION OF TRANSLATION</scope>
+<scope>BLOCKING OF A-AND P-SITES</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>MRE-600</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2012" name="Science" volume="336" first="915" last="918">
+<title>How hibernation factors RMF, HPF, and YfiA turn off protein synthesis.</title>
+<authorList>
+<person name="Polikanov Y.S."/>
+<person name="Blaha G.M."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="22605777"/>
+<dbReference type="DOI" id="10.1126/science.1218538"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS) BOUND TO THE T.THERMOPHILUS 70S RIBOSOME</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2015" name="Nat. Struct. Mol. Biol." volume="22" first="342" last="344">
+<title>Structural insights into the role of rRNA modifications in protein synthesis and ribosome assembly.</title>
+<authorList>
+<person name="Polikanov Y.S."/>
+<person name="Melnikov S.V."/>
+<person name="Soll D."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="25775268"/>
+<dbReference type="DOI" id="10.1038/nsmb.2992"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) BOUND TO THE T.THERMOPHILUS RIBOSOME</scope>
+<scope>SUBUNIT</scope>
+<scope>RRNA-BINDING</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2016" name="Nucleic Acids Res." volume="44" first="2429" last="2438">
+<title>Structure of the mammalian antimicrobial peptide Bac7(1-16) bound within the exit tunnel of a bacterial ribosome.</title>
+<authorList>
+<person name="Seefeldt A.C."/>
+<person name="Graf M."/>
+<person name="Perebaskine N."/>
+<person name="Nguyen F."/>
+<person name="Arenz S."/>
+<person name="Mardirossian M."/>
+<person name="Scocchi M."/>
+<person name="Wilson D.N."/>
+<person name="Innis C.A."/>
+</authorList>
+<dbReference type="PubMed" id="26792896"/>
+<dbReference type="DOI" id="10.1093/nar/gkv1545"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) OF 2-98 BOUND TO THE T.THERMOPHILUS RIBOSOME WITH EUKARYOTIC ANTIMICROBIAL PEPTIDES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 7 8 11 12">During stationary phase prevents 70S dimer formation, probably in order to regulate translation efficiency during transition between the exponential and the stationary phases (PubMed:16324148). During environmental stress such as cold shock or excessive cell density at stationary phase, stabilizes the 70S ribosome against dissociation, inhibits translation elongation and increases translation accuracy (PubMed:11375931, PubMed:15219834). When normal growth conditions are restored, is quickly released from the ribosome (PubMed:11375931). Has been suggested to inhibit translation elongation by blocking the A-site (aminoacyl-tRNA site) (PubMed:11375931). Has also been suggested to inhibit translation initiation by blocking the A-site and P-site (peptidyl-tRNA site) of the ribosome (PubMed:15502846, PubMed:23420694). At 15 degrees Celsius binds 30S subunits and stimulates their association with 50S subunits into idle 70S ribosomes (PubMed:23420694). Crystallization with T.thermophilus 70S ribosomes shows it binds in the channel between the head and body of the 30S subunit, where mRNA, tRNAs, initiation factors IF1 and IF3 and elongation factor G would bind; this protein's extended tail follows the mRNA channel and probably prevents RMF binding, which would prevent ribosome dimerization (PubMed:22605777). This protein also stabilizes the 30S head relative to the rest of the ribosome, which may also prevent dimerization (PubMed:22605777). Counteracts miscoding (translation errors) particularly efficiently at magnesium concentrations close to those observed in vivo but less efficiently at higher concentrations (PubMed:15219834). Counteraction of miscoding was shown to be stronger than inhibition of translation, suggesting that the former activity could be the main function of this protein in vivo (PubMed:15219834).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5 7 11 13 14">Associates mainly with 70S ribosomes (PubMed:11168583, PubMed:11375931). Localized at the surface of the 30S ribosomal subunit, at the interface with the 50S subunit (PubMed:10535924, PubMed:15502846, PubMed:22605777). Binds across the channel in the 30S subunit where tRNAs and mRNA interact during protein biosynthesis (PubMed:15502846, PubMed:22605777). Can also associate with 100S ribosomes, which are inactive dimers of 70S ribosomes (PubMed:11168583). Contacts modifed methylated residues of 16S rRNA (in complex with T.thermophilus ribosome, 2/3 residues are also modified in E.coli) (PubMed:25775268).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1129692"/>
+<interactant intactId="EBI-1114349">
+<id>P0A805</id>
+<label>frr</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="induction">
+<text evidence="4 5 12">During stationary phase (at protein level) (PubMed:11168583, PubMed:11375931). Also by cold stress, remains ribosome-associated for the 4 hours tested, then disappears when cells are warmed (at protein level) (PubMed:11375931, PubMed:23420694).</text>
+</comment>
+<comment type="mass spectrometry" mass="12640" method="MALDI" evidence="3">
+<location>
+<begin position="2"/>
+<end position="113"/>
+</location>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="8 9 12">Non-essential gene, increased formation of inactive 100S ribosomes in stationary phase, which persist longer than in wild-type. Double hpr-yfiA deletion mutants form 90S ribosomes (PubMed:16324148). A quadruple yfiA-hpf-rmf-sra knockout strain is significantly outcompeted by wild-type after 4 days growth (PubMed:17277072). No visible effect on viability or growth rate at 37 or 10 degrees Celsius, slight effect on bulk translation and timing of expression of some cold-shock proteins (PubMed:23420694).</text>
+</comment>
+<comment type="similarity">
+<text evidence="20">Belongs to the HPF/YfiA ribosome-associated protein family. YfiA subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="M10431">
+<property type="protein sequence ID" value="AAA24328.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z70523">
+<property type="protein sequence ID" value="CAA94436.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75646.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16481.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M58024">
+<property type="protein sequence ID" value="AAA62782.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A30275">
+<property type="entry name" value="Q5ECPA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417088.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000178456.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1L4S">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-113"/>
+</dbReference>
+<dbReference type="PDB" id="1N3G">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-113"/>
+</dbReference>
+<dbReference type="PDB" id="4V4G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="11.50"/>
+<property type="chains" value="a=2-91"/>
+</dbReference>
+<dbReference type="PDB" id="4V8I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="AY/CY=1-113"/>
+</dbReference>
+<dbReference type="PDB" id="4Y4O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="1y/2y=1-113"/>
+</dbReference>
+<dbReference type="PDB" id="5FDU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="1x/2x=2-98"/>
+</dbReference>
+<dbReference type="PDB" id="5FDV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="1x/2x=2-98"/>
+</dbReference>
+<dbReference type="PDB" id="5V8I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.25"/>
+<property type="chains" value="1y/2y=1-113"/>
+</dbReference>
+<dbReference type="PDB" id="6CFK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="1y/2y=1-113"/>
+</dbReference>
+<dbReference type="PDB" id="6FKR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="1z/2z=2-98"/>
+</dbReference>
+<dbReference type="PDBsum" id="1L4S"/>
+<dbReference type="PDBsum" id="1N3G"/>
+<dbReference type="PDBsum" id="4V4G"/>
+<dbReference type="PDBsum" id="4V8I"/>
+<dbReference type="PDBsum" id="4Y4O"/>
+<dbReference type="PDBsum" id="5FDU"/>
+<dbReference type="PDBsum" id="5FDV"/>
+<dbReference type="PDBsum" id="5V8I"/>
+<dbReference type="PDBsum" id="6CFK"/>
+<dbReference type="PDBsum" id="6FKR"/>
+<dbReference type="SMR" id="P0AD49"/>
+<dbReference type="BioGrid" id="4261618">
+<property type="interactions" value="36"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36014N"/>
+<dbReference type="IntAct" id="P0AD49">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2597"/>
+<dbReference type="iPTMnet" id="P0AD49"/>
+<dbReference type="SWISS-2DPAGE" id="P0AD49"/>
+<dbReference type="jPOST" id="P0AD49"/>
+<dbReference type="PaxDb" id="P0AD49"/>
+<dbReference type="PRIDE" id="P0AD49"/>
+<dbReference type="EnsemblBacteria" id="AAC75646">
+<property type="protein sequence ID" value="AAC75646"/>
+<property type="gene ID" value="b2597"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16481">
+<property type="protein sequence ID" value="BAA16481"/>
+<property type="gene ID" value="BAA16481"/>
+</dbReference>
+<dbReference type="GeneID" id="32213723"/>
+<dbReference type="GeneID" id="947129"/>
+<dbReference type="KEGG" id="ecj:JW2578"/>
+<dbReference type="KEGG" id="eco:b2597"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4141"/>
+<dbReference type="EchoBASE" id="EB1140"/>
+<dbReference type="EcoGene" id="EG11151">
+<property type="gene designation" value="raiA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108WPH">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1544">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000264774"/>
+<dbReference type="InParanoid" id="P0AD49"/>
+<dbReference type="KO" id="K05809"/>
+<dbReference type="PhylomeDB" id="P0AD49"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11151-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2578-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0AD49"/>
+<dbReference type="PRO" id="PR:P0AD49"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022627">
+<property type="term" value="C:cytosolic small ribosomal subunit"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043024">
+<property type="term" value="F:ribosomal small subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045900">
+<property type="term" value="P:negative regulation of translational elongation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045947">
+<property type="term" value="P:negative regulation of translational initiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044238">
+<property type="term" value="P:primary metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009409">
+<property type="term" value="P:response to cold"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00552">
+<property type="entry name" value="RaiA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.160.100">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036567">
+<property type="entry name" value="RHF-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003489">
+<property type="entry name" value="RHF/RaiA"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02482">
+<property type="entry name" value="Ribosomal_S30AE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF69754">
+<property type="entry name" value="SSF69754"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00741">
+<property type="entry name" value="yfiA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<feature type="initiator methionine" description="Removed" evidence="3 4 15 16">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Ribosome-associated inhibitor A" id="PRO_0000169261">
+<location>
+<begin position="2"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with 16S rRNA" evidence="21">
+<location>
+<begin position="23"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with 16S rRNA" evidence="21">
+<location>
+<begin position="83"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="10">
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="4"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="28"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="38"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="47"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="70"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="98"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="111"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1L4S"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1N3G"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10535924"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11168583"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11375931"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15219834"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15502846"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16324148"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17277072"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18723842"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22605777"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23420694"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25775268"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26792896"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source ref="10"/>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10535924"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11375931"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12392550"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000305"/>
+<evidence key="21" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25775268"/>
+</source>
+</evidence>
+<sequence length="113" mass="12785" checksum="562901F819836A87" modified="2007-01-23" version="2">
+MTMNITSKQMEITPAIRQHVADRLAKLEKWQTHLINPHIILSKEPQGFVADATINTPNGV
+LVASGKHEDMYTAINELINKLERQLNKLQHKGEARRAATSVKDANFVEEVEEE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-09-27" modified="2019-05-08" version="94">
+<accession>P0C0K3</accession>
+<accession>P32127</accession>
+<accession>Q2M8F7</accession>
+<name>SRKA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 7">Stress response kinase A</fullName>
+<ecNumber evidence="2 3">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Serine/threonine protein kinase YihE</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2 8">Serine/threonine-protein kinase SrkA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 7">srkA</name>
+<name type="synonym">rdoA</name>
+<name type="synonym">yihE</name>
+<name type="ordered locus">b3859</name>
+<name type="ordered locus">JW3831</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Microbiology" volume="140" first="3337" last="3348">
+<title>The Escherichia coli dsbA gene is partly transcribed from the promoter of a weakly expressed upstream gene.</title>
+<authorList>
+<person name="Belin P."/>
+<person name="Boquet P.L."/>
+</authorList>
+<dbReference type="PubMed" id="7881552"/>
+<dbReference type="DOI" id="10.1099/13500872-140-12-3337"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Genes Dev." volume="11" first="1169" last="1182">
+<title>Regulation of Escherichia coli cell envelope proteins involved in protein folding and degradation by the Cpx two-component system.</title>
+<authorList>
+<person name="Pogliano J."/>
+<person name="Lynch A.S."/>
+<person name="Belin D."/>
+<person name="Lin E.C."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="9159398"/>
+<dbReference type="DOI" id="10.1101/gad.11.9.1169"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION BY CPX</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2013" name="Cell Rep." volume="3" first="528" last="537">
+<title>YihE kinase is a central regulator of programmed cell death in bacteria.</title>
+<authorList>
+<person name="Dorsey-Oresto A."/>
+<person name="Lu T."/>
+<person name="Mosel M."/>
+<person name="Wang X."/>
+<person name="Salz T."/>
+<person name="Drlica K."/>
+<person name="Zhao X."/>
+</authorList>
+<dbReference type="PubMed" id="23416055"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2013.01.026"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF SER-36 AND ASP-217</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="Mol. Microbiol." volume="63" first="1360" last="1371">
+<title>Crystal structure of a novel prokaryotic Ser/Thr kinase and its implication in the Cpx stress response pathway.</title>
+<authorList>
+<person name="Zheng J."/>
+<person name="He C."/>
+<person name="Singh V.K."/>
+<person name="Martin N.L."/>
+<person name="Jia Z."/>
+</authorList>
+<dbReference type="PubMed" id="17302814"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2007.05611.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS)</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>POSSIBLE COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ASP-217</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5">A protein kinase that (auto)phosphorylates on Ser and Thr residues (PubMed:17302814). Probably acts to suppress the effects of stress linked to accumulation of reactive oxygen species. Protects cells from stress by antagonizing the MazE-MazF TA module, probably indirectly as it has not been seen to phosphorylate MazE, MazF or MazG (PubMed:23416055). Probably involved in the extracytoplasmic stress response (PubMed:9159398).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 3">
+<text>ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:17989"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 3">
+<text>ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-threonyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:46608"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="9">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="9">May bind 2 Mg(2+) ions.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 9">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="5">Induced by the two-component Cpx system that responds to extracellular stress.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">A hyperlethal phenotype (reduced survival in the presence of antibiotic but no change in minimal inhibitory concentration) for a number of antimicrobials including nalidixic acid, tetracycline, ampicillin and mitomycin C as well as exposure to UV light and H(2)O(2). Lethality is mitigated by pretreatment with 2,2'-bipyridyl and thiourea, which inhibit hydroxyl radical accumulation. No change in cell survival upon heat shock (up to 55 degrees Celsius), rifampicin or fluoroquinolone PD161144 treatment. A triple srkA-mazE-mazF disruption mutant shows no hyperlethality in the presence of nalidixic acid or UV light, suggesting SrkA has a negative effect on MazF. Double katG-srkA and double cpxR-srkA disruption mutants are as sensitive to killing as single srkA mutants; i.e. all 3 genes are epistatic and function in the same genetic pathway.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the SrkA/RdoA protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="2 3"/>
+<dbReference type="EMBL" id="X80762">
+<property type="protein sequence ID" value="CAA56735.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB02994.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76857.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77449.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S40805">
+<property type="entry name" value="S40805"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418296.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001065497.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1ZYL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-328"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ZYL"/>
+<dbReference type="SMR" id="P0C0K3"/>
+<dbReference type="BioGrid" id="4261338">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="IntAct" id="P0C0K3">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3859"/>
+<dbReference type="jPOST" id="P0C0K3"/>
+<dbReference type="PaxDb" id="P0C0K3"/>
+<dbReference type="PRIDE" id="P0C0K3"/>
+<dbReference type="EnsemblBacteria" id="AAC76857">
+<property type="protein sequence ID" value="AAC76857"/>
+<property type="gene ID" value="b3859"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77449">
+<property type="protein sequence ID" value="BAE77449"/>
+<property type="gene ID" value="BAE77449"/>
+</dbReference>
+<dbReference type="GeneID" id="948346"/>
+<dbReference type="KEGG" id="ecj:JW3831"/>
+<dbReference type="KEGG" id="eco:b3859"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3968"/>
+<dbReference type="EchoBASE" id="EB1778"/>
+<dbReference type="EcoGene" id="EG11831">
+<property type="gene designation" value="srkA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E27">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2334">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000265894"/>
+<dbReference type="InParanoid" id="P0C0K3"/>
+<dbReference type="PhylomeDB" id="P0C0K3"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11831-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3831-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11831-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0C0K3"/>
+<dbReference type="PRO" id="PR:P0C0K3"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01497">
+<property type="entry name" value="SrkA_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002575">
+<property type="entry name" value="Aminoglycoside_PTrfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032882">
+<property type="entry name" value="SrkA/RdoA"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR39573">
+<property type="entry name" value="PTHR39573"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01636">
+<property type="entry name" value="APH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Stress response kinase A" id="PRO_0000209574">
+<location>
+<begin position="1"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2 9">
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="active site" evidence="2 9">
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2 9">
+<location>
+<position position="206"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2 9">
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="site" description="ATP" evidence="2 9">
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of kinase activity, only partially protects bacteria against hyperlethal stress." evidence="4">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of kinase activity; does not protect bacteria against hyperlethal stress." evidence="3 4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="13"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="37"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="52"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="59"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="64"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="96"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="101"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="119"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="149"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="154"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="164"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="168"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="171"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="204"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="207"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="228"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="238"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="253"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="260"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="266"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="289"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="295"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="300"/>
+<end position="316"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ZYL"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01497"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17302814"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23416055"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9159398"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17302814"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23416055"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="17302814"/>
+</source>
+</evidence>
+<sequence length="328" mass="38120" checksum="100AEEF0FBF04436" modified="2005-09-27" version="1">
+MNNSAFTFQTLHPDTIMDALFEHGIRVDSGLTPLNSYENRVYQFQDEDRRRFVVKFYRPE
+RWTADQILEEHQFALQLVNDEVPVAAPVAFNGQTLLNHQGFYFAVFPSVGGRQFEADNID
+QMEAVGRYLGRMHQTGRKQLFIHRPTIGLNEYLIEPRKLFEDATLIPSGLKAAFLKATDE
+LIAAVTAHWREDFTVLRLHGDCHAGNILWRDGPMFVDLDDARNGPAVQDLWMLLNGDKAE
+QRMQLETIIEAYEEFSEFDTAEIGLIEPLRAMRLVYYLAWLMRRWADPAFPKNFPWLTGE
+DYWLRQTATFIEQAKVLQEPPLQLTPMY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

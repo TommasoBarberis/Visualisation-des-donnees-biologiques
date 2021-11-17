@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-03-29" modified="2019-06-05" version="128">
+<accession>P0A6K3</accession>
+<accession>P27251</accession>
+<accession>Q2M6V1</accession>
+<name>DEF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Peptide deformylase</fullName>
+<shortName>PDF</shortName>
+<ecNumber>3.5.1.88</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Polypeptide deformylase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">def</name>
+<name type="synonym" evidence="8">fms</name>
+<name type="ordered locus">b3287</name>
+<name type="ordered locus">JW3248</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="914" last="923">
+<title>Genetic characterization of polypeptide deformylase, a distinctive enzyme of eubacterial translation.</title>
+<authorList>
+<person name="Mazel D."/>
+<person name="Pochet S."/>
+<person name="Marliere P."/>
+</authorList>
+<dbReference type="PubMed" id="8112305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="4294" last="4301">
+<title>Disruption of the gene for Met-tRNA(fMet) formyltransferase severely impairs growth of Escherichia coli.</title>
+<authorList>
+<person name="Guillon J.-M."/>
+<person name="Mechulam Y."/>
+<person name="Schmitter J.-M."/>
+<person name="Blanquet S."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="1624424"/>
+<dbReference type="DOI" id="10.1128/jb.174.13.4294-4301.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="993" last="1000">
+<title>The Escherichia coli fmt gene, encoding methionyl-tRNA(fMet) formyltransferase, escapes metabolic control.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Guillon J.-M."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="8432722"/>
+<dbReference type="DOI" id="10.1128/jb.175.4.993-1000.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-16</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="7737" last="7740">
+<title>Evidence that peptide deformylase and methionyl-tRNA(fMet) formyltransferase are encoded within the same operon in Escherichia coli.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="8244948"/>
+<dbReference type="DOI" id="10.1128/jb.175.23.7737-7740.1993"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-7</scope>
+<scope>COFACTOR</scope>
+<scope>MASS SPECTROMETRY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1995" name="J. Bacteriol." volume="177" first="1883" last="1887">
+<title>Enzymatic properties of Escherichia coli peptide deformylase.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="7896716"/>
+<dbReference type="DOI" id="10.1128/jb.177.7.1883-1887.1995"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="Biochem. Biophys. Res. Commun." volume="246" first="342" last="346">
+<title>Isolation and crystallization of functionally competent Escherichia coli peptide deformylase forms containing either iron or nickel in the active site.</title>
+<authorList>
+<person name="Groche D."/>
+<person name="Becker A."/>
+<person name="Schlichting I."/>
+<person name="Kabsch W."/>
+<person name="Schultz S."/>
+<person name="Wagner A.F."/>
+</authorList>
+<dbReference type="PubMed" id="9610360"/>
+<dbReference type="DOI" id="10.1006/bbrc.1998.8616"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1996" name="J. Mol. Biol." volume="262" first="375" last="386">
+<title>A new subclass of the zinc metalloproteases superfamily revealed by the solution structure of peptide deformylase.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Blanquet S."/>
+<person name="Dardel F."/>
+</authorList>
+<dbReference type="PubMed" id="8845003"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0521"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="280" first="501" last="513">
+<title>Solution structure of nickel-peptide deformylase.</title>
+<authorList>
+<person name="Dardel F."/>
+<person name="Ragusa S."/>
+<person name="Lazennec C."/>
+<person name="Blanquet S."/>
+<person name="Meinnel T."/>
+</authorList>
+<dbReference type="PubMed" id="9665852"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1882"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1997" name="Biochemistry" volume="36" first="13904" last="13909">
+<title>Crystal structure of the Escherichia coli peptide deformylase.</title>
+<authorList>
+<person name="Chan M.K."/>
+<person name="Gong W."/>
+<person name="Rajagopalan P.T.R."/>
+<person name="Hao B."/>
+<person name="Tsai C.M."/>
+<person name="Pei D."/>
+</authorList>
+<dbReference type="PubMed" id="9374869"/>
+<dbReference type="DOI" id="10.1021/bi9711543"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS)</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="13042" last="13042">
+<authorList>
+<person name="Chan M.K."/>
+<person name="Gong W."/>
+<person name="Rajagopalan P.T.R."/>
+<person name="Hao B."/>
+<person name="Tsai C.M."/>
+<person name="Pei D."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="11413" last="11416">
+<title>Structure of peptide deformylase and identification of the substrate binding site.</title>
+<authorList>
+<person name="Becker A."/>
+<person name="Schlichting I."/>
+<person name="Kabsch W."/>
+<person name="Schultz S."/>
+<person name="Wagner A.F."/>
+</authorList>
+<dbReference type="PubMed" id="9565550"/>
+<dbReference type="DOI" id="10.1074/jbc.273.19.11413"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1998" name="Nat. Struct. Biol." volume="5" first="1053" last="1058">
+<title>Iron center, substrate recognition and mechanism of peptide deformylase.</title>
+<authorList>
+<person name="Becker A."/>
+<person name="Schlichting I."/>
+<person name="Kabsch W."/>
+<person name="Groche D."/>
+<person name="Schultz S."/>
+<person name="Wagner A.F."/>
+</authorList>
+<dbReference type="PubMed" id="9846875"/>
+<dbReference type="DOI" id="10.1038/4162"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="4712" last="4719">
+<title>Structural basis for the design of antibiotics targeting peptide deformylase.</title>
+<authorList>
+<person name="Hao B."/>
+<person name="Gong W."/>
+<person name="Rajagopalan P.T.R."/>
+<person name="Zhou Y."/>
+<person name="Pei D."/>
+<person name="Chan M.K."/>
+</authorList>
+<dbReference type="PubMed" id="10200158"/>
+<dbReference type="DOI" id="10.1021/bi982594c"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 2-169</scope>
+</reference>
+<comment type="function">
+<text evidence="5 7 11">Removes the formyl group from the N-terminal Met of newly synthesized proteins (PubMed:7896716). Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>H2O + N-terminal N-formyl-L-methionyl-[peptide] = formate + N-terminal L-methionyl-[peptide]</text>
+<dbReference type="Rhea" id="RHEA:24420"/>
+<dbReference type="Rhea" id="RHEA-COMP:10639"/>
+<dbReference type="Rhea" id="RHEA-COMP:10640"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15740"/>
+<dbReference type="ChEBI" id="CHEBI:49298"/>
+<dbReference type="ChEBI" id="CHEBI:64731"/>
+<dbReference type="EC" id="3.5.1.88"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="7">
+<name>Fe(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+</cofactor>
+<cofactor evidence="6 10">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="7">Upon overproduction is isolated with 1 Fe(2+) ion per monomer, a Ni(2+)-bound form is as active while a Zn(2+)-bound form is inactive (PubMed:9610360).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="5">Inhibited by 1,10-phenanthroline.</text>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-548913"/>
+<interactant intactId="EBI-545597">
+<id>P60723</id>
+<label>rplD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-548913"/>
+<interactant intactId="EBI-548921">
+<id>P08390</id>
+<label>usg</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="mass spectrometry" mass="19175" method="MALDI" error="50" evidence="6">
+<location>
+<begin position="2"/>
+<end position="169"/>
+</location>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the polypeptide deformylase family.</text>
+</comment>
+<dbReference type="EC" id="3.5.1.88"/>
+<dbReference type="EMBL" id="X77800">
+<property type="protein sequence ID" value="CAA54826.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X63666">
+<property type="protein sequence ID" value="CAA45206.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X65946">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X77091">
+<property type="protein sequence ID" value="CAA54367.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58084.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76312.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78005.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S23107">
+<property type="entry name" value="S23107"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417745.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000114984.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1BS4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BS5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BS6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BS7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BS8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BSJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BSK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1BSZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1DEF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-148"/>
+</dbReference>
+<dbReference type="PDB" id="1DFF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.88"/>
+<property type="chains" value="A=2-165"/>
+</dbReference>
+<dbReference type="PDB" id="1DTF">
+<property type="method" value="Model"/>
+<property type="chains" value="A=1-169"/>
+</dbReference>
+<dbReference type="PDB" id="1G27">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1G2A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1ICJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1LRU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1XEM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1XEN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="1XEO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="2AI8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="2DEF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3-148"/>
+</dbReference>
+<dbReference type="PDB" id="2DTF">
+<property type="method" value="Model"/>
+<property type="chains" value="A=1-169"/>
+</dbReference>
+<dbReference type="PDB" id="2KMN">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-148"/>
+</dbReference>
+<dbReference type="PDB" id="2W3T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.69"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="2W3U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="3K6L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B/C=1-169"/>
+</dbReference>
+<dbReference type="PDB" id="4AL2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="4AL3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="4AZ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-169"/>
+</dbReference>
+<dbReference type="PDB" id="4V5B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.74"/>
+<property type="chains" value="A5=147-162"/>
+</dbReference>
+<dbReference type="PDB" id="6IY7">
+<property type="method" value="EM"/>
+<property type="resolution" value="10.50"/>
+<property type="chains" value="P=1-169"/>
+</dbReference>
+<dbReference type="PDB" id="6IZI">
+<property type="method" value="EM"/>
+<property type="resolution" value="11.80"/>
+<property type="chains" value="P=1-169"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BS4"/>
+<dbReference type="PDBsum" id="1BS5"/>
+<dbReference type="PDBsum" id="1BS6"/>
+<dbReference type="PDBsum" id="1BS7"/>
+<dbReference type="PDBsum" id="1BS8"/>
+<dbReference type="PDBsum" id="1BSJ"/>
+<dbReference type="PDBsum" id="1BSK"/>
+<dbReference type="PDBsum" id="1BSZ"/>
+<dbReference type="PDBsum" id="1DEF"/>
+<dbReference type="PDBsum" id="1DFF"/>
+<dbReference type="PDBsum" id="1DTF"/>
+<dbReference type="PDBsum" id="1G27"/>
+<dbReference type="PDBsum" id="1G2A"/>
+<dbReference type="PDBsum" id="1ICJ"/>
+<dbReference type="PDBsum" id="1LRU"/>
+<dbReference type="PDBsum" id="1XEM"/>
+<dbReference type="PDBsum" id="1XEN"/>
+<dbReference type="PDBsum" id="1XEO"/>
+<dbReference type="PDBsum" id="2AI8"/>
+<dbReference type="PDBsum" id="2DEF"/>
+<dbReference type="PDBsum" id="2DTF"/>
+<dbReference type="PDBsum" id="2KMN"/>
+<dbReference type="PDBsum" id="2W3T"/>
+<dbReference type="PDBsum" id="2W3U"/>
+<dbReference type="PDBsum" id="3K6L"/>
+<dbReference type="PDBsum" id="4AL2"/>
+<dbReference type="PDBsum" id="4AL3"/>
+<dbReference type="PDBsum" id="4AZ4"/>
+<dbReference type="PDBsum" id="4V5B"/>
+<dbReference type="PDBsum" id="6IY7"/>
+<dbReference type="PDBsum" id="6IZI"/>
+<dbReference type="SMR" id="P0A6K3"/>
+<dbReference type="BioGrid" id="4263416">
+<property type="interactions" value="59"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47953N"/>
+<dbReference type="IntAct" id="P0A6K3">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3287"/>
+<dbReference type="BindingDB" id="P0A6K3"/>
+<dbReference type="ChEMBL" id="CHEMBL4976"/>
+<dbReference type="DrugBank" id="DB02276">
+<property type="generic name" value="(S)-2-(Phosphonoxy)Caproyl-L-Leucyl-P-Nitroanilide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04310">
+<property type="generic name" value="2-[(Formyl-Hydroxy-Amino)-Methyl]-Heptanoic Acid [1-(2-Hydroxymethyl-Pyrrolidine-1-Carbonyl)-2-Methyl-Propyl]-Amide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08523">
+<property type="generic name" value="[HYDROXY(3-PHENYLPROPYL)AMINO]METHANOL"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04368">
+<property type="generic name" value="Bb-3497"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01942">
+<property type="generic name" value="Formic Acid"/>
+</dbReference>
+<dbReference type="EPD" id="P0A6K3"/>
+<dbReference type="jPOST" id="P0A6K3"/>
+<dbReference type="PaxDb" id="P0A6K3"/>
+<dbReference type="PRIDE" id="P0A6K3"/>
+<dbReference type="EnsemblBacteria" id="AAC76312">
+<property type="protein sequence ID" value="AAC76312"/>
+<property type="gene ID" value="b3287"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78005">
+<property type="protein sequence ID" value="BAE78005"/>
+<property type="gene ID" value="BAE78005"/>
+</dbReference>
+<dbReference type="GeneID" id="947780"/>
+<dbReference type="KEGG" id="ecj:JW3248"/>
+<dbReference type="KEGG" id="eco:b3287"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3445"/>
+<dbReference type="EchoBASE" id="EB1410"/>
+<dbReference type="EcoGene" id="EG11440">
+<property type="gene designation" value="def"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108Z02">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0242">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000243509"/>
+<dbReference type="InParanoid" id="P0A6K3"/>
+<dbReference type="KO" id="K01462"/>
+<dbReference type="PhylomeDB" id="P0A6K3"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11440-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3248-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11440-MONOMER"/>
+<dbReference type="BRENDA" id="3.5.1.88">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0A6K3"/>
+<dbReference type="EvolutionaryTrace" id="P0A6K3"/>
+<dbReference type="PRO" id="PR:P0A6K3"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008198">
+<property type="term" value="F:ferrous iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016787">
+<property type="term" value="F:hydrolase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042586">
+<property type="term" value="F:peptide deformylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043022">
+<property type="term" value="F:ribosome binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043686">
+<property type="term" value="P:co-translational protein modification"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031365">
+<property type="term" value="P:N-terminal protein amino acid modification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00487">
+<property type="entry name" value="Pep_deformylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.45.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00163">
+<property type="entry name" value="Pep_deformylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023635">
+<property type="entry name" value="Peptide_deformylase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036821">
+<property type="entry name" value="Peptide_deformylase_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10458">
+<property type="entry name" value="PTHR10458"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01327">
+<property type="entry name" value="Pep_deformylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF004749">
+<property type="entry name" value="Pep_def"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01576">
+<property type="entry name" value="PDEFORMYLASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56420">
+<property type="entry name" value="SSF56420"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00079">
+<property type="entry name" value="pept_deformyl"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="initiator methionine" description="Removed" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Peptide deformylase" id="PRO_0000082779">
+<location>
+<begin position="2"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron">
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron">
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="12"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="26"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="45"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="49"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="56"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="65"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="71"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="85"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="92"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="99"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="105"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="114"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="118"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="125"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="143"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="149"/>
+<end position="165"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1BS6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1DEF"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XEO"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2W3T"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7896716"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8244948"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9610360"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8244948"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7896716"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8244948"/>
+</source>
+</evidence>
+<sequence length="169" mass="19328" checksum="C485EB6C1D2D91B8" modified="2007-01-23" version="2">
+MSVLQVLHIPDERLRKVAKPVEEVNAEIQRIVDDMFETMYAEEGIGLAATQVDIHQRIIV
+IDVSENRDERLVLINPELLEKSGETGIEEGCLSIPEQRALVPRAEKVKIRALDRDGKPFE
+LEADGLLAICIQHEMDHLVGKLFMDYLSPLKQQRIRQKVEKLDRLKARA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

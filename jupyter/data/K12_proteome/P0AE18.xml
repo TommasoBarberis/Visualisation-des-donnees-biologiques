@@ -1,0 +1,1261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-08-01" modified="2019-06-05" version="126">
+<accession>P0AE18</accession>
+<accession>P07906</accession>
+<name>MAP1_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Methionine aminopeptidase</fullName>
+<shortName evidence="5">MAP</shortName>
+<shortName evidence="5">MetAP</shortName>
+<ecNumber evidence="5">3.4.11.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Peptidase M</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5">map</name>
+<name type="ordered locus">b0168</name>
+<name type="ordered locus">JW0163</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="751" last="757">
+<title>Processing of the initiation methionine from proteins: properties of the Escherichia coli methionine aminopeptidase and its gene structure.</title>
+<authorList>
+<person name="Ben-Bassat A."/>
+<person name="Bauer K."/>
+<person name="Chang S.-Y."/>
+<person name="Myambo K."/>
+<person name="Boosman A."/>
+<person name="Chang S."/>
+</authorList>
+<dbReference type="PubMed" id="3027045"/>
+<dbReference type="DOI" id="10.1128/jb.169.2.751-757.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 2-64</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="11079" last="11085">
+<title>The methionyl aminopeptidase from Escherichia coli can function as an iron(II) enzyme.</title>
+<authorList>
+<person name="D'souza V.M."/>
+<person name="Holz R.C."/>
+</authorList>
+<dbReference type="PubMed" id="10460163"/>
+<dbReference type="DOI" id="10.1021/bi990872h"/>
+</citation>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Biochemistry" volume="39" first="3817" last="3826">
+<title>Divalent metal binding properties of the methionyl aminopeptidase from Escherichia coli.</title>
+<authorList>
+<person name="D'souza V.M."/>
+<person name="Bennett B."/>
+<person name="Copik A.J."/>
+<person name="Holz R.C."/>
+</authorList>
+<dbReference type="PubMed" id="10736182"/>
+<dbReference type="DOI" id="10.1021/bi9925827"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Biochemistry" volume="42" first="6283" last="6292">
+<title>Kinetic and spectroscopic characterization of the H178A methionyl aminopeptidase from Escherichia coli.</title>
+<authorList>
+<person name="Copik A.J."/>
+<person name="Swierczek S.I."/>
+<person name="Lowther W.T."/>
+<person name="D'souza V.M."/>
+<person name="Matthews B.W."/>
+<person name="Holz R.C."/>
+</authorList>
+<dbReference type="PubMed" id="12755633"/>
+<dbReference type="DOI" id="10.1021/bi027327s"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-178</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="Biochemistry" volume="47" first="11885" last="11893">
+<title>Kinetic and spectroscopic analysis of the catalytic role of H79 in the methionine aminopeptidase from Escherichia coli.</title>
+<authorList>
+<person name="Watterson S.J."/>
+<person name="Mitra S."/>
+<person name="Swierczek S.I."/>
+<person name="Bennett B."/>
+<person name="Holz R.C."/>
+</authorList>
+<dbReference type="PubMed" id="18855426"/>
+<dbReference type="DOI" id="10.1021/bi801499g"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-79</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="FEBS J." volume="275" first="6248" last="6259">
+<title>Analyzing the catalytic role of Asp97 in the methionine aminopeptidase from Escherichia coli.</title>
+<authorList>
+<person name="Mitra S."/>
+<person name="Job K.M."/>
+<person name="Meng L."/>
+<person name="Bennett B."/>
+<person name="Holz R.C."/>
+</authorList>
+<dbReference type="PubMed" id="19019076"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2008.06749.x"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-97</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="BMC Biochem." volume="10" first="32" last="32">
+<title>Analysis of the stoichiometric metal activation of methionine aminopeptidase.</title>
+<authorList>
+<person name="Chai S.C."/>
+<person name="Ye Q.Z."/>
+</authorList>
+<dbReference type="PubMed" id="20017927"/>
+<dbReference type="DOI" id="10.1186/1471-2091-10-32"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2010" name="Biochemistry" volume="49" first="5588" last="5599">
+<title>Protein N-terminal processing: substrate specificity of Escherichia coli and human methionine aminopeptidases.</title>
+<authorList>
+<person name="Xiao Q."/>
+<person name="Zhang F."/>
+<person name="Nacev B.A."/>
+<person name="Liu J.O."/>
+<person name="Pei D."/>
+</authorList>
+<dbReference type="PubMed" id="20521764"/>
+<dbReference type="DOI" id="10.1021/bi1005464"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2012" name="J. Inorg. Biochem." volume="106" first="84" last="89">
+<title>Probing the metal ion selectivity in methionine aminopeptidase via changes in the luminescence properties of the enzyme bound europium ion.</title>
+<authorList>
+<person name="Sule N."/>
+<person name="Singh R.K."/>
+<person name="Zhao P."/>
+<person name="Srivastava D.K."/>
+</authorList>
+<dbReference type="PubMed" id="22112844"/>
+<dbReference type="DOI" id="10.1016/j.jinorgbio.2011.09.020"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1993" name="Biochemistry" volume="32" first="3907" last="3912">
+<title>Structure of the cobalt-dependent methionine aminopeptidase from Escherichia coli: a new type of proteolytic enzyme.</title>
+<authorList>
+<person name="Roderick S.L."/>
+<person name="Mathews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="8471602"/>
+<dbReference type="DOI" id="10.1021/bi00066a009"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS)</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="7678" last="7688">
+<title>Escherichia coli methionine aminopeptidase: implications of crystallographic analyses of the native, mutant, and inhibited enzymes for the mechanism of catalysis.</title>
+<authorList>
+<person name="Lowther W.T."/>
+<person name="Orville A.M."/>
+<person name="Madden D.T."/>
+<person name="Lim S."/>
+<person name="Rich D.H."/>
+<person name="Matthews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="10387007"/>
+<dbReference type="DOI" id="10.1021/bi990684r"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) IN COMPLEX WITH SODIUM; COBALT IONS AND INHIBITOR</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF HIS-79 AND HIS-178</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="14810" last="14819">
+<title>Insights into the mechanism of Escherichia coli methionine aminopeptidase from the structural analysis of reaction products and phosphorus-based transition-state analogues.</title>
+<authorList>
+<person name="Lowther W.T."/>
+<person name="Zhang Y."/>
+<person name="Sampson P.B."/>
+<person name="Honek J.F."/>
+<person name="Matthews B.W."/>
+</authorList>
+<dbReference type="PubMed" id="10555963"/>
+<dbReference type="DOI" id="10.1021/bi991711g"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEXES WITH COBALT IONS; PRODUCT AND TRANSITION STATE ANALOGS</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="9470" last="9475">
+<title>Structural basis of catalysis by monometalated methionine aminopeptidase.</title>
+<authorList>
+<person name="Ye Q.Z."/>
+<person name="Xie S.X."/>
+<person name="Ma Z.Q."/>
+<person name="Huang M."/>
+<person name="Hanzlik R.P."/>
+</authorList>
+<dbReference type="PubMed" id="16769889"/>
+<dbReference type="DOI" id="10.1073/pnas.0602433103"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 4-264 IN COMPLEX WITH MANGANESE AND A TRANSITION STATE ANALOG</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2007" name="BMC Struct. Biol." volume="7" first="84" last="84">
+<title>Structural analysis of inhibition of E. coli methionine aminopeptidase: implication of loop adaptability in selective inhibition of bacterial enzymes.</title>
+<authorList>
+<person name="Ma Z.-Q."/>
+<person name="Xie S.-X."/>
+<person name="Huang Q.-Q."/>
+<person name="Nan F.-J."/>
+<person name="Hurley T.D."/>
+<person name="Ye Q.-Z."/>
+</authorList>
+<dbReference type="PubMed" id="18093325"/>
+<dbReference type="DOI" id="10.1186/1472-6807-7-84"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 2-264 IN COMPLEXES WITH MANGANESE IONS AND INHIBITORS</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2007" name="Proteins" volume="66" first="538" last="546">
+<title>Serendipitous discovery of novel bacterial methionine aminopeptidase inhibitors.</title>
+<authorList>
+<person name="Evdokimov A.G."/>
+<person name="Pokross M."/>
+<person name="Walter R.L."/>
+<person name="Mekel M."/>
+<person name="Barnett B.L."/>
+<person name="Amburgey J."/>
+<person name="Seibel W.L."/>
+<person name="Soper S.J."/>
+<person name="Djung J.F."/>
+<person name="Fairweather N."/>
+<person name="Diven C."/>
+<person name="Rastogi V."/>
+<person name="Grinius L."/>
+<person name="Klanke C."/>
+<person name="Siehnel R."/>
+<person name="Twinem T."/>
+<person name="Andrews R."/>
+<person name="Curnow A."/>
+</authorList>
+<dbReference type="PubMed" id="17120228"/>
+<dbReference type="DOI" id="10.1002/prot.21207"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.0 ANGSTROMS) OF 2-264 IN COMPLEXES WITH COBALT IONS; METHIONINE OR INHIBITORS OF THE PYRAZOLE DIAMINE TYPE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2008" name="J. Med. Chem." volume="51" first="6110" last="6120">
+<title>Discovery of inhibitors of Escherichia coli methionine aminopeptidase with the Fe(II)-form selectivity and antibacterial activity.</title>
+<authorList>
+<person name="Wang W.-L."/>
+<person name="Chai S.C."/>
+<person name="Huang M."/>
+<person name="He H.-Z."/>
+<person name="Hurley T.D."/>
+<person name="Ye Q.-Z."/>
+</authorList>
+<dbReference type="PubMed" id="18785729"/>
+<dbReference type="DOI" id="10.1021/jm8005788"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 4-264 IN COMPLEXES WITH CATECHOL-CONTAINING INHIBITORS AND IRON IONS</scope>
+<scope>COFACTOR</scope>
+</reference>
+<comment type="function">
+<text evidence="5 18 20">Removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val). Requires deformylation of the N(alpha)-formylated initiator methionine before it can be hydrolyzed.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5 12 18 20">
+<text>Release of N-terminal amino acids, preferentially methionine, from peptides and arylamides.</text>
+<dbReference type="EC" id="3.4.11.18"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="5 6 7 8 9 12 17">
+<name>Co(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:48828"/>
+</cofactor>
+<cofactor evidence="5 7">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<cofactor evidence="5 7 11 13">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<cofactor evidence="5 7 9 14 19">
+<name>Fe(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+</cofactor>
+<text evidence="5 7 11 14 19">Binds 2 divalent metal cations per subunit. Has a high-affinity and a low affinity metal-binding site. The true nature of the physiological cofactor is under debate. The enzyme is active with cobalt, zinc, manganese or divalent iron ions. Most likely, methionine aminopeptidases function as mononuclear Fe(2+)-metalloproteases under physiological conditions, and the catalytically relevant metal-binding site has been assigned to the histidine-containing high-affinity site.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="6">
+<name>Na(+)</name>
+<dbReference type="ChEBI" id="CHEBI:29101"/>
+</cofactor>
+<text evidence="6">Binds 1 sodium ion per subunit. The sodium ion has a structural role.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="7 10 15 16">2.0 mM for a Met-Gly-Met-Met peptide (for the Fe(2+)-complexed enzyme)</KM>
+<KM evidence="7 10 15 16">1.3 mM for a Met-Gly-Met-Met peptide (for the Mn(2+)-complexed enzyme)</KM>
+<KM evidence="7 10 15 16">3.2 mM for a Met-Gly-Met-Met peptide (for the Co(2+)-complexed enzyme)</KM>
+<Vmax evidence="7 10 15 16">55 umol/min/mg enzyme (for the Fe(2+)-complexed enzyme)</Vmax>
+<Vmax evidence="7 10 15 16">77 umol/min/mg enzyme (for the Co(2+)-complexed enzyme)</Vmax>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 11">Monomer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the peptidase M24A family. Methionine aminopeptidase type 1 subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.4.11.18" evidence="5"/>
+<dbReference type="EMBL" id="M15106">
+<property type="protein sequence ID" value="AAA24112.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08597.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73279.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96743.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A27761">
+<property type="entry name" value="DPECM"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414710.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001018194.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1C21">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="1C22">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="1C23">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="1C24">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="1C27">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="1MAT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="1XNZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="1YVM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2BB7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2EVC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2EVM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2EVO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.28"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.00"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.12"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GG9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.05"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GGB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.13"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GGC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.00"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GTX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=4-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GU4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GU5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GU6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2GU7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2MAT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="2P98">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-262"/>
+</dbReference>
+<dbReference type="PDB" id="2P99">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-262"/>
+</dbReference>
+<dbReference type="PDB" id="2P9A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-263"/>
+</dbReference>
+<dbReference type="PDB" id="2Q92">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-263"/>
+</dbReference>
+<dbReference type="PDB" id="2Q93">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2Q94">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A=2-263"/>
+</dbReference>
+<dbReference type="PDB" id="2Q95">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="2Q96">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-264"/>
+</dbReference>
+<dbReference type="PDB" id="3D27">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=4-264"/>
+</dbReference>
+<dbReference type="PDB" id="3MAT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="4MAT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="4Z7M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.43"/>
+<property type="chains" value="A/B=2-262"/>
+</dbReference>
+<dbReference type="PDB" id="6IZ7">
+<property type="method" value="EM"/>
+<property type="resolution" value="11.80"/>
+<property type="chains" value="P=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="6IZI">
+<property type="method" value="EM"/>
+<property type="resolution" value="11.80"/>
+<property type="chains" value="Q=1-264"/>
+</dbReference>
+<dbReference type="PDB" id="6J0A">
+<property type="method" value="EM"/>
+<property type="resolution" value="14.20"/>
+<property type="chains" value="P=1-264"/>
+</dbReference>
+<dbReference type="PDBsum" id="1C21"/>
+<dbReference type="PDBsum" id="1C22"/>
+<dbReference type="PDBsum" id="1C23"/>
+<dbReference type="PDBsum" id="1C24"/>
+<dbReference type="PDBsum" id="1C27"/>
+<dbReference type="PDBsum" id="1MAT"/>
+<dbReference type="PDBsum" id="1XNZ"/>
+<dbReference type="PDBsum" id="1YVM"/>
+<dbReference type="PDBsum" id="2BB7"/>
+<dbReference type="PDBsum" id="2EVC"/>
+<dbReference type="PDBsum" id="2EVM"/>
+<dbReference type="PDBsum" id="2EVO"/>
+<dbReference type="PDBsum" id="2GG0"/>
+<dbReference type="PDBsum" id="2GG2"/>
+<dbReference type="PDBsum" id="2GG3"/>
+<dbReference type="PDBsum" id="2GG5"/>
+<dbReference type="PDBsum" id="2GG7"/>
+<dbReference type="PDBsum" id="2GG8"/>
+<dbReference type="PDBsum" id="2GG9"/>
+<dbReference type="PDBsum" id="2GGB"/>
+<dbReference type="PDBsum" id="2GGC"/>
+<dbReference type="PDBsum" id="2GTX"/>
+<dbReference type="PDBsum" id="2GU4"/>
+<dbReference type="PDBsum" id="2GU5"/>
+<dbReference type="PDBsum" id="2GU6"/>
+<dbReference type="PDBsum" id="2GU7"/>
+<dbReference type="PDBsum" id="2MAT"/>
+<dbReference type="PDBsum" id="2P98"/>
+<dbReference type="PDBsum" id="2P99"/>
+<dbReference type="PDBsum" id="2P9A"/>
+<dbReference type="PDBsum" id="2Q92"/>
+<dbReference type="PDBsum" id="2Q93"/>
+<dbReference type="PDBsum" id="2Q94"/>
+<dbReference type="PDBsum" id="2Q95"/>
+<dbReference type="PDBsum" id="2Q96"/>
+<dbReference type="PDBsum" id="3D27"/>
+<dbReference type="PDBsum" id="3MAT"/>
+<dbReference type="PDBsum" id="4MAT"/>
+<dbReference type="PDBsum" id="4Z7M"/>
+<dbReference type="PDBsum" id="6IZ7"/>
+<dbReference type="PDBsum" id="6IZI"/>
+<dbReference type="PDBsum" id="6J0A"/>
+<dbReference type="SMR" id="P0AE18"/>
+<dbReference type="BioGrid" id="4262194">
+<property type="interactions" value="76"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48040N"/>
+<dbReference type="IntAct" id="P0AE18">
+<property type="interactions" value="25"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0168"/>
+<dbReference type="BindingDB" id="P0AE18"/>
+<dbReference type="ChEMBL" id="CHEMBL3423"/>
+<dbReference type="DrugBank" id="DB08668">
+<property type="generic name" value="3-(5-amino-3-imino-3H-pyrazol-4-ylazo)-benzoic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08667">
+<property type="generic name" value="4-(4-fluoro-phenylazo)-5-imino-5H-pyrazol-3-ylamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07305">
+<property type="generic name" value="5-(2-CHLORO-4-NITROPHENYL)-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07308">
+<property type="generic name" value="5-(2-CHLOROBENZYL)-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08757">
+<property type="generic name" value="5-(2-chlorophenyl)furan-2-carbohydrazide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02909">
+<property type="generic name" value="5-(2-Chlorophenyl)Furan-2-Carboxylic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07407">
+<property type="generic name" value="5-(2-METHOXYPHENYL)-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07408">
+<property type="generic name" value="5-(2-NITROPHENYL)-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07304">
+<property type="generic name" value="5-[2-(TRIFLUOROMETHOXY)PHENYL]-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07759">
+<property type="generic name" value="5-[2-(TRIFLUOROMETHYL)PHENYL]-2-FUROIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08671">
+<property type="generic name" value="5-IMINO-4-(2-TRIFLUOROMETHYL-PHENYLAZO)-5H-PYRAZOL-3-YLAMINE"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08666">
+<property type="generic name" value="5-imino-4-(3-trifluoromethyl-phenylazo)-5H-pyrazol-3-ylamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04015">
+<property type="generic name" value="Methionine Phosphinate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02151">
+<property type="generic name" value="Methionine Phosphonate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08451">
+<property type="generic name" value="N-(QUINOLIN-8-YL)METHANESULFONAMIDE"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07591">
+<property type="generic name" value="N1-CYCLOPENTYL-N2-(THIAZOL-2-YL)OXALAMIDE"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02088">
+<property type="generic name" value="Norleucine Phosphonate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03799">
+<property type="generic name" value="Trifluoromethionine"/>
+</dbReference>
+<dbReference type="MEROPS" id="M24.001"/>
+<dbReference type="SWISS-2DPAGE" id="P0AE18"/>
+<dbReference type="EPD" id="P0AE18"/>
+<dbReference type="jPOST" id="P0AE18"/>
+<dbReference type="PaxDb" id="P0AE18"/>
+<dbReference type="PRIDE" id="P0AE18"/>
+<dbReference type="EnsemblBacteria" id="AAC73279">
+<property type="protein sequence ID" value="AAC73279"/>
+<property type="gene ID" value="b0168"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96743">
+<property type="protein sequence ID" value="BAB96743"/>
+<property type="gene ID" value="BAB96743"/>
+</dbReference>
+<dbReference type="GeneID" id="947882"/>
+<dbReference type="KEGG" id="ecj:JW0163"/>
+<dbReference type="KEGG" id="eco:b0168"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2113"/>
+<dbReference type="EchoBASE" id="EB0565"/>
+<dbReference type="EcoGene" id="EG10570">
+<property type="gene designation" value="map"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CA1">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0024">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000030427"/>
+<dbReference type="InParanoid" id="P0AE18"/>
+<dbReference type="KO" id="K01265"/>
+<dbReference type="PhylomeDB" id="P0AE18"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10570-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0163-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10570-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.11.18">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0AE18"/>
+<dbReference type="EvolutionaryTrace" id="P0AE18"/>
+<dbReference type="PRO" id="PR:P0AE18"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008198">
+<property type="term" value="F:ferrous iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070006">
+<property type="term" value="F:metalloaminopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070084">
+<property type="term" value="P:protein initiator methionine removal"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd01086">
+<property type="entry name" value="MetAP1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01974">
+<property type="entry name" value="MetAP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036005">
+<property type="entry name" value="Creatinase/aminopeptidase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000994">
+<property type="entry name" value="Pept_M24"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001714">
+<property type="entry name" value="Pept_M24_MAP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002467">
+<property type="entry name" value="Pept_M24A_MAP1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00557">
+<property type="entry name" value="Peptidase_M24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00599">
+<property type="entry name" value="MAPEPTIDASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55920">
+<property type="entry name" value="SSF55920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00500">
+<property type="entry name" value="met_pdase_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00680">
+<property type="entry name" value="MAP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0031">Aminopeptidase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="20">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Methionine aminopeptidase" id="PRO_0000148937">
+<location>
+<begin position="2"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 2; catalytic" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 2; catalytic; via tele nitrogen" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 2; catalytic" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 2; catalytic" evidence="5 6 8 11 12 13 14">
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="5 8 11 12">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="8 11 12">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="5 8 11 12">
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces activity 100000-fold for the Co(2+)-complexed enzyme, but only 2.6-fold for the Mn(2+)-complexed enzyme." evidence="6 15">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces activity 50- to 580-fold depending on the metal ion bound. Binds only one equivalent of the divalent metal cation with affinities identical to the wild-type enzyme." evidence="16">
+<original>D</original>
+<variation>A</variation>
+<variation>E</variation>
+<variation>N</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces activity 9000-fold for the Co(2+)-complexed enzyme. Binds only one equivalent of the divalent metal cation with affinities identical to the wild-type enzyme." evidence="6 10">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="8"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="38"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="62"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="67"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="93"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="105"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="120"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="146"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="166"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="170"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="174"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="200"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="206"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="214"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="218"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="223"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="235"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="244"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="258"/>
+<end position="261"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EVM"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2GG2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2GG9"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2GGB"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01974"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10387007"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10460163"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10555963"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10736182"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12755633"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16769889"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17120228"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18093325"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18785729"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18855426"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19019076"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20017927"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20521764"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22112844"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3027045"/>
+</source>
+</evidence>
+<sequence length="264" mass="29331" checksum="F2D0B57715A67851" modified="1988-08-01" version="1">
+MAISIKTPEDIEKMRVAGRLAAEVLEMIEPYVKPGVSTGELDRICNDYIVNEQHAVSACL
+GYHGYPKSVCISINEVVCHGIPDDAKLLKDGDIVNIDVTVIKDGFHGDTSKMFIVGKPTI
+MGERLCRITQESLYLALRMVKPGINLREIGAAIQKFVEAEGFSVVREYCGHGIGRGFHEE
+PQVLHYDSRETNVVLKPGMTFTIEPMVNAGKKEIRTMKDGWTVKTKDRSLSAQYEHTIVV
+TDNGCEILTLRKDDTIPAIISHDE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

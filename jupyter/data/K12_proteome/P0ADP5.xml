@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2019-06-05" version="94">
+<accession>P0ADP5</accession>
+<accession>P27849</accession>
+<accession>Q2M8D2</accession>
+<accession>Q8X5G7</accession>
+<name>BIOP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">Biotin transporter</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Plasmamembrane biotin transport protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5">bioP</name>
+<name type="synonym">yigM</name>
+<name type="ordered locus">b3827</name>
+<name type="ordered locus">JW3803</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Science" volume="257" first="771" last="778">
+<title>Analysis of the Escherichia coli genome: DNA sequence of the region from 84.5 to 86.5 minutes.</title>
+<authorList>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Burland V.D."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="1379743"/>
+<dbReference type="DOI" id="10.1126/science.1379743"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1975" name="J. Bacteriol." volume="122" first="66" last="72">
+<title>Properties of alpha-dehydrobiotin-resistant mutants of Escherichia coli K-12.</title>
+<authorList>
+<person name="Eisenburg M.A."/>
+<person name="Mee B."/>
+<person name="Prakash O."/>
+<person name="Eisenburg M.R."/>
+</authorList>
+<dbReference type="PubMed" id="1091631"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="5">
+<citation type="thesis" date="2011" institute="University of Regensburg" country="Germany">
+<title>Identification of the biotin transporter in Escherichia coli, biotinylation of histones in Saccharomyces cerevisiae and analysis of biotin sensing in Saccharomyces cerevisiae.</title>
+<authorList>
+<person name="Ringlstetter S.L."/>
+</authorList>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="Bioengineered" volume="5" first="129" last="132">
+<title>A versatile Escherichia coli strain for identification of biotin transporters and for biotin quantification.</title>
+<authorList>
+<person name="Finkenwirth F."/>
+<person name="Kirsch F."/>
+<person name="Eitinger T."/>
+</authorList>
+<dbReference type="PubMed" id="24256712"/>
+<dbReference type="DOI" id="10.4161/bioe.26887"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Uptake of biotin. Acts probably by facilitated diffusion.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="4">Biotin uptake is weakly inhibited by CCCP and FCCP protonophores and by the respiratory chain blocker NaN(3).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">74 nM for biotin</KM>
+</kinetics>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell inner membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Expression is repressed by biotin.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 3 4">Deletion of the gene abolishes biotin uptake (Ref.5, PubMed:1091631). BioH-bioP double mutant is unable to grow on trace levels of biotin (PubMed:24256712).</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the drug/metabolite transporter (DMT) superfamily. 10 TMS drug/metabolite exporter (DME) (TC 2.A.7.3) family.</text>
+</comment>
+<dbReference type="EMBL" id="M87049">
+<property type="protein sequence ID" value="AAA67623.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76830.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77474.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65187">
+<property type="entry name" value="D65187"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418271.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001196238.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259475">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3827"/>
+<dbReference type="TCDB" id="2.A.7.3.61">
+<property type="family name" value="the drug/metabolite transporter (dmt) superfamily"/>
+</dbReference>
+<dbReference type="PaxDb" id="P0ADP5"/>
+<dbReference type="PRIDE" id="P0ADP5"/>
+<dbReference type="EnsemblBacteria" id="AAC76830">
+<property type="protein sequence ID" value="AAC76830"/>
+<property type="gene ID" value="b3827"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77474">
+<property type="protein sequence ID" value="BAE77474"/>
+<property type="gene ID" value="BAE77474"/>
+</dbReference>
+<dbReference type="GeneID" id="948309"/>
+<dbReference type="KEGG" id="ecj:JW3803"/>
+<dbReference type="KEGG" id="eco:b3827"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3943"/>
+<dbReference type="EchoBASE" id="EB1439"/>
+<dbReference type="EcoGene" id="EG11471">
+<property type="gene designation" value="yigM"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EMK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0697">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000269445"/>
+<dbReference type="InParanoid" id="P0ADP5"/>
+<dbReference type="PhylomeDB" id="P0ADP5"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11471-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3803-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11471-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ADP5"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004779">
+<property type="entry name" value="CO/AA/NH_transpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000620">
+<property type="entry name" value="EamA_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00892">
+<property type="entry name" value="EamA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00950">
+<property type="entry name" value="2A78"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Biotin transporter" id="PRO_0000169663">
+<location>
+<begin position="1"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="2"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="26"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="56"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="81"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="110"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="137"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="172"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="202"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="233"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="256"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="domain" description="EamA 1" evidence="1">
+<location>
+<begin position="3"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="domain" description="EamA 2" evidence="1">
+<location>
+<begin position="139"/>
+<end position="274"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1091631"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24256712"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source ref="5"/>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1091631"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source ref="5"/>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="299" mass="33727" checksum="2AF656D013405165" modified="2005-12-06" version="1">
+MALLIITTILWAFSFSFYGEYLAGHVDSYFAVLVRVGLAALVFLPFLRTRGNSLKTVGLY
+MLVGAMQLGVMYMLSFRAYLYLTVSELLLFTVLTPLYITLIYDIMSKRRLRWGYAFSALL
+AVIGAGIIRYDQVTDHFWTGLLLVQLSNITFAIGMVGYKRLMETRPMPQHNAFAWFYLGA
+FLVAVIAWFLLGNAQKMPQTTLQWGILVFLGVVASGIGYFMWNYGATQVDAGTLGIMNNM
+HVPAGLLVNLAIWHQQPHWPTFITGALVILASLWVHRKWVAPRSSQTADDRRRDCALSE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

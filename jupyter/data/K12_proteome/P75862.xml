@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-05-08" version="134">
+<accession>P75862</accession>
+<name>ZAPC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Cell division protein ZapC</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>FtsZ-associated protein C</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Z-ring-associated protein C</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">zapC</name>
+<name type="synonym">ycbW</name>
+<name type="ordered locus">b0946</name>
+<name type="ordered locus">JW5125</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="J. Bacteriol." volume="193" first="1393" last="1404">
+<title>Identification of Escherichia coli ZapC (YcbW) as a component of the division apparatus that binds and bundles FtsZ polymers.</title>
+<authorList>
+<person name="Hale C.A."/>
+<person name="Shiomi D."/>
+<person name="Liu B."/>
+<person name="Bernhardt T.G."/>
+<person name="Margolin W."/>
+<person name="Niki H."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="21216997"/>
+<dbReference type="DOI" id="10.1128/JB.01245-10"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH FTSZ</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF LEU-22</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="J. Bacteriol." volume="193" first="1405" last="1413">
+<title>Identification and characterization of ZapC, a stabilizer of the FtsZ ring in Escherichia coli.</title>
+<authorList>
+<person name="Durand-Heredia J.M."/>
+<person name="Yu H.H."/>
+<person name="De Carlo S."/>
+<person name="Lesser C.F."/>
+<person name="Janakiraman A."/>
+</authorList>
+<dbReference type="PubMed" id="21216995"/>
+<dbReference type="DOI" id="10.1128/JB.01258-10"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH FTSZ</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 3 4">Contributes to the efficiency of the cell division process by stabilizing the polymeric form of the cell division protein FtsZ. Acts by promoting interactions between FtsZ protofilaments and suppressing the GTPase activity of FtsZ.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 4">Interacts directly with FtsZ. Monomer in solution.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552519"/>
+<interactant intactId="EBI-552519"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552519"/>
+<interactant intactId="EBI-370963">
+<id>P0A9A6</id>
+<label>ftsZ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552519"/>
+<interactant intactId="EBI-369221">
+<id>P0A6Z3</id>
+<label>htpG</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 3 4">Cytoplasm</location>
+</subcellularLocation>
+<text>Colocalizes with FtsZ at division sites. Localization to the Z ring is dependent on FtsZ and independent of FtsA, ZipA, ZapA or ZapB.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Mutants divide almost normally under standard growth conditions.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ZapC family.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74032.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35701.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64835">
+<property type="entry name" value="A64835"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415466.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295353.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5E1L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A=1-180"/>
+</dbReference>
+<dbReference type="PDB" id="5FO3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-180"/>
+</dbReference>
+<dbReference type="PDBsum" id="5E1L"/>
+<dbReference type="PDBsum" id="5FO3"/>
+<dbReference type="SMR" id="P75862"/>
+<dbReference type="BioGrid" id="4259444">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11485N"/>
+<dbReference type="IntAct" id="P75862">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="MINT" id="P75862"/>
+<dbReference type="STRING" id="511145.b0946"/>
+<dbReference type="PaxDb" id="P75862"/>
+<dbReference type="PRIDE" id="P75862"/>
+<dbReference type="EnsemblBacteria" id="AAC74032">
+<property type="protein sequence ID" value="AAC74032"/>
+<property type="gene ID" value="b0946"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35701">
+<property type="protein sequence ID" value="BAA35701"/>
+<property type="gene ID" value="BAA35701"/>
+</dbReference>
+<dbReference type="GeneID" id="945552"/>
+<dbReference type="KEGG" id="ecj:JW5125"/>
+<dbReference type="KEGG" id="eco:b0946"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1328"/>
+<dbReference type="EchoBASE" id="EB3479"/>
+<dbReference type="EcoGene" id="EG13715">
+<property type="gene designation" value="zapC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108T7E">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YF51">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000277864"/>
+<dbReference type="KO" id="K18657"/>
+<dbReference type="BioCyc" id="EcoCyc:G6486-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5125-MONOMER"/>
+<dbReference type="PRO" id="PR:P75862"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000917">
+<property type="term" value="P:division septum assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043093">
+<property type="term" value="P:FtsZ-dependent cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051302">
+<property type="term" value="P:regulation of cell division"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00906">
+<property type="entry name" value="ZapC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009809">
+<property type="entry name" value="ZapC"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07126">
+<property type="entry name" value="ZapC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF010252">
+<property type="entry name" value="ZapC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0717">Septation</keyword>
+<feature type="chain" description="Cell division protein ZapC" id="PRO_0000168778">
+<location>
+<begin position="1"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not interact with FtsZ, but shows affinity for itself. Reduces GTPase activity by less than 10%." evidence="4">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="10"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="15"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="19"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="25"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="36"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="41"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="71"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="112"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="118"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="123"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="133"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="150"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="157"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="162"/>
+<end position="164"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5E1L"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00906"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21216995"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21216997"/>
+</source>
+</evidence>
+<sequence length="180" mass="20589" checksum="7A8CC66ECE2D1B87" modified="2000-12-01" version="2">
+MRIKPDDNWRWYYDEEHDRMMLDLANGMLFRSRFARKMLTPDAFSPAGFCVDDAALYFSF
+EEKCRDFNLSKEQKAELVLNALVAIRYLKPQMPKSWHFVSHGEMWVPMPGDAACVWLSDT
+HEQVNLLVVESGENAALCLLAQPCVVIAGRAMQLGDAIKIMNDRLKPQVNVDSFSLEQAV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

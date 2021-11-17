@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-06-05" version="161">
+<accession>P37653</accession>
+<accession>P37654</accession>
+<accession>P76712</accession>
+<accession>P76713</accession>
+<accession>Q2M7J5</accession>
+<accession>Q8RSS7</accession>
+<name>BCSA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Cellulose synthase catalytic subunit [UDP-forming]</fullName>
+<ecNumber>2.4.1.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">bcsA</name>
+<name type="synonym">yhjO</name>
+<name type="synonym">yhjP</name>
+<name type="ordered locus">b3533</name>
+<name type="ordered locus">JW5665</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="39" first="1452" last="1463">
+<title>The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix.</title>
+<authorList>
+<person name="Zogaj X."/>
+<person name="Nimtz M."/>
+<person name="Rohde M."/>
+<person name="Bokranz W."/>
+<person name="Roemling U."/>
+</authorList>
+<dbReference type="PubMed" id="11260463"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02337.x"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>ECOR 10</strain>
+<strain>ECOR 12</strain>
+<strain>TOB1</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="5540" last="5554">
+<title>Cellulose as an architectural element in spatially structured Escherichia coli biofilms.</title>
+<authorList>
+<person name="Serra D.O."/>
+<person name="Richter A.M."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="24097954"/>
+<dbReference type="DOI" id="10.1128/JB.00946-13"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / AR3110</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4">Catalytic subunit of cellulose synthase. It polymerizes uridine 5'-diphosphate glucose to cellulose, which is produced as an extracellular component for mechanical and chemical protection at the onset of the stationary phase, when the cells exhibit multicellular behavior (rdar morphotype). Coexpression of cellulose and thin aggregative fimbriae (curli fimbrae or fibers) leads to a hydrophobic network with tightly packed cells embedded in a highly inert matrix that confers cohesion, elasticity and tissue-like properties to colonies (PubMed:24097954).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>[(1->4)-beta-D-glucosyl](n) + UDP-alpha-D-glucose = [(1->4)-beta-D-glucosyl](n+1) + H(+) + UDP</text>
+<dbReference type="Rhea" id="RHEA:19929"/>
+<dbReference type="Rhea" id="RHEA-COMP:10033"/>
+<dbReference type="Rhea" id="RHEA-COMP:10034"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:18246"/>
+<dbReference type="ChEBI" id="CHEBI:58223"/>
+<dbReference type="ChEBI" id="CHEBI:58885"/>
+<dbReference type="EC" id="2.4.1.12"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="activity regulation">
+<text>Activated by bis-(3'-5') cyclic diguanylic acid (c-di-GMP).</text>
+</comment>
+<comment type="pathway">
+<text>Glycan metabolism; bacterial cellulose biosynthesis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cell inner membrane</location>
+<topology evidence="5">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Part of the yhjR-bcsQABZC operon. Expressed at low levels in mid-log phase, expression increases as cells enter stationary phase, the increase in stationary phase is dependent on rpoS (PubMed:24097954). Expression is higher at 28 than 37 degrees Celsius (at protein level) (PubMed:24097954).</text>
+</comment>
+<comment type="domain">
+<text>There are two conserved domains in the globular part of the protein: the N-terminal domain (domain A) contains the conserved DXD motif and is possibly involved in catalysis and substrate binding. The C-terminal domain (domain B) contains the QXXRW motif and is present only in processive glycosyl transferases. It could be involved in the processivity function of the enzyme, possibly required for holding the growing glycan chain in the active site.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">When disrupted in a cellulose-synthesizing strain (a strain K12 / W3110 derivative called AR3110 with a restored, functional bcsQ gene), cellulose is no longer made and the rdar morphotype is lost (PubMed:24097954).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="6">The genes bscA, bcsB, bcsZ and bcsC are constitutively transcribed but cellulose synthesis occurs only when DgcC, a putative transmembrane protein regulated by CsgD, is expressed. Cellulose production is abolished in E.coli K12 / MG1655 and W3110 due to a premature stop codon in bcsQ (PubMed:24097954).</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the glycosyltransferase 2 family.</text>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAB18510" version="1"/>
+</conflict>
+<location>
+<position position="128"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB18511" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAB18511" version="1"/>
+</conflict>
+<location>
+<position position="128"/>
+</location>
+</comment>
+<dbReference type="EC" id="2.4.1.12"/>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18510.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18511.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76558.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77761.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65151">
+<property type="entry name" value="H65151"/>
+</dbReference>
+<dbReference type="PIR" id="S47754">
+<property type="entry name" value="S47754"/>
+</dbReference>
+<dbReference type="PIR" id="S47755">
+<property type="entry name" value="S47755"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417990.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000025892.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P37653"/>
+<dbReference type="BioGrid" id="4260855">
+<property type="interactions" value="267"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12387N"/>
+<dbReference type="IntAct" id="P37653">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3533"/>
+<dbReference type="CAZy" id="GT2">
+<property type="family name" value="Glycosyltransferase Family 2"/>
+</dbReference>
+<dbReference type="TCDB" id="4.D.3.1.6">
+<property type="family name" value="the glycan glucosyl transferase (opgh) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P37653"/>
+<dbReference type="PaxDb" id="P37653"/>
+<dbReference type="PRIDE" id="P37653"/>
+<dbReference type="EnsemblBacteria" id="AAC76558">
+<property type="protein sequence ID" value="AAC76558"/>
+<property type="gene ID" value="b3533"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77761">
+<property type="protein sequence ID" value="BAE77761"/>
+<property type="gene ID" value="BAE77761"/>
+</dbReference>
+<dbReference type="GeneID" id="948053"/>
+<dbReference type="KEGG" id="ecj:JW5665"/>
+<dbReference type="KEGG" id="eco:b3533"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3644"/>
+<dbReference type="EchoBASE" id="EB2169"/>
+<dbReference type="EcoGene" id="EG12260">
+<property type="gene designation" value="bcsA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107QZ7">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1215">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000259144"/>
+<dbReference type="InParanoid" id="P37653"/>
+<dbReference type="KO" id="K00694"/>
+<dbReference type="PhylomeDB" id="P37653"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12260-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5665-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG12260-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00694"/>
+<dbReference type="PRO" id="PR:P37653"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016760">
+<property type="term" value="F:cellulose synthase (UDP-forming) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035438">
+<property type="term" value="F:cyclic-di-GMP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090540">
+<property type="term" value="P:bacterial cellulose biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006011">
+<property type="term" value="P:UDP-glucose metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.550.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003919">
+<property type="entry name" value="Cell_synth_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005150">
+<property type="entry name" value="Cellulose_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001173">
+<property type="entry name" value="Glyco_trans_2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029044">
+<property type="entry name" value="Nucleotide-diphossugar_trans"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009875">
+<property type="entry name" value="PilZ_domain"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03552">
+<property type="entry name" value="Cellulose_synt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00535">
+<property type="entry name" value="Glycos_transf_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07238">
+<property type="entry name" value="PilZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01439">
+<property type="entry name" value="CELLSNTHASEA"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53448">
+<property type="entry name" value="SSF53448"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03030">
+<property type="entry name" value="CelA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0973">c-di-GMP</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0135">Cellulose biosynthesis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0328">Glycosyltransferase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Cellulose synthase catalytic subunit [UDP-forming]" id="PRO_0000059267">
+<location>
+<begin position="1"/>
+<end position="872"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="30"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="151"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="173"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="230"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="525"/>
+<end position="545"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="547"/>
+<end position="567"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="592"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="640"/>
+<end position="660"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="668"/>
+<end position="688"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="833"/>
+<end position="853"/>
+</location>
+</feature>
+<feature type="domain" description="PilZ">
+<location>
+<begin position="694"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="region of interest" description="Catalytic subdomain A">
+<location>
+<begin position="271"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="region of interest" description="Catalytic subdomain B">
+<location>
+<begin position="441"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="active site" evidence="2">
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="active site" evidence="2">
+<location>
+<position position="457"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="362"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11260463"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24097954"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24097954"/>
+</source>
+</evidence>
+<sequence length="872" mass="99785" checksum="14326B8A2EB228F7" modified="2002-07-26" version="3">
+MSILTRWLLIPPVNARLIGRYRDYRRHGASAFSATLGCFWMILAWIFIPLEHPRWQRIRA
+EHKNLYPHINASRPRPLDPVRYLIQTCWLLIGASRKETPKPRRRAFSGLQNIRGRYHQWM
+NELPERVSHKTQHLDEKKELGHLSAGARRLILGIIVTFSLILALICVTQPFNPLAQFIFL
+MLLWGVALIVRRMPGRFSALMLIVLSLTVSCRYIWWRYTSTLNWDDPVSLVCGLILLFAE
+TYAWIVLVLGYFQVVWPLNRQPVPLPKDMSLWPSVDIFVPTYNEDLNVVKNTIYASLGID
+WPKDKLNIWILDDGGREEFRQFAQNVGVKYIARTTHEHAKAGNINNALKYAKGEFVSIFD
+CDHVPTRSFLQMTMGWFLKEKQLAMMQTPHHFFSPDPFERNLGRFRKTPNEGTLFYGLVQ
+DGNDMWDATFFCGSCAVIRRKPLDEIGGIAVETVTEDAHTSLRLHRRGYTSAYMRIPQAA
+GLATESLSAHIGQRIRWARGMVQIFRLDNPLTGKGLKFAQRLCYVNAMFHFLSGIPRLIF
+LTAPLAFLLLHAYIIYAPALMIALFVLPHMIHASLTNSKIQGKYRHSFWSEIYETVLAWY
+IAPPTLVALINPHKGKFNVTAKGGLVEEEYVDWVISRPYIFLVLLNLVGVAVGIWRYFYG
+PPTEMLTVVVSMVWVFYNLIVLGGAVAVSVESKQVRRSHRVEMTMPAAIAREDGHLFSCT
+VQDFSDGGLGIKINGQAQILEGQKVNLLLKRGQQEYVFPTQVARVMGNEVGLKLMPLTTQ
+QHIDFVQCTFARADTWALWQDSYPEDKPLESLLDILKLGFRGYRHLAEFAPSSVKGIFRV
+LTSLVSWVVSFIPRRPERSETAQPSDQALAQQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

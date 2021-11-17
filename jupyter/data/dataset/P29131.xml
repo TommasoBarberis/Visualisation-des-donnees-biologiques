@@ -1,0 +1,997 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2019-06-05" version="163">
+<accession>P29131</accession>
+<accession>Q2M8M9</accession>
+<name>FTSN_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 19">Cell division protein FtsN</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ftsN</name>
+<name type="synonym">msgA</name>
+<name type="ordered locus">b3933</name>
+<name type="ordered locus">JW3904</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="3790" last="3797">
+<title>Cloning and characterization of ftsN, an essential cell division gene in Escherichia coli isolated as a multicopy suppressor of ftsA12(Ts).</title>
+<authorList>
+<person name="Dai K."/>
+<person name="Xu Y."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="8509333"/>
+<dbReference type="DOI" id="10.1128/jb.175.12.3790-3797.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1992-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wu B."/>
+<person name="Ang D."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>XPH43</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="1328" last="1334">
+<title>Topological characterization of the essential Escherichia coli cell division protein FtsN.</title>
+<authorList>
+<person name="Dai K."/>
+<person name="Xu Y."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="8631709"/>
+<dbReference type="DOI" id="10.1128/jb.178.5.1328-1334.1996"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Mol. Microbiol." volume="25" first="303" last="309">
+<title>FtsN, a late recruit to the septum in Escherichia coli.</title>
+<authorList>
+<person name="Addinall S.G."/>
+<person name="Cao C."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="9282742"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1997.4641833.x"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="42" first="395" last="413">
+<title>FtsQ, FtsL and FtsI require FtsK, but not FtsN, for co-localization with FtsZ during Escherichia coli cell division.</title>
+<authorList>
+<person name="Chen J.C."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="11703663"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02640.x"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="2552" last="2556">
+<title>ZipA is required for recruitment of FtsK, FtsQ, FtsL, and FtsN to the septal ring in Escherichia coli.</title>
+<authorList>
+<person name="Hale C.A."/>
+<person name="de Boer P.A.J."/>
+</authorList>
+<dbReference type="PubMed" id="11948172"/>
+<dbReference type="DOI" id="10.1128/JB.184.9.2552-2556.2002"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2003" name="Mol. Microbiol." volume="48" first="1171" last="1182">
+<title>The Escherichia coli amidase AmiC is a periplasmic septal ring component exported via the twin-arginine transport pathway.</title>
+<authorList>
+<person name="Bernhardt T.G."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="12787347"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2003.03511.x"/>
+</citation>
+<scope>FUNCTION IN RECRUITMENT OF AMIC</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="J. Bacteriol." volume="186" first="6728" last="6737">
+<title>Murein (peptidoglycan) binding property of the essential cell division protein FtsN from Escherichia coli.</title>
+<authorList>
+<person name="Ursinus A."/>
+<person name="van den Ent F."/>
+<person name="Brechtel S."/>
+<person name="de Pedro M."/>
+<person name="Hoeltje J.V."/>
+<person name="Loewe J."/>
+<person name="Vollmer W."/>
+</authorList>
+<dbReference type="PubMed" id="15466024"/>
+<dbReference type="DOI" id="10.1128/JB.186.20.6728-6737.2004"/>
+</citation>
+<scope>DOMAIN</scope>
+<scope>BINDING TO PEPTIDOGLYCAN</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2007" name="Microbiology" volume="153" first="124" last="138">
+<title>Three functional subdomains of the Escherichia coli FtsQ protein are involved in its interaction with the other division proteins.</title>
+<authorList>
+<person name="D'Ulisse V."/>
+<person name="Fagioli M."/>
+<person name="Ghelardini P."/>
+<person name="Paolozzi L."/>
+</authorList>
+<dbReference type="PubMed" id="17185541"/>
+<dbReference type="DOI" id="10.1099/mic.0.2006/000265-0"/>
+</citation>
+<scope>INTERACTION WITH FTSQ</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="7383" last="7401">
+<title>Self-enhanced accumulation of FtsN at division sites and roles for other proteins with a SPOR domain (DamX, DedD, and RlpA) in Escherichia coli cell constriction.</title>
+<authorList>
+<person name="Gerding M.A."/>
+<person name="Liu B."/>
+<person name="Bendezu F.O."/>
+<person name="Hale C.A."/>
+<person name="Bernhardt T.G."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="19684127"/>
+<dbReference type="DOI" id="10.1128/JB.00811-09"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="77" first="384" last="398">
+<title>Direct interactions of early and late assembling division proteins in Escherichia coli cells resolved by FRET.</title>
+<authorList>
+<person name="Alexeeva S."/>
+<person name="Gadella T.W. Jr."/>
+<person name="Verheul J."/>
+<person name="Verhoeven G.S."/>
+<person name="den Blaauwen T."/>
+</authorList>
+<dbReference type="PubMed" id="20497333"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07211.x"/>
+</citation>
+<scope>INTERACTION WITH ZAPA; FTSW AND FTSI</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="76" first="760" last="771">
+<title>Role of Escherichia coli FtsN protein in the assembly and stability of the cell division ring.</title>
+<authorList>
+<person name="Rico A.I."/>
+<person name="Garcia-Ovalle M."/>
+<person name="Palacios P."/>
+<person name="Casanova M."/>
+<person name="Vicente M."/>
+</authorList>
+<dbReference type="PubMed" id="20345660"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07134.x"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="1989" last="2000">
+<title>The early divisome protein FtsA interacts directly through its 1c subdomain with the cytoplasmic domain of the late divisome protein FtsN.</title>
+<authorList>
+<person name="Busiek K.K."/>
+<person name="Eraso J.M."/>
+<person name="Wang Y."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="22328664"/>
+<dbReference type="DOI" id="10.1128/JB.06683-11"/>
+</citation>
+<scope>INTERACTION WITH FTSA</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="5308" last="5315">
+<title>Identification of SPOR domain amino acids important for septal localization, peptidoglycan binding, and a disulfide bond in the cell division protein FtsN.</title>
+<authorList>
+<person name="Duncan T.R."/>
+<person name="Yahashiri A."/>
+<person name="Arends S.J."/>
+<person name="Popham D.L."/>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="24056104"/>
+<dbReference type="DOI" id="10.1128/JB.00911-13"/>
+</citation>
+<scope>DOMAIN</scope>
+<scope>DISULFIDE BOND</scope>
+<scope>MUTAGENESIS OF GLN-251; CYS-252; SER-254; THR-263; PHE-270; TRP-283; ARG-285; CYS-312 AND ILE-313</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2014" name="Mol. Microbiol." volume="92" first="1212" last="1226">
+<title>A role for FtsA in SPOR-independent localization of the essential Escherichia coli cell division protein FtsN.</title>
+<authorList>
+<person name="Busiek K.K."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="24750258"/>
+<dbReference type="DOI" id="10.1111/mmi.12623"/>
+</citation>
+<scope>INTERACTION WITH FTSA</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="925" last="944">
+<title>A role for the FtsQLB complex in cytokinetic ring activation revealed by an ftsL allele that accelerates division.</title>
+<authorList>
+<person name="Tsang M.J."/>
+<person name="Bernhardt T.G."/>
+</authorList>
+<dbReference type="PubMed" id="25496050"/>
+<dbReference type="DOI" id="10.1111/mmi.12905"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="945" last="970">
+<title>Roles for both FtsA and the FtsBLQ subcomplex in FtsN-stimulated cell constriction in Escherichia coli.</title>
+<authorList>
+<person name="Liu B."/>
+<person name="Persons L."/>
+<person name="Lee L."/>
+<person name="de Boer P.A."/>
+</authorList>
+<dbReference type="PubMed" id="25496160"/>
+<dbReference type="DOI" id="10.1111/mmi.12906"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH FTSA</scope>
+<scope>MUTAGENESIS OF TRP-83; TYR-85 AND LEU-89</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="971" last="987">
+<title>The bypass of ZipA by overexpression of FtsN requires a previously unknown conserved FtsN motif essential for FtsA-FtsN interaction supporting a model in which FtsA monomers recruit late cell division proteins to the Z ring.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Du S."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="25496259"/>
+<dbReference type="DOI" id="10.1111/mmi.12907"/>
+</citation>
+<scope>INTERACTION WITH FTSA</scope>
+<scope>MUTAGENESIS OF ASP-5</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="903" last="909">
+<title>Last but not least: new insights into how FtsN triggers constriction during Escherichia coli cell division.</title>
+<authorList>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="25571948"/>
+<dbReference type="DOI" id="10.1111/mmi.12925"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REVIEW</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="52" first="651" last="660">
+<title>Solution structure and domain architecture of the divisome protein FtsN.</title>
+<authorList>
+<person name="Yang J.C."/>
+<person name="Van Den Ent F."/>
+<person name="Neuhaus D."/>
+<person name="Brevier J."/>
+<person name="Lowe J."/>
+</authorList>
+<dbReference type="PubMed" id="15101973"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2004.03991.x"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 243-319</scope>
+<scope>DOMAIN</scope>
+</reference>
+<comment type="function">
+<text evidence="5 15 20 21">Essential cell division protein that activates septal peptidoglycan synthesis and constriction of the cell. Acts on both sides of the membrane, via interaction with FtsA in the cytoplasm and interaction with the FtsQBL complex in the periplasm. These interactions may induce a conformational switch in both FtsA and FtsQBL, leading to septal peptidoglycan synthesis by FtsI and associated synthases (Probable) (PubMed:25496160). Required for full FtsI activity (PubMed:25496160). Required for recruitment of AmiC to the septal ring (PubMed:12787347).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 11 12 14 15 16">Interacts with FtsA via its N-terminal cytoplasmic domain (PubMed:22328664, PubMed:24750258, PubMed:25496160, PubMed:25496259). Interacts with ZapA, FtsQ, FtsW and FtsI (PubMed:17185541, PubMed:20497333).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-6419495">
+<id>P56976</id>
+<label>blr</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-550562">
+<id>P0ABH0</id>
+<label>ftsA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-548564">
+<id>P0AD68</id>
+<label>ftsI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-1130157">
+<id>P06136</id>
+<label>ftsQ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-1214767">
+<id>P0ABG4</id>
+<label>ftsW</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1134233"/>
+<interactant intactId="EBI-909769">
+<id>P02919</id>
+<label>mrcB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="17">Cell inner membrane</location>
+<topology evidence="17">Single-pass type II membrane protein</topology>
+</subcellularLocation>
+<text evidence="4 9 14 18">Localizes to the septum (PubMed:9282742, PubMed:19684127, PubMed:24750258). Localizes to the midcell via interaction with the early cell division protein FtsA and via the periplasmic SPOR domain (PubMed:9282742, PubMed:19684127, PubMed:24750258). FtsA-dependent localization precedes SPOR-dependent localization, and both are needed for efficient localization (PubMed:24750258). Localization depends upon FtsZ, FtsA, ZipA, FtsQ and FtsI (PubMed:9282742, PubMed:11948172).</text>
+</comment>
+<comment type="domain">
+<text evidence="6 7 9 13 14">The cytoplasmic region is required for interaction with FtsA (PubMed:24750258). The periplasmic region is composed of a membrane-proximal region containing three short partially formed helices (H1, H2 and H3), followed by an unstructured glutamine-rich linker, and a C-terminal globular SPOR domain (PubMed:15101973, PubMed:19684127). Essential function of FtsN is accomplished by a small region of at most 35 residues that is centered about the H2 helix (PubMed:19684127). The SPOR domain, which exhibits a ribonucleoprotein (RNP) fold, binds peptidoglycan and is a strong septal localization determinant, but it seems not essential for cell division (PubMed:15466024, PubMed:19684127, PubMed:24056104).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 10">Depletion does not affect localization of FtsZ, FtsA, ZipA, FtsQ, FtsL and FtsI to the division site (PubMed:11703663). Cells containing low levels of FtsN stop dividing while their mean cell length increases (PubMed:20345660). Absence of FtsN is followed by an inverse sequential disassembly of already assembled divisome compounds (PubMed:20345660).</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 19">Belongs to the FtsN family.</text>
+</comment>
+<comment type="sequence caution" evidence="19">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA23935" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="L14281">
+<property type="protein sequence ID" value="AAA23814.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L06547">
+<property type="protein sequence ID" value="AAA23935.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03065.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76915.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77377.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S40876">
+<property type="entry name" value="S40876"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418368.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000068828.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1UTA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=243-319"/>
+</dbReference>
+<dbReference type="PDBsum" id="1UTA"/>
+<dbReference type="SMR" id="P29131"/>
+<dbReference type="BioGrid" id="4261592">
+<property type="interactions" value="198"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9705N"/>
+<dbReference type="IntAct" id="P29131">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="MINT" id="P29131"/>
+<dbReference type="STRING" id="511145.b3933"/>
+<dbReference type="jPOST" id="P29131"/>
+<dbReference type="PaxDb" id="P29131"/>
+<dbReference type="PRIDE" id="P29131"/>
+<dbReference type="EnsemblBacteria" id="AAC76915">
+<property type="protein sequence ID" value="AAC76915"/>
+<property type="gene ID" value="b3933"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77377">
+<property type="protein sequence ID" value="BAE77377"/>
+<property type="gene ID" value="BAE77377"/>
+</dbReference>
+<dbReference type="GeneID" id="948428"/>
+<dbReference type="KEGG" id="ecj:JW3904"/>
+<dbReference type="KEGG" id="eco:b3933"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4051"/>
+<dbReference type="EchoBASE" id="EB1491"/>
+<dbReference type="EcoGene" id="EG11529">
+<property type="gene designation" value="ftsN"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41063M6">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3087">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000126695"/>
+<dbReference type="InParanoid" id="P29131"/>
+<dbReference type="KO" id="K03591"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11529-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3904-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11529-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P29131"/>
+<dbReference type="PRO" id="PR:P29131"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030428">
+<property type="term" value="C:cell septum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042834">
+<property type="term" value="F:peptidoglycan binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000917">
+<property type="term" value="P:division septum assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043093">
+<property type="term" value="P:FtsZ-dependent cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.1070">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02039">
+<property type="entry name" value="FtsN_entero"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011930">
+<property type="entry name" value="FtsN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007730">
+<property type="entry name" value="SPOR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036680">
+<property type="entry name" value="SPOR-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05036">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF110997">
+<property type="entry name" value="SSF110997"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02223">
+<property type="entry name" value="ftsN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51724">
+<property type="entry name" value="SPOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0717">Septation</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Cell division protein FtsN" id="PRO_0000087376">
+<location>
+<begin position="1"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2 22">
+<location>
+<begin position="1"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="34"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2 22">
+<location>
+<begin position="55"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="repeat" description="1-1">
+<location>
+<begin position="115"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="repeat" description="1-2">
+<location>
+<begin position="145"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="repeat" description="2-1">
+<location>
+<begin position="197"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="repeat" description="2-2">
+<location>
+<begin position="220"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="domain" description="SPOR" evidence="2">
+<location>
+<begin position="242"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with FtsA" evidence="2 16">
+<location>
+<begin position="4"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="region of interest" description="2 X 6 AA repeats">
+<location>
+<begin position="115"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="region of interest" description="2 X 4 AA repeats">
+<location>
+<begin position="197"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2 13">
+<location>
+<begin position="252"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Causes significant impairment of the interaction with FtsA." evidence="16">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<variation>T</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity." evidence="15">
+<original>Y</original>
+<variation>S</variation>
+<variation>W</variation>
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity." evidence="15">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces septal localization by a factor of at least 3." evidence="13">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severe localization defects. Binds peptidoglycan poorly." evidence="13">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely reduces stability of the protein." evidence="13">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces septal localization by a factor of at least 3." evidence="13">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="254"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Binds peptidoglycan poorly." evidence="13">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="254"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Intermediate localization defects." evidence="13">
+<original>T</original>
+<variation>D</variation>
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Intermediate localization defects." evidence="13">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces septal localization by a factor of at least 3." evidence="13">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="283"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severe localization defects." evidence="13">
+<original>W</original>
+<variation>D</variation>
+<location>
+<position position="283"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces septal localization by a factor of at least 3. Binds peptidoglycan poorly." evidence="13">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely reduces stability of the protein." evidence="13">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces septal localization by a factor of at least 3." evidence="13">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="19">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="254"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="258"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="275"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="281"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="293"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="296"/>
+<end position="307"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1UTA"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02039"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11703663"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11948172"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12787347"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15101973"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15466024"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17185541"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19684127"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20345660"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20497333"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22328664"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24056104"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24750258"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25496160"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25496259"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8631709"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9282742"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<evidence key="20" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25496050"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25571948"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8631709"/>
+</source>
+</evidence>
+<sequence length="319" mass="35793" checksum="21CEA5771FF3FB66" modified="2003-08-29" version="3">
+MAQRDYVRRSQPAPSRRKKSTSRKKQRNLPAVSPAMVAIAAAVLVTFIGGLYFITHHKKE
+ESETLQSQKVTGNGLPPKPEERWRYIKELESRQPGVRAPTEPSAGGEVKTPEQLTPEQRQ
+LLEQMQADMRQQPTQLVEVPWNEQTPEQRQQTLQRQRQAQQLAEQQRLAQQSRTTEQSWQ
+QQTRTSQAAPVQAQPRQSKPASSQQPYQDLLQTPAHTTAQSKPQQAAPVARAADAPKPTA
+EKKDERRWMVQCGSFRGAEQAETVRAQLAFEGFDSKITTNNGWNRVVIGPVKGKENADST
+LNRLKMAGHTNCIRLAAGG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

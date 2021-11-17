@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-11-01" modified="2019-07-03" version="171">
+<accession>P08956</accession>
+<accession>Q2M5W6</accession>
+<name>T1RK_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Type I restriction enzyme EcoKI R protein</fullName>
+<shortName>R.EcoKI</shortName>
+<ecNumber>3.1.21.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">hsdR</name>
+<name type="synonym">hsr</name>
+<name type="ordered locus">b4350</name>
+<name type="ordered locus">JW4313</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Mol. Biol." volume="198" first="159" last="170">
+<title>Organization and sequence of the hsd genes of Escherichia coli K-12.</title>
+<authorList>
+<person name="Loenen W.A.M."/>
+<person name="Daniel A.S."/>
+<person name="Braymer H.D."/>
+<person name="Murray N.E."/>
+</authorList>
+<dbReference type="PubMed" id="3323532"/>
+<dbReference type="DOI" id="10.1016/0022-2836(87)90303-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="5207" last="5219">
+<title>Characterization and expression of the Escherichia coli Mrr restriction system.</title>
+<authorList>
+<person name="Waite-Rees P.A."/>
+<person name="Keating C.J."/>
+<person name="Moran L.S."/>
+<person name="Slatko B.E."/>
+<person name="Hornstra L.J."/>
+<person name="Benner J.S."/>
+</authorList>
+<dbReference type="PubMed" id="1650347"/>
+<dbReference type="DOI" id="10.1128/jb.173.16.5207-5219.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-9</scope>
+<source>
+<strain>K12 / CR63</strain>
+</source>
+</reference>
+<comment type="function">
+<text>The EcoKI enzyme recognizes 5'-AACN(6)GTGC-3'. Subunit R is required for both nuclease and ATPase activities, but not for modification.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Endonucleolytic cleavage of DNA to give random double-stranded fragments with terminal 5'-phosphates, ATP is simultaneously hydrolyzed.</text>
+<dbReference type="EC" id="3.1.21.3"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>The type I restriction/modification system is composed of three polypeptides R, M and S.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Type I restriction and modification enzymes are complex, multifunctional systems which require ATP, S-adenosyl methionine and magnesium as cofactors and, in addition to their endonucleolytic and methylase activities, are potent DNA-dependent ATPases.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the HsdR family.</text>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA97247" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAE78340" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA29791" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA29791" version="1"/>
+</conflict>
+<location>
+<position position="1066"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA38116" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="3.1.21.3"/>
+<dbReference type="EMBL" id="X06545">
+<property type="protein sequence ID" value="CAA29791.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97247.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77306.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78340.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X54198">
+<property type="protein sequence ID" value="CAA38116.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S56576">
+<property type="entry name" value="NDECKR"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418770.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000981388.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P08956"/>
+<dbReference type="BioGrid" id="4262769">
+<property type="interactions" value="27"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9944N"/>
+<dbReference type="IntAct" id="P08956">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4350"/>
+<dbReference type="REBASE" id="191895">
+<property type="entry name" value="Apa1447ORF2439P"/>
+</dbReference>
+<dbReference type="TCDB" id="3.A.17.1.1">
+<property type="family name" value="the phage t7 injectisome (t7 injectisome) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P08956"/>
+<dbReference type="PRIDE" id="P08956"/>
+<dbReference type="EnsemblBacteria" id="AAC77306">
+<property type="protein sequence ID" value="AAC77306"/>
+<property type="gene ID" value="b4350"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78340">
+<property type="protein sequence ID" value="BAE78340"/>
+<property type="gene ID" value="BAE78340"/>
+</dbReference>
+<dbReference type="GeneID" id="948878"/>
+<dbReference type="KEGG" id="ecj:JW4313"/>
+<dbReference type="KEGG" id="eco:b4350"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2336"/>
+<dbReference type="EchoBASE" id="EB0454"/>
+<dbReference type="EcoGene" id="EG10459">
+<property type="gene designation" value="hsdR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107SCJ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4096">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000295053"/>
+<dbReference type="InParanoid" id="P08956"/>
+<dbReference type="KO" id="K01153"/>
+<dbReference type="PhylomeDB" id="P08956"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10459-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4313-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10459-MONOMER"/>
+<dbReference type="PRO" id="PR:P08956"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009035">
+<property type="term" value="F:type I site-specific deoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009307">
+<property type="term" value="P:DNA restriction-modification system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013670">
+<property type="entry name" value="EcoEI_R_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006935">
+<property type="entry name" value="Helicase/UvrB_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007409">
+<property type="entry name" value="Restrct_endonuc_type1_HsdR_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08463">
+<property type="entry name" value="EcoEI_R_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04313">
+<property type="entry name" value="HSDR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04851">
+<property type="entry name" value="ResIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0680">Restriction system</keyword>
+<feature type="chain" description="Type I restriction enzyme EcoKI R protein" id="PRO_0000077259">
+<location>
+<begin position="1"/>
+<end position="1170"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="3">
+<location>
+<begin position="458"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="4">
+<location>
+<begin position="714"/>
+<end position="879"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="431"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="472"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="143"/>
+<end position="229"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAH box">
+<location>
+<begin position="574"/>
+<end position="577"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA29791." ref="1" evidence="5">
+<original>DAVKIALTATPALHTVQIFGEPVYRYTYRTAVIDGFLIDQDPPIQIITRNAQEGVYLSKGEQVERISP</original>
+<variation>ECGKNRSHRHPGATYCADFRRAGLPLYLPYRGYRRFSDRPGSAYSDHHPQRAGGGLSLQRRAGRAH</variation>
+<location>
+<begin position="611"/>
+<end position="678"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="1170" mass="134095" checksum="C5B90A799C455318" modified="2009-11-24" version="3">
+MMNKSNFEFLKGVNDFTYAIACAAENNYPDDPNTTLIKMRMFGEATAKHLGLLLNIPPCE
+NQHDLLRELGKIAFVDDNILSVFHKLRRIGNQAVHEYHNDLNDAQMCLRLGFRLAVWYYR
+LVTKDYDFPVPVFVLPERGENLYHQEVLTLKQQLEQQVREKAQTQAEVEAQQQKLVALNG
+YIAILEGKQQETEAQTQARLAALEAQLAEKNAELAKQTEQERKAYHKEITDQAIKRTLNL
+SEEESRFLIDAQLRKAGWQADSKTLRFSKGARPEPGVNKAIAEWPTGKDETGNQGFADYV
+LFVGLKPIAVVEAKRNNIDVPARLNESYRYSKCFDNGFLRETLLEHYSPDEVHEAVPEYE
+TSWQDTSGKQRFKIPFCYSTNGREYRATMKTKSGIWYRDVRDTRNMSKALPEWHRPEELL
+EMLGSEPQKQNQWFADNPGMSELGLRYYQEDAVRAVEKAIVKGQQEILLAMATGTGKTRT
+AIAMMFRLIQSQRFKRILFLVDRRSLGEQALGAFEDTRINGDTFNSIFDIKGLTDKFPED
+STKIHVATVQSLVKRTLQSDEPMPVARYDCIVVDEAHRGYILDKEQTEGELQFRSQLDYV
+SAYRRILDHFDAVKIALTATPALHTVQIFGEPVYRYTYRTAVIDGFLIDQDPPIQIITRN
+AQEGVYLSKGEQVERISPQGEVINDTLEDDQDFEVADFNRGLVIPAFNRAVCNELTNYLD
+PTGSQKTLVFCVTNAHADMVVEELRAAFKKKYPQLEHDAIIKITGDADKDARKVQTMITR
+FNKERLPNIVVTVDLLTTGVDIPSICNIVFLRKVRSRILYEQMKGRATRLCPEVNKTSFK
+IFDCVDIYSTLESVDTMRPVVVRPKVELQTLVNEITDSETYKITEADGRSFAEHSHEQLV
+AKLQRIIGLATFNRDRSETIDKQVRRLDELCQDAAGVNFNGFASRLREKGPHWSAEVFNK
+LPGFIARLEKLKTDINNLNDAPIFLDIDDEVVSVKSLYGDYDTPQDFLEAFDSLVQRSPN
+AQPALQAVINRPRDLTRKGLVELQEWFDRQHFEESSLRKAWKETRNEDIAARLIGHIRRA
+AVGDALKPFEERVDHALTRIKGENDWSSEQLSWLDRLAQALKEKVVLDDDVFKTGNFHRR
+GGKAMLQRTFDDNLDTLLGKFSDYIWDELA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

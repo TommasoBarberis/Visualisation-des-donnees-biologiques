@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-11" modified="2019-06-05" version="101">
+<accession>P0AAP1</accession>
+<accession>P21830</accession>
+<accession>P77719</accession>
+<accession>Q2MC40</accession>
+<name>DGCC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="10">Probable diguanylate cyclase DgcC</fullName>
+<shortName>DGC</shortName>
+<ecNumber evidence="11">2.7.7.65</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="9">dgcC</name>
+<name type="synonym">adrA</name>
+<name type="synonym">yaiC</name>
+<name type="ordered locus">b0385</name>
+<name type="ordered locus">JW0376</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1986" name="Gene" volume="44" first="121" last="125">
+<title>Nucleotide sequence of the alkaline phosphatase gene of Escherichia coli.</title>
+<authorList>
+<person name="Chang C.N."/>
+<person name="Kuang W.-J."/>
+<person name="Chen E.Y."/>
+</authorList>
+<dbReference type="PubMed" id="3533724"/>
+<dbReference type="DOI" id="10.1016/0378-1119(86)90050-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-159</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="39" first="1452" last="1463">
+<title>The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix.</title>
+<authorList>
+<person name="Zogaj X."/>
+<person name="Nimtz M."/>
+<person name="Rohde M."/>
+<person name="Bokranz W."/>
+<person name="Roemling U."/>
+</authorList>
+<dbReference type="PubMed" id="11260463"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02337.x"/>
+</citation>
+<scope>LACK OF CELLULOSE PRODUCTION IN K12 STRAINS</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="2027" last="2037">
+<title>Gene expression regulation by the Curli activator CsgD protein: modulation of cellulose biosynthesis and control of negative determinants for microbial adhesion.</title>
+<authorList>
+<person name="Brombacher E."/>
+<person name="Baratto A."/>
+<person name="Dorel C."/>
+<person name="Landini P."/>
+</authorList>
+<dbReference type="PubMed" id="16513732"/>
+<dbReference type="DOI" id="10.1128/JB.188.6.2027-2037.2006"/>
+</citation>
+<scope>REGULATION BY CSGD</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="Mol. Microbiol." volume="62" first="1014" last="1034">
+<title>Cyclic-di-GMP-mediated signalling within the sigma network of Escherichia coli.</title>
+<authorList>
+<person name="Weber H."/>
+<person name="Pesavento C."/>
+<person name="Possling A."/>
+<person name="Tischendorf G."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="17010156"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05440.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>RPOS-DEPENDENCE</scope>
+<scope>REGULATION CASCADE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Microbiology" volume="155" first="1318" last="1331">
+<title>Gene expression patterns and differential input into curli fimbriae regulation of all GGDEF/EAL domain proteins in Escherichia coli.</title>
+<authorList>
+<person name="Sommerfeldt N."/>
+<person name="Possling A."/>
+<person name="Becker G."/>
+<person name="Pesavento C."/>
+<person name="Tschowri N."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="19332833"/>
+<dbReference type="DOI" id="10.1099/mic.0.024257-0"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>RPOS-DEPENDENCE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Appl. Microbiol. Biotechnol." volume="85" first="1095" last="1104">
+<title>Monitoring of diguanylate cyclase activity and of cyclic-di-GMP biosynthesis by whole-cell assays suitable for high-throughput screening of biofilm inhibitors.</title>
+<authorList>
+<person name="Antoniani D."/>
+<person name="Bocci P."/>
+<person name="Maciag A."/>
+<person name="Raffaelli N."/>
+<person name="Landini P."/>
+</authorList>
+<dbReference type="PubMed" id="19707751"/>
+<dbReference type="DOI" id="10.1007/s00253-009-2199-x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PROBABLE ENZYME ACTIVITY</scope>
+<scope>MUTAGENESIS OF 291-ASP-GLU-292</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2015" name="J. Bacteriol." volume="198" first="7" last="11">
+<title>Systematic nomenclature for GGDEF and EAL domain-containing cyclic di-GMP turnover proteins of Escherichia coli.</title>
+<authorList>
+<person name="Hengge R."/>
+<person name="Galperin M.Y."/>
+<person name="Ghigo J.M."/>
+<person name="Gomelsky M."/>
+<person name="Green J."/>
+<person name="Hughes K.T."/>
+<person name="Jenal U."/>
+<person name="Landini P."/>
+</authorList>
+<dbReference type="PubMed" id="26148715"/>
+<dbReference type="DOI" id="10.1128/JB.00424-15"/>
+</citation>
+<scope>NOMENCLATURE</scope>
+</reference>
+<comment type="function">
+<text evidence="4 8">A probable diguanylate cyclase. The last member of a cascade of expressed proteins, its expression requires DgcM. DgcC production induces biosynthesis of cellulose in some E.coli isolates, but not in K12 strains. Cyclic-di-GMP is a second messenger which controls cell surface-associated traits in bacteria.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="11">
+<text>2 GTP = cyclic di-3',5'-guanylate + 2 diphosphate</text>
+<dbReference type="Rhea" id="RHEA:24898"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:37565"/>
+<dbReference type="ChEBI" id="CHEBI:58805"/>
+<dbReference type="EC" id="2.7.7.65"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="10">Binds 1 Mg(2+) ion per monomer.</text>
+</comment>
+<comment type="pathway" evidence="10">
+<text>Purine metabolism; 3',5'-cyclic di-GMP biosynthesis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Cell inner membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="5 6 7">Expressed at 28 degrees Celsius in late stationary phase, more highly expressed on plates than in liquid medium. Expression is RpoS-, CsgD- and DgcM-dependent.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.65" evidence="11"/>
+<dbReference type="EMBL" id="U73857">
+<property type="protein sequence ID" value="AAB18109.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73488.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76166.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13345">
+<property type="protein sequence ID" value="AAA83895.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64767">
+<property type="entry name" value="A64767"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414919.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000484048.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AAP1"/>
+<dbReference type="BioGrid" id="4262033">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0385"/>
+<dbReference type="TCDB" id="9.B.34.1.2">
+<property type="family name" value="the kinase/phosphatase/cyclic-gmp synthase/cyclic di-gmp hydrolase (kpsh) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P0AAP1"/>
+<dbReference type="PaxDb" id="P0AAP1"/>
+<dbReference type="PRIDE" id="P0AAP1"/>
+<dbReference type="EnsemblBacteria" id="AAC73488">
+<property type="protein sequence ID" value="AAC73488"/>
+<property type="gene ID" value="b0385"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76166">
+<property type="protein sequence ID" value="BAE76166"/>
+<property type="gene ID" value="BAE76166"/>
+</dbReference>
+<dbReference type="GeneID" id="945037"/>
+<dbReference type="KEGG" id="ecj:JW0376"/>
+<dbReference type="KEGG" id="eco:b0385"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1893"/>
+<dbReference type="EchoBASE" id="EB1237"/>
+<dbReference type="EcoGene" id="EG11257">
+<property type="gene designation" value="adrA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105BZU">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNMH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000117511"/>
+<dbReference type="InParanoid" id="P0AAP1"/>
+<dbReference type="KO" id="K18968"/>
+<dbReference type="PhylomeDB" id="P0AAP1"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11257-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0376-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11257-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00599"/>
+<dbReference type="PRO" id="PR:P0AAP1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052621">
+<property type="term" value="F:diguanylate cyclase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd01949">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000160">
+<property type="entry name" value="GGDEF_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007894">
+<property type="entry name" value="MASE2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029787">
+<property type="entry name" value="Nucleotide_cyclase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00990">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05230">
+<property type="entry name" value="MASE2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00267">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55073">
+<property type="entry name" value="SSF55073"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00254">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50887">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Probable diguanylate cyclase DgcC" id="PRO_0000168588">
+<location>
+<begin position="1"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="46"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="68"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="112"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="143"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="171"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="domain" description="GGDEF" evidence="3">
+<location>
+<begin position="240"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="248"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; via carbonyl oxygen" evidence="1">
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="256"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="site" description="Transition state stabilizer" evidence="2">
+<location>
+<position position="253"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No c-di-GMP produced in an overexpressing strain." evidence="8">
+<original>DE</original>
+<variation>AA</variation>
+<location>
+<begin position="291"/>
+<end position="292"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="B8GZM2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00095"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11260463"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16513732"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17010156"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19332833"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19707751"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="26148715"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19707751"/>
+</source>
+</evidence>
+<sequence length="371" mass="41537" checksum="1F5111C43481F32B" modified="2005-10-11" version="1">
+MFPKIMNDENFFKKAAAHGEEPPLTPQNEHQRSGLRFARRVRLPRAVGLAGMFLPIASTL
+VSHPPPGWWWLVLVGWAFVWPHLAWQIASRAVDPLSREIYNLKTDAVLAGMWVGVMGVNV
+LPSTAMLMIMCLNLMGAGGPRLFVAGLVLMVVSCLVTLELTGITVSFNSAPLEWWLSLPI
+IVIYPLLFGWVSYQTATKLAEHKRRLQVMSTRDGMTGVYNRRHWETMLRNEFDNCRRHNR
+DATLLIIDIDHFKSINDTWGHDVGDEAIVALTRQLQITLRGSDVIGRFGGDEFAVIMSGT
+PAESAITAMLRVHEGLNTLRLPNTPQVTLRISVGVAPLNPQMSHYREWLKSADLALYKAK
+KAGRNRTEVAA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

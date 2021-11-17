@@ -4,3 +4,4 @@
 .Ruserdata
 *.html
 shiny/*.html
+jupyter/data/go.owl

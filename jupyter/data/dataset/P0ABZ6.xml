@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-08" modified="2019-06-05" version="116">
+<accession>P0ABZ6</accession>
+<accession>P21202</accession>
+<accession>P75630</accession>
+<accession>Q8KIP6</accession>
+<accession>Q8KMY0</accession>
+<name>SURA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Chaperone SurA</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Peptidyl-prolyl cis-trans isomerase SurA</fullName>
+<shortName>PPIase SurA</shortName>
+<ecNumber>5.2.1.8</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName>Rotamase SurA</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Survival protein A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">surA</name>
+<name type="ordered locus">b0053</name>
+<name type="ordered locus">JW0052</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="unpublished observations" date="1993-01">
+<authorList>
+<person name="Almiron M."/>
+<person name="Tormo A."/>
+<person name="Kolter R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="4767" last="4777">
+<title>Overlap between pdxA and ksgA in the complex pdxA-ksgA-apaG-apaH operon of Escherichia coli K-12.</title>
+<authorList>
+<person name="Roa B.B."/>
+<person name="Connolly D.M."/>
+<person name="Winkler M.E."/>
+</authorList>
+<dbReference type="PubMed" id="2670894"/>
+<dbReference type="DOI" id="10.1128/jb.171.9.4767-4777.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 331-428</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="1998-04" db="EMBL/GenBank/DDBJ databases">
+<title>N-hexane sensitivity of Escherichia coli due to low expression of ostA/imp by insertion of IS2 and identification of the gene product as an outer membrane protein.</title>
+<authorList>
+<person name="Abe S."/>
+<person name="Okutsu T."/>
+<person name="Negishi T."/>
+<person name="Nakajima H."/>
+<person name="Aono R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-32</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="1770" last="1773">
+<title>SurA assists the folding of Escherichia coli outer membrane proteins.</title>
+<authorList>
+<person name="Lazar S.W."/>
+<person name="Kolter R."/>
+</authorList>
+<dbReference type="PubMed" id="8626309"/>
+<dbReference type="DOI" id="10.1128/jb.178.6.1770-1773.1996"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-30</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="278" first="599" last="608">
+<title>Protein identification with N and C-terminal sequence tags in proteome projects.</title>
+<authorList>
+<person name="Wilkins M.R."/>
+<person name="Gasteiger E."/>
+<person name="Tonella L."/>
+<person name="Ou K."/>
+<person name="Tyler M."/>
+<person name="Sanchez J.-C."/>
+<person name="Gooley A.A."/>
+<person name="Walsh B.J."/>
+<person name="Bairoch A."/>
+<person name="Appel R.D."/>
+<person name="Williams K.L."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+<dbReference type="PubMed" id="9600841"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1726"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-24</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="4339" last="4347">
+<title>surA, an Escherichia coli gene essential for survival in stationary phase.</title>
+<authorList>
+<person name="Tormo A."/>
+<person name="Almiron M."/>
+<person name="Kolter R."/>
+</authorList>
+<dbReference type="PubMed" id="2165476"/>
+<dbReference type="DOI" id="10.1128/jb.172.8.4339-4347.1990"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1996" name="Mol. Microbiol." volume="21" first="871" last="884">
+<title>New components of protein folding in extracytoplasmic compartments of Escherichia coli SurA, FkpA and Skp/OmpH.</title>
+<authorList>
+<person name="Missiakas D."/>
+<person name="Betton J.-M."/>
+<person name="Raina S."/>
+</authorList>
+<dbReference type="PubMed" id="8878048"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1996.561412.x"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1996" name="Genes Dev." volume="10" first="3170" last="3182">
+<title>SurA, a periplasmic protein with peptidyl-prolyl isomerase activity, participates in the assembly of outer membrane porins.</title>
+<authorList>
+<person name="Rouviere P.E."/>
+<person name="Gross C.A."/>
+</authorList>
+<dbReference type="PubMed" id="8985185"/>
+<dbReference type="DOI" id="10.1101/gad.10.24.3170"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="285" last="294">
+<title>The SurA periplasmic PPIase lacking its parvulin domains functions in vivo and has chaperone activity.</title>
+<authorList>
+<person name="Behrens S."/>
+<person name="Maier R."/>
+<person name="de Cock H."/>
+<person name="Schmid F.X."/>
+<person name="Gross C.A."/>
+</authorList>
+<dbReference type="PubMed" id="11226178"/>
+<dbReference type="DOI" id="10.1093/emboj/20.1.285"/>
+</citation>
+<scope>DOMAIN FUNCTION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="49316" last="49322">
+<title>The periplasmic molecular chaperone protein SurA binds a peptide motif that is characteristic of integral outer membrane proteins.</title>
+<authorList>
+<person name="Bitto E."/>
+<person name="McKay D.B."/>
+</authorList>
+<dbReference type="PubMed" id="14506253"/>
+<dbReference type="DOI" id="10.1074/jbc.M308853200"/>
+</citation>
+<scope>SUBSTRATE RECOGNITION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="23540" last="23548">
+<title>The periplasmic chaperone SurA exploits two features characteristic of integral outer membrane proteins for selective substrate recognition.</title>
+<authorList>
+<person name="Hennecke G."/>
+<person name="Nolte J."/>
+<person name="Volkmer-Engert R."/>
+<person name="Schneider-Mergener J."/>
+<person name="Behrens S."/>
+</authorList>
+<dbReference type="PubMed" id="15840585"/>
+<dbReference type="DOI" id="10.1074/jbc.M413742200"/>
+</citation>
+<scope>SUBSTRATE RECOGNITION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="7680" last="7686">
+<title>Periplasmic peptidyl prolyl cis-trans isomerases are not essential for viability, but SurA is required for pilus biogenesis in Escherichia coli.</title>
+<authorList>
+<person name="Justice S.S."/>
+<person name="Hunstad D.A."/>
+<person name="Harper J.R."/>
+<person name="Duguay A.R."/>
+<person name="Pinkner J.S."/>
+<person name="Bann J."/>
+<person name="Frieden C."/>
+<person name="Silhavy T.J."/>
+<person name="Hultgren S.J."/>
+</authorList>
+<dbReference type="PubMed" id="16267292"/>
+<dbReference type="DOI" id="10.1128/JB.187.22.7680-7686.2005"/>
+</citation>
+<scope>ROLE IN PILUS BIOGENESIS</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="Structure" volume="10" first="1489" last="1498">
+<title>Crystallographic structure of SurA, a molecular chaperone that facilitates folding of outer membrane porins.</title>
+<authorList>
+<person name="Bitto E."/>
+<person name="McKay D.B."/>
+</authorList>
+<dbReference type="PubMed" id="12429090"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(02)00877-8"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 21-428</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 7">Chaperone involved in the correct folding and assembly of outer membrane proteins, such as OmpA, OmpF and LamB. Recognizes specific patterns of aromatic residues and the orientation of their side chains, which are found more frequently in integral outer membrane proteins. May act in both early periplasmic and late outer membrane-associated steps of protein maturation. Essential for the survival of E.coli in stationary phase. Required for pilus biogenesis.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>[protein]-peptidylproline (omega=180) = [protein]-peptidylproline (omega=0)</text>
+<dbReference type="Rhea" id="RHEA:16237"/>
+<dbReference type="Rhea" id="RHEA-COMP:10747"/>
+<dbReference type="Rhea" id="RHEA-COMP:10748"/>
+<dbReference type="ChEBI" id="CHEBI:83833"/>
+<dbReference type="ChEBI" id="CHEBI:83834"/>
+<dbReference type="EC" id="5.2.1.8"/>
+</reaction>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-558651"/>
+<interactant intactId="EBI-907297">
+<id>P77774</id>
+<label>bamB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Periplasm</location>
+</subcellularLocation>
+<text>Is capable of associating with the outer membrane.</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The PPIase activity resides only in the second parvulin domain. The N-terminal region and the C-terminal tail are necessary and sufficient for the chaperone activity of SurA. The PPIase activity is dispensable for SurA function as a SurA protein with a deletion of the parvulin domains is almost completely functional in vivo. The N-terminal region and the C-terminal tail are also required for porin recognition.</text>
+</comment>
+<dbReference type="EC" id="5.2.1.8"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73164.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96620.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M68521">
+<property type="protein sequence ID" value="AAA24304.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB013134">
+<property type="protein sequence ID" value="BAA34131.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64726">
+<property type="entry name" value="E64726"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414595.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000800457.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1M5Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=21-428"/>
+</dbReference>
+<dbReference type="PDB" id="2PV1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=172-274"/>
+</dbReference>
+<dbReference type="PDB" id="2PV2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A/B/C/D=172-274"/>
+</dbReference>
+<dbReference type="PDB" id="2PV3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.39"/>
+<property type="chains" value="A/B=21-428"/>
+</dbReference>
+<dbReference type="PDBsum" id="1M5Y"/>
+<dbReference type="PDBsum" id="2PV1"/>
+<dbReference type="PDBsum" id="2PV2"/>
+<dbReference type="PDBsum" id="2PV3"/>
+<dbReference type="SMR" id="P0ABZ6"/>
+<dbReference type="BioGrid" id="4261014">
+<property type="interactions" value="418"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35827N"/>
+<dbReference type="IntAct" id="P0ABZ6">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0053"/>
+<dbReference type="SWISS-2DPAGE" id="P0ABZ6"/>
+<dbReference type="EPD" id="P0ABZ6"/>
+<dbReference type="jPOST" id="P0ABZ6"/>
+<dbReference type="PaxDb" id="P0ABZ6"/>
+<dbReference type="PRIDE" id="P0ABZ6"/>
+<dbReference type="EnsemblBacteria" id="AAC73164">
+<property type="protein sequence ID" value="AAC73164"/>
+<property type="gene ID" value="b0053"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96620">
+<property type="protein sequence ID" value="BAB96620"/>
+<property type="gene ID" value="BAB96620"/>
+</dbReference>
+<dbReference type="GeneID" id="944812"/>
+<dbReference type="KEGG" id="ecj:JW0052"/>
+<dbReference type="KEGG" id="eco:b0053"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2230"/>
+<dbReference type="EchoBASE" id="EB0978"/>
+<dbReference type="EcoGene" id="EG10985">
+<property type="gene designation" value="surA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DBD">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0760">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000264337"/>
+<dbReference type="InParanoid" id="P0ABZ6"/>
+<dbReference type="KO" id="K03771"/>
+<dbReference type="PhylomeDB" id="P0ABZ6"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10985-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0052-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10985-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0ABZ6"/>
+<dbReference type="PRO" id="PR:P0ABZ6"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042277">
+<property type="term" value="F:peptide binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003755">
+<property type="term" value="F:peptidyl-prolyl cis-trans isomerase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051085">
+<property type="term" value="P:chaperone cofactor-dependent protein refolding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043165">
+<property type="term" value="P:Gram-negative-bacterium-type cell outer membrane assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060274">
+<property type="term" value="P:maintenance of stationary phase"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050821">
+<property type="term" value="P:protein stabilization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01183">
+<property type="entry name" value="Chaperone_SurA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000297">
+<property type="entry name" value="PPIase_PpiC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023058">
+<property type="entry name" value="PPIase_PpiC_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023034">
+<property type="entry name" value="PPIase_SurA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015391">
+<property type="entry name" value="SurA_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027304">
+<property type="entry name" value="Trigger_fact/SurA_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00639">
+<property type="entry name" value="Rotamase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09312">
+<property type="entry name" value="SurA_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF109998">
+<property type="entry name" value="SSF109998"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01096">
+<property type="entry name" value="PPIC_PPIASE_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50198">
+<property type="entry name" value="PPIC_PPIASE_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0413">Isomerase</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0697">Rotamase</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="6 8 9">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Chaperone SurA" id="PRO_0000025542">
+<location>
+<begin position="21"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="domain" description="PpiC 1">
+<location>
+<begin position="171"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="domain" description="PpiC 2">
+<location>
+<begin position="282"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1." ref="1" evidence="10">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1." ref="1" evidence="10">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1." ref="1" evidence="10">
+<original>G</original>
+<variation>GFG</variation>
+<location>
+<position position="213"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="28"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="39"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="55"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="63"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="93"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="125"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="156"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="173"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="189"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="212"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="225"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="230"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="236"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="241"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="247"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="255"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="264"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="282"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="296"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="300"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="321"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="332"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="335"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="340"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="346"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="351"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="375"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="396"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="423"/>
+<end position="425"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1M5Y"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2PV1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11226178"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16267292"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2165476"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8626309"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8985185"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9600841"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="428" mass="47284" checksum="25F6AD4B903CBD8E" modified="2005-11-08" version="1" precursor="true">
+MKNWKTLLLGIAMIANTSFAAPQVVDKVAAVVNNGVVLESDVDGLMQSVKLNAAQARQQL
+PDDATLRHQIMERLIMDQIILQMGQKMGVKISDEQLDQAIANIAKQNNMTLDQMRSRLAY
+DGLNYNTYRNQIRKEMIISEVRNNEVRRRITILPQEVESLAQQVGNQNDASTELNLSHIL
+IPLPENPTSDQVNEAESQARAIVDQARNGADFGKLAIAHSADQQALNGGQMGWGRIQELP
+GIFAQALSTAKKGDIVGPIRSGVGFHILKVNDLRGESKNISVTEVHARHILLKPSPIMTD
+EQARVKLEQIAADIKSGKTTFAAAAKEFSQDPGSANQGGDLGWATPDIFDPAFRDALTRL
+NKGQMSAPVHSSFGWHLIELLDTRNVDKTDAAQKDRAYRMLMNRKFSEEAASWMQEQRAS
+AYVKILSN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

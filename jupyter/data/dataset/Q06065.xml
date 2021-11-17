@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2019-05-08" version="170">
+<accession>Q06065</accession>
+<name>ATOC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="12">Regulatory protein AtoC</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="12">Acetoacetate metabolism regulatory protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="12">DNA-binding transcriptional regulator AtoC</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="11">Ornithine decarboxylase antizyme</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">atoC</name>
+<name type="synonym" evidence="11">az</name>
+<name type="ordered locus">b2220</name>
+<name type="ordered locus">JW2214</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1994-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Chen C."/>
+<person name="Cooke P.A."/>
+<person name="Rudd K.E."/>
+<person name="Shanley M.S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="7129" last="7133">
+<title>Identification, cloning, and nucleotide sequencing of the ornithine decarboxylase antizyme gene of Escherichia coli.</title>
+<authorList>
+<person name="Canellakis E.S."/>
+<person name="Paterakis A.A."/>
+<person name="Huang S.-C."/>
+<person name="Panagiotidis C.A."/>
+<person name="Kyriakidis D.A."/>
+</authorList>
+<dbReference type="PubMed" id="8346225"/>
+<dbReference type="DOI" id="10.1073/pnas.90.15.7129"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 85-461</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="2096" last="2102">
+<title>Regulation of the ato operon by the atoC gene in Escherichia coli.</title>
+<authorList>
+<person name="Jenkins L.S."/>
+<person name="Nunn W.D."/>
+</authorList>
+<dbReference type="PubMed" id="2883171"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2005" name="Biochim. Biophys. Acta" volume="1725" first="257" last="268">
+<title>Phosphorylation activity of the response regulator of the two-component signal transduction system AtoS-AtoC in E. coli.</title>
+<authorList>
+<person name="Lioliou E.E."/>
+<person name="Mimitou E.P."/>
+<person name="Grigoroudis A.I."/>
+<person name="Panagiotidis C.H."/>
+<person name="Panagiotidis C.A."/>
+<person name="Kyriakidis D.A."/>
+</authorList>
+<dbReference type="PubMed" id="16153782"/>
+<dbReference type="DOI" id="10.1016/j.bbagen.2005.06.019"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT ASP-55 AND HIS-73</scope>
+<scope>MUTAGENESIS OF ASP-55 AND HIS-73</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Biochim. Biophys. Acta" volume="1760" first="896" last="906">
+<title>Involvement of the AtoS-AtoC signal transduction system in poly-(R)-3-hydroxybutyrate biosynthesis in Escherichia coli.</title>
+<authorList>
+<person name="Theodorou M.C."/>
+<person name="Panagiotidis C.A."/>
+<person name="Panagiotidis C.H."/>
+<person name="Pantazaki A.A."/>
+<person name="Kyriakidis D.A."/>
+</authorList>
+<dbReference type="PubMed" id="16564134"/>
+<dbReference type="DOI" id="10.1016/j.bbagen.2006.01.020"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ASP-55 AND HIS-73</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2007" name="Biochim. Biophys. Acta" volume="1770" first="1104" last="1114">
+<title>Spermidine triggering effect to the signal transduction through the AtoS-AtoC/Az two-component system in Escherichia coli.</title>
+<authorList>
+<person name="Theodorou M.C."/>
+<person name="Theodorou E.C."/>
+<person name="Panagiotidis C.A."/>
+<person name="Kyriakidis D.A."/>
+</authorList>
+<dbReference type="PubMed" id="17475408"/>
+<dbReference type="DOI" id="10.1016/j.bbagen.2007.03.009"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="6324" last="6332">
+<title>Interactions of the antizyme AtoC with regulatory elements of the Escherichia coli atoDAEB operon.</title>
+<authorList>
+<person name="Matta M.K."/>
+<person name="Lioliou E.E."/>
+<person name="Panagiotidis C.H."/>
+<person name="Kyriakidis D.A."/>
+<person name="Panagiotidis C.A."/>
+</authorList>
+<dbReference type="PubMed" id="17616594"/>
+<dbReference type="DOI" id="10.1128/JB.00214-07"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="Amino Acids" volume="43" first="833" last="844">
+<title>Involvement of AtoSC two-component system in Escherichia coli flagellar regulon.</title>
+<authorList>
+<person name="Theodorou M.C."/>
+<person name="Theodorou E.C."/>
+<person name="Kyriakidis D.A."/>
+</authorList>
+<dbReference type="PubMed" id="22083893"/>
+<dbReference type="DOI" id="10.1007/s00726-011-1140-7"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 7 8 9 10">Member of the two-component regulatory system AtoS/AtoC. In the presence of acetoacetate, AtoS/AtoC stimulates the expression of the atoDAEB operon, leading to short chain fatty acid catabolism and activation of the poly-(R)-3-hydroxybutyrate (cPHB) biosynthetic pathway. Also induces the operon in response to spermidine (PubMed:2883171, PubMed:16153782, PubMed:16564134, PubMed:17475408). Involved in the regulation of motility and chemotaxis, via transcriptional induction of the flagellar regulon (PubMed:22083893). AtoC acts by binding directly to the promoter region of the target genes (PubMed:17616594). In addition to its role as a transcriptional regulator, functions as a post-translational regulator that inhibits polyamine biosynthesis via regulation of ornithine decarboxylase (ODC) (PubMed:8346225).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="4">Membrane-associated in the presence of AtoS.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">Phosphorylated by AtoS (PubMed:16153782). Contains two phosphorylation sites, which are both involved in the transduction of the acetoacetate signal (PubMed:16153782). Asp-55 is probably the primary phosphorylation site, but either both residues can be phosphorylated independently by AtoS or the phosphate group can be transferred between them (PubMed:16153782).</text>
+</comment>
+<comment type="PTM">
+<text evidence="13">The N-terminus is blocked.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="8">Deletion of the atoSC locus renders cells not motile or responsive against any chemoattractant or repellent independently of the atoSC inducer's presence.</text>
+</comment>
+<comment type="sequence caution" evidence="12">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA23450" version="1"/>
+</conflict>
+<location>
+<position position="92"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="U17902">
+<property type="protein sequence ID" value="AAA60332.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75280.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16016.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L13078">
+<property type="protein sequence ID" value="AAA23450.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64992">
+<property type="entry name" value="B64992"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416724.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000125282.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q06065"/>
+<dbReference type="BioGrid" id="4261974">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9190N"/>
+<dbReference type="IntAct" id="Q06065">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2220"/>
+<dbReference type="jPOST" id="Q06065"/>
+<dbReference type="PaxDb" id="Q06065"/>
+<dbReference type="PRIDE" id="Q06065"/>
+<dbReference type="EnsemblBacteria" id="AAC75280">
+<property type="protein sequence ID" value="AAC75280"/>
+<property type="gene ID" value="b2220"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16016">
+<property type="protein sequence ID" value="BAA16016"/>
+<property type="gene ID" value="BAA16016"/>
+</dbReference>
+<dbReference type="GeneID" id="947444"/>
+<dbReference type="KEGG" id="ecj:JW2214"/>
+<dbReference type="KEGG" id="eco:b2220"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.15"/>
+<dbReference type="EchoBASE" id="EB1619"/>
+<dbReference type="EcoGene" id="EG11668">
+<property type="gene designation" value="atoC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C1W">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2204">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000058489"/>
+<dbReference type="InParanoid" id="Q06065"/>
+<dbReference type="KO" id="K07714"/>
+<dbReference type="PhylomeDB" id="Q06065"/>
+<dbReference type="BioCyc" id="EcoCyc:ATOC-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2214-MONOMER"/>
+<dbReference type="PRO" id="PR:Q06065"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008073">
+<property type="term" value="F:ornithine decarboxylase inhibitor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000160">
+<property type="term" value="P:phosphorelay signal transduction system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010967">
+<property type="term" value="P:regulation of polyamine biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00156">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011006">
+<property type="entry name" value="CheY-like_superfamily"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002197">
+<property type="entry name" value="HTH_Fis"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001789">
+<property type="entry name" value="Sig_transdc_resp-reg_receiver"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002078">
+<property type="entry name" value="Sigma_54_int"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025662">
+<property type="entry name" value="Sigma_54_int_dom_ATP-bd_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025943">
+<property type="entry name" value="Sigma_54_int_dom_ATP-bd_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025944">
+<property type="entry name" value="Sigma_54_int_dom_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02954">
+<property type="entry name" value="HTH_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00072">
+<property type="entry name" value="Response_reg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00158">
+<property type="entry name" value="Sigma54_activat"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01590">
+<property type="entry name" value="HTHFIS"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00448">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52172">
+<property type="entry name" value="SSF52172"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50110">
+<property type="entry name" value="RESPONSE_REGULATORY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00675">
+<property type="entry name" value="SIGMA54_INTERACT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00676">
+<property type="entry name" value="SIGMA54_INTERACT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00688">
+<property type="entry name" value="SIGMA54_INTERACT_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50045">
+<property type="entry name" value="SIGMA54_INTERACT_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0902">Two-component regulatory system</keyword>
+<feature type="chain" description="Regulatory protein AtoC" id="PRO_0000081020">
+<location>
+<begin position="1"/>
+<end position="461"/>
+</location>
+</feature>
+<feature type="domain" description="Response regulatory" evidence="2">
+<location>
+<begin position="6"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="domain" description="Sigma-54 factor interaction" evidence="3">
+<location>
+<begin position="145"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="173"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="236"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="433"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-aspartylphosphate" evidence="2 4">
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphohistidine" evidence="4">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases phosphorylation. Significant decrease in ability to respond to acetoacetate induction. 40% decrease in cPHB accumulation. Cannot respond to acetoacetate induction; when associated with L-73." evidence="4 5">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases phosphorylation. Decrease in ability to respond to acetoacetate induction. 70% decrease in cPHB accumulation. Cannot respond to acetoacetate induction; when associated with G-55." evidence="4 5">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23450." ref="5" evidence="12">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="99"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00169"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00193"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16153782"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16564134"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17475408"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17616594"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22083893"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2883171"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8346225"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8346225"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8346225"/>
+</source>
+</evidence>
+<sequence length="461" mass="52176" checksum="478D5795790E339A" modified="1995-11-01" version="2">
+MTAINRILIVDDEDNVRRMLSTAFALQGFETHCANNGRTALHLFADIHPDVVLMDIRMPE
+MDGIKALKEMRSHETRTPVILMTAYAEVETAVEALRCGAFDYVIKPFDLDELNLIVQRAL
+QLQSMKKEIRHLHQALSTSWQWGHILTNSPAMMDICKDTAKIALSQASVLISGESGTGKE
+LIARAIHYNSRRAKGPFIKVNCAALPESLLESELFGHEKGAFTGAQTLRQGLFERANEGT
+LLLDEIGEMPLVLQAKLLRILQEREFERIGGHQTIKVDIRIIAATNRDLQAMVKEGTFRE
+DLFYRLNVIHLILPPLRDRREDISLLANHFLQKFSSENQRDIIDIDPMAMSLLTAWSWPG
+NIRELSNVIERAVVMNSGPIIFSEDLPPQIRQPVCNAGEVKTAPVGERNLKEEIKRVEKR
+IIMEVLEQQEGNRTRTALMLGISRRALMYKLQEYGIDPADV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

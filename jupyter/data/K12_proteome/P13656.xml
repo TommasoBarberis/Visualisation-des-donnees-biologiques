@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-01-01" modified="2019-05-08" version="159">
+<accession>P13656</accession>
+<accession>Q2M703</accession>
+<name>CHIA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable bifunctional chitinase/lysozyme</fullName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName>Chitinase</fullName>
+<ecNumber>3.2.1.14</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Lysozyme</fullName>
+<ecNumber>3.2.1.17</ecNumber>
+</recommendedName>
+</domain>
+</protein>
+<gene>
+<name type="primary">chiA</name>
+<name type="synonym">yheB</name>
+<name type="ordered locus">b3338</name>
+<name type="ordered locus">JW3300</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="3940" last="3947">
+<title>Cloning, sequencing, and mapping of the bacterioferritin gene (bfr) of Escherichia coli K-12.</title>
+<authorList>
+<person name="Andrews S.C."/>
+<person name="Harrison P.M."/>
+<person name="Guest J.R."/>
+</authorList>
+<dbReference type="PubMed" id="2661540"/>
+<dbReference type="DOI" id="10.1128/jb.171.7.3940-3947.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 874-897</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="J. Bacteriol." volume="181" first="4611" last="4616">
+<title>Functional analysis of the carbohydrate-binding domains of Erwinia chrysanthemi Cel5 (Endoglucanase Z) and an Escherichia coli putative chitinase.</title>
+<authorList>
+<person name="Simpson H.D."/>
+<person name="Barras F."/>
+</authorList>
+<dbReference type="PubMed" id="10419961"/>
+</citation>
+<scope>CHITIN-BINDING PROPERTIES</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="35" first="1506" last="1517">
+<title>The ChiA (YheB) protein of Escherichia coli K-12 is an endochitinase whose gene is negatively controlled by the nucleoid-structuring protein H-NS.</title>
+<authorList>
+<person name="Francetic O."/>
+<person name="Badaut C."/>
+<person name="Rimsky S."/>
+<person name="Pugsley A.P."/>
+</authorList>
+<dbReference type="PubMed" id="10760150"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.01817.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TRANSCRIPTIONAL REGULATION</scope>
+<scope>GENE NAME</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="EMBO J." volume="19" first="6697" last="6703">
+<title>Expression of the endogenous type II secretion pathway in Escherichia coli leads to chitinase secretion.</title>
+<authorList>
+<person name="Francetic O."/>
+<person name="Belin D."/>
+<person name="Badaut C."/>
+<person name="Pugsley A.P."/>
+</authorList>
+<dbReference type="PubMed" id="11118204"/>
+<dbReference type="DOI" id="10.1093/emboj/19.24.6697"/>
+</citation>
+<scope>SECRETION VIA THE GSP SECRETON</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3">Bifunctional enzyme with lysozyme/chitinase activity.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>Random endo-hydrolysis of N-acetyl-beta-D-glucosaminide (1->4)-beta-linkages in chitin and chitodextrins.</text>
+<dbReference type="EC" id="3.2.1.14"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>Hydrolysis of (1->4)-beta-linkages between N-acetylmuramic acid and N-acetyl-D-glucosamine residues in a peptidoglycan and between N-acetyl-D-glucosamine residues in chitodextrins.</text>
+<dbReference type="EC" id="3.2.1.17"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Periplasm</location>
+</subcellularLocation>
+<text>Secreted via the Gsp type II secretion machinery under conditions of derepressed gsp gene expression.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Silenced by the DNA-binding protein H-NS under standard growth conditions.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the glycosyl hydrolase 18 family. Chitinase class II subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.2.1.14"/>
+<dbReference type="EC" id="3.2.1.17"/>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58135.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76363.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77953.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M27176">
+<property type="protein sequence ID" value="AAC13985.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="E65127">
+<property type="entry name" value="E65127"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417797.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000773156.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P13656"/>
+<dbReference type="BioGrid" id="4261016">
+<property type="interactions" value="167"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9276N"/>
+<dbReference type="IntAct" id="P13656">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3338"/>
+<dbReference type="CAZy" id="CBM5">
+<property type="family name" value="Carbohydrate-Binding Module Family 5"/>
+</dbReference>
+<dbReference type="CAZy" id="GH18">
+<property type="family name" value="Glycoside Hydrolase Family 18"/>
+</dbReference>
+<dbReference type="PaxDb" id="P13656"/>
+<dbReference type="PRIDE" id="P13656"/>
+<dbReference type="EnsemblBacteria" id="AAC76363">
+<property type="protein sequence ID" value="AAC76363"/>
+<property type="gene ID" value="b3338"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77953">
+<property type="protein sequence ID" value="BAE77953"/>
+<property type="gene ID" value="BAE77953"/>
+</dbReference>
+<dbReference type="GeneID" id="947837"/>
+<dbReference type="KEGG" id="ecj:JW3300"/>
+<dbReference type="KEGG" id="eco:b3338"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3393"/>
+<dbReference type="EchoBASE" id="EB1219"/>
+<dbReference type="EcoGene" id="EG11237">
+<property type="gene designation" value="chiA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108NNZ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111APV">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125409"/>
+<dbReference type="InParanoid" id="P13656"/>
+<dbReference type="KO" id="K13381"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11237-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3300-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11237-MONOMER"/>
+<dbReference type="PRO" id="PR:P13656"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042597">
+<property type="term" value="C:periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030246">
+<property type="term" value="F:carbohydrate binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008061">
+<property type="term" value="F:chitin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008843">
+<property type="term" value="F:endochitinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003796">
+<property type="term" value="F:lysozyme activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006032">
+<property type="term" value="P:chitin catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000272">
+<property type="term" value="P:polysaccharide catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003610">
+<property type="entry name" value="CBM_fam5/12"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036573">
+<property type="entry name" value="CBM_sf_5/12"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017853">
+<property type="entry name" value="Glycoside_hydrolase_SF"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02839">
+<property type="entry name" value="CBM_5_12"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00495">
+<property type="entry name" value="ChtBD3"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51055">
+<property type="entry name" value="SSF51055"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51445">
+<property type="entry name" value="SSF51445"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0119">Carbohydrate metabolism</keyword>
+<keyword id="KW-0146">Chitin degradation</keyword>
+<keyword id="KW-0147">Chitin-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0326">Glycosidase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-0624">Polysaccharide degradation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="chain" description="Probable bifunctional chitinase/lysozyme" id="PRO_0000011907">
+<location>
+<begin position="25"/>
+<end position="897"/>
+</location>
+</feature>
+<feature type="domain" description="Chitin-binding type-3 1">
+<location>
+<begin position="25"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="domain" description="Chitin-binding type-3 2">
+<location>
+<begin position="128"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="domain" description="Chitin-binding type-3 3">
+<location>
+<begin position="229"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="domain" description="Chitin-binding type-3 4">
+<location>
+<begin position="337"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="domain" description="Chitin-binding type-3 5">
+<location>
+<begin position="459"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="region of interest" description="Catalytic" evidence="1">
+<location>
+<begin position="647"/>
+<end position="897"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="93"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="1">
+<location>
+<position position="700"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="628"/>
+<end position="673"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAC13985." ref="3" evidence="4">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="874"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10760150"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="897" mass="97058" checksum="968D145BA1F954F3" modified="1995-11-01" version="2" precursor="true">
+MKLNIFTKSMIGMGLVCSALPALAMEAWNNQQGGNKYQVIFDGKIYENAWWVSSTNCPGK
+AKANDATNPWRLKRTATAAEISQFGNTLSCEKSGSSSSSNSNTPASNTPANGGSATPAQG
+TVPSNSSVVAWNKQQGGQTWYVVFNGAVYKNAWWVASSNCPGDAKSNDASNPWRYVRAAT
+ATEISETSNPQSCTSAPQPSPDVKPAPDVKPAPDVQPAPADKSNDNYAVVAWKGQEGSST
+WYVIYNGGIYKNAWWVGAANCPGDAKENDASNPWRYVRAATATEISQYGNPGSCSVKPDN
+NGGAVTPVDPTPETPVTPTPDNSEPSTPADSVNDYSLQAWSGQEGSEIYHVIFNGNVYKN
+AWWVGSKDCPRGTSAENSNNPWRLERTATAAELSQYGNPTTCEIDNGGVIVADGFQASKA
+YSADSIVDYNDAHYKTSVDQDAWGFVPGGDNPWKKYEPAKAWSASTVYVKGDRVVVDGQA
+YEALFWTQSDNPALVANQNATGSNSRPWKPLGKAQSYSNEELNNAPQFNPETLYASDTLI
+RFNGVNYISQSKVQKVSPSDSNPWRVFVDWTGTKERVGTPKKAWPKHVYAPYVDFTLNTI
+PDLAALAKNHNVNHFTLAFVVSKDANTCLPTWGTAYGMQNYAQYSKIKALREAGGDVMLS
+IGGANNAPLAASCKNVDDLMQHYYDIVDNLNLKVLDFDIEGTWVADQASIERRNLAVKKV
+QDKWKSEGKDIAIWYTLPILPTGLTPEGMNVLSDAKAKGVELAGVNVMTMDYGNAICQSA
+NTEGQNIHGKCATSAIANLHSQLKGLHPNKSDAEIDAMMGTTPMVGVNDVQGEVFYLSDA
+RLVMQDAQKRNLGMVGIWSIARDLPGGTNLSPEFHGLTKEQAPKYAFSEIFAPFTKQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

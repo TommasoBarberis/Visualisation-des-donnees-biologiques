@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="113">
+<accession>P0A847</accession>
+<accession>P19675</accession>
+<accession>P19676</accession>
+<accession>P78226</accession>
+<accession>Q2MC20</accession>
+<accession>Q47627</accession>
+<name>TGT_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Queuine tRNA-ribosyltransferase</fullName>
+<ecNumber evidence="1 2 3">2.4.2.29</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Guanine insertion enzyme</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">tRNA-guanine transglycosylase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">tgt</name>
+<name type="ordered locus">b0406</name>
+<name type="ordered locus">JW0396</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="2256" last="2264">
+<title>Structure and organization of Escherichia coli genes involved in biosynthesis of the deazaguanine derivative queuine, a nutrient factor for eukaryotes.</title>
+<authorList>
+<person name="Reuter K."/>
+<person name="Slany R."/>
+<person name="Ullrich F."/>
+<person name="Kersten H."/>
+</authorList>
+<dbReference type="PubMed" id="1706703"/>
+<dbReference type="DOI" id="10.1128/jb.173.7.2256-2264.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PATHWAY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="J. Mol. Biol." volume="231" first="489" last="497">
+<title>tRNA-guanine transglycosylase from Escherichia coli. Overexpression, purification and quaternary structure.</title>
+<authorList>
+<person name="Garcia G.A."/>
+<person name="Koch K.A."/>
+<person name="Chong S."/>
+</authorList>
+<dbReference type="PubMed" id="8323579"/>
+<dbReference type="DOI" id="10.1006/jmbi.1993.1296"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-9</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="EMBO J." volume="9" first="3209" last="3216">
+<title>The secD locus of E.coli codes for two membrane proteins required for protein export.</title>
+<authorList>
+<person name="Gardel C."/>
+<person name="Johnson K."/>
+<person name="Jacq A."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="2170107"/>
+</citation>
+<scope>PRELIMINARY NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 141-375</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="EMBO J." volume="9" first="4205" last="4206">
+<authorList>
+<person name="Gardel C."/>
+<person name="Johnson K."/>
+<person name="Jacq A."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="2249673"/>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="804" last="814">
+<title>Genetic and molecular characterization of the Escherichia coli secD operon and its products.</title>
+<authorList>
+<person name="Pogliano K.J."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="7507921"/>
+<dbReference type="DOI" id="10.1128/jb.176.3.804-814.1994"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 281-375</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1994" name="Biochemistry" volume="33" first="7041" last="7046">
+<title>Serine 90 is required for enzymic activity by tRNA-guanine transglycosylase from Escherichia coli.</title>
+<authorList>
+<person name="Reuter K."/>
+<person name="Chong S."/>
+<person name="Ullrich F."/>
+<person name="Kersten H."/>
+<person name="Garcia G.A."/>
+</authorList>
+<dbReference type="PubMed" id="8003468"/>
+<dbReference type="DOI" id="10.1021/bi00189a004"/>
+</citation>
+<scope>MUTAGENESIS OF SER-90</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1995" name="Biochemistry" volume="34" first="3694" last="3701">
+<title>tRNA-guanine transglycosylase from Escherichia coli is a zinc metalloprotein. Site-directed mutagenesis studies to identify the zinc ligands.</title>
+<authorList>
+<person name="Chong S."/>
+<person name="Curnow A.W."/>
+<person name="Huston T.J."/>
+<person name="Garcia G.A."/>
+</authorList>
+<dbReference type="PubMed" id="7893665"/>
+<dbReference type="DOI" id="10.1021/bi00011a026"/>
+</citation>
+<scope>MUTAGENESIS OF ZINC LIGANDS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1997" name="J. Protein Chem." volume="16" first="11" last="17">
+<title>Cysteine 265 is in the active site of, but is not essential for catalysis by tRNA-guanine transglycosylase (TGT) from Escherichia coli.</title>
+<authorList>
+<person name="Garcia G.A."/>
+<person name="Chong S."/>
+</authorList>
+<dbReference type="PubMed" id="9055203"/>
+<dbReference type="DOI" id="10.1023/A:1026334726357"/>
+</citation>
+<scope>ACTIVE SITE CYS-265</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="14123" last="14133">
+<title>tRNA-guanine transglycosylase from Escherichia coli: molecular mechanism and role of aspartate 89.</title>
+<authorList>
+<person name="Kittendorf J.D."/>
+<person name="Barcomb L.M."/>
+<person name="Nonekowski S.T."/>
+<person name="Garcia G.A."/>
+</authorList>
+<dbReference type="PubMed" id="11714265"/>
+<dbReference type="DOI" id="10.1021/bi0110589"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="42369" last="42376">
+<title>An essential role for aspartate 264 in catalysis by tRNA-guanine transglycosylase from Escherichia coli.</title>
+<authorList>
+<person name="Kittendorf J.D."/>
+<person name="Sgraja T."/>
+<person name="Reuter K."/>
+<person name="Klebe G."/>
+<person name="Garcia G.A."/>
+</authorList>
+<dbReference type="PubMed" id="12909636"/>
+<dbReference type="DOI" id="10.1074/jbc.M304323200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3">Catalyzes the base-exchange of a guanine (G) residue with the queuine precursor 7-aminomethyl-7-deazaguanine (PreQ1) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr). Catalysis occurs through a double-displacement mechanism. The nucleophile active site attacks the C1' of nucleotide 34 to detach the guanine base from the RNA, forming a covalent enzyme-RNA intermediate. The proton acceptor active site deprotonates the incoming PreQ1, allowing a nucleophilic attack on the C1' of the ribose to form the product. After dissociation, two additional enzymatic reactions on the tRNA convert PreQ1 to queuine (Q), resulting in the hypermodified nucleoside queuosine (7-(((4,5-cis-dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 2 3">
+<text>7-aminomethyl-7-carbaguanine + guanosine(34) in tRNA = 7-aminomethyl-7-carbaguanosine(34) in tRNA + guanine</text>
+<dbReference type="Rhea" id="RHEA:24104"/>
+<dbReference type="Rhea" id="RHEA-COMP:10341"/>
+<dbReference type="Rhea" id="RHEA-COMP:10342"/>
+<dbReference type="ChEBI" id="CHEBI:16235"/>
+<dbReference type="ChEBI" id="CHEBI:58703"/>
+<dbReference type="ChEBI" id="CHEBI:74269"/>
+<dbReference type="ChEBI" id="CHEBI:82833"/>
+<dbReference type="EC" id="2.4.2.29"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 4">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="1 4">Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="2">0.12 uM for tRNA(Tyr)</KM>
+<KM evidence="2">0.1 uM for guanine</KM>
+<text evidence="2">kcat is 0.00121 sec(-1) with tRNA(Tyr) and guanine as substrates.</text>
+</kinetics>
+</comment>
+<comment type="pathway" evidence="1 9">
+<text>tRNA modification; tRNA-queuosine biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer. Within each dimer, one monomer is responsible for RNA recognition and catalysis, while the other monomer binds to the replacement base PreQ1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the queuine tRNA-ribosyltransferase family.</text>
+</comment>
+<dbReference type="EC" id="2.4.2.29" evidence="1 2 3"/>
+<dbReference type="EMBL" id="M63939">
+<property type="protein sequence ID" value="AAA24667.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73509.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76186.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82664">
+<property type="protein sequence ID" value="AAB40162.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X56175">
+<property type="protein sequence ID" value="CAA39631.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X56175">
+<property type="protein sequence ID" value="CAA39632.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S68715">
+<property type="protein sequence ID" value="AAC60467.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C38530">
+<property type="entry name" value="C38530"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414940.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000667319.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0A847"/>
+<dbReference type="BioGrid" id="4263531">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36020N"/>
+<dbReference type="IntAct" id="P0A847">
+<property type="interactions" value="39"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0406"/>
+<dbReference type="EPD" id="P0A847"/>
+<dbReference type="jPOST" id="P0A847"/>
+<dbReference type="PaxDb" id="P0A847"/>
+<dbReference type="PRIDE" id="P0A847"/>
+<dbReference type="EnsemblBacteria" id="AAC73509">
+<property type="protein sequence ID" value="AAC73509"/>
+<property type="gene ID" value="b0406"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76186">
+<property type="protein sequence ID" value="BAE76186"/>
+<property type="gene ID" value="BAE76186"/>
+</dbReference>
+<dbReference type="GeneID" id="949130"/>
+<dbReference type="KEGG" id="ecj:JW0396"/>
+<dbReference type="KEGG" id="eco:b0406"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1871"/>
+<dbReference type="EchoBASE" id="EB0989"/>
+<dbReference type="EcoGene" id="EG10996">
+<property type="gene designation" value="tgt"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C6U">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0343">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000223473"/>
+<dbReference type="InParanoid" id="P0A847"/>
+<dbReference type="KO" id="K00773"/>
+<dbReference type="PhylomeDB" id="P0A847"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10996-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0396-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10996-MONOMER"/>
+<dbReference type="BRENDA" id="2.4.2.29">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P0A847"/>
+<dbReference type="UniPathway" id="UPA00392"/>
+<dbReference type="PRO" id="PR:P0A847"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008479">
+<property type="term" value="F:queuine tRNA-ribosyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008616">
+<property type="term" value="P:queuosine biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002099">
+<property type="term" value="P:tRNA wobble guanine modification"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0101030">
+<property type="term" value="P:tRNA-guanine transglycosylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.105">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00168">
+<property type="entry name" value="Q_tRNA_Tgt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004803">
+<property type="entry name" value="TGT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036511">
+<property type="entry name" value="TGT-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002616">
+<property type="entry name" value="tRNA_ribo_trans-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01702">
+<property type="entry name" value="TGT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51713">
+<property type="entry name" value="SSF51713"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00430">
+<property type="entry name" value="Q_tRNA_tgt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00449">
+<property type="entry name" value="tgt_general"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0328">Glycosyltransferase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0671">Queuosine biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Queuine tRNA-ribosyltransferase" id="PRO_0000135471">
+<location>
+<begin position="1"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="89"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="region of interest" description="RNA binding" evidence="1">
+<location>
+<begin position="245"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="region of interest" description="RNA binding; important for wobble base 34 recognition" evidence="1">
+<location>
+<begin position="269"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1 7">
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="1 8">
+<location>
+<position position="264"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 10">
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 10">
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1 10">
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; via pros nitrogen" evidence="1">
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via amide nitrogen" evidence="1">
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces catalytic activity by 51%." evidence="2">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of catalytic activity." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<variation>N</variation>
+<variation>Q</variation>
+<variation>K</variation>
+<variation>H</variation>
+<location>
+<position position="264"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces catalytic activity by 88%." evidence="3">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="264"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Significant loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight loss of activity." evidence="4">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="316"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No loss of activity." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="6">
+<original>IL</original>
+<variation>MV</variation>
+<location>
+<begin position="54"/>
+<end position="55"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00168"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11714265"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12909636"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7893665"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8003468"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11714265"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12909636"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1706703"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7893665"/>
+</source>
+</evidence>
+<sequence length="375" mass="42594" checksum="40271CA08D8A8820" modified="2005-06-07" version="1">
+MKFELDTTDGRARRGRLVFDRGVVETPCFMPVGTYGTVKGMTPEEVEATGAQIILGNTFH
+LWLRPGQEIMKLHGDLHDFMQWKGPILTDSGGFQVFSLGDIRKITEQGVHFRNPINGDPI
+FLDPEKSMEIQYDLGSDIVMIFDECTPYPADWDYAKRSMEMSLRWAKRSRERFDSLGNKN
+ALFGIIQGSVYEDLRDISVKGLVDIGFDGYAVGGLAVGEPKADMHRILEHVCPQIPADKP
+RYLMGVGKPEDLVEGVRRGIDMFDCVMPTRNARNGHLFVTDGVVKIRNAKYKSDTGPLDP
+ECDCYTCRNYSRAYLHHLDRCNEILGARLNTIHNLRYYQRLMAGLRKAIEEGKLESFVTD
+FYQRQGREVPPLNVD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

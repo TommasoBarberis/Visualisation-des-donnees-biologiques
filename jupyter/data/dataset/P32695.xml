@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-05-08" version="135">
+<accession>P32695</accession>
+<accession>P76786</accession>
+<accession>Q2M6Q5</accession>
+<name>DUSA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 8">tRNA-dihydrouridine(20/20a) synthase</fullName>
+<ecNumber evidence="1 8">1.3.1.-</ecNumber>
+<ecNumber evidence="1 7 8">1.3.1.91</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1 5">U20-specific dihydrouridine synthase</fullName>
+<shortName evidence="1 5">U20-specific Dus</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1 4">tRNA-dihydrouridine synthase A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 4">dusA</name>
+<name type="synonym">yjbN</name>
+<name type="ordered locus">b4049</name>
+<name type="ordered locus">JW5950</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2013" name="Mol. Cell. Proteomics" volume="12" first="3420" last="3430">
+<title>Deep coverage of the Escherichia coli proteome enables the assessment of false discovery rates in simple proteogenomic experiments.</title>
+<authorList>
+<person name="Krug K."/>
+<person name="Carpy A."/>
+<person name="Behrends G."/>
+<person name="Matic K."/>
+<person name="Soares N.C."/>
+<person name="Macek B."/>
+</authorList>
+<dbReference type="PubMed" id="23908556"/>
+<dbReference type="DOI" id="10.1074/mcp.M113.029165"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 10-19</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="25090" last="25095">
+<title>Identification of the tRNA-dihydrouridine synthase family.</title>
+<authorList>
+<person name="Bishop A.C."/>
+<person name="Xu J."/>
+<person name="Johnson R.C."/>
+<person name="Schimmel P."/>
+<person name="de Crecy-Lagard V."/>
+</authorList>
+<dbReference type="PubMed" id="11983710"/>
+<dbReference type="DOI" id="10.1074/jbc.M203208200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="19593" last="19598">
+<title>Molecular basis of dihydrouridine formation on tRNA.</title>
+<authorList>
+<person name="Yu F."/>
+<person name="Tanaka Y."/>
+<person name="Yamashita K."/>
+<person name="Suzuki T."/>
+<person name="Nakamura A."/>
+<person name="Hirano N."/>
+<person name="Suzuki T."/>
+<person name="Yao M."/>
+<person name="Tanaka I."/>
+</authorList>
+<dbReference type="PubMed" id="22123979"/>
+<dbReference type="DOI" id="10.1073/pnas.1112352108"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF CYS-114 AND LYS-153</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="Proc. Natl. Acad. Sci. U.S.A." volume="112" first="6033" last="6037">
+<title>Major reorientation of tRNA substrates defines specificity of dihydrouridine synthases.</title>
+<authorList>
+<person name="Byrne R.T."/>
+<person name="Jenkins H.T."/>
+<person name="Peters D.T."/>
+<person name="Whelan F."/>
+<person name="Stowell J."/>
+<person name="Aziz N."/>
+<person name="Kasatsky P."/>
+<person name="Rodnina M.V."/>
+<person name="Koonin E.V."/>
+<person name="Konevega A.L."/>
+<person name="Antson A.A."/>
+</authorList>
+<dbReference type="PubMed" id="25902496"/>
+<dbReference type="DOI" id="10.1073/pnas.1500161112"/>
+</citation>
+<scope>DUSA SUBFAMILY SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3 9">Catalyzes the synthesis of 5,6-dihydrouridine (D), a modified base found in the D-loop of most tRNAs, via the reduction of the C5-C6 double bond in target uridines. Specifically modifies U20 and U20a in tRNAs.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 7 8">
+<text>5,6-dihydrouridine(20) in tRNA + NADP(+) = H(+) + NADPH + uridine(20) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:53336"/>
+<dbReference type="Rhea" id="RHEA-COMP:13533"/>
+<dbReference type="Rhea" id="RHEA-COMP:13534"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+<dbReference type="ChEBI" id="CHEBI:65315"/>
+<dbReference type="ChEBI" id="CHEBI:74443"/>
+<dbReference type="EC" id="1.3.1.91"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 7 8">
+<text>5,6-dihydrouridine(20) in tRNA + NAD(+) = H(+) + NADH + uridine(20) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:53340"/>
+<dbReference type="Rhea" id="RHEA-COMP:13533"/>
+<dbReference type="Rhea" id="RHEA-COMP:13534"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+<dbReference type="ChEBI" id="CHEBI:65315"/>
+<dbReference type="ChEBI" id="CHEBI:74443"/>
+<dbReference type="EC" id="1.3.1.91"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 8">
+<text>5,6-dihydrouridine(20a) in tRNA + NADP(+) = H(+) + NADPH + uridine(20a) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:53344"/>
+<dbReference type="Rhea" id="RHEA-COMP:13535"/>
+<dbReference type="Rhea" id="RHEA-COMP:13536"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+<dbReference type="ChEBI" id="CHEBI:65315"/>
+<dbReference type="ChEBI" id="CHEBI:74443"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 8">
+<text>5,6-dihydrouridine(20a) in tRNA + NAD(+) = H(+) + NADH + uridine(20a) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:53348"/>
+<dbReference type="Rhea" id="RHEA-COMP:13535"/>
+<dbReference type="Rhea" id="RHEA-COMP:13536"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+<dbReference type="ChEBI" id="CHEBI:65315"/>
+<dbReference type="ChEBI" id="CHEBI:74443"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>FMN</name>
+<dbReference type="ChEBI" id="CHEBI:58210"/>
+</cofactor>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 3">A dusA dusB dusC triple mutant exhibits a complete lack of 5,6-dihydrouridine modification in cellular tRNA, whereas each single mutant exhibits a partial reduction, compared to wild type (PubMed:11983710). Cells lacking this gene can introduce D modification at neither 20 or 20a in tRNA (PubMed:22123979).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2">DusB and DusC together account for about half of the 5,6-dihydrouridine modification observed in wild-type cellular tRNA, and DusA accounts for the other half. These three enzymes seem to act site-specifically on the tRNA D-loop and contain nonredundant catalytic functions in vivo.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the Dus family. DusA subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="6">The U21 position mentioned in PubMed:11983710 corresponds in fact to U20 with the conventional numbering.</text>
+</comment>
+<dbReference type="EC" id="1.3.1.-" evidence="1 8"/>
+<dbReference type="EC" id="1.3.1.91" evidence="1 7 8"/>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43143.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77019.3"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78051.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418473.3">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001298868.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P32695"/>
+<dbReference type="BioGrid" id="4259608">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4049"/>
+<dbReference type="jPOST" id="P32695"/>
+<dbReference type="PaxDb" id="P32695"/>
+<dbReference type="PRIDE" id="P32695"/>
+<dbReference type="EnsemblBacteria" id="AAC77019">
+<property type="protein sequence ID" value="AAC77019"/>
+<property type="gene ID" value="b4049"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78051">
+<property type="protein sequence ID" value="BAE78051"/>
+<property type="gene ID" value="BAE78051"/>
+</dbReference>
+<dbReference type="GeneID" id="948558"/>
+<dbReference type="KEGG" id="ecj:JW5950"/>
+<dbReference type="KEGG" id="eco:b4049"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4167"/>
+<dbReference type="EchoBASE" id="EB1876"/>
+<dbReference type="EcoGene" id="EG11932">
+<property type="gene designation" value="dusA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CEH">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0042">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000259834"/>
+<dbReference type="InParanoid" id="P32695"/>
+<dbReference type="KO" id="K05539"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11932-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5950-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11932-MONOMER"/>
+<dbReference type="PRO" id="PR:P32695"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050660">
+<property type="term" value="F:flavin adenine dinucleotide binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010181">
+<property type="term" value="F:FMN binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017150">
+<property type="term" value="F:tRNA dihydrouridine synthase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0102264">
+<property type="term" value="F:tRNA-dihydrouridine20 synthase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="CDD" id="cd02801">
+<property type="entry name" value="DUS_like_FMN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.70">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02041">
+<property type="entry name" value="DusA_subfam"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013785">
+<property type="entry name" value="Aldolase_TIM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035587">
+<property type="entry name" value="DUS-like_FMN-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004653">
+<property type="entry name" value="DusA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001269">
+<property type="entry name" value="tRNA_hU_synthase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018517">
+<property type="entry name" value="tRNA_hU_synthase_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR42907">
+<property type="entry name" value="PTHR42907"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01207">
+<property type="entry name" value="Dus"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006621">
+<property type="entry name" value="Dus"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00742">
+<property type="entry name" value="yjbN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01136">
+<property type="entry name" value="UPF0034"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0288">FMN</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="chain" description="tRNA-dihydrouridine(20/20a) synthase" id="PRO_0000162063">
+<location>
+<begin position="1"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="1">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="1">
+<location>
+<begin position="226"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="1">
+<location>
+<begin position="248"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="1">
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="1">
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="1">
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="1">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="site" description="Interacts with tRNA" evidence="1">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="site" description="Interacts with tRNA; defines subfamily-specific binding signature" evidence="1">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="site" description="Interacts with tRNA" evidence="1">
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="site" description="Interacts with tRNA; defines subfamily-specific binding signature" evidence="1">
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="site" description="Interacts with tRNA; defines subfamily-specific binding signature" evidence="1">
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of enzymatic activity; when associated with Ala-153." evidence="3">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of the ability to bind FMN. Loss of enzymatic activity; when associated with Ala-114." evidence="3">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02041"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11983710"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22123979"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11983710"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="25902496"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11983710"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22123979"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25902496"/>
+</source>
+</evidence>
+<sequence length="345" mass="38468" checksum="1FD687C1D0B764D3" modified="2014-03-19" version="4">
+MHGNSEMQKINQTSAMPEKTDVHWSGRFSVAPMLDWTDRHCRYFLRLLSRNTLLYTEMVT
+TGAIIHGKGDYLAYSEEEHPVALQLGGSDPAALAQCAKLAEARGYDEINLNVGCPSDRVQ
+NGMFGACLMGNAQLVADCVKAMRDVVSIPVTVKTRIGIDDQDSYEFLCDFINTVSGKGEC
+EMFIIHARKAWLSGLSPKENREIPPLDYPRVYQLKRDFPHLTMSINGGIKSLEEAKAHLQ
+HMDGVMVGREAYQNPGILAAVDREIFGSSDTDADPVAVVRAMYPYIERELSQGTYLGHIT
+RHMLGLFQGIPGARQWRRYLSENAHKAGADINVLEHALKLVADKR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

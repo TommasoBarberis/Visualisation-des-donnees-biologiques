@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-07-03" version="113">
+<accession>P0A7G2</accession>
+<accession>P09170</accession>
+<accession>Q2M943</accession>
+<name>RBFA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="14">30S ribosome-binding factor</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="13">Protein P15B</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2 15">Ribosome-binding factor A</fullName>
+<shortName evidence="14">RbfA</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 14">rbfA</name>
+<name type="synonym" evidence="13">P15B</name>
+<name type="synonym">yhbB</name>
+<name type="ordered locus">b3167</name>
+<name type="ordered locus">JW3136</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="10803" last="10816">
+<title>The existence of two genes between infB and rpsO in the Escherichia coli genome: DNA sequencing and S1 nuclease mapping.</title>
+<authorList>
+<person name="Sands J.F."/>
+<person name="Regnier P."/>
+<person name="Cummings H.S."/>
+<person name="Grunberg-Manago M."/>
+<person name="Hershey J.W.B."/>
+</authorList>
+<dbReference type="PubMed" id="2849753"/>
+<dbReference type="DOI" id="10.1093/nar/16.22.10803"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>INDUCTION</scope>
+<scope>OPERON</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="1996-09" db="UniProtKB">
+<authorList>
+<person name="Frutiger S."/>
+<person name="Hughes G.J."/>
+<person name="Tonella L."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-12</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1995" name="Genes Dev." volume="9" first="626" last="637">
+<title>Suppression of a cold-sensitive mutation in 16S rRNA by overexpression of a novel ribosome-binding factor, RbfA.</title>
+<authorList>
+<person name="Dammel C.S."/>
+<person name="Noller H.F."/>
+</authorList>
+<dbReference type="PubMed" id="7535280"/>
+<dbReference type="DOI" id="10.1101/gad.9.5.626"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+<scope>FUNCTION IN SUPPRESSION OF AN RRNA COLD-SENSITIVE MUTATION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>CSH142</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1996" name="Mol. Microbiol." volume="21" first="1207" last="1218">
+<title>RbfA, a 30S ribosomal binding factor, is a cold-shock protein whose absence triggers the cold-shock response.</title>
+<authorList>
+<person name="Jones P.G."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="8898389"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1996.tb02582.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION BY COLD-SHOCK</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>CSH142</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="73" last="82">
+<title>RimM and RbfA are essential for efficient processing of 16S rRNA in Escherichia coli.</title>
+<authorList>
+<person name="Bylund G.O."/>
+<person name="Wipemo L.C."/>
+<person name="Lundberg L.A."/>
+<person name="Wikstroem P.M."/>
+</authorList>
+<dbReference type="PubMed" id="9422595"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>MW100</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Mol. Microbiol." volume="48" first="1005" last="1016">
+<title>Suppression of defective ribosome assembly in a rbfA deletion mutant by overexpression of Era, an essential GTPase in Escherichia coli.</title>
+<authorList>
+<person name="Inoue K."/>
+<person name="Alsina J."/>
+<person name="Chen J."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="12753192"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2003.03475.x"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>SUPPRESSION BY ERA</scope>
+<source>
+<strain>K12 / ATCC 35607 / JM83</strain>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="332" first="575" last="584">
+<title>The role of RbfA in 16S rRNA processing and cell growth at low temperature in Escherichia coli.</title>
+<authorList>
+<person name="Xia B."/>
+<person name="Ke H."/>
+<person name="Shinde U."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="12963368"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(03)00953-7"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF 109-MET--ASP-133</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="J. Mol. Microbiol. Biotechnol." volume="11" first="41" last="52">
+<title>Era and RbfA have overlapping function in ribosome biogenesis in Escherichia coli.</title>
+<authorList>
+<person name="Inoue K."/>
+<person name="Chen J."/>
+<person name="Tan Q."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="16825789"/>
+<dbReference type="DOI" id="10.1159/000092818"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / ATCC 35607 / JM83</strain>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="EMBO J." volume="30" first="104" last="114">
+<title>RsgA releases RbfA from 30S ribosome during a late stage of ribosome biosynthesis.</title>
+<authorList>
+<person name="Goto S."/>
+<person name="Kato S."/>
+<person name="Kimura T."/>
+<person name="Muto A."/>
+<person name="Himeno H."/>
+</authorList>
+<dbReference type="PubMed" id="21102555"/>
+<dbReference type="DOI" id="10.1038/emboj.2010.291"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ARG-10; PRO-30; GLY-77; GLY-84; ASP-100; 111-ASN--ASP-133; ASP-120 AND 122-GLU--ASP-133</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2015" name="RNA" volume="21" first="1203" last="1216">
+<title>The C-terminal helix in the YjeQ zinc-finger domain catalyzes the release of RbfA during 30S ribosome subunit assembly.</title>
+<authorList>
+<person name="Jeganathan A."/>
+<person name="Razi A."/>
+<person name="Thurlow B."/>
+<person name="Ortega J."/>
+</authorList>
+<dbReference type="PubMed" id="25904134"/>
+<dbReference type="DOI" id="10.1261/rna.049171.114"/>
+</citation>
+<scope>RELEASE FROM THE 30S RIBOSOMAL SUBUNIT</scope>
+</reference>
+<reference key="13" evidence="1">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="327" first="521" last="536">
+<title>Solution NMR structure of ribosome-binding factor A (RbfA), a cold-shock adaptation protein from Escherichia coli.</title>
+<authorList>
+<person name="Huang Y.J."/>
+<person name="Swapna G.V."/>
+<person name="Rajan P.K."/>
+<person name="Ke H."/>
+<person name="Xia B."/>
+<person name="Shukla K."/>
+<person name="Inouye M."/>
+<person name="Montelione G.T."/>
+</authorList>
+<dbReference type="PubMed" id="12628255"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(03)00061-5"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-108</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF 109-MET--ASP-133</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 5 6 7 9 10 11">One of at least 4 proteins (Era, RbfA, RimM and RsgA/YjeQ) that assist in the late maturation steps of the functional core of the 30S subunit. Essential for efficient processing of pre-16S rRNA (PubMed:9422595, PubMed:12963368, PubMed:12628255). Probably part of the 30S subunit prior to or during the final step in the processing of 16S free 30S ribosomal subunits. Probably interacts with the 5'-terminal helix region of 16S rRNA (PubMed:7535280). Has affinity for free ribosomal 30S subunits but not for 70S ribosomes (PubMed:7535280, PubMed:12963368). Overexpression suppresses a cold-sensitive C23U 16S rRNA mutation (PubMed:7535280). Overexpression decreases the lag time following cold-shock by about half, leading to faster adaptation and increased protein synthesis (PubMed:8898389). Overexpression also partially suppresses a rimM deletion mutant and partially rescues its 16S rRNA processing deficiency (PubMed:9422595). Its function overlaps that of Era in ribosome biogenesis (PubMed:16825789). A number of RbfA mutants suppress RsgA/YjeQ deletions, in all cases less RbfA is bound to the 30S ribosome (PubMed:21102555). Released from 30S ribosomes by RsgA; stimulates the ribosome-associated GTPase activity of RsgA (PubMed:21102555).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 7">Monomer (PubMed:12628255). Binds 30S but not 50S or 70S ribosomes (PubMed:7535280, PubMed:12963368, PubMed:25904134). Binds equally well to mature and immature 30S ribosomes, but is more stably associated with immature 30S ribosomes (PubMed:21102555).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 5 9">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="5 9">About 1/3 associates with free 30S ribosomal subunits at 37 degrees Celsius, 6 hours after a 15 degrees Celsius cold-shock about 4-fold more protein is associated with 30S ribosomes (PubMed:7535280, PubMed:12963368).</text>
+</comment>
+<comment type="induction">
+<text evidence="8 10">Fairly strongly expressed in maxicells, part of the metY operon that extends to pnp (at protein level) (PubMed:2849753). Induced by cold shock (42 to 15 degrees Celsius) (at protein level) (PubMed:8898389).</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The C-terminus (residues 109-133) is required for stable association with the 30S ribosomal subunit in vitro.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5 7 9 10 11">Severe growth defect at 26 and 30 degrees Celsius, with poor growth at 37 and 42 degrees; has decreased amounts of 70S ribosomes and polysomes and increased amounts of 30S and 50S subunits (PubMed:7535280). Results in a constitutive induction of the cold-shock response; increased cold-shock and ribosomal protein synthesis continues in the presence of general translation inhibition (PubMed:8898389). Less efficient processing of 5' end of 16S rRNA, increased levels of precursor 17S rRNA; effect is more pronounced in cold-shocked cells (PubMed:9422595, PubMed:12963368). Both phenotypes are partially suppressed by overexpression of Era and completely suppressed by overexpression of Era-delta 'Ala-40-Gly-49' mutation (PubMed:12753192). Double rbfA-rsgA deletion mutants have the same phenotype as single mutants (PubMed:21102555).</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the RbfA family.</text>
+</comment>
+<dbReference type="EMBL" id="X13270">
+<property type="protein sequence ID" value="CAA31634.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X13775">
+<property type="protein sequence ID" value="CAA32020.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57970.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76201.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77213.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S01915">
+<property type="entry name" value="Q9EC15"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417636.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001040205.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1KKG">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-108"/>
+</dbReference>
+<dbReference type="PDBsum" id="1KKG"/>
+<dbReference type="SMR" id="P0A7G2"/>
+<dbReference type="BioGrid" id="4262435">
+<property type="interactions" value="190"/>
+</dbReference>
+<dbReference type="IntAct" id="P0A7G2">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3167"/>
+<dbReference type="SWISS-2DPAGE" id="P0A7G2"/>
+<dbReference type="jPOST" id="P0A7G2"/>
+<dbReference type="PaxDb" id="P0A7G2"/>
+<dbReference type="PRIDE" id="P0A7G2"/>
+<dbReference type="EnsemblBacteria" id="AAC76201">
+<property type="protein sequence ID" value="AAC76201"/>
+<property type="gene ID" value="b3167"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77213">
+<property type="protein sequence ID" value="BAE77213"/>
+<property type="gene ID" value="BAE77213"/>
+</dbReference>
+<dbReference type="GeneID" id="947685"/>
+<dbReference type="KEGG" id="ecj:JW3136"/>
+<dbReference type="KEGG" id="eco:b3167"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3563"/>
+<dbReference type="EchoBASE" id="EB1165"/>
+<dbReference type="EcoGene" id="EG11178">
+<property type="gene designation" value="rbfA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105KG7">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0858">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000218325"/>
+<dbReference type="InParanoid" id="P0A7G2"/>
+<dbReference type="KO" id="K02834"/>
+<dbReference type="PhylomeDB" id="P0A7G2"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11178-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3136-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A7G2"/>
+<dbReference type="PRO" id="PR:P0A7G2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043024">
+<property type="term" value="F:ribosomal small subunit binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030490">
+<property type="term" value="P:maturation of SSU-rRNA"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009409">
+<property type="term" value="P:response to cold"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.300.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00003">
+<property type="entry name" value="RbfA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015946">
+<property type="entry name" value="KH_dom-like_a/b"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000238">
+<property type="entry name" value="RbfA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023799">
+<property type="entry name" value="RbfA_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020053">
+<property type="entry name" value="Ribosome-bd_factorA_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR33515">
+<property type="entry name" value="PTHR33515"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02033">
+<property type="entry name" value="RBFA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF89919">
+<property type="entry name" value="SSF89919"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00082">
+<property type="entry name" value="rbfA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01319">
+<property type="entry name" value="RBFA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0690">Ribosome biogenesis</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="initiator methionine" description="Removed" evidence="12">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="30S ribosome-binding factor" id="PRO_0000102658">
+<location>
+<begin position="2"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for stable 30S ribosomal association in vitro" evidence="5">
+<location>
+<begin position="109"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complements small colony and slow growth phenotype of the deletion mutant at 15 degrees Celsius, growth is not quite wild-type. Restores pre-16S rRNA processing but does not suppress cold-sensitive C23U 16S rRNA mutation." evidence="3 5">
+<location>
+<begin position="109"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>LVTSVVKHDEERRVNPDDSKED</original>
+<variation>GDQRGQT</variation>
+<location>
+<begin position="112"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses growth defects and restores maturation of the 30S subunit of an rsgA deletion. Decreased affinity for 30S ribosomes." evidence="7">
+<location>
+<begin position="122"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="8"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="25"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="30"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="41"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="45"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="49"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="58"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="62"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="76"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="104"/>
+<end position="106"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1KKG"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00003"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12628255"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12753192"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12963368"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16825789"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21102555"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2849753"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7535280"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8898389"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9422595"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2849753"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7535280"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9422595"/>
+</source>
+</evidence>
+<sequence length="133" mass="15154" checksum="C8EE4FBFD8C01F08" modified="2007-01-23" version="2">
+MAKEFGRPQRVAQEMQKEIALILQREIKDPRLGMMTTVSGVEMSRDLAYAKVYVTFLNDK
+DEDAVKAGIKALQEASGFIRSLLGKAMRLRIVPELTFFYDNSLVEGMRMSNLVTSVVKHD
+EERRVNPDDSKED
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

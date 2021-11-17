@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-07-03" version="102">
+<accession>P0A832</accession>
+<accession>P32052</accession>
+<accession>P77011</accession>
+<name>SSRP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">SsrA-binding protein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Small protein B</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">smpB</name>
+<name type="synonym">smqB</name>
+<name type="ordered locus">b2620</name>
+<name type="ordered locus">JW2601</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="9223" last="9227">
+<title>A tRNA-like structure is present in 10Sa RNA, a small stable RNA from Escherichia coli.</title>
+<authorList>
+<person name="Komine Y."/>
+<person name="Kitabatake M."/>
+<person name="Yokogawa T."/>
+<person name="Nishikawa K."/>
+<person name="Inokuchi H."/>
+</authorList>
+<dbReference type="PubMed" id="7524073"/>
+<dbReference type="DOI" id="10.1073/pnas.91.20.9223"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="3271" last="3272">
+<title>Two new genes located between 2758 and 2761 kilobase pairs on the Escherichia coli genome.</title>
+<authorList>
+<person name="Chauhan A.K."/>
+<person name="Miczak A."/>
+<person name="Apirion D."/>
+</authorList>
+<dbReference type="PubMed" id="2045357"/>
+<dbReference type="DOI" id="10.1128/jb.173.11.3271-3272.1991"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-16</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="EMBO J." volume="18" first="3793" last="3799">
+<title>SmpB, a unique RNA-binding protein essential for the peptide-tagging activity of SsrA (tmRNA).</title>
+<authorList>
+<person name="Karzai A.W."/>
+<person name="Susskind M.M."/>
+<person name="Sauer R.T."/>
+</authorList>
+<dbReference type="PubMed" id="10393194"/>
+<dbReference type="DOI" id="10.1093/emboj/18.13.3793"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-8</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>RNA-BINDING</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="FEBS Lett." volume="514" first="74" last="77">
+<title>The role of SmpB protein in trans-translation.</title>
+<authorList>
+<person name="Shimizu Y."/>
+<person name="Ueda T."/>
+</authorList>
+<dbReference type="PubMed" id="11904185"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(02)02333-5"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Nucleic Acids Res." volume="30" first="1620" last="1629">
+<title>SmpB functions in various steps of trans-translation.</title>
+<authorList>
+<person name="Hanawa-Suetsugu K."/>
+<person name="Takagi M."/>
+<person name="Inokuchi H."/>
+<person name="Himeno H."/>
+<person name="Muto A."/>
+</authorList>
+<dbReference type="PubMed" id="11917023"/>
+<dbReference type="DOI" id="10.1093/nar/30.7.1620"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>TMRNA-BINDING</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="25978" last="25985">
+<title>Pre-binding of small protein B to a stalled ribosome triggers trans-translation.</title>
+<authorList>
+<person name="Hallier M."/>
+<person name="Ivanova N."/>
+<person name="Rametti A."/>
+<person name="Pavlov M."/>
+<person name="Ehrenberg M."/>
+<person name="Felden B."/>
+</authorList>
+<dbReference type="PubMed" id="15069072"/>
+<dbReference type="DOI" id="10.1074/jbc.M314086200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="2316" last="2321">
+<title>A previously uncharacterized role for small protein B (SmpB) in transfer messenger RNA-mediated trans-translation.</title>
+<authorList>
+<person name="Sundermeier T.R."/>
+<person name="Dulebohn D.P."/>
+<person name="Cho H.J."/>
+<person name="Karzai A.W."/>
+</authorList>
+<dbReference type="PubMed" id="15699355"/>
+<dbReference type="DOI" id="10.1073/pnas.0409694102"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TMRNA-BINDING</scope>
+<scope>MUTAGENESIS OF 138-ASP--ARG-139; 138-LYS-ARG-139; ARG-139; 140-SER--ARG-160; 152-ALA--ARG-160; 154-ILE-MET-155; 154-ILE--ARG-160; 155-MET--ARG-160 AND 156-LYS--ARG-160</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2010" name="RNA" volume="16" first="980" last="990">
+<title>Role of the C-terminal tail of SmpB in the early stage of trans-translation.</title>
+<authorList>
+<person name="Kurita D."/>
+<person name="Muto A."/>
+<person name="Himeno H."/>
+</authorList>
+<dbReference type="PubMed" id="20348441"/>
+<dbReference type="DOI" id="10.1261/rna.1916610"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF TRP-147</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="EMBO J." volume="29" first="3819" last="3825">
+<title>Visualizing the transfer-messenger RNA as the ribosome resumes translation.</title>
+<authorList>
+<person name="Fu J."/>
+<person name="Hashem Y."/>
+<person name="Wower I."/>
+<person name="Lei J."/>
+<person name="Liao H.Y."/>
+<person name="Zwieb C."/>
+<person name="Wower J."/>
+<person name="Frank J."/>
+</authorList>
+<dbReference type="PubMed" id="20940705"/>
+<dbReference type="DOI" id="10.1038/emboj.2010.255"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MODEL IN COMPLEX WITH TMRNA AND 70S RIBOSOMES</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Nature" volume="485" first="526" last="529">
+<title>The complex of tmRNA-SmpB and EF-G on translocating ribosomes.</title>
+<authorList>
+<person name="Ramrath D.J."/>
+<person name="Yamamoto H."/>
+<person name="Rother K."/>
+<person name="Wittek D."/>
+<person name="Pech M."/>
+<person name="Mielke T."/>
+<person name="Loerke J."/>
+<person name="Scheerer P."/>
+<person name="Ivanov P."/>
+<person name="Teraoka Y."/>
+<person name="Shpanchenko O."/>
+<person name="Nierhaus K.H."/>
+<person name="Spahn C.M."/>
+</authorList>
+<dbReference type="PubMed" id="22622583"/>
+<dbReference type="DOI" id="10.1038/nature11006"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MODEL IN COMPLEX WITH TMRNA AND 70S RIBOSOMES</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="J. Antimicrob. Chemother." volume="68" first="2477" last="2481">
+<title>Trans-translation mediates tolerance to multiple antibiotics and stresses in Escherichia coli.</title>
+<authorList>
+<person name="Li J."/>
+<person name="Ji L."/>
+<person name="Shi W."/>
+<person name="Xie J."/>
+<person name="Zhang Y."/>
+</authorList>
+<dbReference type="PubMed" id="23812681"/>
+<dbReference type="DOI" id="10.1093/jac/dkt231"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5 6 7 9 10 11 12">Required for rescue of stalled ribosomes mediated by trans-translation. Binds to tmRNA RNA (also known as SsrA or 10Sa RNA, 363 nucleotides in this organism), required for stable binding of tmRNA to ribosomes (PubMed:10393194, PubMed:11904185, PubMed:11917023). tmRNA and SmpB together mimic tRNA shape, replacing the anticodon stem-loop with SmpB (Probable). tmRNA is encoded by the ssrA gene; the 2 termini fold to resemble tRNA(Ala) and it encodes a 'tag peptide', a short internal open reading frame. Able to recruit charged tmRNA to ribosomes (PubMed:15069072). Does not play a role in transcription, processing or Ala-aminoacylation of tmRNA (PubMed:10393194). Other studies have shown it stimulates aminoacylation of tmRNA (PubMed:11917023, PubMed:11904185). May protect tmRNA from degradation (PubMed:11917023). Binds to tmRNA that cannot be aminoacylated (tmRNA G3A), does not bind to tmRNA mutations near the tRNA-like termini (tmRNA G19C, A334U); other tmRNA mutations that block trans-translation still bind SmpB (PubMed:11917023). With tmRNA may play a role in bacterial persistence (PubMed:23812681). During trans-translation Ala-aminoacylated transfer-messenger RNA acts like a tRNA, entering the A-site of stalled ribosomes, displacing the stalled mRNA. The ribosome then switches to translate the ORF on the tmRNA, the nascent peptide is terminated with the 'tag peptide' encoded by the tmRNA and targeted for degradation. The ribosome is freed to recommence translation, which seems to be the essential function of trans-translation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 4 5 6 9 10">Binds tmRNA (PubMed:10393194, PubMed:11904185, PubMed:11917023, PubMed:15699355, PubMed:20940705, PubMed:22622583). The SmpB-tmRNA complex binds to stalled ribosomes (PubMed:10393194, PubMed:11917023, PubMed:15699355, PubMed:20940705, PubMed:22622583).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 4 5">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="1 2 4 5 6 9 10">The tmRNA-SmpB complex associates with stalled ribosomes (PubMed:10393194, PubMed:11917023, PubMed:15699355, PubMed:20940705, PubMed:22622583). SmpB associates with ribosomes even in the absence of tmRNA (PubMed:15069072).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 4 5 11">No visible phenotype during growth on solid medium at 16-42 degrees Celsius on rich or minimal media, no peptide-tagging of proteins translated from mRNA lacking a stop codon by tmRNA, i.e. no trans-translation (PubMed:10393194, PubMed:11917023, PubMed:15069072). 4-8 fold increased susceptibility to a number of antibiotics (norfloxacin, gentamicin, trimethoprim, tetracycline and streptomycin but not ampicillin), very significantly reduced production of persister cells (PubMed:23812681). A number of bacteriophage development defects (PubMed:10393194).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="12 13">Although the Fu et al., electron microscopy paper indicates this protein came from E.coli its sequence maps to T.thermophilus (PubMed:20940705). The same situation holds for Ramrath et al., (PubMed:22622583).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the SmpB family.</text>
+</comment>
+<dbReference type="EMBL" id="D12501">
+<property type="protein sequence ID" value="BAA02062.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U36840">
+<property type="protein sequence ID" value="AAA79790.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75669.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16505.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JS0701">
+<property type="entry name" value="JS0701"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417110.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000162574.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="6Q97">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.90"/>
+<property type="chains" value="5=14-158"/>
+</dbReference>
+<dbReference type="PDBsum" id="6Q97"/>
+<dbReference type="SMR" id="P0A832"/>
+<dbReference type="BioGrid" id="4260987">
+<property type="interactions" value="42"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47871N"/>
+<dbReference type="IntAct" id="P0A832">
+<property type="interactions" value="32"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2620"/>
+<dbReference type="jPOST" id="P0A832"/>
+<dbReference type="PaxDb" id="P0A832"/>
+<dbReference type="PRIDE" id="P0A832"/>
+<dbReference type="EnsemblBacteria" id="AAC75669">
+<property type="protein sequence ID" value="AAC75669"/>
+<property type="gene ID" value="b2620"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16505">
+<property type="protein sequence ID" value="BAA16505"/>
+<property type="gene ID" value="BAA16505"/>
+</dbReference>
+<dbReference type="GeneID" id="947296"/>
+<dbReference type="KEGG" id="ecj:JW2601"/>
+<dbReference type="KEGG" id="eco:b2620"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4119"/>
+<dbReference type="EchoBASE" id="EB1730"/>
+<dbReference type="EcoGene" id="EG11782">
+<property type="gene designation" value="smpB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108UH4">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0691">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000009628"/>
+<dbReference type="InParanoid" id="P0A832"/>
+<dbReference type="KO" id="K03664"/>
+<dbReference type="PhylomeDB" id="P0A832"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11782-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2601-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A832"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070929">
+<property type="term" value="P:trans-translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070930">
+<property type="term" value="P:trans-translation-dependent protein tagging"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd09294">
+<property type="entry name" value="SmpB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.280.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00023">
+<property type="entry name" value="SmpB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023620">
+<property type="entry name" value="SmpB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000037">
+<property type="entry name" value="SsrA-bd_prot"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020081">
+<property type="entry name" value="SsrA-bd_prot_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30308">
+<property type="entry name" value="PTHR30308"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01668">
+<property type="entry name" value="SmpB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF74982">
+<property type="entry name" value="SSF74982"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00086">
+<property type="entry name" value="smpB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01317">
+<property type="entry name" value="SSRP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<feature type="initiator methionine" description="Removed" evidence="2 8">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="SsrA-binding protein" id="PRO_0000102944">
+<location>
+<begin position="2"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of protein tagging by trans-translation, binds tmRNA normally, binds ribosomes normally." evidence="6">
+<original>DKR</original>
+<variation>AAA</variation>
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About half loss of protein tagging by trans-translation, binds tmRNA normally, binds ribosomes normally." evidence="6">
+<original>KR</original>
+<variation>AA</variation>
+<location>
+<begin position="138"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="About half loss of protein tagging by trans-translation, binds tmRNA normally, binds ribosomes normally." evidence="6">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of protein tagging by trans-translation, binds tmRNA normally, binds ribosomes normally." evidence="6">
+<location>
+<begin position="140"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="70% loss of tagging by trans-translation, binds tmRNA normally." evidence="7">
+<original>W</original>
+<variation>C</variation>
+<variation>D</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="97% loss of tagging by trans-translation, binds tmRNA normally, altered binding of the tmRNA-SmpB complex in the ribosomes A-site." evidence="7">
+<original>W</original>
+<variation>K</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of protein tagging by trans-translation, binds ribosomes normally." evidence="6">
+<location>
+<begin position="152"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of protein tagging by trans-translation, binds tmRNA normally." evidence="6">
+<location>
+<begin position="154"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased protein tagging by trans-translation, binds ribosomes normally." evidence="6">
+<original>IM</original>
+<variation>AA</variation>
+<location>
+<begin position="154"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of protein tagging by trans-translation, binds tmRNA and ribosomes normally." evidence="6">
+<original>IM</original>
+<variation>DE</variation>
+<location>
+<begin position="154"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on protein tagging by trans-translation." evidence="6">
+<original>IM</original>
+<variation>LI</variation>
+<variation>RK</variation>
+<variation>QQ</variation>
+<location>
+<begin position="154"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly increased protein tagging by trans-translation, binds ribosomes normally." evidence="6">
+<location>
+<begin position="155"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on protein tagging by trans-translation, binds ribosomes normally." evidence="6">
+<location>
+<begin position="156"/>
+<end position="160"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00023"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10393194"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11904185"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11917023"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15069072"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15699355"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20348441"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2045357"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20940705"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22622583"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23812681"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="20940705"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22622583"/>
+</source>
+</evidence>
+<sequence length="160" mass="18269" checksum="F7E45A16540EA300" modified="2007-01-23" version="2">
+MTKKKAHKPGSATIALNKRARHEYFIEEEFEAGLALQGWEVKSLRAGKANISDSYVLLRD
+GEAFLFGANITPMAVASTHVVCDPTRTRKLLLNQRELDSLYGRVNREGYTVVALSLYWKN
+AWCKVKIGVAKGKKQHDKRSDIKEREWQVDKARIMKNAHR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

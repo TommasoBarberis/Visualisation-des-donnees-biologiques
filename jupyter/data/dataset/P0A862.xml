@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="125">
+<accession>P0A862</accession>
+<accession>P37901</accession>
+<accession>P57669</accession>
+<accession>P76047</accession>
+<accession>P77786</accession>
+<name>TPX_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="6 15">Thiol peroxidase</fullName>
+<shortName evidence="6">Tpx</shortName>
+<ecNumber evidence="6 7">1.11.1.15</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Peroxiredoxin tpx</fullName>
+<shortName evidence="6">Prx</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="16">Scavengase p20</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="6">Thioredoxin peroxidase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">tpx</name>
+<name type="synonym">yzzJ</name>
+<name type="ordered locus">b1324</name>
+<name type="ordered locus">JW1317</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="28635" last="28641">
+<title>Thioredoxin-linked 'thiol peroxidase' from periplasmic space of Escherichia coli.</title>
+<authorList>
+<person name="Cha M.-K."/>
+<person name="Kim H.-K."/>
+<person name="Kim I.-H."/>
+</authorList>
+<dbReference type="PubMed" id="7499381"/>
+<dbReference type="DOI" id="10.1074/jbc.270.48.28635"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Biochem. Biophys. Res. Commun." volume="233" first="848" last="852">
+<title>Bacterial scavengase p20 is structurally and functionally related to peroxiredoxins.</title>
+<authorList>
+<person name="Zhou Y."/>
+<person name="Wan X.Y."/>
+<person name="Wang H.L."/>
+<person name="Yan Z.Y."/>
+<person name="Hou Y.D."/>
+<person name="Jin D.Y."/>
+</authorList>
+<dbReference type="PubMed" id="9168946"/>
+<dbReference type="DOI" id="10.1006/bbrc.1997.6564"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="1994-09" db="UniProtKB">
+<authorList>
+<person name="Pasquali C."/>
+<person name="Sanchez J.-C."/>
+<person name="Ravier F."/>
+<person name="Golaz O."/>
+<person name="Hughes G.J."/>
+<person name="Frutiger S."/>
+<person name="Paquet N."/>
+<person name="Wilkins M."/>
+<person name="Appel R.D."/>
+<person name="Bairoch A."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-19</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-16</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="9203" last="9211">
+<title>Catalytic mechanism of thiol peroxidase from Escherichia coli. Sulfenic acid formation and overoxidation of essential CYS61.</title>
+<authorList>
+<person name="Baker L.M."/>
+<person name="Poole L.B."/>
+</authorList>
+<dbReference type="PubMed" id="12514184"/>
+<dbReference type="DOI" id="10.1074/jbc.M209888200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>ACTIVE SITE</scope>
+<scope>MUTAGENESIS OF CYS-61; CYS-82 AND CYS-95</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="8769" last="8778">
+<title>Escherichia coli periplasmic thiol peroxidase acts as lipid hydroperoxide peroxidase and the principal antioxidative function during anaerobic growth.</title>
+<authorList>
+<person name="Cha M.K."/>
+<person name="Kim W.C."/>
+<person name="Lim C.J."/>
+<person name="Kim K."/>
+<person name="Kim I.H."/>
+</authorList>
+<dbReference type="PubMed" id="14676195"/>
+<dbReference type="DOI" id="10.1074/jbc.M312388200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="FEMS Microbiol. Lett." volume="289" first="41" last="45">
+<title>Subcellular localization and in vivo oxidation-reduction kinetics of thiol peroxidase in Escherichia coli.</title>
+<authorList>
+<person name="Tao K."/>
+</authorList>
+<dbReference type="PubMed" id="19054092"/>
+<dbReference type="DOI" id="10.1111/j.1574-6968.2008.01372.x"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="49478" last="49486">
+<title>Crystal structure of Escherichia coli thiol peroxidase in the oxidized state: insights into intramolecular disulfide formation and substrate binding in atypical 2-Cys peroxiredoxins.</title>
+<authorList>
+<person name="Choi J."/>
+<person name="Choi S."/>
+<person name="Choi J."/>
+<person name="Cha M.K."/>
+<person name="Kim I.H."/>
+<person name="Shin W."/>
+</authorList>
+<dbReference type="PubMed" id="14506251"/>
+<dbReference type="DOI" id="10.1074/jbc.M309015200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS)</scope>
+<scope>DISULFIDE BOND</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="J. Mol. Biol." volume="393" first="867" last="881">
+<title>Structural changes common to catalysis in the Tpx peroxiredoxin subfamily.</title>
+<authorList>
+<person name="Hall A."/>
+<person name="Sankaran B."/>
+<person name="Poole L.B."/>
+<person name="Karplus P.A."/>
+</authorList>
+<dbReference type="PubMed" id="19699750"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2009.08.040"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS)</scope>
+<scope>DISULFIDE BOND</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Acta Crystallogr. F" volume="68" first="522" last="526">
+<title>The structure of an orthorhombic crystal form of a 'forced reduced' thiol peroxidase reveals lattice formation aided by the presence of the affinity tag.</title>
+<authorList>
+<person name="Beckham K.S."/>
+<person name="Byron O."/>
+<person name="Roe A.J."/>
+<person name="Gabrielsen M."/>
+</authorList>
+<dbReference type="PubMed" id="22691780"/>
+<dbReference type="DOI" id="10.1107/S1744309112011487"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.97 ANGSTROMS) OF 1-168</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7 9">Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides. Has a preference for alkyl hydroperoxides and acts as lipid peroxidase to inhibit bacterial membrane oxidation. Acts as principal antioxidant during anaerobic growth.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="6 7">
+<text>[protein]-dithiol + a hydroperoxide = [protein]-disulfide + an alcohol + H2O</text>
+<dbReference type="Rhea" id="RHEA:10008"/>
+<dbReference type="Rhea" id="RHEA-COMP:10593"/>
+<dbReference type="Rhea" id="RHEA-COMP:10594"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:29950"/>
+<dbReference type="ChEBI" id="CHEBI:30879"/>
+<dbReference type="ChEBI" id="CHEBI:35924"/>
+<dbReference type="ChEBI" id="CHEBI:50058"/>
+<dbReference type="EC" id="1.11.1.15"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="7">1730 uM for H(2)O(2)</KM>
+<KM evidence="7">9.1 uM for cumene hydroperoxide</KM>
+<KM evidence="7">25.5 uM for Trx1 (using H(2)O(2) as substrate)</KM>
+<KM evidence="7">22.5 uM for Trx1 (using cumene hydroperoxide as substrate)</KM>
+<text evidence="7">kcat is 76.0 sec(-1) with H(2)O(2) as substrate and 70.1 sec(-1) with cumene hydroperoxide as substrate.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="6 11">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-369411"/>
+<interactant intactId="EBI-9129402">
+<id>P0A8E1</id>
+<label>ycfP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Periplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="10">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="10">Forms a mixed disulfide with cytoplasmic thioredoxin (trx1).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="6 18">The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this atypical 2-Cys peroxiredoxin, C(R) is present in the same subunit to form an intramolecular disulfide. The disulfide is subsequently reduced by thioredoxin.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6 17">Belongs to the peroxiredoxin family. Tpx subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.11.1.15" evidence="6 7"/>
+<dbReference type="EMBL" id="U33213">
+<property type="protein sequence ID" value="AAC43517.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U93212">
+<property type="protein sequence ID" value="AAC45284.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74406.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA14906.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JC5504">
+<property type="entry name" value="JC5504"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415840.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000084387.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1QXH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=2-168"/>
+</dbReference>
+<dbReference type="PDB" id="3HVS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=2-168"/>
+</dbReference>
+<dbReference type="PDB" id="3HVV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-168"/>
+</dbReference>
+<dbReference type="PDB" id="3HVX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="A/B/C/D=2-168"/>
+</dbReference>
+<dbReference type="PDB" id="3I43">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=2-168"/>
+</dbReference>
+<dbReference type="PDB" id="4AF2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A=1-168"/>
+</dbReference>
+<dbReference type="PDBsum" id="1QXH"/>
+<dbReference type="PDBsum" id="3HVS"/>
+<dbReference type="PDBsum" id="3HVV"/>
+<dbReference type="PDBsum" id="3HVX"/>
+<dbReference type="PDBsum" id="3I43"/>
+<dbReference type="PDBsum" id="4AF2"/>
+<dbReference type="SMR" id="P0A862"/>
+<dbReference type="BioGrid" id="4260151">
+<property type="interactions" value="139"/>
+</dbReference>
+<dbReference type="BioGrid" id="850247">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31857N"/>
+<dbReference type="IntAct" id="P0A862">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1324"/>
+<dbReference type="PeroxiBase" id="6007">
+<property type="entry name" value="EcoTPx"/>
+</dbReference>
+<dbReference type="SWISS-2DPAGE" id="P0A862"/>
+<dbReference type="EPD" id="P0A862"/>
+<dbReference type="jPOST" id="P0A862"/>
+<dbReference type="PaxDb" id="P0A862"/>
+<dbReference type="PRIDE" id="P0A862"/>
+<dbReference type="EnsemblBacteria" id="AAC74406">
+<property type="protein sequence ID" value="AAC74406"/>
+<property type="gene ID" value="b1324"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA14906">
+<property type="protein sequence ID" value="BAA14906"/>
+<property type="gene ID" value="BAA14906"/>
+</dbReference>
+<dbReference type="GeneID" id="945880"/>
+<dbReference type="KEGG" id="ecj:JW1317"/>
+<dbReference type="KEGG" id="eco:b1324"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.954"/>
+<dbReference type="EchoBASE" id="EB2538"/>
+<dbReference type="EcoGene" id="EG12672">
+<property type="gene designation" value="tpx"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108V1J">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2077">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000022345"/>
+<dbReference type="InParanoid" id="P0A862"/>
+<dbReference type="KO" id="K11065"/>
+<dbReference type="PhylomeDB" id="P0A862"/>
+<dbReference type="BioCyc" id="EcoCyc:G6660-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1317-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6660-MONOMER"/>
+<dbReference type="BRENDA" id="1.11.1.7">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A862"/>
+<dbReference type="PRO" id="PR:P0A862"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042597">
+<property type="term" value="C:periplasmic space"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032843">
+<property type="term" value="F:hydroperoxide reductase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008379">
+<property type="term" value="F:thioredoxin peroxidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045454">
+<property type="term" value="P:cell redox homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034599">
+<property type="term" value="P:cellular response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd03014">
+<property type="entry name" value="PRX_Atyp2cys"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00269">
+<property type="entry name" value="Tpx"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013740">
+<property type="entry name" value="Redoxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036249">
+<property type="entry name" value="Thioredoxin-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013766">
+<property type="entry name" value="Thioredoxin_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002065">
+<property type="entry name" value="TPX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018219">
+<property type="entry name" value="Tpx_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08534">
+<property type="entry name" value="Redoxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52833">
+<property type="entry name" value="SSF52833"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51352">
+<property type="entry name" value="THIOREDOXIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01265">
+<property type="entry name" value="TPX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0049">Antioxidant</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-0575">Peroxidase</keyword>
+<keyword id="KW-0676">Redox-active center</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="13 14">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Thiol peroxidase" id="PRO_0000187877">
+<location>
+<begin position="2"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="domain" description="Thioredoxin" evidence="6">
+<location>
+<begin position="19"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="active site" description="Cysteine sulfenic acid (-SOH) intermediate" evidence="6 7">
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Redox-active" evidence="1 2 5 6 8 11">
+<location>
+<begin position="61"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes catalytic activity." evidence="7">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces catalytic activity by 28%." evidence="7">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces catalytic activity by 80%." evidence="7">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC43517." ref="1" evidence="17">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="3"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="10"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="37"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="40"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="46"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="61"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="72"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="75"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="88"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="102"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="112"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="126"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="133"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="142"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="159"/>
+<end position="164"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QXH"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HVS"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HVV"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HVX"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3I43"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00269"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12514184"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14506251"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14676195"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19054092"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19699750"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7499381"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source ref="6"/>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7499381"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9168946"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12514184"/>
+</source>
+</evidence>
+<sequence length="168" mass="17835" checksum="F95F39094A07DBB2" modified="2007-01-23" version="2">
+MSQTVHFQGNPVTVANSIPQAGSKAQTFTLVAKDLSDVTLGQFAGKRKVLNIFPSIDTGV
+CAASVRKFNQLATEIDNTVVLCISADLPFAQSRFCGAEGLNNVITLSTFRNAEFLQAYGV
+AIADGPLKGLAARAVVVIDENDNVIFSQLVDEITTEPDYEAALAVLKA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

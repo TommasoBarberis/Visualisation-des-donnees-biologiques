@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2019-05-08" version="118">
+<accession>P52141</accession>
+<name>YFJZ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Antitoxin YfjZ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yfjZ</name>
+<name type="ordered locus">b2645</name>
+<name type="ordered locus">JW2626</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2017" name="Toxins" volume="9">
+<title>Interaction of type IV toxin/antitoxin systems in cryptic prophages of Escherichia coli K-12.</title>
+<authorList>
+<person name="Wen Z."/>
+<person name="Wang P."/>
+<person name="Sun C."/>
+<person name="Guo Y."/>
+<person name="Wang X."/>
+</authorList>
+<dbReference type="PubMed" id="28257056"/>
+<dbReference type="DOI" id="10.3390/toxins9030077"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2007-07" db="PDB data bank">
+<title>Crystal structure of a hypothetical protein JW2626 from E. coli.</title>
+<authorList>
+<consortium name="RIKEN structural genomics initiative (RSGI)"/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS)</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2009-02" db="PDB data bank">
+<title>NMR solution structure of E.coli hypothetical protein YfjZ.</title>
+<authorList>
+<consortium name="Northeast structural genomics consortium (NESG)"/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Antitoxin component of a type IV toxin-antitoxin (TA) system. Antitoxin that counteracts the effect of cognate toxin YpjF (PubMed:28257056). Also counteracts the effect of non-cognate toxins CbtA and YfkI (PubMed:28257056).</text>
+</comment>
+<comment type="induction">
+<text evidence="2">Expressed in mid-log phase at considerably lower levels than antitoxin relB.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">Single deletion has no effect on expression of cognate toxin ypjF i.e. the probable operon is not autoregulatory (PubMed:28257056). Single deletion leads to increased biofilm formation, deletion of 3 type IV antitoxin genes (cbeA, yafW, yfjZ) has no effect on cell growth (PubMed:28257056).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="4">Encoded in prophage CP4-57.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the CbeA/YafW/YfjZ antitoxin family.</text>
+</comment>
+<dbReference type="EMBL" id="U36840">
+<property type="protein sequence ID" value="AAA79813.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75693.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16513.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="T08656">
+<property type="entry name" value="T08656"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417132.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000072690.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2EA9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-105"/>
+</dbReference>
+<dbReference type="PDB" id="2JN7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-105"/>
+</dbReference>
+<dbReference type="PDBsum" id="2EA9"/>
+<dbReference type="PDBsum" id="2JN7"/>
+<dbReference type="SMR" id="P52141"/>
+<dbReference type="BioGrid" id="4262252">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="P52141">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2645"/>
+<dbReference type="PaxDb" id="P52141"/>
+<dbReference type="PRIDE" id="P52141"/>
+<dbReference type="EnsemblBacteria" id="AAC75693">
+<property type="protein sequence ID" value="AAC75693"/>
+<property type="gene ID" value="b2645"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16513">
+<property type="protein sequence ID" value="BAA16513"/>
+<property type="gene ID" value="BAA16513"/>
+</dbReference>
+<dbReference type="GeneID" id="947123"/>
+<dbReference type="KEGG" id="ecj:JW2626"/>
+<dbReference type="KEGG" id="eco:b2645"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4093"/>
+<dbReference type="EchoBASE" id="EB3004"/>
+<dbReference type="EcoGene" id="EG13212">
+<property type="gene designation" value="yfjZ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105MAW">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111V4B">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000290944"/>
+<dbReference type="KO" id="K18838"/>
+<dbReference type="PhylomeDB" id="P52141"/>
+<dbReference type="BioCyc" id="EcoCyc:G7380-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2626-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P52141"/>
+<dbReference type="PRO" id="PR:P52141"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051495">
+<property type="term" value="P:positive regulation of cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009320">
+<property type="entry name" value="Antitoxin_CbeA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038025">
+<property type="entry name" value="CbeA_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06154">
+<property type="entry name" value="CbeA_antitoxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF143737">
+<property type="entry name" value="SSF143737"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<feature type="chain" description="Antitoxin YfjZ" id="PRO_0000169285">
+<location>
+<begin position="1"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="12"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="26"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="31"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="34"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="75"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="83"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="93"/>
+<end position="102"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EA9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28257056"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28257056"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="105" mass="11737" checksum="3E3838D48C7A527D" modified="1996-10-01" version="1">
+MSNTTWGLQRDITPRLGARLVQEGNQLHYLADRASITGKFSDAECPKLDVVFPHFISQIE
+SMLTTGELNPRHAQCVTLYHNGFTCEADTLGSCGYVYIAVYPTQR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

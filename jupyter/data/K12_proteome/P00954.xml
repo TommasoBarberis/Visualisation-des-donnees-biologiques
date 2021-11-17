@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="159">
+<accession>P00954</accession>
+<accession>Q2M749</accession>
+<name>SYW_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Tryptophan--tRNA ligase</fullName>
+<ecNumber evidence="1 2">6.1.1.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Tryptophanyl-tRNA synthetase</fullName>
+<shortName evidence="1">TrpRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">trpS</name>
+<name type="ordered locus">b3384</name>
+<name type="ordered locus">JW3347</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="6132" last="6136">
+<title>The nucleotide sequence of the structural gene for Escherichia coli tryptophanyl-tRNA synthetase.</title>
+<authorList>
+<person name="Hall C.V."/>
+<person name="van Cleemput M."/>
+<person name="Muench K.H."/>
+<person name="Yanofsky C."/>
+</authorList>
+<dbReference type="PubMed" id="7042706"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Mol. Gen. Genet." volume="247" first="546" last="554">
+<title>Characterization of three genes in the dam-containing operon of Escherichia coli.</title>
+<authorList>
+<person name="Lyngstadaas A."/>
+<person name="Lobner-Olesen A."/>
+<person name="Boye E."/>
+</authorList>
+<dbReference type="PubMed" id="7603433"/>
+<dbReference type="DOI" id="10.1007/BF00290345"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="Biochemistry" volume="35" first="32" last="40">
+<title>Escherichia coli tryptophanyl-tRNA synthetase mutants selected for tryptophan auxotrophy implicate the dimer interface in optimizing amino acid binding.</title>
+<authorList>
+<person name="Sever S."/>
+<person name="Rogers K."/>
+<person name="Rogers M.J."/>
+<person name="Carter C. Jr."/>
+<person name="Soell D."/>
+</authorList>
+<dbReference type="PubMed" id="8555191"/>
+<dbReference type="DOI" id="10.1021/bi952103d"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>MUTANTS</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1977" name="FEBS Lett." volume="82" first="348" last="350">
+<title>Sequence homologies between the tryptophanyl tRNA synthetases of Bacillus stearothermophilus and Escherichia coli.</title>
+<authorList>
+<person name="Winter G.P."/>
+<person name="Hartley B.S."/>
+<person name="McLachlan A.D."/>
+<person name="Lee M."/>
+<person name="Muench K.H."/>
+</authorList>
+<dbReference type="PubMed" id="334569"/>
+<dbReference type="DOI" id="10.1016/0014-5793(77)80618-2"/>
+</citation>
+<scope>CONFIRMS PROTEIN SEQUENCE BY AMINO ACID ANALYSIS</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1981" name="J. Bacteriol." volume="148" first="941" last="949">
+<title>Cloning and characterization of the gene for Escherichia coli tryptophanyl-transfer ribonucleic acid synthetase.</title>
+<authorList>
+<person name="Hall C.V."/>
+<person name="Yanofsky C."/>
+</authorList>
+<dbReference type="PubMed" id="6171561"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-11 AND 152-171</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="32535" last="32542">
+<title>Metabolism of D-aminoacyl-tRNAs in Escherichia coli and Saccharomyces cerevisiae cells.</title>
+<authorList>
+<person name="Soutourina J."/>
+<person name="Plateau P."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="10918062"/>
+<dbReference type="DOI" id="10.1074/jbc.M005166200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 2">Catalyzes the attachment of tryptophan to tRNA(Trp). Amino acylates tRNA(Trp) with both L- and D-tryptophan, although D-tryptophan is a poor substrate (PubMed:10918062).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 2">
+<text>ATP + L-tryptophan + tRNA(Trp) = AMP + diphosphate + H(+) + L-tryptophanyl-tRNA(Trp)</text>
+<dbReference type="Rhea" id="RHEA:24080"/>
+<dbReference type="Rhea" id="RHEA-COMP:9671"/>
+<dbReference type="Rhea" id="RHEA-COMP:9705"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57912"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78535"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.2"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.2" evidence="1 2"/>
+<dbReference type="EMBL" id="V00371">
+<property type="protein sequence ID" value="CAA23670.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z19601">
+<property type="protein sequence ID" value="CAA79669.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U38647">
+<property type="protein sequence ID" value="AAA92300.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58181.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76409.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77907.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C65133">
+<property type="entry name" value="YWEC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417843.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000165552.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5V0I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-334"/>
+</dbReference>
+<dbReference type="PDBsum" id="5V0I"/>
+<dbReference type="SMR" id="P00954"/>
+<dbReference type="BioGrid" id="4259293">
+<property type="interactions" value="179"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11042N"/>
+<dbReference type="IntAct" id="P00954">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3384"/>
+<dbReference type="EPD" id="P00954"/>
+<dbReference type="jPOST" id="P00954"/>
+<dbReference type="PaxDb" id="P00954"/>
+<dbReference type="PRIDE" id="P00954"/>
+<dbReference type="EnsemblBacteria" id="AAC76409">
+<property type="protein sequence ID" value="AAC76409"/>
+<property type="gene ID" value="b3384"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77907">
+<property type="protein sequence ID" value="BAE77907"/>
+<property type="gene ID" value="BAE77907"/>
+</dbReference>
+<dbReference type="GeneID" id="947894"/>
+<dbReference type="KEGG" id="ecj:JW3347"/>
+<dbReference type="KEGG" id="eco:b3384"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3346"/>
+<dbReference type="EchoBASE" id="EB1023"/>
+<dbReference type="EcoGene" id="EG11030">
+<property type="gene designation" value="trpS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C31">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0180">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000059940"/>
+<dbReference type="InParanoid" id="P00954"/>
+<dbReference type="KO" id="K01867"/>
+<dbReference type="PhylomeDB" id="P00954"/>
+<dbReference type="BioCyc" id="EcoCyc:TRPS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3347-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:TRPS-MONOMER"/>
+<dbReference type="SABIO-RK" id="P00954"/>
+<dbReference type="PRO" id="PR:P00954"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004830">
+<property type="term" value="F:tryptophan-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006436">
+<property type="term" value="P:tryptophanyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00806">
+<property type="entry name" value="TrpRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00140_B">
+<property type="entry name" value="Trp_tRNA_synth_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002305">
+<property type="entry name" value="aa-tRNA-synth_Ic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002306">
+<property type="entry name" value="Trp-tRNA-ligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024109">
+<property type="entry name" value="Trp-tRNA-ligase_bac-type"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00579">
+<property type="entry name" value="tRNA-synt_1b"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01039">
+<property type="entry name" value="TRNASYNTHTRP"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00233">
+<property type="entry name" value="trpS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Tryptophan--tRNA ligase" id="PRO_0000136628">
+<location>
+<begin position="1"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="11"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="19"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="195"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;HIGH&quot; region" evidence="1">
+<location>
+<begin position="12"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;KMSKS&quot; region" evidence="1">
+<location>
+<begin position="195"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="binding site" description="L-tryptophan" evidence="1">
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via amide nitrogen and carbonyl oxygen" evidence="1">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS567C; reduced activity, thermolabile.">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="60"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS10330; reduced activity.">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS9969; no effect in activity.">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS9969; reduced activity.">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS42C; reduced activity.">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS271C; activity largely reduced.">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TRPS4040; reduced activity.">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA23670 and 2; CAA79669." ref="1 2" evidence="3">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA23670 and 2; CAA79669." ref="1 2" evidence="3">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="326"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA23670, 2; CAA79669 and 3; AAA92300." ref="1 2 3" evidence="3">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00140"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10918062"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="334" mass="37438" checksum="CBAC73ABB8406026" modified="2003-08-29" version="3">
+MTKPIVFSGAQPSGELTIGNYMGALRQWVNMQDDYHCIYCIVDQHAITVRQDAQKLRKAT
+LDTLALYLACGIDPEKSTIFVQSHVPEHAQLGWALNCYTYFGELSRMTQFKDKSARYAEN
+INAGLFDYPVLMAADILLYQTNLVPVGEDQKQHLELSRDIAQRFNALYGEIFKVPEPFIP
+KSGARVMSLLEPTKKMSKSDDNRNNVIGLLEDPKSVVKKIKRAVTDSDEPPVVRYDVQNK
+AGVSNLLDILSAVTGQSIPELEKQFEGKMYGHLKGEVADAVSGMLTELQERYHRFRNDEA
+FLQQVMKDGAEKASAHASRTLKAVYEAIGFVAKP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

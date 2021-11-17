@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="160">
+<accession>P07330</accession>
+<accession>P78070</accession>
+<name>CHEB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 14">Protein-glutamate methylesterase/protein-glutamine glutaminase</fullName>
+<ecNumber evidence="2 4 8 9">3.1.1.61</ecNumber>
+<ecNumber evidence="2 10 11">3.5.1.44</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="14">Chemotaxis response regulator protein-glutamate methylesterase/glutamine deamidase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="14">Methyl-accepting chemotaxis proteins-specific methylesterase/deamidase</fullName>
+<shortName evidence="14">MCP-specific methylesterase/deamidase</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 13">cheB</name>
+<name type="ordered locus">b1883</name>
+<name type="ordered locus">JW1872</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Bacteriol." volume="165" first="161" last="166">
+<title>Nucleotide sequence corresponding to five chemotaxis genes in Escherichia coli.</title>
+<authorList>
+<person name="Mutoh N."/>
+<person name="Simon M.I."/>
+</authorList>
+<dbReference type="PubMed" id="3510184"/>
+<dbReference type="DOI" id="10.1128/jb.165.1.161-166.1986"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1977" name="J. Bacteriol." volume="130" first="1317" last="1325">
+<title>Identification of polypeptides necessary for chemotaxis in Escherichia coli.</title>
+<authorList>
+<person name="Silverman M."/>
+<person name="Simon M."/>
+</authorList>
+<dbReference type="PubMed" id="324984"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+<scope>GENE NAME</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1978" name="J. Bacteriol." volume="135" first="45" last="53">
+<title>Complementation analysis and deletion mapping of Escherichia coli mutants defective in chemotaxis.</title>
+<authorList>
+<person name="Parkinson J.S."/>
+</authorList>
+<dbReference type="PubMed" id="353036"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1978" name="Proc. Natl. Acad. Sci. U.S.A." volume="75" first="3659" last="3663">
+<title>A protein methylesterase involved in bacterial sensing.</title>
+<authorList>
+<person name="Stock J.B."/>
+<person name="Koshland D.E. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="358191"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1979" name="Proc. Natl. Acad. Sci. U.S.A." volume="76" first="5544" last="5548">
+<title>Attractants and repellents control demethylation of methylated chemotaxis proteins in Escherichia coli.</title>
+<authorList>
+<person name="Toews M.L."/>
+<person name="Goy M.F."/>
+<person name="Springer M.S."/>
+<person name="Adler J."/>
+</authorList>
+<dbReference type="PubMed" id="392505"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="5050" last="5055">
+<title>Multiple covalent modifications of Trg, a sensory transducer of Escherichia coli.</title>
+<authorList>
+<person name="Kehry M.R."/>
+<person name="Engstrom P."/>
+<person name="Dahlquist F.W."/>
+<person name="Hazelbauer G.L."/>
+</authorList>
+<dbReference type="PubMed" id="6300110"/>
+</citation>
+<scope>FUNCTION AS A DEAMIDASE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="3599" last="3603">
+<title>Enzymatic deamidation of methyl-accepting chemotaxis proteins in Escherichia coli catalyzed by the cheB gene product.</title>
+<authorList>
+<person name="Kehry M.R."/>
+<person name="Bond M.W."/>
+<person name="Hunkapiller M.W."/>
+<person name="Dahlquist F.W."/>
+</authorList>
+<dbReference type="PubMed" id="6304723"/>
+</citation>
+<scope>FUNCTION AS A DEAMIDASE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1988" name="Cell" volume="53" first="79" last="87">
+<title>Phosphorylation of three proteins in the signaling pathway of bacterial chemotaxis.</title>
+<authorList>
+<person name="Hess J.F."/>
+<person name="Oosawa K."/>
+<person name="Kaplan N."/>
+<person name="Simon M.I."/>
+</authorList>
+<dbReference type="PubMed" id="3280143"/>
+<dbReference type="DOI" id="10.1016/0092-8674(88)90489-8"/>
+</citation>
+<scope>PHOSPHORYLATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="3388" last="3399">
+<title>Mutations that affect control of the methylesterase activity of CheB, a component of the chemotaxis adaptation system in Escherichia coli.</title>
+<authorList>
+<person name="Stewart R.C."/>
+<person name="Roth A.F."/>
+<person name="Dahlquist F.W."/>
+</authorList>
+<dbReference type="PubMed" id="2188960"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DOMAIN</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>MUTAGENESIS OF ASP-10; ASP-11; ASP-56 AND LEU-99</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1995" name="Biochemistry" volume="34" first="14626" last="14636">
+<title>The response regulators CheB and CheY exhibit competitive binding to the kinase CheA.</title>
+<authorList>
+<person name="Li J."/>
+<person name="Swanson R.V."/>
+<person name="Simon M.I."/>
+<person name="Weis R.M."/>
+</authorList>
+<dbReference type="PubMed" id="7578071"/>
+</citation>
+<scope>INTERACTION WITH CHEA</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="Mol. Microbiol." volume="60" first="469" last="479">
+<title>The carboxyl-terminal linker is important for chemoreceptor function.</title>
+<authorList>
+<person name="Li M."/>
+<person name="Hazelbauer G.L."/>
+</authorList>
+<dbReference type="PubMed" id="16573695"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05108.x"/>
+</citation>
+<scope>INTERACTION WITH CHEMORECEPTORS</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 8 9 10 11">Involved in chemotaxis (PubMed:324984, PubMed:358191, PubMed:392505, PubMed:2188960). Part of a chemotaxis signal transduction system that modulates chemotaxis in response to various stimuli (PubMed:392505, PubMed:2188960). Catalyzes the demethylation of specific methylglutamate residues introduced into the chemoreceptors (methyl-accepting chemotaxis proteins or MCP) by CheR (PubMed:358191, PubMed:392505, PubMed:2188960). Also mediates the irreversible deamidation of specific glutamine residues to glutamic acid (PubMed:6300110, PubMed:6304723). Catalyzes its own deactivation by removing the activating phosphoryl group (PubMed:2188960).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 4 8 9">
+<text>[protein]-L-glutamate 5-O-methyl ester + H2O = H(+) + L-glutamyl-[protein] + methanol</text>
+<dbReference type="Rhea" id="RHEA:23236"/>
+<dbReference type="Rhea" id="RHEA-COMP:10208"/>
+<dbReference type="Rhea" id="RHEA-COMP:10311"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:17790"/>
+<dbReference type="ChEBI" id="CHEBI:29973"/>
+<dbReference type="ChEBI" id="CHEBI:82795"/>
+<dbReference type="EC" id="3.1.1.61"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 10 11">
+<text>H2O + L-glutaminyl-[protein] = L-glutamyl-[protein] + NH4(+)</text>
+<dbReference type="Rhea" id="RHEA:16441"/>
+<dbReference type="Rhea" id="RHEA-COMP:10207"/>
+<dbReference type="Rhea" id="RHEA-COMP:10208"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:28938"/>
+<dbReference type="ChEBI" id="CHEBI:29973"/>
+<dbReference type="ChEBI" id="CHEBI:30011"/>
+<dbReference type="EC" id="3.5.1.44"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="4 9">Methylesterase activity is activated via phosphorylation in response to negative chemotactic stimuli and is inhibited in the presence of attractants (PubMed:392505, PubMed:2188960). Activation requires both CheA and CheW (PubMed:2188960).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 12">Interacts with CheA (PubMed:7578071). Binds to a C-terminal pentapeptide sequence carried by certain receptors (PubMed:16573695).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1125895"/>
+<interactant intactId="EBI-1026773">
+<id>P07363</id>
+<label>cheA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 8">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="2 4">Contains a C-terminal catalytic domain, and an N-terminal region which modulates catalytic activity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4 6">Phosphorylated by CheA (PubMed:3280143, PubMed:2188960). Phosphorylation of the N-terminal regulatory domain activates the methylesterase activity (PubMed:2188960).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="7">Mutants are defective in chemotaxis. They exhibit very high tumbling rates.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 14">Belongs to the CheB family.</text>
+</comment>
+<dbReference type="EC" id="3.1.1.61" evidence="2 4 8 9"/>
+<dbReference type="EC" id="3.5.1.44" evidence="2 10 11"/>
+<dbReference type="EMBL" id="M13463">
+<property type="protein sequence ID" value="AAA23569.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74953.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15699.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D25195">
+<property type="entry name" value="XYECEB"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416397.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000036361.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P07330"/>
+<dbReference type="BioGrid" id="4260716">
+<property type="interactions" value="222"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9272N"/>
+<dbReference type="IntAct" id="P07330">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1883"/>
+<dbReference type="PaxDb" id="P07330"/>
+<dbReference type="PRIDE" id="P07330"/>
+<dbReference type="EnsemblBacteria" id="AAC74953">
+<property type="protein sequence ID" value="AAC74953"/>
+<property type="gene ID" value="b1883"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15699">
+<property type="protein sequence ID" value="BAA15699"/>
+<property type="gene ID" value="BAA15699"/>
+</dbReference>
+<dbReference type="GeneID" id="946394"/>
+<dbReference type="KEGG" id="ecj:JW1872"/>
+<dbReference type="KEGG" id="eco:b1883"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.364"/>
+<dbReference type="EchoBASE" id="EB0145"/>
+<dbReference type="EcoGene" id="EG10147">
+<property type="gene designation" value="cheB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CMP">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2201">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000151423"/>
+<dbReference type="InParanoid" id="P07330"/>
+<dbReference type="KO" id="K03412"/>
+<dbReference type="PhylomeDB" id="P07330"/>
+<dbReference type="BioCyc" id="EcoCyc:CHEB-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1872-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:CHEB-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.1.61">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P07330"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990827">
+<property type="term" value="F:deaminase binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000156">
+<property type="term" value="F:phosphorelay response regulator activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008984">
+<property type="term" value="F:protein-glutamate methylesterase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050568">
+<property type="term" value="F:protein-glutamine glutaminase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006935">
+<property type="term" value="P:chemotaxis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018277">
+<property type="term" value="P:protein deamination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006482">
+<property type="term" value="P:protein demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="CDD" id="cd16432">
+<property type="entry name" value="CheB_Rec"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00156">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.180">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00099">
+<property type="entry name" value="CheB_chemtxs"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008248">
+<property type="entry name" value="CheB-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035909">
+<property type="entry name" value="CheB_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011006">
+<property type="entry name" value="CheY-like_superfamily"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000673">
+<property type="entry name" value="Sig_transdc_resp-reg_Me-estase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001789">
+<property type="entry name" value="Sig_transdc_resp-reg_receiver"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01339">
+<property type="entry name" value="CheB_methylest"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00072">
+<property type="entry name" value="Response_reg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000876">
+<property type="entry name" value="RR_chemtxs_CheB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00448">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52172">
+<property type="entry name" value="SSF52172"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52738">
+<property type="entry name" value="SSF52738"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50122">
+<property type="entry name" value="CHEB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50110">
+<property type="entry name" value="RESPONSE_REGULATORY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0145">Chemotaxis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Protein-glutamate methylesterase/protein-glutamine glutaminase" id="PRO_0000157992">
+<location>
+<begin position="1"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="domain" description="Response regulatory" evidence="2">
+<location>
+<begin position="5"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="domain" description="CheB-type methylesterase" evidence="2">
+<location>
+<begin position="152"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="active site" evidence="1 2">
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="active site" evidence="1 2">
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="active site" evidence="1 2">
+<location>
+<position position="286"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-aspartylphosphate" evidence="1 2">
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates activation in response to negative stimuli, but does not affect response to positive stimuli." evidence="4">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates activation in response to negative stimuli, but does not affect response to positive stimuli." evidence="4">
+<original>D</original>
+<variation>E</variation>
+<variation>N</variation>
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates activation in response to negative stimuli, but does not affect response to positive stimuli." evidence="4">
+<original>D</original>
+<variation>E</variation>
+<variation>N</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates activation in response to negative stimuli, but does not affect response to positive stimuli." evidence="4">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23569." ref="1" evidence="14">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="96"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23569." ref="1" evidence="14">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P04042"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00099"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16573695"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2188960"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="324984"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3280143"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="353036"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="358191"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="392505"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6300110"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6304723"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7578071"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="324984"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="349" mass="37468" checksum="6F3D1AFB8D23D3F5" modified="1997-11-01" version="3">
+MSKIRVLSVDDSALMRQIMTEIINSHSDMEMVATAPDPLVARDLIKKFNPDVLTLDVEMP
+RMDGLDFLEKLMRLRPMPVVMVSSLTGKGSEVTLRALELGAIDFVTKPQLGIREGMLAYN
+EMIAEKVRTAAKASLAAHKPLSAPTTLKAGPLLSSEKLIAIGASTGGTEAIRHVLQPLPL
+SSPALLITQHMPPGFTRSFADRLNKLCQIGVKEAEDGERVLPGHAYIAPGDRHMELSRSG
+ANYQIKIHDGPAVNRHRPSVDVLFHSVAKQAGRNAVGVILTGMGNDGAAGMLAMRQAGAW
+TLAQNEASCVVFGMPREAINMGGVCEVVDLSQVSQQMLAKISAGQAIRI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

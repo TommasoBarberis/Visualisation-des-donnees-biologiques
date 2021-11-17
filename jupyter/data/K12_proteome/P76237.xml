@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-06-05" version="140">
+<accession>P76237</accession>
+<name>DGCJ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="8">Probable diguanylate cyclase DgcJ</fullName>
+<shortName evidence="8">DGC</shortName>
+<ecNumber evidence="1">2.7.7.65</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">dgcJ</name>
+<name type="synonym">yeaJ</name>
+<name type="ordered locus">b1786</name>
+<name type="ordered locus">JW5291</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Genes Dev." volume="22" first="2434" last="2446">
+<title>Inverse regulatory coordination of motility and curli-mediated adhesion in Escherichia coli.</title>
+<authorList>
+<person name="Pesavento C."/>
+<person name="Becker G."/>
+<person name="Sommerfeldt N."/>
+<person name="Possling A."/>
+<person name="Tschowri N."/>
+<person name="Mehlis A."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="18765794"/>
+<dbReference type="DOI" id="10.1101/gad.475808"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Microbiology" volume="155" first="1318" last="1331">
+<title>Gene expression patterns and differential input into curli fimbriae regulation of all GGDEF/EAL domain proteins in Escherichia coli.</title>
+<authorList>
+<person name="Sommerfeldt N."/>
+<person name="Possling A."/>
+<person name="Becker G."/>
+<person name="Pesavento C."/>
+<person name="Tschowri N."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="19332833"/>
+<dbReference type="DOI" id="10.1099/mic.0.024257-0"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Appl. Microbiol. Biotechnol." volume="90" first="651" last="658">
+<title>GGDEF proteins YeaI, YedQ, and YfiN reduce early biofilm formation and swimming motility in Escherichia coli.</title>
+<authorList>
+<person name="Sanchez-Torres V."/>
+<person name="Hu H."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="21181144"/>
+<dbReference type="DOI" id="10.1007/s00253-010-3074-5"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="J. Bacteriol." volume="198" first="7" last="11">
+<title>Systematic nomenclature for GGDEF and EAL domain-containing cyclic di-GMP turnover proteins of Escherichia coli.</title>
+<authorList>
+<person name="Hengge R."/>
+<person name="Galperin M.Y."/>
+<person name="Ghigo J.M."/>
+<person name="Gomelsky M."/>
+<person name="Green J."/>
+<person name="Hughes K.T."/>
+<person name="Jenal U."/>
+<person name="Landini P."/>
+</authorList>
+<dbReference type="PubMed" id="26148715"/>
+<dbReference type="DOI" id="10.1128/JB.00424-15"/>
+</citation>
+<scope>NOMENCLATURE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Catalyzes the synthesis of cyclic-di-GMP (c-di-GMP) via the condensation of 2 GTP molecules.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>2 GTP = cyclic di-3',5'-guanylate + 2 diphosphate</text>
+<dbReference type="Rhea" id="RHEA:24898"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:37565"/>
+<dbReference type="ChEBI" id="CHEBI:58805"/>
+<dbReference type="EC" id="2.7.7.65"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1">Binds 1 Mg(2+) ion per monomer.</text>
+</comment>
+<comment type="pathway" evidence="8">
+<text>Purine metabolism; 3',5'-cyclic di-GMP biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-555763"/>
+<interactant intactId="EBI-555775">
+<id>P32715</id>
+<label>mdtO</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="8">Cell inner membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="5">Expressed during exponential and post-exponential growth, it is slightly more highly expressed at 37 than 28 degrees Celsius and is more highly induced on solid medium.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 6">Deletion of the gene increases swimming motility (PubMed:21181144). Disruption of this gene partially suppresses the reduced motility of a pdeH disruption. Full suppression i.e. wild-type motility, requires concomitant disruption of dgcJ, dgcE and dgcQ (PubMed:18765794).</text>
+</comment>
+<dbReference type="EC" id="2.7.7.65" evidence="1"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74856.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15587.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64939">
+<property type="entry name" value="B64939"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416300.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000766132.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P76237"/>
+<dbReference type="BioGrid" id="4260325">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11789N"/>
+<dbReference type="IntAct" id="P76237">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1786"/>
+<dbReference type="jPOST" id="P76237"/>
+<dbReference type="PaxDb" id="P76237"/>
+<dbReference type="PRIDE" id="P76237"/>
+<dbReference type="EnsemblBacteria" id="AAC74856">
+<property type="protein sequence ID" value="AAC74856"/>
+<property type="gene ID" value="b1786"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15587">
+<property type="protein sequence ID" value="BAA15587"/>
+<property type="gene ID" value="BAA15587"/>
+</dbReference>
+<dbReference type="GeneID" id="946290"/>
+<dbReference type="KEGG" id="ecj:JW5291"/>
+<dbReference type="KEGG" id="eco:b1786"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.468"/>
+<dbReference type="EchoBASE" id="EB3269"/>
+<dbReference type="EcoGene" id="EG13496">
+<property type="gene designation" value="yeaJ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108KHP">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000121142"/>
+<dbReference type="InParanoid" id="P76237"/>
+<dbReference type="PhylomeDB" id="P76237"/>
+<dbReference type="BioCyc" id="EcoCyc:G6972-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5291-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00599"/>
+<dbReference type="PRO" id="PR:P76237"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052621">
+<property type="term" value="F:diguanylate cyclase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902201">
+<property type="term" value="P:negative regulation of bacterial-type flagellum-dependent cell motility"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd01949">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033420">
+<property type="entry name" value="GAPES1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000160">
+<property type="entry name" value="GGDEF_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029787">
+<property type="entry name" value="Nucleotide_cyclase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17155">
+<property type="entry name" value="GAPES1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00990">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00267">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55073">
+<property type="entry name" value="SSF55073"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00254">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50887">
+<property type="entry name" value="GGDEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Probable diguanylate cyclase DgcJ" id="PRO_0000169016">
+<location>
+<begin position="1"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="11"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="305"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="domain" description="GGDEF" evidence="3">
+<location>
+<begin position="374"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="425"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="425"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="390"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via carbonyl oxygen" evidence="1">
+<location>
+<position position="395"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="399"/>
+</location>
+</feature>
+<feature type="site" description="Transition state stabilizer" evidence="2">
+<location>
+<position position="387"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P31129"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00095"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18765794"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19332833"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21181144"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="26148715"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="496" mass="56603" checksum="8E66D32CDB6F05DD" modified="2000-12-01" version="2">
+MKLHHRMLRHFIAASVIVLTSSFLIFELVASDRAMSAYLRYIVQKADSSFLYDKYQNQSI
+AAHVMRALAAEQSEVSPEQRRAICEAFESANNTHGLNLTAHKYPGLRGTLQTASTDCDTI
+VEAAALLPAFDQAVEGNRHQDDYGSGLGMAEEKFHYYLDLNDRYVYFYEPVNVEYFAMNN
+WSFLQSGSIGIDRKDIEKVFTGRTVLSSIYQDQRTKQNVMSLLTPVYVAGQLKGIVLLDI
+NKNNLRNIFYTHDRPLLWRFLNVTLTDTDSGRDIIINQSEDNLFQYVSYVHDLPGGIRVS
+LSIDILYFITSSWKSVLFWILTALILLNMVRMHFRLYQNVSRENISDAMTGLYNRKILTP
+ELEQRLQKLVQSGSSVMFIAIDMDKLKQINDTLGHQEGDLAITLLAQAIKQSIRKSDYAI
+RLGGDEFCIILVDSTPQIAAQLPERIEKRLQHIAPQKEIGFSSGIYAMKENDTLHDAYKA
+SDERLYVNKQNKNSRS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

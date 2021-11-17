@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-03-29" modified="2019-06-05" version="132">
+<accession>P0A6G7</accession>
+<accession>P19245</accession>
+<accession>Q2MBY9</accession>
+<name>CLPP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">ATP-dependent Clp protease proteolytic subunit</fullName>
+<ecNumber evidence="5">3.4.21.92</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Caseinolytic protease</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="5">Endopeptidase Clp</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Heat shock protein F21.5</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protease Ti</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5">clpP</name>
+<name type="synonym">lopP</name>
+<name type="ordered locus">b0437</name>
+<name type="ordered locus">JW0427</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="12536" last="12545">
+<title>Sequence and structure of Clp P, the proteolytic component of the ATP-dependent Clp protease of Escherichia coli.</title>
+<authorList>
+<person name="Maurizi M.R."/>
+<person name="Clark W.P."/>
+<person name="Katayama Y."/>
+<person name="Rudikoff S."/>
+<person name="Pumphrey J."/>
+<person name="Bowers B."/>
+<person name="Gottesman S."/>
+</authorList>
+<dbReference type="PubMed" id="2197275"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 15-36</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="6026" last="6034">
+<title>The ClpP component of Clp protease is the sigma 32-dependent heat shock protein F21.5.</title>
+<authorList>
+<person name="Kroh H.E."/>
+<person name="Simon L.D."/>
+</authorList>
+<dbReference type="PubMed" id="2211522"/>
+<dbReference type="DOI" id="10.1128/jb.172.10.6026-6034.1990"/>
+</citation>
+<scope>IDENTIFICATION AS A HEAT SHOCK PROTEIN</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="21165" last="21171">
+<title>A comparative study of the chymotrypsin-like activity of the rat liver multicatalytic proteinase and the ClpP from Escherichia coli.</title>
+<authorList>
+<person name="Arribas J."/>
+<person name="Castano J.G."/>
+</authorList>
+<dbReference type="PubMed" id="8407953"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Biochem. Biophys. Res. Commun." volume="203" first="798" last="804">
+<title>clpX encoding an alternative ATP-binding subunit of protease Ti (Clp) can be expressed independently from clpP in Escherichia coli.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Kang M.S."/>
+<person name="Ha D.B."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="8093059"/>
+<dbReference type="DOI" id="10.1006/bbrc.1994.2253"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>OPERON</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Cell" volume="114" first="511" last="520">
+<title>Linkage between ATP consumption and mechanical unfolding during the protein processing reactions of an AAA+ degradation machine.</title>
+<authorList>
+<person name="Kenniston J.A."/>
+<person name="Baker T.A."/>
+<person name="Fernandez J.M."/>
+<person name="Sauer R.T."/>
+</authorList>
+<dbReference type="PubMed" id="12941278"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(03)00612-3"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="Genes Dev." volume="18" first="2292" last="2301">
+<title>Modulating substrate choice: the SspB adaptor delivers a regulator of the extracytoplasmic-stress response to the AAA+ protease ClpXP for degradation.</title>
+<authorList>
+<person name="Flynn J.M."/>
+<person name="Levchenko I."/>
+<person name="Sauer R.T."/>
+<person name="Baker T.A."/>
+</authorList>
+<dbReference type="PubMed" id="15371343"/>
+<dbReference type="DOI" id="10.1101/gad.1240104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="PLoS Biol." volume="10" first="E1001281" last="E1001281">
+<title>Two programmed cell death systems in Escherichia coli: an apoptotic-like death is inhibited by the mazEF-mediated death pathway.</title>
+<authorList>
+<person name="Erental A."/>
+<person name="Sharon I."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="22412352"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1001281"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="4191" last="4205">
+<title>MazF-induced growth inhibition and persister generation in Escherichia coli.</title>
+<authorList>
+<person name="Tripathi A."/>
+<person name="Dewan P.C."/>
+<person name="Siddique S.A."/>
+<person name="Varadarajan R."/>
+</authorList>
+<dbReference type="PubMed" id="24375411"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.510511"/>
+</citation>
+<scope>CLEAVAGE OF ANTITOXIN MAZE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1996" name="J. Mol. Biol." volume="262" first="71" last="76">
+<title>Molecular symmetry of the ClpP component of the ATP-dependent Clp protease, an Escherichia coli homolog of 20 S proteasome.</title>
+<authorList>
+<person name="Shin D.H."/>
+<person name="Lee C.S."/>
+<person name="Chung C.H."/>
+<person name="Suh S.W."/>
+</authorList>
+<dbReference type="PubMed" id="8831780"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0499"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1997" name="Cell" volume="91" first="447" last="456">
+<title>The structure of ClpP at 2.3-A resolution suggests a model for ATP-dependent proteolysis.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Hartling J.A."/>
+<person name="Flanagan J.M."/>
+</authorList>
+<dbReference type="PubMed" id="9390554"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(00)80431-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 15-207</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2006" name="J. Struct. Biol." volume="153" first="113" last="128">
+<title>The asymmetry in the mature amino-terminus of ClpP facilitates a local symmetry match in ClpAP and ClpXP complexes.</title>
+<authorList>
+<person name="Bewley M.C."/>
+<person name="Graziano V."/>
+<person name="Griffin K."/>
+<person name="Flanagan J.M."/>
+</authorList>
+<dbReference type="PubMed" id="16406682"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2005.09.011"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 15-207</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF VAL-17; PRO-18; MET-19; VAL-20; ILE-21; THR-24; GLY-27; ASP-32; ILE-33; TYR-34; PHE-126 AND ASP-185</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2006" name="J. Struct. Biol." volume="156" first="165" last="174">
+<title>Crystal structure at 1.9 A of E. coli ClpP with a peptide covalently bound at the active site.</title>
+<authorList>
+<person name="Szyk A."/>
+<person name="Maurizi M.R."/>
+</authorList>
+<dbReference type="PubMed" id="16682229"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2006.03.013"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 15-207 BOUND TO INHIBITOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2010" name="Chem. Biol." volume="17" first="959" last="969">
+<title>Acyldepsipeptide antibiotics induce the formation of a structured axial channel in ClpP: A model for the ClpX/ClpA-bound state of ClpP.</title>
+<authorList>
+<person name="Li D.H."/>
+<person name="Chung Y.S."/>
+<person name="Gloyd M."/>
+<person name="Joseph E."/>
+<person name="Ghirlando R."/>
+<person name="Wright G.D."/>
+<person name="Cheng Y.Q."/>
+<person name="Maurizi M.R."/>
+<person name="Guarne A."/>
+<person name="Ortega J."/>
+</authorList>
+<dbReference type="PubMed" id="20851345"/>
+<dbReference type="DOI" id="10.1016/j.chembiol.2010.07.008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH ANTIBIOTIC</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2010" name="Structure" volume="18" first="798" last="808">
+<title>Structural and theoretical studies indicate that the cylindrical protease ClpP samples extended and compact conformations.</title>
+<authorList>
+<person name="Kimber M.S."/>
+<person name="Yu A.Y."/>
+<person name="Borg M."/>
+<person name="Leung E."/>
+<person name="Chan H.S."/>
+<person name="Houry W.A."/>
+</authorList>
+<dbReference type="PubMed" id="20637416"/>
+<dbReference type="DOI" id="10.1016/j.str.2010.04.008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) OF 15-207</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 7 14">Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins. May play the role of a master protease which is attracted to different substrates by different specificity factors such as ClpA or ClpX. Participates in the final steps of RseA-sigma-E degradation, liberating sigma-E to induce the extracytoplasmic-stress response. Degrades antitoxin MazE (PubMed:24375411).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5">
+<text>Hydrolysis of proteins to small peptides in the presence of ATP and magnesium. Alpha-casein is the usual test substrate. In the absence of ATP, only oligopeptides shorter than five residues are hydrolyzed (such as succinyl-Leu-Tyr-|-NHMec, and Leu-Tyr-Leu-|-Tyr-Trp, in which cleavage of the -Tyr-|-Leu- and -Tyr-|-Trp bonds also occurs).</text>
+<dbReference type="EC" id="3.4.21.92"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="9">Inhibited by benzyloxycarbonyl leucyltyrosine chloromethylketone (Z-LY-CMK).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="8 10">4.4 mM for N-succinyl-Leu-Tyr-7-amino-4-methyl-coumarin (N-succinyl-Leu-Tyr-AMC)</KM>
+<KM evidence="8 10">1.0 mM for N-succinyl-Leu-Tyr-AMC</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="5 8 9 10 11 16">Fourteen ClpP subunits assemble into 2 heptameric rings which stack back to back to give a disk-like structure with a central cavity, resembling the structure of eukaryotic proteasomes. Component of the ClpAP and ClpXP complexes.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370625"/>
+<interactant intactId="EBI-370625"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370625"/>
+<interactant intactId="EBI-546140">
+<id>P0ABH9</id>
+<label>clpA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370625"/>
+<interactant intactId="EBI-547386">
+<id>P0A6H1</id>
+<label>clpX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="15">By heat shock. Part of the clpP-clpX operon.</text>
+</comment>
+<comment type="domain">
+<text evidence="8">The N-terminus (residues 17-34) interact with ClpA and ClpX.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="13 14">Cells undergo an apoptotic-like death upon DNA damage characterized by membrane depolarization (PubMed:22412352). Decreased persister cell formation upon antibiotic challenge probably due to increased levels of MazF toxin (PubMed:24375411).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="18">Acyldepsipeptide antibiotics bind in the ClpA or ClpX binding-sites, rendering the enzyme ATP-independent and indiscriminate, thus killing cells.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the peptidase S14 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.92" evidence="5"/>
+<dbReference type="EMBL" id="J05534">
+<property type="protein sequence ID" value="AAA23588.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82664">
+<property type="protein sequence ID" value="AAB40193.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73540.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76217.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B36575">
+<property type="entry name" value="B36575"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414971.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000122253.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1TYF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N=15-207"/>
+</dbReference>
+<dbReference type="PDB" id="1YG6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N=15-207"/>
+</dbReference>
+<dbReference type="PDB" id="1YG8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/a/b=18-207"/>
+</dbReference>
+<dbReference type="PDB" id="2FZS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N=15-207"/>
+</dbReference>
+<dbReference type="PDB" id="3HLN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="1/2/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z=15-207"/>
+</dbReference>
+<dbReference type="PDB" id="3MT6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/a/b=1-207"/>
+</dbReference>
+<dbReference type="PDBsum" id="1TYF"/>
+<dbReference type="PDBsum" id="1YG6"/>
+<dbReference type="PDBsum" id="1YG8"/>
+<dbReference type="PDBsum" id="2FZS"/>
+<dbReference type="PDBsum" id="3HLN"/>
+<dbReference type="PDBsum" id="3MT6"/>
+<dbReference type="SMR" id="P0A6G7"/>
+<dbReference type="BioGrid" id="4260736">
+<property type="interactions" value="465"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-3175">
+<property type="entry name" value="Endopeptidase ClpAP complex"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-3176">
+<property type="entry name" value="Endopeptidase ClpXP complex"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-3178">
+<property type="entry name" value="Endopeptidase ClpP complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31838N"/>
+<dbReference type="IntAct" id="P0A6G7">
+<property type="interactions" value="68"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0437"/>
+<dbReference type="BindingDB" id="P0A6G7"/>
+<dbReference type="ChEMBL" id="CHEMBL3341578"/>
+<dbReference type="SWISS-2DPAGE" id="P0A6G7"/>
+<dbReference type="EPD" id="P0A6G7"/>
+<dbReference type="jPOST" id="P0A6G7"/>
+<dbReference type="PaxDb" id="P0A6G7"/>
+<dbReference type="PRIDE" id="P0A6G7"/>
+<dbReference type="EnsemblBacteria" id="AAC73540">
+<property type="protein sequence ID" value="AAC73540"/>
+<property type="gene ID" value="b0437"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76217">
+<property type="protein sequence ID" value="BAE76217"/>
+<property type="gene ID" value="BAE76217"/>
+</dbReference>
+<dbReference type="GeneID" id="945082"/>
+<dbReference type="KEGG" id="ecj:JW0427"/>
+<dbReference type="KEGG" id="eco:b0437"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1839"/>
+<dbReference type="EchoBASE" id="EB0156"/>
+<dbReference type="EcoGene" id="EG10158">
+<property type="gene designation" value="clpP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CCQ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0740">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000285833"/>
+<dbReference type="InParanoid" id="P0A6G7"/>
+<dbReference type="KO" id="K01358"/>
+<dbReference type="PhylomeDB" id="P0A6G7"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10158-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0427-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10158-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A6G7"/>
+<dbReference type="PRO" id="PR:P0A6G7"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009376">
+<property type="term" value="C:HslUV protease complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004176">
+<property type="term" value="F:ATP-dependent peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051117">
+<property type="term" value="F:ATPase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008236">
+<property type="term" value="F:serine-type peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010498">
+<property type="term" value="P:proteasomal protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:protein quality control for misfolded or incompletely synthesized proteins"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009314">
+<property type="term" value="P:response to radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009266">
+<property type="term" value="P:response to temperature stimulus"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07017">
+<property type="entry name" value="S14_ClpP_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00444">
+<property type="entry name" value="ClpP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001907">
+<property type="entry name" value="ClpP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029045">
+<property type="entry name" value="ClpP/crotonase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023562">
+<property type="entry name" value="ClpP/TepA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033135">
+<property type="entry name" value="ClpP_His_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018215">
+<property type="entry name" value="ClpP_Ser_AS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10381">
+<property type="entry name" value="PTHR10381"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00574">
+<property type="entry name" value="CLP_protease"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00127">
+<property type="entry name" value="CLPPROTEASEP"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52096">
+<property type="entry name" value="SSF52096"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00493">
+<property type="entry name" value="clpP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00382">
+<property type="entry name" value="CLP_PROTEASE_HIS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00381">
+<property type="entry name" value="CLP_PROTEASE_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="propeptide" id="PRO_0000268012" evidence="12">
+<location>
+<begin position="1"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="chain" description="ATP-dependent Clp protease proteolytic subunit" id="PRO_0000179551">
+<location>
+<begin position="15"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="17">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="active site" evidence="17">
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="active site" evidence="17">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP, little ClpX-ClpP complex forms." evidence="8">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced processing, no ClpA-ClpP complex forms." evidence="8">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP, little ClpX-ClpP complex forms." evidence="8">
+<original>M</original>
+<variation>A</variation>
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP, little ClpX-ClpP complex forms." evidence="8">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP, little ClpX-ClpP complex forms." evidence="8">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Little ClpA-ClpP or ClpX-ClpP complex forms." evidence="8">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of protease activity, forms ClpA-ClpP complex." evidence="8">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="19"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="22"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="27"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="30"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="33"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="39"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="42"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="69"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="73"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="84"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="97"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="101"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="112"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="125"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="132"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="139"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="146"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="175"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="182"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="186"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="190"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="198"/>
+<end position="202"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1YG6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FZS"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3HLN"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3MT6"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00444"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12941278"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15371343"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16406682"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16682229"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20637416"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20851345"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2197275"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22412352"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24375411"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8093059"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9390554"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="20851345"/>
+</source>
+</evidence>
+<sequence length="207" mass="23187" checksum="A7843D036C8CB3C2" modified="2005-03-29" version="1" precursor="true">
+MSYSGERDNFAPHMALVPMVIEQTSRGERSFDIYSRLLKERVIFLTGQVEDHMANLIVAQ
+MLFLEAENPEKDIYLYINSPGGVITAGMSIYDTMQFIKPDVSTICMGQAASMGAFLLTAG
+AKGKRFCLPNSRVMIHQPLGGYQGQATDIEIHAREILKVKGRMNELMALHTGQSLEQIER
+DTERDRFLSAPEAVEYGLVDSILTHRN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

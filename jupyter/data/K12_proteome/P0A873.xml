@@ -1,0 +1,733 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="112">
+<accession>P0A873</accession>
+<accession>P07020</accession>
+<name>TRMD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>tRNA (guanine-N(1)-)-methyltransferase</fullName>
+<ecNumber>2.1.1.228</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>M1G-methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>tRNA [GM37] methyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">trmD</name>
+<name type="ordered locus">b2607</name>
+<name type="ordered locus">JW2588</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="EMBO J." volume="2" first="899" last="905">
+<title>The nucleotide sequence of an Escherichia coli operon containing genes for the tRNA(m1G)methyltransferase, the ribosomal proteins S16 and L19 and a 21-K polypeptide.</title>
+<authorList>
+<person name="Bystroem A.S."/>
+<person name="Hjalmarsson K.J."/>
+<person name="Wikstroem P.M."/>
+<person name="Bjoerk G.R."/>
+</authorList>
+<dbReference type="PubMed" id="6357787"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>OPERON STRUCTURE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="1343" last="1351">
+<title>Purification and characterization of transfer RNA (guanine-1)methyltransferase from Escherichia coli.</title>
+<authorList>
+<person name="Hjalmarsson K.J."/>
+<person name="Bystroem A.S."/>
+<person name="Bjoerk G.R."/>
+</authorList>
+<dbReference type="PubMed" id="6337136"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="333" first="931" last="949">
+<title>Insights into catalysis by a knotted TrmD tRNA methyltransferase.</title>
+<authorList>
+<person name="Elkins P.A."/>
+<person name="Watts J.M."/>
+<person name="Zalacain M."/>
+<person name="van Thiel A."/>
+<person name="Vitazka P.R."/>
+<person name="Redlak M."/>
+<person name="Andraos-Selim C."/>
+<person name="Rastinejad F."/>
+<person name="Holmes W.M."/>
+</authorList>
+<dbReference type="PubMed" id="14583191"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2003.09.011"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) IN COMPLEX WITH SUBSTRATE</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF GLY-59; GLY-91; ARG-114; TYR-115; GLY-117; ASP-119; ARG-121; ASP-128; ASP-135; TYR-136; GLY-141; ARG-154; ASP-169; PHE-171; PRO-184; VAL-192; PRO-193; LEU-196; LEU-197; ILE-204; TRP-207 AND ARG-208</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Specifically methylates guanosine-37 in various tRNAs.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>guanosine(37) in tRNA + S-adenosyl-L-methionine = H(+) + N(1)-methylguanosine(37) in tRNA + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:36899"/>
+<dbReference type="Rhea" id="RHEA-COMP:10145"/>
+<dbReference type="Rhea" id="RHEA-COMP:10147"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:73542"/>
+<dbReference type="ChEBI" id="CHEBI:74269"/>
+<dbReference type="EC" id="2.1.1.228"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="4">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1129132"/>
+<interactant intactId="EBI-1129132"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text>Part of the rpsP-rimM-trmD-rplS operon.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The specific activity of this enzyme increases only slightly with increased growth rate.</text>
+</comment>
+<comment type="miscellaneous">
+<text>This enzyme is present at ca. 80 molecules/genome.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the RNA methyltransferase TrmD family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.228"/>
+<dbReference type="EMBL" id="X01818">
+<property type="protein sequence ID" value="CAA25959.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75656.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16492.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A30380">
+<property type="entry name" value="XYECG1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417098.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000264777.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1P9P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-255"/>
+</dbReference>
+<dbReference type="PDBsum" id="1P9P"/>
+<dbReference type="SMR" id="P0A873"/>
+<dbReference type="BioGrid" id="4263072">
+<property type="interactions" value="57"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48264N"/>
+<dbReference type="IntAct" id="P0A873">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2607"/>
+<dbReference type="jPOST" id="P0A873"/>
+<dbReference type="PaxDb" id="P0A873"/>
+<dbReference type="PRIDE" id="P0A873"/>
+<dbReference type="EnsemblBacteria" id="AAC75656">
+<property type="protein sequence ID" value="AAC75656"/>
+<property type="gene ID" value="b2607"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16492">
+<property type="protein sequence ID" value="BAA16492"/>
+<property type="gene ID" value="BAA16492"/>
+</dbReference>
+<dbReference type="GeneID" id="947099"/>
+<dbReference type="KEGG" id="ecj:JW2588"/>
+<dbReference type="KEGG" id="eco:b2607"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4132"/>
+<dbReference type="EchoBASE" id="EB1016"/>
+<dbReference type="EcoGene" id="EG11023">
+<property type="gene designation" value="trmD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105D6X">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0336">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000016242"/>
+<dbReference type="InParanoid" id="P0A873"/>
+<dbReference type="KO" id="K00554"/>
+<dbReference type="PhylomeDB" id="P0A873"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11023-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2588-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11023-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.1.228">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A873"/>
+<dbReference type="PRO" id="PR:P0A873"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052906">
+<property type="term" value="F:tRNA (guanine(37)-N(1))-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009019">
+<property type="term" value="F:tRNA (guanine-N1-)-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030488">
+<property type="term" value="P:tRNA methylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002939">
+<property type="term" value="P:tRNA N1-guanine methylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1270.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1280.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00605">
+<property type="entry name" value="TrmD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029028">
+<property type="entry name" value="Alpha/beta_knot_MTases"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002649">
+<property type="entry name" value="tRNA_m1G_MeTrfase_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023148">
+<property type="entry name" value="tRNA_m1G_MeTrfase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029026">
+<property type="entry name" value="tRNA_m1G_MTases_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016009">
+<property type="entry name" value="tRNA_MeTrfase_TRMD/TRM10"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR46417">
+<property type="entry name" value="PTHR46417"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01746">
+<property type="entry name" value="tRNA_m1G_MT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000386">
+<property type="entry name" value="tRNA_mtase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF75217">
+<property type="entry name" value="SSF75217"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00088">
+<property type="entry name" value="trmD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="tRNA (guanine-N(1)-)-methyltransferase" id="PRO_0000060375">
+<location>
+<begin position="1"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="region of interest" description="S-adenosyl-L-methionine binding">
+<location>
+<begin position="133"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="3">
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via amide nitrogen" evidence="2">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases Km for S-adenosyl-L-methionine 24-fold." evidence="4">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases Km for S-adenosyl-L-methionine 68-fold." evidence="4">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases Km for S-adenosyl-L-methionine 82-fold." evidence="4">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="197"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="207"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small decrease in activity." evidence="4">
+<original>W</original>
+<variation>F</variation>
+<variation>H</variation>
+<location>
+<position position="207"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity; no effect on tRNA binding." evidence="4">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="10"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="20"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="38"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="64"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="83"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="96"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="120"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="128"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="142"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="157"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="185"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="194"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="201"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="231"/>
+<end position="245"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1P9P"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14583191"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="255" mass="28422" checksum="B101087229B4CDBD" modified="1988-04-01" version="1">
+MWIGIISLFPEMFRAITDYGVTGRAVKNGLLSIQSWSPRDFTHDRHRTVDDRPYGGGPGM
+LMMVQPLRDAIHAAKAAAGEGAKVIYLSPQGRKLDQAGVSELATNQKLILVCGRYEGIDE
+RVIQTEIDEEWSIGDYVLSGGELPAMTLIDSVSRFIPGVLGHEASATEDSFAEGLLDCPH
+YTRPEVLEGMEVPPVLLSGNHAEIRRWRLKQSLGRTWLRRPELLENLALTEEQARLLAEF
+KTEHAQQQHKHDGMA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

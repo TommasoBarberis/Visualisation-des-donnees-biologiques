@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2017-05-10" modified="2018-12-05" version="6">
+<accession>P0DP22</accession>
+<accession>P39387</accession>
+<accession>P39388</accession>
+<accession>Q2M5X5</accession>
+<name>YJIQ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative inactive recombination-promoting nuclease-like protein YjiQ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yjiQ</name>
+<name type="synonym" evidence="5">rpnD</name>
+<name type="ordered locus">b4339</name>
+<name type="ordered locus">JW4302</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0130813" last="E0130813">
+<title>Novel recA-independent horizontal gene transfer in Escherichia coli K-12.</title>
+<authorList>
+<person name="Kingston A.W."/>
+<person name="Roussel-Rossin C."/>
+<person name="Dupont C."/>
+<person name="Raleigh E.A."/>
+</authorList>
+<dbReference type="PubMed" id="26162088"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0130813"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0143991" last="E0143991">
+<title>Correction: Novel recA-independent horizontal gene transfer in Escherichia coli K-12.</title>
+<authorList>
+<person name="Kingston A.W."/>
+<person name="Roussel-Rossin C."/>
+<person name="Dupont C."/>
+<person name="Raleigh E.A."/>
+</authorList>
+<dbReference type="PubMed" id="26618540"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0143991"/>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2017" name="J. Bacteriol.">
+<title>The Rpn (YhgA-like) proteins of Escherichia coli K-12 and their contribution to RecA-independent horizontal transfer.</title>
+<authorList>
+<person name="Kingston A.W."/>
+<person name="Ponkratz C."/>
+<person name="Raleigh E.A."/>
+</authorList>
+<dbReference type="PubMed" id="28096446"/>
+<dbReference type="DOI" id="10.1128/JB.00787-16"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 2 3 4">This pseudogene is the C-terminal fragment of low activity DNA endonuclease RpnD which probably yields 3'-hydroxyl ends (By similarity). The intact protein can be seen in this entry (AC B7NGZ6). Expression of the repaired protein increases the frequency of recA-independent recombination, but also decreases viability probably via DNA damage; in a RecA strain expression has no effect on viability but does induce the SOS repair response (PubMed:26162088, PubMed:26618540). May play a role in horizontal gene transfer (PubMed:26162088, PubMed:26618540, PubMed:28096446).</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the Rpn/YhgA-like nuclease family.</text>
+</comment>
+<comment type="caution">
+<text evidence="2 6">Could be the product of a pseudogene. Experiments were performed with a repaired version of the protein (AC B7NGZ6) (PubMed:26162088).</text>
+</comment>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97235.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78331.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S56564">
+<property type="entry name" value="S56564"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000899825.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="KEGG" id="ecj:JW4302"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010106">
+<property type="entry name" value="RpnA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006842">
+<property type="entry name" value="Transposase_31"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04754">
+<property type="entry name" value="Transposase_31"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01784">
+<property type="entry name" value="T_den_put_tspse"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative inactive recombination-promoting nuclease-like protein YjiQ" id="PRO_0000439834">
+<location>
+<begin position="1"/>
+<end position="186"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P31667"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26162088"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26618540"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28096446"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28096446"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="186" mass="21769" checksum="09A9ED09154851AC" modified="2017-05-10" version="1">
+MLFYHGSRSPYPWSLCWLDEFADPTTARKLYNAAFPLVDVTVVPDDEIVQHRRVALLELI
+QKHIRQRDLMGLIDQLVVLLVTECANDSQITALLNYILLTGDEARFNEFISELTRRMPQH
+RERIMTIAERIHNDGYIKGEQRILRLLLQNGADPEWIQKITGLSAEQMQALRQPLPERER
+YSWLKS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

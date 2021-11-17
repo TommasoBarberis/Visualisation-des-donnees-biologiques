@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-04-01" modified="2019-05-08" version="158">
+<accession>P30131</accession>
+<accession>Q2MAB7</accession>
+<accession>Q46878</accession>
+<name>HYPF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="12">Carbamoyltransferase HypF</fullName>
+<ecNumber evidence="6 7">6.2.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Carbamoyl phosphate-converting enzyme HypF</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>[NiFe]-hydrogenase maturation factor HypF</fullName>
+<shortName>Hydrogenase maturation protein HypF</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="10">hypF</name>
+<name type="synonym" evidence="11">hydA</name>
+<name type="ordered locus">b2712</name>
+<name type="ordered locus">JW5433</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1993-02" db="EMBL/GenBank/DDBJ databases">
+<title>Nucleotide sequence and functional analysis of hydA of E.coli.</title>
+<authorList>
+<person name="Tomiyama M."/>
+<person name="Shiotani M."/>
+<person name="Nishio M."/>
+<person name="Ikebukuro K."/>
+<person name="Sode K."/>
+<person name="Tamiya E."/>
+<person name="Karube I."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Arch. Microbiol." volume="165" first="333" last="341">
+<title>Analysis of the hydA locus of Escherichia coli: two genes (hydN and hypF) involved in formate and hydrogen metabolism.</title>
+<authorList>
+<person name="Maier T."/>
+<person name="Binder U."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="8661925"/>
+<dbReference type="DOI" id="10.1007/s002030050335"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="49945" last="49951">
+<title>HypF, a carbamoyl phosphate-converting enzyme involved in [NiFe] hydrogenase maturation.</title>
+<authorList>
+<person name="Paschos A."/>
+<person name="Bauer A."/>
+<person name="Zimmermann A."/>
+<person name="Zehelein E."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="12377778"/>
+<dbReference type="DOI" id="10.1074/jbc.M204601200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF ARG-23; CYS-109; CYS-159; HIS-475; HIS-476 AND HIS-479</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Science" volume="299" first="1067" last="1070">
+<title>Taming of a poison: biosynthesis of the NiFe-hydrogenase cyanide ligands.</title>
+<authorList>
+<person name="Reissmann S."/>
+<person name="Hochleitner E."/>
+<person name="Wang H."/>
+<person name="Paschos A."/>
+<person name="Lottspeich F."/>
+<person name="Glass R.S."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="12586941"/>
+<dbReference type="DOI" id="10.1126/science.1080972"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Eur. J. Biochem." volume="271" first="3428" last="3436">
+<title>Analysis of the transcarbamoylation-dehydration reaction catalyzed by the hydrogenase maturation proteins HypF and HypE.</title>
+<authorList>
+<person name="Blokesch M."/>
+<person name="Paschos A."/>
+<person name="Bauer A."/>
+<person name="Reissmann S."/>
+<person name="Drapal N."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="15291820"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.2004.04280.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>INTERACTION WITH HYPE</scope>
+<scope>MUTAGENESIS OF ARG-23 AND HIS-476</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="1447" last="1458">
+<title>Structure of [NiFe] hydrogenase maturation protein HypE from Escherichia coli and its interaction with HypF.</title>
+<authorList>
+<person name="Rangarajan E.S."/>
+<person name="Asinas A."/>
+<person name="Proteau A."/>
+<person name="Munger C."/>
+<person name="Baardsnes J."/>
+<person name="Iannuzzi P."/>
+<person name="Matte A."/>
+<person name="Cygler M."/>
+</authorList>
+<dbReference type="PubMed" id="18065529"/>
+<dbReference type="DOI" id="10.1128/JB.01610-07"/>
+</citation>
+<scope>INTERACTION WITH HYPE</scope>
+</reference>
+<reference key="9" evidence="1 2">
+<citation type="journal article" date="2002" name="J. Mol. Biol." volume="321" first="785" last="796">
+<title>Crystal structure and anion binding in the prokaryotic hydrogenase maturation factor HypF acylphosphatase-like domain.</title>
+<authorList>
+<person name="Rosano C."/>
+<person name="Zuccotti S."/>
+<person name="Bucciantini M."/>
+<person name="Stefani M."/>
+<person name="Ramponi G."/>
+<person name="Bolognesi M."/>
+</authorList>
+<dbReference type="PubMed" id="12206761"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)00713-1"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.27 ANGSTROMS) OF 1-91 IN COMPLEXES WITH SUBSTRATE ANALOGS</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 7 9">Involved in the maturation of [NiFe] hydrogenases (PubMed:8661925, PubMed:12377778, PubMed:12586941). Along with HypE, it catalyzes the synthesis of the CN ligands of the active site iron of [NiFe]-hydrogenases (PubMed:12586941). HypF functions as a carbamoyl transferase using carbamoylphosphate as a substrate and transferring the carboxamido moiety in an ATP-dependent reaction to the thiolate of the C-terminal cysteine of HypE yielding a protein-S-carboxamide (PubMed:12586941, PubMed:15291820). In the absence of any other substrate, displays carbamoyl-phosphate phosphatase activity (PubMed:12377778).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="6 7">
+<text>ATP + C-terminal L-cysteinyl-[HypE protein] + carbamoyl phosphate + H2O = AMP + C-terminal S-carboxamide-L-cysteinyl-[HypE protein] + diphosphate + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:55636"/>
+<dbReference type="Rhea" id="RHEA-COMP:14247"/>
+<dbReference type="Rhea" id="RHEA-COMP:14392"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:58228"/>
+<dbReference type="ChEBI" id="CHEBI:76913"/>
+<dbReference type="ChEBI" id="CHEBI:139126"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="12">
+<text>Protein modification; [NiFe] hydrogenase maturation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 7 8">Monomer (PubMed:12377778). Forms a complex with HypE (PubMed:15291820, PubMed:18065529).</text>
+</comment>
+<comment type="domain">
+<text>Contains a version of the YrdC-like domain which probably has a different function than that of some proteins where it has been implicated in RNA binding.</text>
+</comment>
+<comment type="domain">
+<text>Contains a unique C-terminal domain with an O-carbamoyltransferase motif.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9">Deletion of the gene results in the loss of hydrogenase activity and in the synthesis of the large subunits of the hydrogenase 1, 2 and 3 in the inactive precursor form.</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the carbamoyltransferase HypF family.</text>
+</comment>
+<dbReference type="EC" id="6.2.-.-" evidence="6 7"/>
+<dbReference type="EMBL" id="D14422">
+<property type="protein sequence ID" value="BAA03315.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69222.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75754.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76789.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65051">
+<property type="entry name" value="D65051"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417192.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001107704.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1GXT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=1-91"/>
+</dbReference>
+<dbReference type="PDB" id="1GXU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.27"/>
+<property type="chains" value="A=1-91"/>
+</dbReference>
+<dbReference type="PDBsum" id="1GXT"/>
+<dbReference type="PDBsum" id="1GXU"/>
+<dbReference type="SMR" id="P30131"/>
+<dbReference type="BioGrid" id="4259427">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10000N"/>
+<dbReference type="IntAct" id="P30131">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2712"/>
+<dbReference type="jPOST" id="P30131"/>
+<dbReference type="PaxDb" id="P30131"/>
+<dbReference type="PRIDE" id="P30131"/>
+<dbReference type="EnsemblBacteria" id="AAC75754">
+<property type="protein sequence ID" value="AAC75754"/>
+<property type="gene ID" value="b2712"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76789">
+<property type="protein sequence ID" value="BAE76789"/>
+<property type="gene ID" value="BAE76789"/>
+</dbReference>
+<dbReference type="GeneID" id="944963"/>
+<dbReference type="KEGG" id="ecj:JW5433"/>
+<dbReference type="KEGG" id="eco:b2712"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4030"/>
+<dbReference type="EchoBASE" id="EB1512"/>
+<dbReference type="EcoGene" id="EG11551">
+<property type="gene designation" value="hypF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C8H">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0068">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000278743"/>
+<dbReference type="InParanoid" id="P30131"/>
+<dbReference type="KO" id="K04656"/>
+<dbReference type="PhylomeDB" id="P30131"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11551-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5433-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11551-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00335"/>
+<dbReference type="EvolutionaryTrace" id="P30131"/>
+<dbReference type="PRO" id="PR:P30131"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016743">
+<property type="term" value="F:carboxyl- or carbamoyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003725">
+<property type="term" value="F:double-stranded RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016874">
+<property type="term" value="F:ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046944">
+<property type="term" value="P:protein carbamoylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051604">
+<property type="term" value="P:protein maturation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001792">
+<property type="entry name" value="Acylphosphatase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036046">
+<property type="entry name" value="Acylphosphatase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017968">
+<property type="entry name" value="Acylphosphatase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004421">
+<property type="entry name" value="Carbamoyltransferase_HypF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017945">
+<property type="entry name" value="DHBP_synth_RibB-like_a/b_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041440">
+<property type="entry name" value="HypF_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006070">
+<property type="entry name" value="YrdC-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011125">
+<property type="entry name" value="Znf_HypF"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00708">
+<property type="entry name" value="Acylphosphatase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17788">
+<property type="entry name" value="HypF_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01300">
+<property type="entry name" value="Sua5_yciO_yrdC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07503">
+<property type="entry name" value="zf-HYPF"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006256">
+<property type="entry name" value="CMPcnvr_hdrg_mat"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54975">
+<property type="entry name" value="SSF54975"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55821">
+<property type="entry name" value="SSF55821"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00143">
+<property type="entry name" value="hypF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00150">
+<property type="entry name" value="ACYLPHOSPHATASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51160">
+<property type="entry name" value="ACYLPHOSPHATASE_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51163">
+<property type="entry name" value="YRDC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Carbamoyltransferase HypF" id="PRO_0000071614">
+<location>
+<begin position="1"/>
+<end position="750"/>
+</location>
+</feature>
+<feature type="domain" description="Acylphosphatase-like" evidence="4">
+<location>
+<begin position="8"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="domain" description="YrdC-like" evidence="3">
+<location>
+<begin position="200"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type" evidence="14">
+<location>
+<begin position="109"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type" evidence="14">
+<location>
+<begin position="159"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="13">
+<location>
+<begin position="19"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5 7">
+<original>R</original>
+<variation>E</variation>
+<variation>H</variation>
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Diminishes activity." evidence="5 7">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="5">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="475"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Carbamoyl phosphate-dependent ATP hydrolysis activity diminished in vitro but sufficient for wild-type-like phenotype." evidence="5 7">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="476"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No change in activity." evidence="5">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="479"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAA03315." ref="1" evidence="12">
+<original>QQ</original>
+<variation>RE</variation>
+<location>
+<begin position="31"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAA03315." ref="1" evidence="12">
+<original>SGEMLRRSRGYVPDALALPP</original>
+<variation>RRNAAPFAGVCAGCAGFAS</variation>
+<location>
+<begin position="367"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAA03315." ref="1" evidence="12">
+<original>WR</original>
+<variation>CA</variation>
+<location>
+<begin position="431"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAA03315." ref="1" evidence="12">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="6"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="22"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="37"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="55"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="70"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="86"/>
+<end position="90"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1GXT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1GXU"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00518"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00520"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12377778"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12586941"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15291820"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18065529"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8661925"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8661925"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source ref="1"/>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12206761"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12377778"/>
+</source>
+</evidence>
+<sequence length="750" mass="82066" checksum="8BB245F80349A91E" modified="1997-11-01" version="2">
+MAKNTSCGVQLRIRGKVQGVGFRPFVWQLAQQLNLHGDVCNDGDGVEVRLREDPETFLVQ
+LYQHCPPLARIDSVEREPFIWSQLPTEFTIRQSTGGTMNTQIVPDAATCPACLAEMNTPG
+ERRYRYPFINCTHCGPRFTIIRAMPYDRPFTVMAAFPLCPACDKEYRDPLDRRFHAQPVA
+CPECGPHLEWVSHGEHAEQEAALQAAIAQLKMGKIVAIKGIGGFHLACDARNSNAVATLR
+ARKHRPAKPLAVMLPVADGLPDAARQLLTTPAAPIVLVDKKYVPELCDDIAPDLNEVGVM
+LPANPLQHLLLQELQCPLVMTSGNLSGKPPAISNEQALADLQGIADGFLIHNRDIVQRMD
+DSVVRESGEMLRRSRGYVPDALALPPGFKNVPPVLCLGADLKNTFCLVRGEQAVLSQHLG
+DLSDDGIQMQWREALRLMQNIYDFTPQYVVHDAHPGYVSSQWAREMNLPTQTVLHHHAHA
+AACLAEHQWPLDGGDVIALTLDGIGMGENGALWGGECLRVNYRECEHLGGLPAVALPGGD
+LAAKQPWRNLLAQCLRFVPEWQNYSETASVQQQNWSVLARAIERGINAPLASSCGRFFDA
+VAAALGCAPATLSYEGEAACALEALAASCHGVTHPVTMPRVDNQLDLATFWQQWLNWQAP
+VNQRAWAFHDALAQGFAALMREQATMRGITTLVFSGGVIHNRLLRARLAHYLADFTLLFP
+QSLPAGDGGLSLGQGVIAAARWLAGEVQNG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

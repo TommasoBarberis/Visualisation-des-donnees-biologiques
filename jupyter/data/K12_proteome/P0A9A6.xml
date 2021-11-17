@@ -1,0 +1,1160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-05-08" version="129">
+<accession>P0A9A6</accession>
+<accession>P06138</accession>
+<accession>P77857</accession>
+<accession>P78047</accession>
+<name>FTSZ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Cell division protein FtsZ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ftsZ</name>
+<name type="synonym">sfiB</name>
+<name type="synonym">sulB</name>
+<name type="ordered locus">b0095</name>
+<name type="ordered locus">JW0093</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Gene" volume="36" first="241" last="247">
+<title>The nucleotide sequence of the essential cell-division gene ftsZ of Escherichia coli.</title>
+<authorList>
+<person name="Yi Q.-M."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="3000876"/>
+<dbReference type="DOI" id="10.1016/0378-1119(85)90179-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO 158 AND 222</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1984" name="J. Bacteriol." volume="160" first="546" last="555">
+<title>DNA sequence and transcriptional organization of essential cell division genes ftsQ and ftsA of Escherichia coli: evidence for overlapping transcriptional units.</title>
+<authorList>
+<person name="Robinson A.C."/>
+<person name="Kenan D.J."/>
+<person name="Hatfull G.F."/>
+<person name="Sullivan N.F."/>
+<person name="Spiegelberg R."/>
+<person name="Donachie W.D."/>
+</authorList>
+<dbReference type="PubMed" id="6094474"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-39</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1985" name="J. Mol. Biol." volume="184" first="399" last="412">
+<title>Structure and expression of the cell division genes ftsQ, ftsA and ftsZ.</title>
+<authorList>
+<person name="Yi Q.-M."/>
+<person name="Rockenbach S."/>
+<person name="Ward J.E. Jr."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="2995680"/>
+<dbReference type="DOI" id="10.1016/0022-2836(85)90290-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-39</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="submission" date="1996-02" db="UniProtKB">
+<authorList>
+<person name="Frutiger S."/>
+<person name="Hughes G.J."/>
+<person name="Pasquali C."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-12</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-12</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="51" first="645" last="657">
+<title>R174 of Escherichia coli FtsZ is involved in membrane interaction and protofilament bundling, and is essential for cell division.</title>
+<authorList>
+<person name="Koppelman C.M."/>
+<person name="Aarsman M.E."/>
+<person name="Postmus J."/>
+<person name="Pas E."/>
+<person name="Muijsers A.O."/>
+<person name="Scheffers D.J."/>
+<person name="Nanninga N."/>
+<person name="den Blaauwen T."/>
+</authorList>
+<dbReference type="PubMed" id="14731269"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-5 AND 175-180</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ARG-174</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="5408" last="5415">
+<title>Sequence analysis, transcriptional organization, and insertional mutagenesis of the envA gene of Escherichia coli.</title>
+<authorList>
+<person name="Beall B."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="2824434"/>
+<dbReference type="DOI" id="10.1128/jb.169.12.5408-5415.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 377-383</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1991" name="Nature" volume="354" first="161" last="164">
+<title>FtsZ ring structure associated with division in Escherichia coli.</title>
+<authorList>
+<person name="Bi E."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="1944597"/>
+<dbReference type="DOI" id="10.1038/354161a0"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>RING-LIKE STRUCTURE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1992" name="Nature" volume="359" first="251" last="254">
+<title>Escherichia coli cell-division gene ftsZ encodes a novel GTP-binding protein.</title>
+<authorList>
+<person name="Raychaudhuri D."/>
+<person name="Park J.T."/>
+</authorList>
+<dbReference type="PubMed" id="1528267"/>
+<dbReference type="DOI" id="10.1038/359251a0"/>
+</citation>
+<scope>GTPASE ACTIVITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1992" name="Nature" volume="359" first="254" last="256">
+<title>The essential bacterial cell-division protein FtsZ is a GTPase.</title>
+<authorList>
+<person name="de Boer P."/>
+<person name="Crossley R."/>
+<person name="Rothfield L."/>
+</authorList>
+<dbReference type="PubMed" id="1528268"/>
+<dbReference type="DOI" id="10.1038/359254a0"/>
+</citation>
+<scope>GTPASE ACTIVITY</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="2754" last="2758">
+<title>Guanine nucleotide-dependent assembly of FtsZ into filaments.</title>
+<authorList>
+<person name="Mukherjee A."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="8169229"/>
+<dbReference type="DOI" id="10.1128/jb.176.9.2754-2758.1994"/>
+</citation>
+<scope>GTP-DEPENDENT FILAMENT FORMATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="5813" last="5817">
+<title>GTP-dependent polymerization of Escherichia coli FtsZ protein to form tubules.</title>
+<authorList>
+<person name="Bramhill D."/>
+<person name="Thompson C.M."/>
+</authorList>
+<dbReference type="PubMed" id="8016071"/>
+<dbReference type="DOI" id="10.1073/pnas.91.13.5813"/>
+</citation>
+<scope>GTP-DEPENDENT FILAMENT FORMATION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="22941" last="22944">
+<title>A point mutation converts Escherichia coli FtsZ septation GTPase to an ATPase.</title>
+<authorList>
+<person name="Raychaudhuri D."/>
+<person name="Park J.T."/>
+</authorList>
+<dbReference type="PubMed" id="8083192"/>
+</citation>
+<scope>MUTANTS</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="5080" last="5085">
+<title>Interaction between FtsZ and inhibitors of cell division.</title>
+<authorList>
+<person name="Huang J."/>
+<person name="Cao C."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="8752322"/>
+<dbReference type="DOI" id="10.1128/jb.178.17.5080-5085.1996"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH SULA</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="12998" last="13003">
+<title>Colocalization of cell division proteins FtsZ and FtsA to cytoskeletal structures in living Escherichia coli cells by using green fluorescent protein.</title>
+<authorList>
+<person name="Ma X."/>
+<person name="Ehrhardt D.W."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="8917533"/>
+<dbReference type="DOI" id="10.1073/pnas.93.23.12998"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FTSA</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="462" last="469">
+<title>Dynamic assembly of FtsZ regulated by GTP hydrolysis.</title>
+<authorList>
+<person name="Mukherjee A."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="9430638"/>
+<dbReference type="DOI" id="10.1093/emboj/17.2.462"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>GTPASE ACTIVITY</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1999" name="Mol. Microbiol." volume="32" first="265" last="274">
+<title>FtsZ dimerization in vivo.</title>
+<authorList>
+<person name="Di Lallo G."/>
+<person name="Anderluzzi D."/>
+<person name="Ghelardini P."/>
+<person name="Paolozzi L."/>
+</authorList>
+<dbReference type="PubMed" id="10231484"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1999.01344.x"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2002" name="EMBO J." volume="21" first="685" last="693">
+<title>Unique and overlapping roles for ZipA and FtsA in septal ring assembly in Escherichia coli.</title>
+<authorList>
+<person name="Pichoff S."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+<dbReference type="PubMed" id="11847116"/>
+<dbReference type="DOI" id="10.1093/emboj/21.4.685"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2004" name="Biochemistry" volume="43" first="282" last="288">
+<title>Rate-limiting guanosine 5'-triphosphate hydrolysis during nucleotide turnover by FtsZ, a prokaryotic tubulin homologue involved in bacterial cell division.</title>
+<authorList>
+<person name="Romberg L."/>
+<person name="Mitchison T.J."/>
+</authorList>
+<dbReference type="PubMed" id="14705956"/>
+<dbReference type="DOI" id="10.1021/bi035465r"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>GTPASE ACTIVITY</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2004" name="J. Mol. Evol." volume="58" first="19" last="29">
+<title>Molecular evolution of FtsZ protein sequences encoded within the genomes of archaea, bacteria, and eukaryota.</title>
+<authorList>
+<person name="Vaughan S."/>
+<person name="Wickstead B."/>
+<person name="Gull K."/>
+<person name="Addinall S.G."/>
+</authorList>
+<dbReference type="PubMed" id="14743312"/>
+<dbReference type="DOI" id="10.1007/s00239-003-2523-5"/>
+</citation>
+<scope>PHYLOGENETIC STUDY</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="54" first="588" last="597">
+<title>Bacterial cell division and the septal ring.</title>
+<authorList>
+<person name="Weiss D.S."/>
+</authorList>
+<dbReference type="PubMed" id="15491352"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2004.04283.x"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="3026" last="3035">
+<title>Interaction between cell division proteins FtsE and FtsZ.</title>
+<authorList>
+<person name="Corbin B.D."/>
+<person name="Wang Y."/>
+<person name="Beuria T.K."/>
+<person name="Margolin W."/>
+</authorList>
+<dbReference type="PubMed" id="17307852"/>
+<dbReference type="DOI" id="10.1128/JB.01581-06"/>
+</citation>
+<scope>INTERACTION WITH FTSE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="79" first="109" last="118">
+<title>YeeV is an Escherichia coli toxin that inhibits cell division by targeting the cytoskeleton proteins, FtsZ and MreB.</title>
+<authorList>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="21166897"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07433.x"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH MREB AND CBTA</scope>
+<scope>MUTAGENESIS OF 1-MET--GLU-32 AND 317-MET--ASP-383</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>INDUCTION BY HYDROXYUREA</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2012" name="FEMS Microbiol. Lett." volume="328" first="174" last="181">
+<title>A novel membrane-bound toxin for cell division, CptA (YgfX), inhibits polymerization of cytoskeleton proteins, FtsZ and MreB, in Escherichia coli.</title>
+<authorList>
+<person name="Masuda H."/>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Yamaguchi Y."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="22239607"/>
+<dbReference type="DOI" id="10.1111/j.1574-6968.2012.02496.x"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH CPTA</scope>
+<source>
+<strain>B / BL21-DE3</strain>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2012" name="Mol. Microbiol." volume="84" first="979" last="989">
+<title>YeeU enhances the bundling of cytoskeletal polymers of MreB and FtsZ, antagonizing the CbtA (YeeV) toxicity in Escherichia coli.</title>
+<authorList>
+<person name="Masuda H."/>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Wu K.P."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="22515815"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2012.08068.x"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH CBEA</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2017" name="Toxins" volume="9">
+<title>Interaction of type IV toxin/antitoxin systems in cryptic prophages of Escherichia coli K-12.</title>
+<authorList>
+<person name="Wen Z."/>
+<person name="Wang P."/>
+<person name="Sun C."/>
+<person name="Guo Y."/>
+<person name="Wang X."/>
+</authorList>
+<dbReference type="PubMed" id="28257056"/>
+<dbReference type="DOI" id="10.3390/toxins9030077"/>
+</citation>
+<scope>INTERACTION WITH CBTA; YKFI AND YPJF</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2018" name="Cell" volume="175" first="1380" last="1392">
+<title>Bifunctional immunity proteins protect bacteria against FtsZ-targeting ADP-ribosylating toxins.</title>
+<authorList>
+<person name="Ting S.Y."/>
+<person name="Bosch D.E."/>
+<person name="Mangiameli S.M."/>
+<person name="Radey M.C."/>
+<person name="Huang S."/>
+<person name="Park Y.J."/>
+<person name="Kelly K.A."/>
+<person name="Filip S.K."/>
+<person name="Goo Y.A."/>
+<person name="Eng J.K."/>
+<person name="Allaire M."/>
+<person name="Veesler D."/>
+<person name="Wiggins P.A."/>
+<person name="Peterson S.B."/>
+<person name="Mougous J.D."/>
+</authorList>
+<dbReference type="PubMed" id="30343895"/>
+<dbReference type="DOI" id="10.1016/j.cell.2018.09.037"/>
+</citation>
+<scope>ADP-RIBOSYLATION AT ARG-174 AND ARG-338 (MICROBIAL INFECTION)</scope>
+<source>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2000" name="EMBO J." volume="19" first="3179" last="3191">
+<title>The bacterial cell-division protein ZipA and its interaction with an FtsZ fragment revealed by X-ray crystallography.</title>
+<authorList>
+<person name="Mosyak L."/>
+<person name="Zhang Y."/>
+<person name="Glasfeld E."/>
+<person name="Haney S."/>
+<person name="Stahl M."/>
+<person name="Seehra J."/>
+<person name="Somers W.S."/>
+</authorList>
+<dbReference type="PubMed" id="10880432"/>
+<dbReference type="DOI" id="10.1093/emboj/19.13.3179"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 367-383 IN COMPLEX WITH ZIPA</scope>
+</reference>
+<comment type="function">
+<text>Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity. Polymerization and bundle formation is enhanced by CbeA.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="5 11 12 13 19">Formation of the FtsZ ring is inhibited by SulA, MinCD, DicB and toxins CbtA and CptA. Inhibition by toxin CbtA, SulA or DicB overexpression is neutralized by cytoskeleton bundling-enhancing protein CbeA, while inhibition by toxin CptA is neutralized by antitoxin CptB (PubMed:21166897, PubMed:22239607, PubMed:22515815, PubMed:8752322). Either FtsA or ZipA is required for Z ring formation and stabilization (PubMed:11847116).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 6 7 8 11 12 13 14 16 18 19 20 21">Homodimer. Polymerizes to form a dynamic ring structure in a strictly GTP-dependent manner. Polymers persist as long as GTP is present and disappear rapidly as soon as it is consumed. Interacts directly with several other division proteins, including FtsA and ZipA. Interacts with polymerization inhibitors SulA, CbtA and CptA. Interacts with MreB and polymerization bundling-enhancing factor CbeA. Interacts with CbtA, YkfI and YpjF (PubMed:28257056).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-370963"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-1126877">
+<id>P76364</id>
+<label>cbeA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-547386">
+<id>P0A6H1</id>
+<label>clpX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-550562">
+<id>P0ABH0</id>
+<label>ftsA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-550637">
+<id>P0A9R7</id>
+<label>ftsE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-371008">
+<id>P0A9X4</id>
+<label>mreB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-559071">
+<id>P36979</id>
+<label>rlmN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-552519">
+<id>P75862</id>
+<label>zapC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-1113728">
+<id>P36680</id>
+<label>zapD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-370963"/>
+<interactant intactId="EBI-1029213">
+<id>P77173</id>
+<label>zipA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 9 20">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="7 9 15 20">Assembles in a ring-like structure at midcell at the inner surface of the cytoplasmic membrane.</text>
+</comment>
+<comment type="induction">
+<text evidence="10">Repressed 1.3-fold by hydroxyurea (at protein level).</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The central and C-terminal regions are required for dimerization.</text>
+</comment>
+<comment type="PTM">
+<text evidence="15">(Microbial infection) ADP-ribosylated on Arg-174 and sometimes Arg-338 by Tre1 when infected by S.proteamaculans strain 568. This prevents the formation of Z rings, inhibiting cell division, leading to cell elongation and disadvantaging E.coli over S.proteamaculans during competition for nutrients. In vitro it can be de-ADP-ribosylated by S.proteamaculans Tri1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the FtsZ family.</text>
+</comment>
+<comment type="online information" name="Protein Spotlight">
+<link uri="https://web.expasy.org/spotlight/back_issues/171/"/>
+<text>Becoming two - Issue 171 of July 2015</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73206.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96663.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55034">
+<property type="protein sequence ID" value="CAA38872.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K02668">
+<property type="protein sequence ID" value="AAA23818.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M19211">
+<property type="protein sequence ID" value="AAA83848.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64731">
+<property type="entry name" value="CEECZ"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414637.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000462776.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1F47">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=367-383"/>
+</dbReference>
+<dbReference type="PDB" id="5HAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="K/L=370-379"/>
+</dbReference>
+<dbReference type="PDB" id="5HBU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="K=370-379"/>
+</dbReference>
+<dbReference type="PDB" id="5HSZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="K=372-382"/>
+</dbReference>
+<dbReference type="PDB" id="5K58">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.77"/>
+<property type="chains" value="K/L/M/N=372-379"/>
+</dbReference>
+<dbReference type="PDB" id="5KOA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.67"/>
+<property type="chains" value="D=370-381"/>
+</dbReference>
+<dbReference type="PDBsum" id="1F47"/>
+<dbReference type="PDBsum" id="5HAW"/>
+<dbReference type="PDBsum" id="5HBU"/>
+<dbReference type="PDBsum" id="5HSZ"/>
+<dbReference type="PDBsum" id="5K58"/>
+<dbReference type="PDBsum" id="5KOA"/>
+<dbReference type="SMR" id="P0A9A6"/>
+<dbReference type="BioGrid" id="4261887">
+<property type="interactions" value="577"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31873N"/>
+<dbReference type="IntAct" id="P0A9A6">
+<property type="interactions" value="61"/>
+</dbReference>
+<dbReference type="MINT" id="P0A9A6"/>
+<dbReference type="STRING" id="511145.b0095"/>
+<dbReference type="BindingDB" id="P0A9A6"/>
+<dbReference type="ChEMBL" id="CHEMBL3999"/>
+<dbReference type="SWISS-2DPAGE" id="P0A9A6"/>
+<dbReference type="EPD" id="P0A9A6"/>
+<dbReference type="jPOST" id="P0A9A6"/>
+<dbReference type="PaxDb" id="P0A9A6"/>
+<dbReference type="PRIDE" id="P0A9A6"/>
+<dbReference type="EnsemblBacteria" id="AAC73206">
+<property type="protein sequence ID" value="AAC73206"/>
+<property type="gene ID" value="b0095"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96663">
+<property type="protein sequence ID" value="BAB96663"/>
+<property type="gene ID" value="BAB96663"/>
+</dbReference>
+<dbReference type="GeneID" id="944786"/>
+<dbReference type="KEGG" id="ecj:JW0093"/>
+<dbReference type="KEGG" id="eco:b0095"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2185"/>
+<dbReference type="EchoBASE" id="EB0343"/>
+<dbReference type="EcoGene" id="EG10347">
+<property type="gene designation" value="ftsZ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CDK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0206">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000049094"/>
+<dbReference type="InParanoid" id="P0A9A6"/>
+<dbReference type="KO" id="K03531"/>
+<dbReference type="PhylomeDB" id="P0A9A6"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10347-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0093-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A9A6"/>
+<dbReference type="PRO" id="PR:P0A9A6"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032153">
+<property type="term" value="C:cell division site"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000917">
+<property type="term" value="P:division septum assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043093">
+<property type="term" value="P:FtsZ-dependent cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051258">
+<property type="term" value="P:protein polymerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd02201">
+<property type="entry name" value="FtsZ_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1440">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00909">
+<property type="entry name" value="FtsZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000158">
+<property type="entry name" value="Cell_div_FtsZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020805">
+<property type="entry name" value="Cell_div_FtsZ_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024757">
+<property type="entry name" value="FtsZ_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008280">
+<property type="entry name" value="Tub_FtsZ_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018316">
+<property type="entry name" value="Tubulin/FtsZ_2-layer-sand-dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036525">
+<property type="entry name" value="Tubulin/FtsZ_GTPase_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003008">
+<property type="entry name" value="Tubulin_FtsZ_GTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12327">
+<property type="entry name" value="FtsZ_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00091">
+<property type="entry name" value="Tubulin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00423">
+<property type="entry name" value="CELLDVISFTSZ"/>
+</dbReference>
+<dbReference type="SMART" id="SM00864">
+<property type="entry name" value="Tubulin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00865">
+<property type="entry name" value="Tubulin_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52490">
+<property type="entry name" value="SSF52490"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55307">
+<property type="entry name" value="SSF55307"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00065">
+<property type="entry name" value="ftsZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01134">
+<property type="entry name" value="FTSZ_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01135">
+<property type="entry name" value="FTSZ_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0013">ADP-ribosylation</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0717">Septation</keyword>
+<feature type="chain" description="Cell division protein FtsZ" id="PRO_0000114349">
+<location>
+<begin position="1"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="20"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="2">
+<location>
+<begin position="107"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="binding site" description="GTP" evidence="2">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="binding site" description="GTP" evidence="2">
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="binding site" description="GTP" evidence="2">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="modified residue" description="(Microbial infection) ADP-ribosylarginine; by S.proteamaculans Tre1" evidence="15">
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="modified residue" description="(Microbial infection) ADP-ribosylarginine; by S.proteamaculans Tre1" evidence="15">
+<location>
+<position position="338"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No interaction with MreB or CbtA (YeeV)." evidence="11">
+<location>
+<begin position="1"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No interaction with CtpA.">
+<location>
+<begin position="33"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In FtsZ-84; loss of GTPase-activity and conversion to an ATPase." evidence="17">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In FtsZ-Z3; lethal; greatly reduced GTP binding.">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Protein has decreased affinity for the cell inner membrane, polymerizes into filaments less efficiently than wild-type, the protofilaments no longer form bundles, still forms rings." evidence="7">
+<original>R</original>
+<variation>D</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No interaction with MreB or CbtA (YeeV)." evidence="11">
+<location>
+<begin position="317"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23818." ref="5" evidence="22">
+<original>ERIEGVEF</original>
+<variation>DALKVLNS</variation>
+<location>
+<begin position="32"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA38872." ref="1" evidence="22">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA38872." ref="1" evidence="22">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="374"/>
+<end position="382"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1F47"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00909"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10231484"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10880432"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11847116"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14705956"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14731269"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17307852"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1944597"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21166897"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22239607"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22515815"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28257056"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30343895"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8016071"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8083192"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8169229"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8752322"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8917533"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9430638"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000305"/>
+<sequence length="383" mass="40324" checksum="B3A53340367DBBA0" modified="2005-07-19" version="1">
+MFEPMELTNDAVIKVIGVGGGGGNAVEHMVRERIEGVEFFAVNTDAQALRKTAVGQTIQI
+GSGITKGLGAGANPEVGRNAADEDRDALRAALEGADMVFIAAGMGGGTGTGAAPVVAEVA
+KDLGILTVAVVTKPFNFEGKKRMAFAEQGITELSKHVDSLITIPNDKLLKVLGRGISLLD
+AFGAANDVLKGAVQGIAELITRPGLMNVDFADVRTVMSEMGYAMMGSGVASGEDRAEEAA
+EMAISSPLLEDIDLSGARGVLVNITAGFDLRLDEFETVGNTIRAFASDNATVVIGTSLDP
+DMNDELRVTVVATGIGMDKRPEITLVTNKQVQQPVMDRYQQHGMAPLTQEQKPVAKVVND
+NAPQTAKEPDYLDIPAFLRKQAD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

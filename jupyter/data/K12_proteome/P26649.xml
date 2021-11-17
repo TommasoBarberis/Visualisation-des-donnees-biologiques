@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-08-01" modified="2019-07-03" version="129">
+<accession>P26649</accession>
+<name>GLGS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 6">Surface composition regulator</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">glgS</name>
+<name type="synonym" evidence="6">scoR</name>
+<name type="ordered locus">b3049</name>
+<name type="ordered locus">JW3021</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Mol. Microbiol." volume="6" first="1877" last="1886">
+<title>Identification and molecular analysis of glgS, a novel growth-phase-regulated and rpoS-dependent gene involved in glycogen synthesis in Escherichia coli.</title>
+<authorList>
+<person name="Hengge-Aronis R."/>
+<person name="Fischer D."/>
+</authorList>
+<dbReference type="PubMed" id="1324388"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1992.tb01360.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2013" name="Biochem. J." volume="452" first="559" last="573">
+<title>GlgS, described previously as a glycogen synthesis control protein, negatively regulates motility and biofilm formation in Escherichia coli.</title>
+<authorList>
+<person name="Rahimpour M."/>
+<person name="Montero M."/>
+<person name="Almagro G."/>
+<person name="Viale A.M."/>
+<person name="Sevilla A."/>
+<person name="Canovas M."/>
+<person name="Munoz F.J."/>
+<person name="Baroja-Fernandez E."/>
+<person name="Bahaji A."/>
+<person name="Eydallin G."/>
+<person name="Dose H."/>
+<person name="Takeuchi R."/>
+<person name="Mori H."/>
+<person name="Pozueta-Romero J."/>
+</authorList>
+<dbReference type="PubMed" id="23537328"/>
+<dbReference type="DOI" id="10.1042/BJ20130154"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="6" evidence="1">
+<citation type="journal article" date="1997" name="Eur. J. Biochem." volume="246" first="301" last="310">
+<title>1H, 15N and 13C NMR assignments, secondary structure and overall topology of the Escherichia coli GlgS protein.</title>
+<authorList>
+<person name="Beglova N."/>
+<person name="Fischer D."/>
+<person name="Hengge-Aronis R."/>
+<person name="Gehring K."/>
+</authorList>
+<dbReference type="PubMed" id="9208918"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1997.t01-1-00301.x"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<comment type="function">
+<text evidence="2 4">Major determinant of cell surface composition. Negatively regulates motility, adhesion and synthesis of biofilm exopolysaccharides.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Expression is dependent on RpoS.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Deletion mutants show increased flagella and fimbriae production, are hypermotile, and exhibit increased biofilm formation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the GlgS family.</text>
+</comment>
+<comment type="caution">
+<text evidence="7 8">Was originally thought to be involved in glycogen synthesis, but it was shown later that its effect on glycogen metabolism is probably indirect.</text>
+</comment>
+<dbReference type="EMBL" id="Z11885">
+<property type="protein sequence ID" value="CAA77940.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76085.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16577.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S25201">
+<property type="entry name" value="S25201"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417521.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000350095.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1RRZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-66"/>
+</dbReference>
+<dbReference type="PDBsum" id="1RRZ"/>
+<dbReference type="SMR" id="P26649"/>
+<dbReference type="BioGrid" id="4262385">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="P26649">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3049"/>
+<dbReference type="jPOST" id="P26649"/>
+<dbReference type="PaxDb" id="P26649"/>
+<dbReference type="PRIDE" id="P26649"/>
+<dbReference type="EnsemblBacteria" id="AAC76085">
+<property type="protein sequence ID" value="AAC76085"/>
+<property type="gene ID" value="b3049"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16577">
+<property type="protein sequence ID" value="BAA16577"/>
+<property type="gene ID" value="BAA16577"/>
+</dbReference>
+<dbReference type="GeneID" id="39538031"/>
+<dbReference type="GeneID" id="947533"/>
+<dbReference type="KEGG" id="ecj:JW3021"/>
+<dbReference type="KEGG" id="eco:b3049"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3682"/>
+<dbReference type="EchoBASE" id="EB1355"/>
+<dbReference type="EcoGene" id="EG11381">
+<property type="gene designation" value="glgS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105WWV">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG411240A">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000004893"/>
+<dbReference type="KO" id="K22720"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11381-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3021-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P26649"/>
+<dbReference type="PRO" id="PR:P26649"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902201">
+<property type="term" value="P:negative regulation of bacterial-type flagellum-dependent cell motility"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900232">
+<property type="term" value="P:negative regulation of single-species biofilm formation on inanimate substrate"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010676">
+<property type="term" value="P:positive regulation of cellular carbohydrate metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.970.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00525">
+<property type="entry name" value="GlgS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015065">
+<property type="entry name" value="GlgS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036295">
+<property type="entry name" value="GlgS_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08971">
+<property type="entry name" value="GlgS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF109747">
+<property type="entry name" value="SSF109747"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Surface composition regulator" id="PRO_0000071599">
+<location>
+<begin position="1"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="3"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="7"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="30"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="41"/>
+<end position="59"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1RRZ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00525"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1324388"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23537328"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1324388"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23537328"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1324388"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23537328"/>
+</source>
+</evidence>
+<sequence length="66" mass="7892" checksum="D047AB6E7AD67523" modified="1992-08-01" version="1">
+MDHSLNSLNNFDFLARSFARMHAEGRPVDILAVTGNMDEEHRTWFCARYAWYCQQMMQAR
+ELELEH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

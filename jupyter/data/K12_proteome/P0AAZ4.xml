@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-11" modified="2019-06-05" version="99">
+<accession>P0AAZ4</accession>
+<accession>P45526</accession>
+<accession>P75833</accession>
+<name>RARA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Replication-associated recombination protein A</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">rarA</name>
+<name type="synonym" evidence="5">mgsA</name>
+<name type="synonym">ycaJ</name>
+<name type="ordered locus">b0892</name>
+<name type="ordered locus">JW0875</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1995" name="EMBO J." volume="14" first="3365" last="3372">
+<title>A novel periplasmic carrier protein involved in the sorting and transport of Escherichia coli lipoproteins destined for the outer membrane.</title>
+<authorList>
+<person name="Matsuyama S."/>
+<person name="Tajima T."/>
+<person name="Tokuda H."/>
+</authorList>
+<dbReference type="PubMed" id="7628437"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-61</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1987" name="Nucleic Acids Res." volume="15" first="1005" last="1017">
+<title>Cloning and characterization of the gene for Escherichia coli seryl-tRNA synthetase.</title>
+<authorList>
+<person name="Haertlein M."/>
+<person name="Madern D."/>
+<person name="Leberman R."/>
+</authorList>
+<dbReference type="PubMed" id="3029694"/>
+<dbReference type="DOI" id="10.1093/nar/15.3.1005"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 367-447</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="3554" last="3562">
+<title>Detection of new genes in a bacterial genome using Markov models for three gene classes.</title>
+<authorList>
+<person name="Borodovsky M."/>
+<person name="McIninch J."/>
+<person name="Koonin E.V."/>
+<person name="Rudd K.E."/>
+<person name="Medigue C."/>
+<person name="Danchin A."/>
+</authorList>
+<dbReference type="PubMed" id="7567469"/>
+<dbReference type="DOI" id="10.1093/nar/23.17.3554"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="8189" last="8195">
+<title>Circles: the replication-recombination-chromosome segregation connection.</title>
+<authorList>
+<person name="Barre F.X."/>
+<person name="Soballe B."/>
+<person name="Michel B."/>
+<person name="Aroyo M."/>
+<person name="Robertson M."/>
+<person name="Sherratt D."/>
+</authorList>
+<dbReference type="PubMed" id="11459952"/>
+<dbReference type="DOI" id="10.1073/pnas.111008998"/>
+</citation>
+<scope>FUNCTION IN RECOMBINATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Genes Cells" volume="10" first="181" last="191">
+<title>Functional overlap between RecA and MgsA (RarA) in the rescue of stalled replication forks in Escherichia coli.</title>
+<authorList>
+<person name="Shibata T."/>
+<person name="Hishida T."/>
+<person name="Kubota Y."/>
+<person name="Han Y.W."/>
+<person name="Iwasaki H."/>
+<person name="Shinagawa H."/>
+</authorList>
+<dbReference type="PubMed" id="15743409"/>
+<dbReference type="DOI" id="10.1111/j.1365-2443.2005.00831.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>OVEREXPRESSION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="12075" last="12085">
+<title>Structure and biochemical activities of Escherichia coli MgsA.</title>
+<authorList>
+<person name="Page A.N."/>
+<person name="George N.P."/>
+<person name="Marceau A.H."/>
+<person name="Cox M.M."/>
+<person name="Keck J.L."/>
+</authorList>
+<dbReference type="PubMed" id="21297161"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.210187"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) IN COMPLEX WITH PHOSPHATE</scope>
+<scope>FUNCTION</scope>
+<scope>ATPASE ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH SSB</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ARG-156</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3">DNA-dependent ATPase that plays important roles in cellular responses to stalled DNA replication processes.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Homotetramer. Interacts with the single-stranded DNA-binding protein (ssb).</text>
+</comment>
+<comment type="domain">
+<text evidence="3">Contains an N-terminal ATP-binding domain, an adjacent helical lid domain, and a C-terminal tetramerization domain.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="1">Mutation gives no obvious mutant phenotype, but, when combined with xer or dif mutants, leads to slower growth.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2">Overexpression causes an increase in mutation frequency and inhibits growth of recA mutant.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the AAA ATPase family. RarA/MGS1/WRNIP1 subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="frameshift">
+<sequence resource="EMBL" id="X05017"/>
+</conflict>
+<location>
+<position position="370"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73978.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35617.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D49398">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05017">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C64828">
+<property type="entry name" value="C64828"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415412.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000067755.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3PVS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=1-447"/>
+</dbReference>
+<dbReference type="PDBsum" id="3PVS"/>
+<dbReference type="SMR" id="P0AAZ4"/>
+<dbReference type="BioGrid" id="4259357">
+<property type="interactions" value="64"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48151N"/>
+<dbReference type="IntAct" id="P0AAZ4">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0892"/>
+<dbReference type="jPOST" id="P0AAZ4"/>
+<dbReference type="PaxDb" id="P0AAZ4"/>
+<dbReference type="PRIDE" id="P0AAZ4"/>
+<dbReference type="EnsemblBacteria" id="AAC73978">
+<property type="protein sequence ID" value="AAC73978"/>
+<property type="gene ID" value="b0892"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35617">
+<property type="protein sequence ID" value="BAA35617"/>
+<property type="gene ID" value="BAA35617"/>
+</dbReference>
+<dbReference type="GeneID" id="945505"/>
+<dbReference type="KEGG" id="ecj:JW0875"/>
+<dbReference type="KEGG" id="eco:b0892"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1385"/>
+<dbReference type="EchoBASE" id="EB2553"/>
+<dbReference type="EcoGene" id="EG12690">
+<property type="gene designation" value="rarA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105D1H">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2256">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000017623"/>
+<dbReference type="InParanoid" id="P0AAZ4"/>
+<dbReference type="KO" id="K07478"/>
+<dbReference type="PhylomeDB" id="P0AAZ4"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12690-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0875-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AAZ4"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030894">
+<property type="term" value="C:replisome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006261">
+<property type="term" value="P:DNA-dependent DNA replication"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032423">
+<property type="entry name" value="AAA_assoc_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008921">
+<property type="entry name" value="DNA_pol3_clamp-load_cplx_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021886">
+<property type="entry name" value="MgsA_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16193">
+<property type="entry name" value="AAA_assoc_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12002">
+<property type="entry name" value="MgsA_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48019">
+<property type="entry name" value="SSF48019"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Replication-associated recombination protein A" id="PRO_0000168755">
+<location>
+<begin position="1"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="7">
+<location>
+<begin position="57"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of ATPase activity." evidence="3">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="156"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11459952"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15743409"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21297161"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11459952"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15743409"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21297161"/>
+</source>
+</evidence>
+<sequence length="447" mass="49626" checksum="116ACBE38E4E4A3A" modified="2005-10-11" version="1">
+MSNLSLDFSDNTFQPLAARMRPENLAQYIGQQHLLAAGKPLPRAIEAGHLHSMILWGPPG
+TGKTTLAEVIARYANADVERISAVTSGVKEIREAIERARQNRNAGRRTILFVDEVHRFNK
+SQQDAFLPHIEDGTITFIGATTENPSFELNSALLSRARVYLLKSLSTEDIEQVLTQAMED
+KTRGYGGQDIVLPDETRRAIAELVNGDARRALNTLEMMADMAEVDDSGKRVLKPELLTEI
+AGERSARFDNKGDRFYDLISALHKSVRGSAPDAALYWYARIITAGGDPLYVARRCLAIAS
+EDVGNADPRAMQVAIAAWDCFTRVGPAEGERAIAQAIVYLACAPKSNAVYTAFKAALADA
+RERPDYDVPVHLRNAPTKLMKEMGYGQEYRYAHDEANAYAAGEVYFPPEIAQTRYYFPTN
+RGLEGKIGEKLAWLAEQDQNSPIKRYR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

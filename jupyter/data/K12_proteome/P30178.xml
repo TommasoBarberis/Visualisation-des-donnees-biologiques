@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-04-01" modified="2019-05-08" version="132">
+<accession>P30178</accession>
+<accession>P75778</accession>
+<name>HCXB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Hydroxycarboxylate dehydrogenase B</fullName>
+<ecNumber evidence="2">1.1.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">2-oxoglutarate reductase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="6">Hydroxyphenylpyruvate reductase</fullName>
+<ecNumber evidence="2">1.1.1.237</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName evidence="6">Phenylpyruvate reductase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="4">hcxB</name>
+<name type="synonym" evidence="7">ybiC</name>
+<name type="ordered locus">b0801</name>
+<name type="ordered locus">JW0786</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Jpn. J. Genet." volume="69" first="1" last="12">
+<title>Structural analysis of the rhlE gene of Escherichia coli.</title>
+<authorList>
+<person name="Ohmori H."/>
+</authorList>
+<dbReference type="PubMed" id="8037924"/>
+<dbReference type="DOI" id="10.1266/jjg.69.1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2017" name="Nat. Methods" volume="14" first="187" last="194">
+<title>Nontargeted in vitro metabolomics for high-throughput identification of novel enzymes in Escherichia coli.</title>
+<authorList>
+<person name="Sevin D.C."/>
+<person name="Fuhrer T."/>
+<person name="Zamboni N."/>
+<person name="Sauer U."/>
+</authorList>
+<dbReference type="PubMed" id="27941785"/>
+<dbReference type="DOI" id="10.1038/nmeth.4103"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="2006-03" db="PDB data bank">
+<title>The structure of a putative malate/lactate dehydrogenase from E. coli.</title>
+<authorList>
+<person name="Cuff M.E."/>
+<person name="Skarina T."/>
+<person name="Edwards A."/>
+<person name="Savchenko A."/>
+<person name="Cymborowski M."/>
+<person name="Minor W."/>
+<person name="Joachimiak A."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) IN COMPLEX WITH NAD</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Catalyzes the NAD(P)H-dependent reduction of 2-oxoglutarate, phenylpyruvate and (4-hydroxyphenyl)pyruvate, leading to the respective 2-hydroxycarboxylate in vitro. Shows a preference for NADPH over NADH as a redox partner. Do not catalyze the reverse reactions.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>2-hydroxyglutarate + NADP(+) = 2-oxoglutarate + H(+) + NADPH</text>
+<dbReference type="Rhea" id="RHEA:52308"/>
+<dbReference type="ChEBI" id="CHEBI:11596"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16810"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>2-hydroxyglutarate + NAD(+) = 2-oxoglutarate + H(+) + NADH</text>
+<dbReference type="Rhea" id="RHEA:13449"/>
+<dbReference type="ChEBI" id="CHEBI:11596"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16810"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>3-phenyllactate + NADP(+) = 3-phenylpyruvate + H(+) + NADPH</text>
+<dbReference type="Rhea" id="RHEA:52692"/>
+<dbReference type="ChEBI" id="CHEBI:8100"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:18005"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>3-phenyllactate + NAD(+) = 3-phenylpyruvate + H(+) + NADH</text>
+<dbReference type="Rhea" id="RHEA:52688"/>
+<dbReference type="ChEBI" id="CHEBI:8100"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:18005"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>(2R)-2-hydroxy-3-(4-hydroxyphenyl)propanoate + NAD(+) = 3-(4-hydroxyphenyl)pyruvate + H(+) + NADH</text>
+<dbReference type="Rhea" id="RHEA:10780"/>
+<dbReference type="ChEBI" id="CHEBI:10980"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:36242"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+<dbReference type="EC" id="1.1.1.237"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>(2R)-2-hydroxy-3-(4-hydroxyphenyl)propanoate + NADP(+) = 3-(4-hydroxyphenyl)pyruvate + H(+) + NADPH</text>
+<dbReference type="Rhea" id="RHEA:10776"/>
+<dbReference type="ChEBI" id="CHEBI:10980"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:36242"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+<dbReference type="EC" id="1.1.1.237"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>(2R)-3-(3,4-dihydroxyphenyl)lactate + NADP(+) = 3-(3,4-dihydroxyphenyl)pyruvate + H(+) + NADPH</text>
+<dbReference type="Rhea" id="RHEA:57704"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29055"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+<dbReference type="ChEBI" id="CHEBI:71492"/>
+<dbReference type="EC" id="1.1.1.237"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>(2R)-3-(3,4-dihydroxyphenyl)lactate + NAD(+) = 3-(3,4-dihydroxyphenyl)pyruvate + H(+) + NADH</text>
+<dbReference type="Rhea" id="RHEA:57408"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29055"/>
+<dbReference type="ChEBI" id="CHEBI:57540"/>
+<dbReference type="ChEBI" id="CHEBI:57945"/>
+<dbReference type="ChEBI" id="CHEBI:71492"/>
+<dbReference type="EC" id="1.1.1.237"/>
+</reaction>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the LDH2/MDH2 oxidoreductase family.</text>
+</comment>
+<dbReference type="EC" id="1.1.1.-" evidence="2"/>
+<dbReference type="EC" id="1.1.1.237" evidence="2"/>
+<dbReference type="EMBL" id="L02123">
+<property type="protein sequence ID" value="AAA53657.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73888.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35467.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64817">
+<property type="entry name" value="A64817"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415322.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000443530.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2G8Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=1-361"/>
+</dbReference>
+<dbReference type="PDBsum" id="2G8Y"/>
+<dbReference type="SMR" id="P30178"/>
+<dbReference type="BioGrid" id="4259966">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11426N"/>
+<dbReference type="STRING" id="511145.b0801"/>
+<dbReference type="jPOST" id="P30178"/>
+<dbReference type="PaxDb" id="P30178"/>
+<dbReference type="PRIDE" id="P30178"/>
+<dbReference type="EnsemblBacteria" id="AAC73888">
+<property type="protein sequence ID" value="AAC73888"/>
+<property type="gene ID" value="b0801"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35467">
+<property type="protein sequence ID" value="BAA35467"/>
+<property type="gene ID" value="BAA35467"/>
+</dbReference>
+<dbReference type="GeneID" id="945412"/>
+<dbReference type="KEGG" id="ecj:JW0786"/>
+<dbReference type="KEGG" id="eco:b0801"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1477"/>
+<dbReference type="EchoBASE" id="EB1541"/>
+<dbReference type="EcoGene" id="EG11581">
+<property type="gene designation" value="ybiC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DG4">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2055">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000173271"/>
+<dbReference type="InParanoid" id="P30178"/>
+<dbReference type="KO" id="K13574"/>
+<dbReference type="PhylomeDB" id="P30178"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11581-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0786-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11581-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P30178"/>
+<dbReference type="PRO" id="PR:P30178"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047995">
+<property type="term" value="F:hydroxyphenylpyruvate reductase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0102742">
+<property type="term" value="F:R(+)-3,4-dihydroxyphenyllactate:NADP+ oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036111">
+<property type="entry name" value="Mal/L-sulfo/L-lacto_DH-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003767">
+<property type="entry name" value="Malate/L-lactate_DH-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11091">
+<property type="entry name" value="PTHR11091"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02615">
+<property type="entry name" value="Ldh_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF89733">
+<property type="entry name" value="SSF89733"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Hydroxycarboxylate dehydrogenase B" id="PRO_0000083840">
+<location>
+<begin position="1"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="1 3">
+<location>
+<begin position="122"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="1 3">
+<location>
+<begin position="178"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="1 3">
+<location>
+<begin position="313"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="1 3">
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="1 3">
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="1 3">
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA53657." ref="1" evidence="5">
+<original>MG</original>
+<variation>IP</variation>
+<location>
+<begin position="23"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="9"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="27"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="53"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="64"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="72"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="80"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="90"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="137"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="165"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="174"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="183"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="188"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="205"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="217"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="234"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="247"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="258"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="269"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="279"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="287"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="314"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="328"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="332"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="349"/>
+<end position="360"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2G8Y"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27941785"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source ref="6"/>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27941785"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="27941785"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAC73888.1"/>
+</source>
+</evidence>
+<sequence length="361" mass="38897" checksum="2B29784979E48543" modified="1997-11-01" version="2">
+MESGHRFDAQTLHSFIQAVFRQMGSEEQEAKLVADHLIAANLAGHDSHGIGMIPSYVRSW
+SQGHLQINHHAKTVKEAGAAVTLDGDRAFGQVAAHEAMALGIEKAHQHGIAAVALHNSHH
+IGRIGYWAEQCAAAGFVSIHFVSVVGIPMVAPFHGRDSRFGTNPFCVVFPRKDNFPLLLD
+YATSAIAFGKTRVAWHKGVPVPPGCLIDVNGVPTTNPAVMQESPLGSLLTFAEHKGYALA
+AMCEILGGALSGGKTTHQETLQTSPDAILNCMTTIIINPELFGAPDCNAQTEAFAEWVKA
+SPHDDDKPILLPGEWEVNTRRERQKQGIPLDAGSWQAICDAARQIGMPEETLQAFCQQLA
+S
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

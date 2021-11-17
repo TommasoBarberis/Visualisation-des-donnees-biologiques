@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-05-08" version="128">
+<accession>P37613</accession>
+<accession>Q2M7C2</accession>
+<name>PANZ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7 14">PanD regulatory factor</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7 13">panZ</name>
+<name type="synonym" evidence="6 15">panM</name>
+<name type="synonym">yhhK</name>
+<name type="ordered locus">b3459</name>
+<name type="ordered locus">JW3424</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2012" name="Biochem. Biophys. Res. Commun." volume="426" first="350" last="355">
+<title>Formation of a heterooctameric complex between aspartate alpha-decarboxylase and its cognate activating factor, PanZ, is CoA-dependent.</title>
+<authorList>
+<person name="Monteiro D.C."/>
+<person name="Rugen M.D."/>
+<person name="Shepherd D."/>
+<person name="Nozaki S."/>
+<person name="Niki H."/>
+<person name="Webb M.E."/>
+</authorList>
+<dbReference type="PubMed" id="22940551"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2012.08.084"/>
+</citation>
+<scope>INTERACTION WITH PAND</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2012" name="MicrobiologyOpen" volume="1" first="298" last="310">
+<title>An activator for pyruvoyl-dependent l-aspartate alpha-decarboxylase is conserved in a small group of the gamma-proteobacteria including Escherichia coli.</title>
+<authorList>
+<person name="Nozaki S."/>
+<person name="Webb M.E."/>
+<person name="Niki H."/>
+</authorList>
+<dbReference type="PubMed" id="23170229"/>
+<dbReference type="DOI" id="10.1002/mbo3.34"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PAND</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6" evidence="1">
+<citation type="submission" date="2008-06" db="PDB data bank">
+<title>Solution NMR structure of putative N-acetyl transferase YhhK from E. coli bound to coenzyme A.</title>
+<authorList>
+<person name="Cort J.R."/>
+<person name="Yee A."/>
+<person name="Arrowsmith C.H."/>
+<person name="Kennedy M.A."/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR IN COMPLEX WITH COENZYME A</scope>
+</reference>
+<reference key="7" evidence="2">
+<citation type="submission" date="2014-03" db="PDB data bank">
+<title>Direct visualisation of strain-induced protein post-translational modification.</title>
+<authorList>
+<person name="Monteiro D.C.F."/>
+<person name="Patel V."/>
+<person name="Bartlett C.P."/>
+<person name="Grant T.D."/>
+<person name="Nozaki S."/>
+<person name="Gowdy J.A."/>
+<person name="Snell E.H."/>
+<person name="Niki H."/>
+<person name="Pearson A.R."/>
+<person name="Webb M.E."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.61 ANGSTROMS) IN COMPLEX WITH PAND AND ACETYL COENZYME A</scope>
+</reference>
+<reference key="8" evidence="3 4">
+<citation type="journal article" date="2015" name="Chem. Biol." volume="22" first="492" last="503">
+<title>The structure of the PanD/PanZ protein complex reveals negative feedback regulation of pantothenate biosynthesis by coenzyme A.</title>
+<authorList>
+<person name="Monteiro D.C."/>
+<person name="Patel V."/>
+<person name="Bartlett C.P."/>
+<person name="Nozaki S."/>
+<person name="Grant T.D."/>
+<person name="Gowdy J.A."/>
+<person name="Thompson G.S."/>
+<person name="Kalverda A.P."/>
+<person name="Snell E.H."/>
+<person name="Niki H."/>
+<person name="Pearson A.R."/>
+<person name="Webb M.E."/>
+</authorList>
+<dbReference type="PubMed" id="25910242"/>
+<dbReference type="DOI" id="10.1016/j.chembiol.2015.03.017"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEXES WITH PAND AND ACETYL COENZYME A</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH PAND</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF ASN-45</scope>
+</reference>
+<comment type="function">
+<text evidence="9 10">Controls both the activation and catalytic activity of PanD in a coenzyme A (CoA)-dependent fashion. Binding of CoA or a derivative to PanZ leads to interaction with PanD, which promotes the processing and activation of pro-PanD, and subsequent substrate-mediated inhibition of the active form of PanD (PubMed:23170229, PubMed:25910242). Inhibition of PanD activity is probably the primary metabolic role of PanZ, allowing negative feedback regulation of pantothenate biosynthesis by CoA (PubMed:25910242).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="10">Activation of PanD processing occurs even at low CoA concentrations. In contrast, full inhibition of PanD catalytic activity only occurs at sufficiently high CoA concentrations.</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 9 10">Interacts with PanD in the presence of CoA (PubMed:23170229, PubMed:22940551, PubMed:25910242). Forms a heterooctameric complex composed of four PanD subunits and four PanZ subunits (PubMed:22940551, PubMed:25910242). Monomer in solution (PubMed:22940551).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9">Deletion mutants are deficient in the biosynthetic pathway for pantothenate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7 14">Belongs to the PanZ/PanM family.</text>
+</comment>
+<comment type="caution">
+<text evidence="6">Lacks the conserved catalytic glutamate found in many enzymatically active members of the Gcn5-like N-acetyltransferase (GNAT) family.</text>
+</comment>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18434.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76484.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77834.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S47678">
+<property type="entry name" value="S47678"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417916.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000778768.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2K5T">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-127"/>
+</dbReference>
+<dbReference type="PDB" id="4CRY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.61"/>
+<property type="chains" value="B=1-127"/>
+</dbReference>
+<dbReference type="PDB" id="4CRZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="B=1-127"/>
+</dbReference>
+<dbReference type="PDB" id="4CS0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="B=1-127"/>
+</dbReference>
+<dbReference type="PDB" id="5LS7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.16"/>
+<property type="chains" value="B=1-127"/>
+</dbReference>
+<dbReference type="PDBsum" id="2K5T"/>
+<dbReference type="PDBsum" id="4CRY"/>
+<dbReference type="PDBsum" id="4CRZ"/>
+<dbReference type="PDBsum" id="4CS0"/>
+<dbReference type="PDBsum" id="5LS7"/>
+<dbReference type="SMR" id="P37613"/>
+<dbReference type="BioGrid" id="4262496">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="IntAct" id="P37613">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3459"/>
+<dbReference type="EPD" id="P37613"/>
+<dbReference type="jPOST" id="P37613"/>
+<dbReference type="PaxDb" id="P37613"/>
+<dbReference type="PRIDE" id="P37613"/>
+<dbReference type="DNASU" id="947963"/>
+<dbReference type="EnsemblBacteria" id="AAC76484">
+<property type="protein sequence ID" value="AAC76484"/>
+<property type="gene ID" value="b3459"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77834">
+<property type="protein sequence ID" value="BAE77834"/>
+<property type="gene ID" value="BAE77834"/>
+</dbReference>
+<dbReference type="GeneID" id="947963"/>
+<dbReference type="KEGG" id="ecj:JW3424"/>
+<dbReference type="KEGG" id="eco:b3459"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3266"/>
+<dbReference type="EchoBASE" id="EB2125"/>
+<dbReference type="EcoGene" id="EG12211">
+<property type="gene designation" value="panM"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105U59">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111V7B">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125696"/>
+<dbReference type="InParanoid" id="P37613"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12211-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3424-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P37613"/>
+<dbReference type="PRO" id="PR:P37613"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043086">
+<property type="term" value="P:negative regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015940">
+<property type="term" value="P:pantothenate biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016485">
+<property type="term" value="P:protein processing"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031638">
+<property type="term" value="P:zymogen activation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02018">
+<property type="entry name" value="PanZ_PanM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016181">
+<property type="entry name" value="Acyl_CoA_acyltransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000182">
+<property type="entry name" value="GNAT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032900">
+<property type="entry name" value="PanZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040448">
+<property type="entry name" value="PanZ_GNAT"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12568">
+<property type="entry name" value="PanZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55729">
+<property type="entry name" value="SSF55729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51186">
+<property type="entry name" value="GNAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0566">Pantothenate biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="PanD regulatory factor" id="PRO_0000169553">
+<location>
+<begin position="1"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="domain" description="N-acetyltransferase" evidence="7">
+<location>
+<begin position="1"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PanD" evidence="10">
+<location>
+<begin position="43"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PanD" evidence="10">
+<location>
+<begin position="66"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="region of interest" description="Coenzyme A binding" evidence="1 7 10 11 12">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="region of interest" description="Coenzyme A binding" evidence="1 7 10 11 12">
+<location>
+<begin position="72"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of affinity for PanD. Is still able to activate but not regulate the PanD protein." evidence="10">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="4"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="13"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="28"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="37"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="47"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="60"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="74"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="77"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="94"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="105"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="118"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="123"/>
+<end position="127"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2K5T"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4CRY"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4CRZ"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4CS0"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5LS7"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q7CPJ9"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02018"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22940551"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23170229"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25910242"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source ref="6"/>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source ref="7"/>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23170229"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<evidence key="15" type="ECO:0000312">
+<source>
+<dbReference type="EcoGene" id="EG12211"/>
+</source>
+</evidence>
+<sequence length="127" mass="14506" checksum="EF054A30D294519A" modified="1994-10-01" version="1">
+MKLTIIRLEKFSDQDRIDLQKIWPEYSPSSLQVDDNHRIYAARFNERLLAAVRVTLSGTE
+GALDSLRVREVTRRRGVGQYLLEEVLRNNPGVSCWWMADAGVEDRGVMTAFMQALGFTAQ
+QGGWEKC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-06-05" version="123">
+<accession>Q47622</accession>
+<accession>P77358</accession>
+<name>SAPA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Probable ABC transporter periplasmic-binding protein SapA</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">sapA</name>
+<name type="ordered locus">b1294</name>
+<name type="ordered locus">JW1287</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Microbiology" volume="147" first="2991" last="3003">
+<title>Identification of the ABC protein SapD as the subunit that confers ATP dependence to the K+-uptake systems Trk(H) and Trk(G) from Escherichia coli K-12.</title>
+<authorList>
+<person name="Harms C."/>
+<person name="Domoto Y."/>
+<person name="Celik C."/>
+<person name="Rahe E."/>
+<person name="Stumpe S."/>
+<person name="Schmid R."/>
+<person name="Nakamura T."/>
+<person name="Bakker E.P."/>
+</authorList>
+<dbReference type="PubMed" id="11700350"/>
+<dbReference type="DOI" id="10.1099/00221287-147-11-2991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / FRAG5</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO 34-35</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2016" name="J. Biol. Chem." volume="291" first="26343" last="26351">
+<title>A novel putrescine exporter SapBCDF of Escherichia coli.</title>
+<authorList>
+<person name="Sugiyama Y."/>
+<person name="Nakamura A."/>
+<person name="Matsumoto M."/>
+<person name="Kanbe A."/>
+<person name="Sakanaka M."/>
+<person name="Higashi K."/>
+<person name="Igarashi K."/>
+<person name="Katayama T."/>
+<person name="Suzuki H."/>
+<person name="Kurihara S."/>
+</authorList>
+<dbReference type="PubMed" id="27803167"/>
+<dbReference type="DOI" id="10.1074/jbc.M116.762450"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">Not part of a putrescine export system (PubMed:27803167). Very similar to a S.typhimurium protein implicated in antimicrobial peptide resistance, but the SapBCDF operon in E.coli is implicated in putrescine export (PubMed:27803167).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Periplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">No change in extracellular putrescine levels.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the bacterial solute-binding protein 5 family.</text>
+</comment>
+<dbReference type="EMBL" id="X97282">
+<property type="protein sequence ID" value="CAA65937.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74376.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA14855.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64878">
+<property type="entry name" value="A64878"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415810.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001250216.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q47622"/>
+<dbReference type="BioGrid" id="4261257">
+<property type="interactions" value="254"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10822N"/>
+<dbReference type="IntAct" id="Q47622">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1294"/>
+<dbReference type="TCDB" id="3.A.1.5.42">
+<property type="family name" value="the atp-binding cassette (abc) superfamily"/>
+</dbReference>
+<dbReference type="jPOST" id="Q47622"/>
+<dbReference type="PaxDb" id="Q47622"/>
+<dbReference type="PRIDE" id="Q47622"/>
+<dbReference type="EnsemblBacteria" id="AAC74376">
+<property type="protein sequence ID" value="AAC74376"/>
+<property type="gene ID" value="b1294"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA14855">
+<property type="protein sequence ID" value="BAA14855"/>
+<property type="gene ID" value="BAA14855"/>
+</dbReference>
+<dbReference type="GeneID" id="945873"/>
+<dbReference type="KEGG" id="ecj:JW1287"/>
+<dbReference type="KEGG" id="eco:b1294"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.985"/>
+<dbReference type="EchoBASE" id="EB4155"/>
+<dbReference type="EcoGene" id="EG20254">
+<property type="gene designation" value="sapA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108HIY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4166">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000164955"/>
+<dbReference type="InParanoid" id="Q47622"/>
+<dbReference type="KO" id="K19226"/>
+<dbReference type="PhylomeDB" id="Q47622"/>
+<dbReference type="BioCyc" id="EcoCyc:SAPA-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1287-MONOMER"/>
+<dbReference type="PRO" id="PR:Q47622"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043190">
+<property type="term" value="C:ATP-binding cassette (ABC) transporter complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042597">
+<property type="term" value="C:periplasmic space"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030678">
+<property type="entry name" value="Peptide/Ni-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039424">
+<property type="entry name" value="SBP_5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023765">
+<property type="entry name" value="SBP_5_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000914">
+<property type="entry name" value="SBP_5_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30290">
+<property type="entry name" value="PTHR30290"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00496">
+<property type="entry name" value="SBP_bac_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002741">
+<property type="entry name" value="MppA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01040">
+<property type="entry name" value="SBP_BACTERIAL_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Probable ABC transporter periplasmic-binding protein SapA" id="PRO_0000031801">
+<location>
+<begin position="22"/>
+<end position="547"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2." ref="2" evidence="3">
+<original>SG</original>
+<variation>RV</variation>
+<location>
+<begin position="34"/>
+<end position="35"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27803167"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="547" mass="61565" checksum="EB552BB3B8E102BF" modified="1996-11-01" version="1" precursor="true">
+MRQVLSSLLVIAGLVSGQAIAAPESPPHADIRDSGFVYCVSGQVNTFNPSKASSGLIVDT
+LAAQFYDRLLDVDPYTYRLMPELAESWEVLDNGATYRFHLRRDVPFQKTDWFTPTRKMNA
+DDVVFTFQRIFDRNNPWHNVNGSNFPYFDSLQFADNVKSVRKLDNHTVEFRLAQPDASFL
+WHLATHYASVMSAEYARKLEKEDRQEQLDRQPVGTGPYQLSEYRAGQFIRLQRHDDFWRG
+KPLMPQVVVDLGSGGTGRLSKLLTGECDVLAWPAASQLSILRDDPRLRLTLRPGMNVAYL
+AFNTAKPPLNNPAVRHALALAINNQRLMQSIYYGTAETAASILPRASWAYDNEAKITEYN
+PAKSREQLKSLGLENLTLKLWVPTRSQAWNPSPLKTAELIQADMAQVGVKVVIVPVEGRF
+QEARLMDMSHDLTLSGWATDSNDPDSFFRPLLSCAAIHSQTNLAHWCDPKFDSVLRKALS
+SQQLAARIEAYDEAQSILAQELPILPLASSLRLQAYRYDIKGLVLSPFGNASFAGVYREK
+QDEVKKP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,766 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="117">
+<accession>P0ACP1</accession>
+<accession>P21168</accession>
+<name>CRA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Catabolite repressor/activator</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Fructose repressor</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">cra</name>
+<name type="synonym">fruC</name>
+<name type="synonym">fruR</name>
+<name type="synonym">shl</name>
+<name type="ordered locus">b0080</name>
+<name type="ordered locus">JW0078</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="4696" last="4700">
+<title>Molecular cloning, nucleotide sequence, and expression of shl, a new gene in the 2-minute region of the genetic map of Escherichia coli.</title>
+<authorList>
+<person name="Leclerc G."/>
+<person name="Noel G."/>
+<person name="Drapeau G.R."/>
+</authorList>
+<dbReference type="PubMed" id="2198273"/>
+<dbReference type="DOI" id="10.1128/jb.172.8.4696-4700.1990"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1991" name="Mol. Gen. Genet." volume="226" first="332" last="336">
+<title>Nucleotide sequence of the ilvH-fruR gene region of Escherichia coli K12 and Salmonella typhimurium LT2.</title>
+<authorList>
+<person name="Jahreis K."/>
+<person name="Postma P.W."/>
+<person name="Lengeler J.W."/>
+</authorList>
+<dbReference type="PubMed" id="1851954"/>
+<dbReference type="DOI" id="10.1007/BF00273623"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="J. Mol. Biol." volume="234" first="28" last="44">
+<title>In vitro binding of the pleiotropic transcriptional regulatory protein, FruR, to the fru, pps, ace, pts and icd operons of Escherichia coli and Salmonella typhimurium.</title>
+<authorList>
+<person name="Ramseier T.M."/>
+<person name="Negre D."/>
+<person name="Cortay J.C."/>
+<person name="Scarabel M."/>
+<person name="Cozzone A.J."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8230205"/>
+<dbReference type="DOI" id="10.1006/jmbi.1993.1561"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="14885" last="14891">
+<title>In vitro asymmetric binding of the pleiotropic regulatory protein, FruR, to the ace operator controlling glyoxylate shunt enzyme synthesis.</title>
+<authorList>
+<person name="Cortay J.C."/>
+<person name="Negre D."/>
+<person name="Scarabel M."/>
+<person name="Ramseier T.M."/>
+<person name="Vartak N.B."/>
+<person name="Reizer J."/>
+<person name="Saier M.H. Jr."/>
+<person name="Cozzone A.J."/>
+</authorList>
+<dbReference type="PubMed" id="8195118"/>
+</citation>
+<scope>FUNCTION IN GLYOXYLATE SHUNT REGULATION</scope>
+<scope>DNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1995" name="Mol. Microbiol." volume="16" first="1157" last="1169">
+<title>The global regulatory protein FruR modulates the direction of carbon flow in Escherichia coli.</title>
+<authorList>
+<person name="Ramseier T.M."/>
+<person name="Bledig S."/>
+<person name="Michotey V."/>
+<person name="Feghali R."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8577250"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1995.tb02339.x"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF CARBON METABOLISM</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="280" last="283">
+<title>Frur mediates catabolite activation of pyruvate kinase (pykF) gene expression in Escherichia coli.</title>
+<authorList>
+<person name="Bledig S.A."/>
+<person name="Ramseier T.M."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8550429"/>
+<dbReference type="DOI" id="10.1128/jb.178.1.280-283.1996"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1996" name="Mol. Microbiol." volume="21" first="257" last="266">
+<title>Definition of a consensus DNA-binding site for the Escherichia coli pleiotropic regulatory protein, FruR.</title>
+<authorList>
+<person name="Negre D."/>
+<person name="Bonod-Bidaud C."/>
+<person name="Geourjon C."/>
+<person name="Deleage G."/>
+<person name="Cozzone A.J."/>
+<person name="Cortay J.C."/>
+</authorList>
+<dbReference type="PubMed" id="8858581"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1996.6341350.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1996" name="Res. Microbiol." volume="147" first="489" last="493">
+<title>Cra and the control of carbon flux via metabolic pathways.</title>
+<authorList>
+<person name="Ramseier T.M."/>
+</authorList>
+<dbReference type="PubMed" id="9084760"/>
+<dbReference type="DOI" id="10.1016/0923-2508(96)84003-4"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="3411" last="3417">
+<title>The catabolite repressor/activator (Cra) protein of enteric bacteria.</title>
+<authorList>
+<person name="Saier M.H. Jr."/>
+<person name="Ramseier T.M."/>
+</authorList>
+<dbReference type="PubMed" id="8655535"/>
+<dbReference type="DOI" id="10.1128/jb.178.12.3411-3417.1996"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="7129" last="7134">
+<title>Regulation of expression of the ethanol dehydrogenase gene (adhE) in Escherichia coli by catabolite repressor activator protein Cra.</title>
+<authorList>
+<person name="Mikulskis A."/>
+<person name="Aristarkhov A."/>
+<person name="Lin E.C."/>
+</authorList>
+<dbReference type="PubMed" id="9371462"/>
+<dbReference type="DOI" id="10.1128/jb.179.22.7129-7134.1997"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2005" name="Genes Cells" volume="10" first="907" last="918">
+<title>Systematic search for the Cra-binding promoters using genomic SELEX system.</title>
+<authorList>
+<person name="Shimada T."/>
+<person name="Fujita N."/>
+<person name="Maeda M."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="16115199"/>
+<dbReference type="DOI" id="10.1111/j.1365-2443.2005.00888.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="J. Mol. Biol." volume="270" first="496" last="510">
+<title>Three-dimensional structure of the DNA-binding domain of the fructose repressor from Escherichia coli by 1H and 15N NMR.</title>
+<authorList>
+<person name="Penin F."/>
+<person name="Geourjon C."/>
+<person name="Montserret R."/>
+<person name="Boeckmann A."/>
+<person name="Lesage A."/>
+<person name="Yang Y.S."/>
+<person name="Bonod-Bidaud C."/>
+<person name="Cortay J.-C."/>
+<person name="Negre D."/>
+<person name="Cozzone A.J."/>
+<person name="Deleage G."/>
+</authorList>
+<dbReference type="PubMed" id="9237914"/>
+<dbReference type="DOI" id="10.1006/jmbi.1997.1123"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-57</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 7 8 9 10 11">Global transcriptional regulator, which plays an important role in the regulation of carbon metabolism. Activates transcription of genes encoding biosynthetic and oxidative enzymes (involved in Krebs cycle, glyoxylate shunt and gluconeogenesis, such as ppsA and fbp). Represses genes involved in sugar catabolism, such as fruB, pfkA, pykF and adhE. Binds asymmetrically to the two half-sites of its operator.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="6">Is displaced from DNA by low concentrations of fructose-1-phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Homotetramer.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="12">Activation of transcription is observed when the Cra operator is upstream of the RNA polymerase binding site. Inhibition of transcription is observed when the operator overlaps or is downstream of the RNA polymerase binding site (PubMed:8655535).</text>
+</comment>
+<dbReference type="EMBL" id="M35034">
+<property type="protein sequence ID" value="AAA24629.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55034">
+<property type="protein sequence ID" value="CAA38857.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55457">
+<property type="protein sequence ID" value="CAA39104.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73191.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96648.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JU0298">
+<property type="entry name" value="JU0298"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414622.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000762401.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1UXC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-57"/>
+</dbReference>
+<dbReference type="PDB" id="1UXD">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-57"/>
+</dbReference>
+<dbReference type="PDB" id="2IKS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=44-334"/>
+</dbReference>
+<dbReference type="PDBsum" id="1UXC"/>
+<dbReference type="PDBsum" id="1UXD"/>
+<dbReference type="PDBsum" id="2IKS"/>
+<dbReference type="SMR" id="P0ACP1"/>
+<dbReference type="BioGrid" id="4259359">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35838N"/>
+<dbReference type="IntAct" id="P0ACP1">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0080"/>
+<dbReference type="EPD" id="P0ACP1"/>
+<dbReference type="jPOST" id="P0ACP1"/>
+<dbReference type="PaxDb" id="P0ACP1"/>
+<dbReference type="PRIDE" id="P0ACP1"/>
+<dbReference type="EnsemblBacteria" id="AAC73191">
+<property type="protein sequence ID" value="AAC73191"/>
+<property type="gene ID" value="b0080"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96648">
+<property type="protein sequence ID" value="BAB96648"/>
+<property type="gene ID" value="BAB96648"/>
+</dbReference>
+<dbReference type="GeneID" id="944804"/>
+<dbReference type="KEGG" id="ecj:JW0078"/>
+<dbReference type="KEGG" id="eco:b0080"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2201"/>
+<dbReference type="EchoBASE" id="EB0334"/>
+<dbReference type="EcoGene" id="EG10338">
+<property type="gene designation" value="cra"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107B7Y">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1609">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000278142"/>
+<dbReference type="InParanoid" id="P0ACP1"/>
+<dbReference type="KO" id="K03435"/>
+<dbReference type="PhylomeDB" id="P0ACP1"/>
+<dbReference type="BioCyc" id="EcoCyc:PD00521"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0078-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0ACP1"/>
+<dbReference type="PRO" id="PR:P0ACP1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006096">
+<property type="term" value="P:glycolytic process"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009750">
+<property type="term" value="P:response to fructose"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd01392">
+<property type="entry name" value="HTH_LacI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012781">
+<property type="entry name" value="Fruct_sucro_rep"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000843">
+<property type="entry name" value="HTH_LacI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010982">
+<property type="entry name" value="Lambda_DNA-bd_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001761">
+<property type="entry name" value="Peripla_BP/Lac1_sug-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028082">
+<property type="entry name" value="Peripla_BP_I"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00356">
+<property type="entry name" value="LacI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00532">
+<property type="entry name" value="Peripla_BP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00354">
+<property type="entry name" value="HTH_LACI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47413">
+<property type="entry name" value="SSF47413"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53822">
+<property type="entry name" value="SSF53822"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02417">
+<property type="entry name" value="fruct_sucro_rep"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00356">
+<property type="entry name" value="HTH_LACI_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50932">
+<property type="entry name" value="HTH_LACI_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Catabolite repressor/activator" id="PRO_0000107945">
+<location>
+<begin position="1"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="domain" description="HTH lacI-type" evidence="3">
+<location>
+<begin position="1"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="3">
+<location>
+<begin position="3"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="3"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="25"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="33"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="63"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="74"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="93"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="103"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="119"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="132"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="136"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="140"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="144"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="157"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="163"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="180"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="192"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="212"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="222"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="233"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="240"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="247"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="269"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="277"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="283"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="293"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="310"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="317"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="324"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="330"/>
+<end position="333"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1UXC"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2IKS"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00111"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16115199"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8195118"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8230205"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8550429"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8577250"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8858581"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9084760"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9371462"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8655535"/>
+</source>
+</evidence>
+<sequence length="334" mass="37999" checksum="503AE935CC2EC0C8" modified="2005-11-22" version="1">
+MKLDEIARLAGVSRTTASYVINGKAKQYRVSDKTVEKVMAVVREHNYHPNAVAAGLRAGR
+TRSIGLVIPDLENTSYTRIANYLERQARQRGYQLLIACSEDQPDNEMRCIEHLLQRQVDA
+IIVSTSLPPEHPFYQRWANDPFPIVALDRALDREHFTSVVGADQDDAEMLAEELRKFPAE
+TVLYLGALPELSVSFLREQGFRTAWKDDPREVHFLYANSYEREAAAQLFEKWLETHPMPQ
+ALFTTSFALLQGVMDVTLRRDGKLPSDLAIATFGDNELLDFLQCPVLAVAQRHRDVAERV
+LEIVLASLDEPRKPKPGLTRIKRNLYRRGVLSRS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

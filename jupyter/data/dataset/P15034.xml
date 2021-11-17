@@ -1,0 +1,820 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2019-05-08" version="180">
+<accession>P15034</accession>
+<accession>Q2M9T3</accession>
+<name>AMPP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Xaa-Pro aminopeptidase</fullName>
+<ecNumber>3.4.11.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Aminoacylproline aminopeptidase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Aminopeptidase P II</fullName>
+<shortName>APP-II</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>X-Pro aminopeptidase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">pepP</name>
+<name type="ordered locus">b2908</name>
+<name type="ordered locus">JW2876</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="J. Biochem." volume="105" first="412" last="416">
+<title>Sequencing and high expression of aminopeptidase P gene from Escherichia coli HB101.</title>
+<authorList>
+<person name="Yoshimoto T."/>
+<person name="Tone H."/>
+<person name="Honda T."/>
+<person name="Osatomi K."/>
+<person name="Kobayashi R."/>
+<person name="Tsuru D."/>
+</authorList>
+<dbReference type="PubMed" id="2659585"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 2-21</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>ATCC 33694 / HB101</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="7352" last="7359">
+<title>Isolation and characterization of a light-sensitive mutant of Escherichia coli K-12 with a mutation in a gene that is required for the biosynthesis of ubiquinone.</title>
+<authorList>
+<person name="Nakahigashi K."/>
+<person name="Miyamoto K."/>
+<person name="Nishimura K."/>
+<person name="Inokuchi H."/>
+</authorList>
+<dbReference type="PubMed" id="1339425"/>
+<dbReference type="DOI" id="10.1128/jb.174.22.7352-7359.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 33694 / HB101</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="3472" last="3477">
+<title>Structure and mechanism of a proline-specific aminopeptidase from Escherichia coli.</title>
+<authorList>
+<person name="Wilce M.C.J."/>
+<person name="Bond C.S."/>
+<person name="Dixon N.E."/>
+<person name="Freeman H.C."/>
+<person name="Guss J.M."/>
+<person name="Lilley P.E."/>
+<person name="Wilce J.A."/>
+</authorList>
+<dbReference type="PubMed" id="9520390"/>
+<dbReference type="DOI" id="10.1073/pnas.95.7.3472"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>Release of any N-terminal amino acid, including proline, that is linked to proline, even from a dipeptide or tripeptide.</text>
+<dbReference type="EC" id="3.4.11.9"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<text>Binds 2 manganese ions per subunit.</text>
+</comment>
+<comment type="subunit">
+<text>Homotetramer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-554801"/>
+<interactant intactId="EBI-544491">
+<id>P60560</id>
+<label>guaC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-554801"/>
+<interactant intactId="EBI-542419">
+<id>P15288</id>
+<label>pepD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the peptidase M24B family.</text>
+</comment>
+<dbReference type="EC" id="3.4.11.9"/>
+<dbReference type="EMBL" id="D00398">
+<property type="protein sequence ID" value="BAA00299.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D90281">
+<property type="protein sequence ID" value="BAA14325.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69076.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75946.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76973.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JX0067">
+<property type="entry name" value="DPECP"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417384.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001290136.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1A16">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1JAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1M35">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D/E/F=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1N51">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1W2M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D/E/F=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1W7V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C/D=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1WBQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1WL6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1WL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="1WLR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BH3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BHA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BHB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.41"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BHC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BHD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BN7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2BWY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2V3X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2V3Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDB" id="2V3Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.56"/>
+<property type="chains" value="A=2-441"/>
+</dbReference>
+<dbReference type="PDBsum" id="1A16"/>
+<dbReference type="PDBsum" id="1JAW"/>
+<dbReference type="PDBsum" id="1M35"/>
+<dbReference type="PDBsum" id="1N51"/>
+<dbReference type="PDBsum" id="1W2M"/>
+<dbReference type="PDBsum" id="1W7V"/>
+<dbReference type="PDBsum" id="1WBQ"/>
+<dbReference type="PDBsum" id="1WL6"/>
+<dbReference type="PDBsum" id="1WL9"/>
+<dbReference type="PDBsum" id="1WLR"/>
+<dbReference type="PDBsum" id="2BH3"/>
+<dbReference type="PDBsum" id="2BHA"/>
+<dbReference type="PDBsum" id="2BHB"/>
+<dbReference type="PDBsum" id="2BHC"/>
+<dbReference type="PDBsum" id="2BHD"/>
+<dbReference type="PDBsum" id="2BN7"/>
+<dbReference type="PDBsum" id="2BWS"/>
+<dbReference type="PDBsum" id="2BWT"/>
+<dbReference type="PDBsum" id="2BWU"/>
+<dbReference type="PDBsum" id="2BWV"/>
+<dbReference type="PDBsum" id="2BWW"/>
+<dbReference type="PDBsum" id="2BWX"/>
+<dbReference type="PDBsum" id="2BWY"/>
+<dbReference type="PDBsum" id="2V3X"/>
+<dbReference type="PDBsum" id="2V3Y"/>
+<dbReference type="PDBsum" id="2V3Z"/>
+<dbReference type="SMR" id="P15034"/>
+<dbReference type="BioGrid" id="4259236">
+<property type="interactions" value="50"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10459N"/>
+<dbReference type="IntAct" id="P15034">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2908"/>
+<dbReference type="DrugBank" id="DB04092">
+<property type="generic name" value="Apstatin"/>
+</dbReference>
+<dbReference type="MEROPS" id="M24.004"/>
+<dbReference type="EPD" id="P15034"/>
+<dbReference type="jPOST" id="P15034"/>
+<dbReference type="PaxDb" id="P15034"/>
+<dbReference type="PRIDE" id="P15034"/>
+<dbReference type="EnsemblBacteria" id="AAC75946">
+<property type="protein sequence ID" value="AAC75946"/>
+<property type="gene ID" value="b2908"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76973">
+<property type="protein sequence ID" value="BAE76973"/>
+<property type="gene ID" value="BAE76973"/>
+</dbReference>
+<dbReference type="GeneID" id="947385"/>
+<dbReference type="KEGG" id="ecj:JW2876"/>
+<dbReference type="KEGG" id="eco:b2908"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3824"/>
+<dbReference type="EchoBASE" id="EB0691"/>
+<dbReference type="EcoGene" id="EG10697">
+<property type="gene designation" value="pepP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107RAQ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0006">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000008762"/>
+<dbReference type="InParanoid" id="P15034"/>
+<dbReference type="KO" id="K01262"/>
+<dbReference type="PhylomeDB" id="P15034"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10697-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2876-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.8.1">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="BRENDA" id="3.4.11.9">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P15034"/>
+<dbReference type="PRO" id="PR:P15034"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004177">
+<property type="term" value="F:aminopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030145">
+<property type="term" value="F:manganese ion binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008235">
+<property type="term" value="F:metalloexopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.350.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007865">
+<property type="entry name" value="Aminopep_P_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029149">
+<property type="entry name" value="Creatin/AminoP/Spt16_NTD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036005">
+<property type="entry name" value="Creatinase/aminopeptidase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000994">
+<property type="entry name" value="Pept_M24"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001714">
+<property type="entry name" value="Pept_M24_MAP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001131">
+<property type="entry name" value="Peptidase_M24B_aminopep-P_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05195">
+<property type="entry name" value="AMP_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00557">
+<property type="entry name" value="Peptidase_M24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00599">
+<property type="entry name" value="MAPEPTIDASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM01011">
+<property type="entry name" value="AMP_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53092">
+<property type="entry name" value="SSF53092"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55920">
+<property type="entry name" value="SSF55920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00491">
+<property type="entry name" value="PROLINE_PEPTIDASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0031">Aminopeptidase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0482">Metalloprotease</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Xaa-Pro aminopeptidase" id="PRO_0000185075">
+<location>
+<begin position="2"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2">
+<location>
+<position position="261"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1">
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1">
+<location>
+<position position="384"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="6"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="22"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="48"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="62"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="69"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="73"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="84"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="95"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="114"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="126"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="136"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="161"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="167"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="179"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="209"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="227"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="233"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="237"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="257"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="264"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="273"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="285"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="311"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="336"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="342"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="358"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="369"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="380"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="386"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="397"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="402"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="407"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="416"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="428"/>
+<end position="439"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2V3Z"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2659585"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="441" mass="49815" checksum="80A6A5BDD86D84B1" modified="2007-01-23" version="2">
+MSEISRQEFQRRRQALVEQMQPGSAALIFAAPEVTRSADSEYPYRQNSDFWYFTGFNEPE
+AVLVLIKSDDTHNHSVLFNRVRDLTAEIWFGRRLGQDAAPEKLGVDRALAFSEINQQLYQ
+LLNGLDVVYHAQGEYAYADVIVNSALEKLRKGSRQNLTAPATMIDWRPVVHEMRLFKSPE
+EIAVLRRAGEITAMAHTRAMEKCRPGMFEYHLEGEIHHEFNRHGARYPSYNTIVGSGENG
+CILHYTENECEMRDGDLVLIDAGCEYKGYAGDITRTFPVNGKFTQAQREIYDIVLESLET
+SLRLYRPGTSILEVTGEVVRIMVSGLVKLGILKGDVDELIAQNAHRPFFMHGLSHWLGLD
+VHDVGVYGQDRSRILEPGMVLTVEPGLYIAPDAEVPEQYRGIGIRIEDDIVITETGNENL
+TASVVKKPEEIEALMVAARKQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

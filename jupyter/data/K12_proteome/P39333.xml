@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2019-05-08" version="127">
+<accession>P39333</accession>
+<accession>Q2M659</accession>
+<name>BDCA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Cyclic-di-GMP-binding biofilm dispersal mediator protein</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">bdcA</name>
+<name type="synonym">yjgI</name>
+<name type="ordered locus">b4249</name>
+<name type="ordered locus">JW4207</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO C-TERMINUS</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="Environ. Microbiol." volume="13" first="631" last="642">
+<title>Engineering a novel c-di-GMP-binding protein for biofilm dispersal.</title>
+<authorList>
+<person name="Ma Q."/>
+<person name="Yang Z."/>
+<person name="Pu M."/>
+<person name="Peti W."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="21059164"/>
+<dbReference type="DOI" id="10.1111/j.1462-2920.2010.02368.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>GENE NAME</scope>
+<scope>MUTAGENESIS OF GLU-50</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4">Increases biofilm dispersal. Acts by binding directly to the signaling molecule cyclic-di-GMP, which decreases the intracellular concentration of cyclic-di-GMP and leads to biofilm dispersal. Also controls other biofilm-related phenotypes such as cell motility, cell size, cell aggregation and production of extracellular DNA and extracellular polysaccharides (EPS). Does not act as a phosphodiesterase.</text>
+</comment>
+<comment type="induction">
+<text evidence="4">Expression is time dependent in biofilms and is controlled by BdcR.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Mutant shows decreased biofilm dispersal. Deletion increases the cyclic-di GMP concentration in the cell.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the short-chain dehydrogenases/reductases (SDR) family.</text>
+</comment>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97146.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77206.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78247.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65237">
+<property type="entry name" value="D65237"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418670.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000500727.1">
+<property type="nucleotide sequence ID" value="NZ_CP014272.1"/>
+</dbReference>
+<dbReference type="PDB" id="5Z2L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=1-237"/>
+</dbReference>
+<dbReference type="PDBsum" id="5Z2L"/>
+<dbReference type="SMR" id="P39333"/>
+<dbReference type="BioGrid" id="4259560">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12604N"/>
+<dbReference type="IntAct" id="P39333">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4249"/>
+<dbReference type="jPOST" id="P39333"/>
+<dbReference type="PaxDb" id="P39333"/>
+<dbReference type="PRIDE" id="P39333"/>
+<dbReference type="EnsemblBacteria" id="AAC77206">
+<property type="protein sequence ID" value="AAC77206"/>
+<property type="gene ID" value="b4249"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78247">
+<property type="protein sequence ID" value="BAE78247"/>
+<property type="gene ID" value="BAE78247"/>
+</dbReference>
+<dbReference type="GeneID" id="948765"/>
+<dbReference type="KEGG" id="ecj:JW4207"/>
+<dbReference type="KEGG" id="eco:b4249"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4380"/>
+<dbReference type="EchoBASE" id="EB2418"/>
+<dbReference type="EcoGene" id="EG12528">
+<property type="gene designation" value="bdcA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105F6U">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1028">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="P39333"/>
+<dbReference type="KO" id="K19336"/>
+<dbReference type="PhylomeDB" id="P39333"/>
+<dbReference type="BioCyc" id="EcoCyc:G7880-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4207-MONOMER"/>
+<dbReference type="PRO" id="PR:P39333"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035438">
+<property type="term" value="F:cyclic-di-GMP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070402">
+<property type="term" value="F:NADPH binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016491">
+<property type="term" value="F:oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044010">
+<property type="term" value="P:single-species biofilm formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036291">
+<property type="entry name" value="NAD(P)-bd_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020904">
+<property type="entry name" value="Sc_DH/Rdtase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002347">
+<property type="entry name" value="SDR_fam"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00081">
+<property type="entry name" value="GDHRDH"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00080">
+<property type="entry name" value="SDRFAMILY"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51735">
+<property type="entry name" value="SSF51735"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00061">
+<property type="entry name" value="ADH_SHORT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0973">c-di-GMP</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Cyclic-di-GMP-binding biofilm dispersal mediator protein" id="PRO_0000054839">
+<location>
+<begin position="1"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD or NADP" evidence="2">
+<location>
+<begin position="10"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="3">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Shows higher affinity for cyclic-di-GMP, increases swimming motility and biofilm dispersal. Biofilm formation is almost completely removed." evidence="4">
+<original>E</original>
+<variation>Q</variation>
+<variation>V</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="3"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="8"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="17"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="41"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="54"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="63"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="77"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="96"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="108"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="126"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="133"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="144"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="165"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="191"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="206"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="228"/>
+<end position="235"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5Z2L"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10001"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21059164"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="237" mass="24598" checksum="A99A3F23CE0116C0" modified="1998-07-15" version="2">
+MGAFTGKTVLILGGSRGIGAAIVRRFVTDGANVRFTYAGSKDAAKRLAQETGATAVFTDS
+ADRDAVIDVVRKSGALDILVVNAGIGVFGEALELNADDIDRLFKINIHAPYHASVEAARQ
+MPEGGRILIIGSVNGDRMPVAGMAAYAASKSALQGMARGLARDFGPRGITINVVQPGPID
+TDANPANGPMRDMLHSLMAIKRHGQPEEVAGMVAWLAGPEASFVTGAMHTIDGAFGA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

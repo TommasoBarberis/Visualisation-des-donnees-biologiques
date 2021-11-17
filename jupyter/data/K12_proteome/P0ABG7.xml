@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-25" modified="2019-06-05" version="102">
+<accession>P0ABG7</accession>
+<accession>P13409</accession>
+<accession>P15035</accession>
+<name>RODA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 10">Peptidoglycan glycosyltransferase MrdB</fullName>
+<shortName evidence="2 10">PGT</shortName>
+<ecNumber evidence="2 4">2.4.1.129</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2 10">Cell elongation protein RodA</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2 10">Cell wall polymerase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2 7">Peptidoglycan polymerase</fullName>
+<shortName evidence="2 7">PG polymerase</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="10">Rod shape-determining protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 8">mrdB</name>
+<name type="synonym" evidence="9">rodA</name>
+<name type="ordered locus">b0634</name>
+<name type="ordered locus">JW0629</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="558" last="560">
+<title>Nucleotide sequence of the rodA gene, responsible for the rod shape of Escherichia coli: rodA and the pbpA gene, encoding penicillin-binding protein 2, constitute the rodA operon.</title>
+<authorList>
+<person name="Matsuzawa H."/>
+<person name="Asoh S."/>
+<person name="Kunai K."/>
+<person name="Muraiso K."/>
+<person name="Takasuga A."/>
+<person name="Ohta T."/>
+</authorList>
+<dbReference type="PubMed" id="2644207"/>
+<dbReference type="DOI" id="10.1128/jb.171.1.558-560.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="5692" last="5699">
+<title>Genes encoding two lipoproteins in the leuS-dacA region of the Escherichia coli chromosome.</title>
+<authorList>
+<person name="Takase I."/>
+<person name="Ishino F."/>
+<person name="Wachi M."/>
+<person name="Kamata H."/>
+<person name="Doi M."/>
+<person name="Asoh S."/>
+<person name="Matsuzawa H."/>
+<person name="Ohta T."/>
+<person name="Matsuhashi M."/>
+</authorList>
+<dbReference type="PubMed" id="3316191"/>
+<dbReference type="DOI" id="10.1128/jb.169.12.5692-5699.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 355-370</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1980" name="J. Bacteriol." volume="141" first="52" last="57">
+<title>Cluster of mrdA and mrdB genes responsible for the rod shape and mecillinam sensitivity of Escherichia coli.</title>
+<authorList>
+<person name="Tamaki S."/>
+<person name="Matsuzawa H."/>
+<person name="Matsuhashi M."/>
+</authorList>
+<dbReference type="PubMed" id="6243629"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1983" name="J. Bacteriol." volume="155" first="854" last="859">
+<title>Identification of the rodA gene product of Escherichia coli.</title>
+<authorList>
+<person name="Stoker N.G."/>
+<person name="Pratt J.M."/>
+<person name="Spratt B.G."/>
+</authorList>
+<dbReference type="PubMed" id="6348029"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2016" name="Nat. Microbiol." volume="2016" first="16172" last="16172">
+<title>Bacterial cell wall biogenesis is mediated by SEDS and PBP polymerase families functioning semi-autonomously.</title>
+<authorList>
+<person name="Cho H."/>
+<person name="Wivagg C.N."/>
+<person name="Kapoor M."/>
+<person name="Barry Z."/>
+<person name="Rohs P.D."/>
+<person name="Suh H."/>
+<person name="Marto J.A."/>
+<person name="Garner E.C."/>
+<person name="Bernhardt T.G."/>
+</authorList>
+<dbReference type="PubMed" id="27643381"/>
+<dbReference type="DOI" id="10.1038/nmicrobiol.2016.172"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4">Peptidoglycan polymerase that is essential for cell wall elongation (PubMed:27643381). Also required for the maintenance of the rod cell shape (PubMed:2644207). Functions probably in conjunction with the penicillin-binding protein 2 (mrdA) (PubMed:2644207, PubMed:27643381).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 4">
+<text>[GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)](n)-diphospho-di-trans,octa-cis-undecaprenol + beta-D-GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphospho-di-trans,octa-cis-undecaprenol = [GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)](n+1)-diphospho-di-trans-octa-cis-undecaprenol + di-trans,octa-cis-undecaprenyl diphosphate + H(+)</text>
+<dbReference type="Rhea" id="RHEA:23708"/>
+<dbReference type="Rhea" id="RHEA-COMP:9602"/>
+<dbReference type="Rhea" id="RHEA-COMP:9603"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:58405"/>
+<dbReference type="ChEBI" id="CHEBI:60033"/>
+<dbReference type="ChEBI" id="CHEBI:78435"/>
+<dbReference type="EC" id="2.4.1.129"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="2 4">
+<text>Cell wall biogenesis; peptidoglycan biosynthesis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 6">Cell inner membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">At 42 degrees Celsius, mutation causes formation of spherical cells and mecillinam resistance.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 10">Belongs to the SEDS family. MrdB/RodA subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.4.1.129" evidence="2 4"/>
+<dbReference type="EMBL" id="M22857">
+<property type="protein sequence ID" value="AAA24571.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82598">
+<property type="protein sequence ID" value="AAB40834.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73735.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35277.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M18276">
+<property type="protein sequence ID" value="AAA24551.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JT0500">
+<property type="entry name" value="BVECRD"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415167.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000131719.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259910">
+<property type="interactions" value="288"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48062N"/>
+<dbReference type="IntAct" id="P0ABG7">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0634"/>
+<dbReference type="TCDB" id="2.A.103.1.2">
+<property type="family name" value="the bacterial murein precursor exporter (mpe) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P0ABG7"/>
+<dbReference type="PRIDE" id="P0ABG7"/>
+<dbReference type="EnsemblBacteria" id="AAC73735">
+<property type="protein sequence ID" value="AAC73735"/>
+<property type="gene ID" value="b0634"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35277">
+<property type="protein sequence ID" value="BAA35277"/>
+<property type="gene ID" value="BAA35277"/>
+</dbReference>
+<dbReference type="GeneID" id="945238"/>
+<dbReference type="KEGG" id="ecj:JW0629"/>
+<dbReference type="KEGG" id="eco:b0634"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1634"/>
+<dbReference type="EchoBASE" id="EB0602"/>
+<dbReference type="EcoGene" id="EG10607">
+<property type="gene designation" value="mrdB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CNI">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0772">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000282686"/>
+<dbReference type="InParanoid" id="P0ABG7"/>
+<dbReference type="KO" id="K05837"/>
+<dbReference type="PhylomeDB" id="P0ABG7"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10607-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0629-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00219"/>
+<dbReference type="PRO" id="PR:P0ABG7"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008955">
+<property type="term" value="F:peptidoglycan glycosyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071555">
+<property type="term" value="P:cell wall organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009252">
+<property type="term" value="P:peptidoglycan biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008360">
+<property type="term" value="P:regulation of cell shape"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02079">
+<property type="entry name" value="PGT_RodA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018365">
+<property type="entry name" value="Cell_cycle_FtsW-rel_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001182">
+<property type="entry name" value="FtsW/RodA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011923">
+<property type="entry name" value="RodA/MrdB"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30474">
+<property type="entry name" value="PTHR30474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30474:SF1">
+<property type="entry name" value="PTHR30474:SF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01098">
+<property type="entry name" value="FTSW_RODA_SPOVE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02210">
+<property type="entry name" value="rodA_shape"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00428">
+<property type="entry name" value="FTSW_RODA_SPOVE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0133">Cell shape</keyword>
+<keyword id="KW-0961">Cell wall biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0328">Glycosyltransferase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0573">Peptidoglycan synthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Peptidoglycan glycosyltransferase MrdB" id="PRO_0000062715">
+<location>
+<begin position="1"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="20"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="41"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="50"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="71"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="75"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="96"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="136"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="157"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="160"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="181"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="183"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="204"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="263"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="284"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="312"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="333"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="336"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="357"/>
+<end position="370"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02079"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2644207"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27643381"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6243629"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6348029"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27643381"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="6243629"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="6348029"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="370" mass="40476" checksum="68FCDF8D6B123D69" modified="2005-10-25" version="1">
+MTDNPNKKTFWDKVHLDPTMLLILLALLVYSALVIWSASGQDIGMMERKIGQIAMGLVIM
+VVMAQIPPRVYEGWAPYLYIICIILLVAVDAFGAISKGAQRWLDLGIVRFQPSEIAKIAV
+PLMVARFINRDVCPPSLKNTGIALVLIFMPTLLVAAQPDLGTSILVALSGLFVLFLSGLS
+WRLIGVAVVLVAAFIPILWFFLMHDYQRQRVMMLLDPESDPLGAGYHIIQSKIAIGSGGL
+RGKGWLHGTQSQLEFLPERHTDFIFAVLAEELGLVGILILLALYILLIMRGLWIAARAQT
+TFGRVMAGGLMLILFVYVFVNIGMVSGILPVVGVPLPLVSYGGSALIVLMAGFGIVMSIH
+THRKMLSKSV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

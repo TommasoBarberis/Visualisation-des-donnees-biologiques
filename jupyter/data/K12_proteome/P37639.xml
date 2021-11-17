@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-07-03" version="145">
+<accession>P37639</accession>
+<accession>Q2M7H8</accession>
+<name>GADX_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>HTH-type transcriptional regulator GadX</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">gadX</name>
+<name type="synonym">yhiX</name>
+<name type="ordered locus">b3516</name>
+<name type="ordered locus">JW3484</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="40" first="20" last="36">
+<title>Large-scale monitoring of pleiotropic regulation of gene expression by the prokaryotic nucleoid-associated protein, H-NS.</title>
+<authorList>
+<person name="Hommais F."/>
+<person name="Krin E."/>
+<person name="Laurent-Winter C."/>
+<person name="Soutourina O."/>
+<person name="Malpertuy A."/>
+<person name="Le Caer J.-P."/>
+<person name="Danchin A."/>
+<person name="Bertin P."/>
+</authorList>
+<dbReference type="PubMed" id="11298273"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02358.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>GENE NAME</scope>
+<source>
+<strain>FB8</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="2603" last="2613">
+<title>Functional characterization and regulation of gadX, a gene encoding an AraC/XylS-like transcriptional activator of the Escherichia coli glutamic acid decarboxylase system.</title>
+<authorList>
+<person name="Tramonti A."/>
+<person name="Visca P."/>
+<person name="De Canio M."/>
+<person name="Falconi M."/>
+<person name="De Biase D."/>
+</authorList>
+<dbReference type="PubMed" id="11976288"/>
+<dbReference type="DOI" id="10.1128/JB.184.10.2603-2613.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>ATCC 11246</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="7001" last="7012">
+<title>Collaborative regulation of Escherichia coli glutamate-dependent acid resistance by two AraC-like regulators, GadX and GadW (YhiW).</title>
+<authorList>
+<person name="Ma Z."/>
+<person name="Richard H."/>
+<person name="Tucker D.L."/>
+<person name="Conway T."/>
+<person name="Foster J.W."/>
+</authorList>
+<dbReference type="PubMed" id="12446650"/>
+<dbReference type="DOI" id="10.1128/JB.184.24.7001-7012.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Bacteriol." volume="185" first="3190" last="3201">
+<title>Genes of the GadX-GadW regulon in Escherichia coli.</title>
+<authorList>
+<person name="Tucker D.L."/>
+<person name="Tucker N."/>
+<person name="Ma Z."/>
+<person name="Foster J.W."/>
+<person name="Miranda R.L."/>
+<person name="Cohen P.S."/>
+<person name="Conway T."/>
+</authorList>
+<dbReference type="PubMed" id="12730179"/>
+<dbReference type="DOI" id="10.1128/JB.185.10.3190-3201.2003"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="J. Bacteriol." volume="185" first="6852" last="6859">
+<title>pH-dependent modulation of cyclic AMP levels and GadW-dependent repression of RpoS affect synthesis of the GadX regulator and Escherichia coli acid resistance.</title>
+<authorList>
+<person name="Ma Z."/>
+<person name="Richard H."/>
+<person name="Foster J.W."/>
+</authorList>
+<dbReference type="PubMed" id="14617649"/>
+<dbReference type="DOI" id="10.1128/JB.185.23.6852-6859.2003"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Microbiology" volume="150" first="61" last="72">
+<title>GadE (YhiE): a novel activator involved in the response to acid environment in Escherichia coli.</title>
+<authorList>
+<person name="Hommais F."/>
+<person name="Krin E."/>
+<person name="Coppee J.-Y."/>
+<person name="Lacroix C."/>
+<person name="Yeramian E."/>
+<person name="Danchin A."/>
+<person name="Bertin P."/>
+</authorList>
+<dbReference type="PubMed" id="14702398"/>
+<dbReference type="DOI" id="10.1099/mic.0.26659-0"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>FB8</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 7 8">Positively regulates the expression of about fifteen genes involved in acid resistance such as gadA, gadB and gadC. Depending on the conditions (growth phase and medium), can repress gadW.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Homodimer.</text>
+</comment>
+<comment type="induction">
+<text evidence="4 5 6">Expression can be activated by RpoS and repressed by CRP, H-NS and GadW, depending on the conditions.</text>
+</comment>
+<comment type="miscellaneous">
+<text>GadX and GadW are part of a complex system required for acid resistance via the regulation of gadA and gadBC. Many of the described circuits use mutants missing one of the network components. In the wild-type situation, however, many of the scenarios are not easily observed.</text>
+</comment>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18492.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76541.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77778.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S47736">
+<property type="entry name" value="S47736"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417973.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001191059.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3MKL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=137-255"/>
+</dbReference>
+<dbReference type="PDBsum" id="3MKL"/>
+<dbReference type="SMR" id="P37639"/>
+<dbReference type="BioGrid" id="4262524">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="P37639">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3516"/>
+<dbReference type="jPOST" id="P37639"/>
+<dbReference type="PaxDb" id="P37639"/>
+<dbReference type="PRIDE" id="P37639"/>
+<dbReference type="EnsemblBacteria" id="AAC76541">
+<property type="protein sequence ID" value="AAC76541"/>
+<property type="gene ID" value="b3516"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77778">
+<property type="protein sequence ID" value="BAE77778"/>
+<property type="gene ID" value="BAE77778"/>
+</dbReference>
+<dbReference type="GeneID" id="948028"/>
+<dbReference type="KEGG" id="ecj:JW3484"/>
+<dbReference type="KEGG" id="eco:b3516"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3202"/>
+<dbReference type="EchoBASE" id="EB2154"/>
+<dbReference type="EcoGene" id="EG12243">
+<property type="gene designation" value="gadX"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108NKV">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRJG">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125870"/>
+<dbReference type="InParanoid" id="P37639"/>
+<dbReference type="KO" id="K21905"/>
+<dbReference type="PhylomeDB" id="P37639"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12243-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3484-MONOMER"/>
+<dbReference type="PRO" id="PR:P37639"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000986">
+<property type="term" value="F:bacterial-type proximal promoter sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001216">
+<property type="term" value="F:DNA-binding transcription activator activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018060">
+<property type="entry name" value="HTH_AraC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018062">
+<property type="entry name" value="HTH_AraC-typ_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020449">
+<property type="entry name" value="Tscrpt_reg_HTH_AraC-type"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12833">
+<property type="entry name" value="HTH_18"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00032">
+<property type="entry name" value="HTHARAC"/>
+</dbReference>
+<dbReference type="SMART" id="SM00342">
+<property type="entry name" value="HTH_ARAC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00041">
+<property type="entry name" value="HTH_ARAC_FAMILY_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01124">
+<property type="entry name" value="HTH_ARAC_FAMILY_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="HTH-type transcriptional regulator GadX" id="PRO_0000194518">
+<location>
+<begin position="1"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="domain" description="HTH araC/xylS-type" evidence="2">
+<location>
+<begin position="145"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="2">
+<location>
+<begin position="162"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="2">
+<location>
+<begin position="209"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="143"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="161"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="172"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="186"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="209"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="236"/>
+<end position="242"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3MKL"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00593"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11298273"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11976288"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12446650"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12730179"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14617649"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702398"/>
+</source>
+</evidence>
+<sequence length="274" mass="31563" checksum="C5B742F296436DC8" modified="1994-10-01" version="1">
+MQSLHGNCLIAYARHKYILTMVNGEYRYFNGGDLVFADASQIRVDKCVENFVFVSRDTLS
+LFLPMLKEEALNLHAHKKVSSLLVHHCSRDIPVFQEVAQLSQNKNLRYAEMLRKRALIFA
+LLSVFLEDEHFIPLLLNVLQPNMRTRVCTVINNNIAHEWTLARIASELLMSPSLLKKKLR
+EEETSYSQLLTECRMQRALQLIVIHGFSIKRVAVSCGYHSVSYFIYVFRNYYGMTPTEYQ
+ERSAQRLSNRDSAASIVAQGNFYGTDRSAEGIRL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

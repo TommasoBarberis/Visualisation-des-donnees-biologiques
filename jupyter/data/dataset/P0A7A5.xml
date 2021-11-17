@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="102">
+<accession>P0A7A5</accession>
+<accession>P24206</accession>
+<accession>Q2MA86</accession>
+<name>PIMT_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protein-L-isoaspartate O-methyltransferase</fullName>
+<ecNumber>2.1.1.77</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>L-isoaspartyl protein carboxyl methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein L-isoaspartyl methyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein-beta-aspartate methyltransferase</fullName>
+<shortName>PIMT</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">pcm</name>
+<name type="ordered locus">b2743</name>
+<name type="ordered locus">JW2713</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="14562" last="14572">
+<title>Purification, gene cloning, and sequence analysis of an L-isoaspartyl protein carboxyl methyltransferase from Escherichia coli.</title>
+<authorList>
+<person name="Fu J.C."/>
+<person name="Ding L."/>
+<person name="Clarke S."/>
+</authorList>
+<dbReference type="PubMed" id="1860862"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 2-40</scope>
+<source>
+<strain>K12 / JA200</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="6015" last="6022">
+<title>A new gene involved in stationary-phase survival located at 59 minutes on the Escherichia coli chromosome.</title>
+<authorList>
+<person name="Li C."/>
+<person name="Ichikawa J.K."/>
+<person name="Ravetto J.J."/>
+<person name="Kuo H.-C."/>
+<person name="Fu J.C."/>
+<person name="Clarke S."/>
+</authorList>
+<dbReference type="PubMed" id="7928962"/>
+<dbReference type="DOI" id="10.1128/jb.176.19.6015-6022.1994"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-6</scope>
+<source>
+<strain>MP180</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="1630" last="1638">
+<title>A gene at 59 minutes on the Escherichia coli chromosome encodes a lipoprotein with unusual amino acid repeat sequences.</title>
+<authorList>
+<person name="Ichikawa J.K."/>
+<person name="Li C."/>
+<person name="Fu J.C."/>
+<person name="Clarke S."/>
+</authorList>
+<dbReference type="PubMed" id="8132457"/>
+<dbReference type="DOI" id="10.1128/jb.176.6.1630-1638.1994"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 191-208</scope>
+<source>
+<strain>MP180</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="Mol. Gen. Genet." volume="243" first="525" last="531">
+<title>Structure of the 5' upstream region and the regulation of the rpoS gene of Escherichia coli.</title>
+<authorList>
+<person name="Takayanagi Y."/>
+<person name="Tanaka K."/>
+<person name="Takahashi H."/>
+</authorList>
+<dbReference type="PubMed" id="8208244"/>
+<dbReference type="DOI" id="10.1007/BF00284200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 193-208</scope>
+<source>
+<strain>K12 / DH1 / ATCC 33849 / DSM 4235 / NCIB 12045</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Catalyzes the methyl esterification of L-isoaspartyl residues in peptides and proteins that result from spontaneous decomposition of normal L-aspartyl and L-asparaginyl residues. It plays a role in the repair and/or degradation of damaged proteins. This enzyme does not act on D-aspartyl residues.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>[protein]-L-beta-isoaspartate + S-adenosyl-L-methionine = [protein]-L-beta-isoaspartate alpha-methyl ester + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:12705"/>
+<dbReference type="Rhea" id="RHEA-COMP:12143"/>
+<dbReference type="Rhea" id="RHEA-COMP:12144"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:90596"/>
+<dbReference type="ChEBI" id="CHEBI:90598"/>
+<dbReference type="EC" id="2.1.1.77"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the methyltransferase superfamily. L-isoaspartyl/D-aspartyl protein methyltransferase family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.77"/>
+<dbReference type="EMBL" id="M63493">
+<property type="protein sequence ID" value="AAA24302.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69253.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75785.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76820.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L07942">
+<property type="protein sequence ID" value="AAA79840.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L07869">
+<property type="protein sequence ID" value="AAA17874.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D17549">
+<property type="protein sequence ID" value="BAA04486.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JH0242">
+<property type="entry name" value="JH0242"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417223.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000254708.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3LBF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B/C/D=1-208"/>
+</dbReference>
+<dbReference type="PDBsum" id="3LBF"/>
+<dbReference type="SMR" id="P0A7A5"/>
+<dbReference type="BioGrid" id="4263145">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="P0A7A5">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2743"/>
+<dbReference type="jPOST" id="P0A7A5"/>
+<dbReference type="PaxDb" id="P0A7A5"/>
+<dbReference type="PRIDE" id="P0A7A5"/>
+<dbReference type="EnsemblBacteria" id="AAC75785">
+<property type="protein sequence ID" value="AAC75785"/>
+<property type="gene ID" value="b2743"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76820">
+<property type="protein sequence ID" value="BAE76820"/>
+<property type="gene ID" value="BAE76820"/>
+</dbReference>
+<dbReference type="GeneID" id="944923"/>
+<dbReference type="KEGG" id="ecj:JW2713"/>
+<dbReference type="KEGG" id="eco:b2743"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3997"/>
+<dbReference type="EchoBASE" id="EB0683"/>
+<dbReference type="EcoGene" id="EG10689">
+<property type="gene designation" value="pcm"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E26">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2518">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000257189"/>
+<dbReference type="InParanoid" id="P0A7A5"/>
+<dbReference type="KO" id="K00573"/>
+<dbReference type="PhylomeDB" id="P0A7A5"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10689-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2713-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10689-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.1.77">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A7A5"/>
+<dbReference type="PRO" id="PR:P0A7A5"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004719">
+<property type="term" value="F:protein-L-isoaspartate (D-aspartate) O-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030091">
+<property type="term" value="P:protein repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00090">
+<property type="entry name" value="PIMT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000682">
+<property type="entry name" value="PCMT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11579">
+<property type="entry name" value="PTHR11579"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00080">
+<property type="entry name" value="pimt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01279">
+<property type="entry name" value="PCMT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="initiator methionine" description="Removed" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Protein-L-isoaspartate O-methyltransferase" id="PRO_0000111886">
+<location>
+<begin position="2"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="active site" evidence="2">
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="4"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="21"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="32"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="38"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="61"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="78"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="88"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="97"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="107"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="124"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="132"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="157"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="162"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="178"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="188"/>
+<end position="196"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3LBF"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1860862"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="208" mass="23258" checksum="BFA179567527A118" modified="2007-01-23" version="2">
+MVSRRVQALLDQLRAQGIQDEQVLNALAAVPREKFVDEAFEQKAWDNIALPIGQGQTISQ
+PYMVARMTELLELTPQSRVLEIGTGSGYQTAILAHLVQHVCSVERIKGLQWQARRRLKNL
+DLHNVSTRHGDGWQGWQARAPFDAIIVTAAPPEIPTALMTQLDEGGILVLPVGEEHQYLK
+RVRRRGGEFIIDTVEAVRFVPLVKGELA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

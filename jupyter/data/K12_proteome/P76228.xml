@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2019-05-08" version="111">
+<accession>P76228</accession>
+<accession>Q2MB32</accession>
+<accession>Q47665</accession>
+<name>YNJI_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Inner membrane protein YnjI</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ynjI</name>
+<name type="ordered locus">b1762</name>
+<name type="ordered locus">JW5288</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1989" name="J. Biol. Chem." volume="264" first="17924" last="17930">
+<title>Molecular cloning and DNA sequence analysis of Escherichia coli topB, the gene encoding topoisomerase III.</title>
+<authorList>
+<person name="Digate R.J."/>
+<person name="Marians K.J."/>
+</authorList>
+<dbReference type="PubMed" id="2553698"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-36</scope>
+<source>
+<strain>HMS-83</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cell inner membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74832.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76524.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J05076">
+<property type="protein sequence ID" value="AAA83924.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64936">
+<property type="entry name" value="B64936"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416276.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000756910.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259136">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1762"/>
+<dbReference type="PaxDb" id="P76228"/>
+<dbReference type="PRIDE" id="P76228"/>
+<dbReference type="EnsemblBacteria" id="AAC74832">
+<property type="protein sequence ID" value="AAC74832"/>
+<property type="gene ID" value="b1762"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76524">
+<property type="protein sequence ID" value="BAE76524"/>
+<property type="gene ID" value="BAE76524"/>
+</dbReference>
+<dbReference type="GeneID" id="946239"/>
+<dbReference type="KEGG" id="ecj:JW5288"/>
+<dbReference type="KEGG" id="eco:b1762"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.492"/>
+<dbReference type="EchoBASE" id="EB3767"/>
+<dbReference type="EcoGene" id="EG14011">
+<property type="gene designation" value="ynjI"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41065FB">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4112A1H">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000009481"/>
+<dbReference type="BioCyc" id="EcoCyc:G6956-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5288-MONOMER"/>
+<dbReference type="PRO" id="PR:P76228"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009677">
+<property type="entry name" value="DUF1266"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06889">
+<property type="entry name" value="DUF1266"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Inner membrane protein YnjI" id="PRO_0000169009">
+<location>
+<begin position="1"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="1"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="39"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="60"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="69"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="1">
+<location>
+<begin position="90"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="235"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="256"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA83924." ref="3" evidence="2">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="346" mass="40346" checksum="0AD0CBA64F58B44F" modified="2000-12-01" version="2">
+MKKVLLQNHPGSEKYSFNGWEIFNSNFERMIKENKAMLLCKWGFYLTCVVAVMFVFAAIT
+SNGLNERGLITAGCSFLYLLIMMGLIVRAGFKAKKEQLHYYQAKGIEPLSIEKLQALQLI
+APYRFYHKQWSETLEFWPRKPEPGKDTFQYHVLPFDSIDIISKRRESLEDQWGIEDSESY
+CALMEHFLSGDHGANTFKANMEEAPEQVIALLNKFAVFPSDYISDCANHSSGKSSAKLIW
+AAELSWMISISSTAFQNGTIEEELAWHYIMLASRKAHELFESEEDYQKNSQMGFLYWHIC
+CYRRKLTDAELEACYRYDKQFWEHYSKKCRWPIRNVPWGASSVKYS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

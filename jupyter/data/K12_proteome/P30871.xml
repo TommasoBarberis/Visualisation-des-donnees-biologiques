@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-07-01" modified="2019-05-08" version="140">
+<accession>P30871</accession>
+<accession>Q2M9F1</accession>
+<name>3PASE_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Inorganic triphosphatase</fullName>
+<shortName>PPPase</shortName>
+<ecNumber>3.6.1.25</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>ORFXE</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ygiF</name>
+<name type="ordered locus">b3054</name>
+<name type="ordered locus">JW3026</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Mol. Microbiol." volume="9" first="443" last="458">
+<title>The genes of the glutamine synthetase adenylylation cascade are not regulated by nitrogen in Escherichia coli.</title>
+<authorList>
+<person name="van Heeswijk W.C."/>
+<person name="Rabenberg M."/>
+<person name="Westerhoff H.V."/>
+<person name="Kahn D.D."/>
+</authorList>
+<dbReference type="PubMed" id="8412694"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1993.tb01706.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS520</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E43879" last="E43879">
+<title>High inorganic triphosphatase activities in bacteria and mammalian cells: identification of the enzymes involved.</title>
+<authorList>
+<person name="Kohn G."/>
+<person name="Delvaux D."/>
+<person name="Lakaye B."/>
+<person name="Servais A.C."/>
+<person name="Scholer G."/>
+<person name="Fillet M."/>
+<person name="Elias B."/>
+<person name="Derochette J.M."/>
+<person name="Crommen J."/>
+<person name="Wins P."/>
+<person name="Bettendorff L."/>
+</authorList>
+<dbReference type="PubMed" id="22984449"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0043879"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Involved in the hydrolysis of the beta-gamma-phosphoanhydride linkage of triphosphate-containing substrates (inorganic or nucleoside-linked). Catalyzes the hydrolysis of inorganic triphosphate (PPPi), which could be cytotoxic because of its high affinity for calcium ion, thereby interfering with calcium signaling. It also hydrolyzes slowly thiamine triphosphate (ThTP). YgiF is a specific PPPase, but it contributes only marginally to the total PPPase activity in E.coli, where the main enzyme responsible for hydrolysis of PPPi is inorganic pyrophosphatase (PPase).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="4">
+<text>H2O + triphosphate = diphosphate + phosphate</text>
+<dbReference type="Rhea" id="RHEA:14157"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:18036"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="EC" id="3.6.1.25"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="4">Inhibited by calcium ion and activated by magnesium ion.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">270 uM for inorganic triphosphate</KM>
+<Vmax evidence="4">27 umol/min/mg enzyme</Vmax>
+</kinetics>
+<phDependence>
+<text evidence="4">Optimum pH is 8.5.</text>
+</phDependence>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Cells lacking this gene do not show decrease of specific PPPase activity.</text>
+</comment>
+<dbReference type="EC" id="3.6.1.25"/>
+<dbReference type="EMBL" id="Z21844">
+<property type="protein sequence ID" value="CAA79891.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76090.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77105.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S37754">
+<property type="entry name" value="S37754"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417526.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000046281.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5A60">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5A61">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDBsum" id="5A60"/>
+<dbReference type="PDBsum" id="5A61"/>
+<dbReference type="SMR" id="P30871"/>
+<dbReference type="BioGrid" id="4259253">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12218N"/>
+<dbReference type="IntAct" id="P30871">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3054"/>
+<dbReference type="jPOST" id="P30871"/>
+<dbReference type="PaxDb" id="P30871"/>
+<dbReference type="PRIDE" id="P30871"/>
+<dbReference type="EnsemblBacteria" id="AAC76090">
+<property type="protein sequence ID" value="AAC76090"/>
+<property type="gene ID" value="b3054"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77105">
+<property type="protein sequence ID" value="BAE77105"/>
+<property type="gene ID" value="BAE77105"/>
+</dbReference>
+<dbReference type="GeneID" id="947554"/>
+<dbReference type="KEGG" id="ecj:JW3026"/>
+<dbReference type="KEGG" id="eco:b3054"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3677"/>
+<dbReference type="EchoBASE" id="EB1560"/>
+<dbReference type="EcoGene" id="EG11603">
+<property type="gene designation" value="ygiF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105I7R">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3025">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000283528"/>
+<dbReference type="InParanoid" id="P30871"/>
+<dbReference type="KO" id="K18446"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11603-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3026-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11603-MONOMER"/>
+<dbReference type="PRO" id="PR:P30871"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050355">
+<property type="term" value="F:triphosphatase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007899">
+<property type="entry name" value="CHAD_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033469">
+<property type="entry name" value="CYTH-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023577">
+<property type="entry name" value="CYTH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039013">
+<property type="entry name" value="YgiF"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR39569">
+<property type="entry name" value="PTHR39569"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01928">
+<property type="entry name" value="CYTH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01118">
+<property type="entry name" value="CYTH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55154">
+<property type="entry name" value="SSF55154"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51708">
+<property type="entry name" value="CHAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51707">
+<property type="entry name" value="CYTH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Inorganic triphosphatase" id="PRO_0000169406">
+<location>
+<begin position="1"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="domain" description="CYTH" evidence="2">
+<location>
+<begin position="2"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="domain" description="CHAD" evidence="3">
+<location>
+<begin position="218"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="13"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="16"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="47"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="54"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="63"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="73"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="78"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="95"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="103"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="112"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="117"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="136"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="152"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="168"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="181"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="191"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="250"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="268"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="274"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="278"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="297"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="304"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="319"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="323"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="328"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="338"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="366"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="369"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="388"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="410"/>
+<end position="422"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5A61"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01044"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01045"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22984449"/>
+</source>
+</evidence>
+<sequence length="433" mass="48389" checksum="F2CB1519123C0277" modified="1993-07-01" version="1">
+MAQEIELKFIVNHSAVEALRDHLNTLGGEHHDPVQLLNIYYETPDNWLRGHDMGLRIRGE
+NGRYEMTMKVAGRVTGGLHQRPEYNVALSEPTLDLAQLPTEVWPNGELPADLASRVQPLF
+STDFYREKWLVAVDGSQIEIALDQGEVKAGEFAEPICELELELLSGDTRAVLKLANQLVS
+QTGLRQGSLSKAARGYHLAQGNPAREIKPTTILHVAAKADVEQGLEAALELALAQWQYHE
+ELWVRGNDAAKEQVLAAISLVRHTLMLFGGIVPRKASTHLRDLLTQCEATIASAVSAVTA
+VYSTETAMAKLALTEWLVSKAWQPFLDAKAQGKISDSFKRFADIHLSRHAAELKSVFCQP
+LGDRYRDQLPRLTRDIDSILLLAGYYDPVVAQAWLENWQGLHHAIATGQRIEIEHFRNEA
+NNQEPFWLHSGKR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="106">
+<accession>P0ACU7</accession>
+<accession>P36656</accession>
+<accession>Q2M6G9</accession>
+<accession>Q47128</accession>
+<name>YJDC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>HTH-type transcriptional regulator YjdC</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yjdC</name>
+<name type="synonym">cutA3</name>
+<name type="ordered locus">b4135</name>
+<name type="ordered locus">JW5733</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Mol. Microbiol." volume="15" first="1127" last="1137">
+<title>Molecular genetics of a chromosomal locus involved in copper tolerance in Escherichia coli K-12.</title>
+<authorList>
+<person name="Fong S.-T."/>
+<person name="Camakaris J."/>
+<person name="Lee B.T.O."/>
+</authorList>
+<dbReference type="PubMed" id="7623666"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1995.tb02286.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Mol. Microbiol." volume="15" first="1139" last="1150">
+<title>The biogenesis of c-type cytochromes in Escherichia coli requires a membrane-bound protein, DipZ, with a protein disulphide isomerase-like domain.</title>
+<authorList>
+<person name="Crooke H.R."/>
+<person name="Cole J.A."/>
+</authorList>
+<dbReference type="PubMed" id="7623667"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1995.tb02287.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="J. Bacteriol." volume="174" first="530" last="540">
+<title>Identification of elements involved in transcriptional regulation of the Escherichia coli cad operon by external pH.</title>
+<authorList>
+<person name="Watson N."/>
+<person name="Dunyak D.S."/>
+<person name="Rosey E.L."/>
+<person name="Slonczewski J.L."/>
+<person name="Olson E.R."/>
+</authorList>
+<dbReference type="PubMed" id="1370290"/>
+<dbReference type="DOI" id="10.1128/jb.174.2.530-540.1992"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 168-191</scope>
+</reference>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA97034" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA85376" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="Z36905">
+<property type="protein sequence ID" value="CAA85376.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X77707">
+<property type="protein sequence ID" value="CAA54782.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97034.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77095.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78137.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M67452">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418558.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001188520.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0ACU7"/>
+<dbReference type="BioGrid" id="4262690">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48209N"/>
+<dbReference type="STRING" id="511145.b4135"/>
+<dbReference type="SWISS-2DPAGE" id="P0ACU7"/>
+<dbReference type="EPD" id="P0ACU7"/>
+<dbReference type="jPOST" id="P0ACU7"/>
+<dbReference type="PaxDb" id="P0ACU7"/>
+<dbReference type="PRIDE" id="P0ACU7"/>
+<dbReference type="EnsemblBacteria" id="AAC77095">
+<property type="protein sequence ID" value="AAC77095"/>
+<property type="gene ID" value="b4135"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78137">
+<property type="protein sequence ID" value="BAE78137"/>
+<property type="gene ID" value="BAE78137"/>
+</dbReference>
+<dbReference type="GeneID" id="948650"/>
+<dbReference type="KEGG" id="ecj:JW5733"/>
+<dbReference type="KEGG" id="eco:b4135"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2565"/>
+<dbReference type="EchoBASE" id="EB2093"/>
+<dbReference type="EcoGene" id="EG12176">
+<property type="gene designation" value="yjdC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108SIC">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1309">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000127273"/>
+<dbReference type="InParanoid" id="P0ACU7"/>
+<dbReference type="PhylomeDB" id="P0ACU7"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12176-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5733-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ACU7"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001647">
+<property type="entry name" value="HTH_TetR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036271">
+<property type="entry name" value="Tet_transcr_reg_TetR-rel_C_sf"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48498">
+<property type="entry name" value="SSF48498"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50977">
+<property type="entry name" value="HTH_TETR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="HTH-type transcriptional regulator YjdC" id="PRO_0000070644">
+<location>
+<begin position="1"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="domain" description="HTH tetR-type" evidence="1">
+<location>
+<begin position="1"/>
+<end position="60"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00335"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="191" mass="21931" checksum="298D47E05A1BA41F" modified="2005-11-22" version="1">
+MQREDVLGEALKLLELQGIANTTLEMVAERVDYPLDELRRFWPDKEAILYDALRYLSQQI
+DVWRRQLMLDETQTAEQKLLARYQALSECVKNNRYPGCLFIAACTFYPDPGHPIHQLADQ
+QKSAAYDFTHELLTTLEVDDPAMVAKQMELVLEGCLSRMLVNRSQADVDTAHRLAEDILR
+FARCRQGGALT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,1052 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-05-08" version="127">
+<accession>P0A7B8</accession>
+<accession>P31059</accession>
+<accession>P97542</accession>
+<accession>Q2M8M8</accession>
+<name>HSLV_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">ATP-dependent protease subunit HslV</fullName>
+<ecNumber evidence="3">3.4.25.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="3">Heat shock protein HslV</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">hslV</name>
+<name type="synonym">htpO</name>
+<name type="synonym">yiiC</name>
+<name type="ordered locus">b3932</name>
+<name type="ordered locus">JW3903</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Gene" volume="134" first="1" last="6">
+<title>Sequence analysis of four new heat-shock genes constituting the hslTS/ibpAB and hslVU operons in Escherichia coli.</title>
+<authorList>
+<person name="Chuang S.E."/>
+<person name="Burland V."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8244018"/>
+<dbReference type="DOI" id="10.1016/0378-1119(93)90167-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="401" first="252" last="258">
+<title>Molecular cloning of a novel gene involved in serotonin receptor-mediated signal transduction in rat stomach.</title>
+<authorList>
+<person name="Ohya S."/>
+<person name="Takii T."/>
+<person name="Yamazaki H."/>
+<person name="Matsumori M."/>
+<person name="Onozaki K."/>
+<person name="Watanabe M."/>
+<person name="Imaizumi Y."/>
+</authorList>
+<dbReference type="PubMed" id="9013898"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(96)01485-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-125</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="1993-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Dai K."/>
+<person name="Xu Y."/>
+<person name="Lutkenhaus J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-88</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="14035" last="14040">
+<title>Purification and characterization of the heat shock proteins HslV and HslU that form a new ATP-dependent protease in Escherichia coli.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Shin D.H."/>
+<person name="Rohrwild M."/>
+<person name="Kang M.-S."/>
+<person name="Tanaka K."/>
+<person name="Goldberg A.L."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="8662828"/>
+<dbReference type="DOI" id="10.1074/jbc.271.24.14035"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="5808" last="5813">
+<title>HslV-HslU: A novel ATP-dependent protease complex in Escherichia coli related to the eukaryotic proteasome.</title>
+<authorList>
+<person name="Rohrwild M."/>
+<person name="Coux O."/>
+<person name="Huang H.-C."/>
+<person name="Moerschell R.P."/>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Chung C.H."/>
+<person name="Goldberg A.L."/>
+</authorList>
+<dbReference type="PubMed" id="8650174"/>
+<dbReference type="DOI" id="10.1073/pnas.93.12.5808"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PROTEIN SEQUENCE OF N-TERMINUS</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Biochem. Biophys. Res. Commun." volume="238" first="581" last="585">
+<title>ATP binding, but not its hydrolysis, is required for assembly and proteolytic activity of the HslVU protease in Escherichia coli.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Seong I.S."/>
+<person name="Kang M.-S."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="9299555"/>
+<dbReference type="DOI" id="10.1006/bbrc.1997.7341"/>
+</citation>
+<scope>EFFECTS OF ATP BINDING ON COMPLEX FORMATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1997" name="Eur. J. Biochem." volume="247" first="1143" last="1150">
+<title>The heat-shock protein HslVU from Escherichia coli is a protein-activated ATPase as well as an ATP-dependent proteinase.</title>
+<authorList>
+<person name="Seol J.H."/>
+<person name="Yoo S.J."/>
+<person name="Shin D.H."/>
+<person name="Shim Y.K."/>
+<person name="Kang M.-S."/>
+<person name="Goldberg A.L."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="9288941"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1997.01143.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="7219" last="7225">
+<title>Synergistic roles of HslVU and other ATP-dependent proteases in controlling in vivo turnover of sigma32 and abnormal proteins in Escherichia coli.</title>
+<authorList>
+<person name="Kanemori M."/>
+<person name="Nishihara K."/>
+<person name="Yanagi H."/>
+<person name="Yura T."/>
+</authorList>
+<dbReference type="PubMed" id="9393683"/>
+<dbReference type="DOI" id="10.1128/jb.179.23.7219-7225.1997"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="412" first="57" last="60">
+<title>Mutagenesis of two N-terminal Thr and five Ser residues in HslV, the proteolytic component of the ATP-dependent HslVU protease.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Shim Y.K."/>
+<person name="Seong I.S."/>
+<person name="Seol J.H."/>
+<person name="Kang M.-S."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="9257689"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(97)00742-4"/>
+</citation>
+<scope>MUTAGENESIS OF THR-2; THR-3; SER-6; SER-104; SER-125; SER-144 AND SER-173</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="22929" last="22935">
+<title>Effects of the cys mutations on structure and function of the ATP-dependent HslVU protease in Escherichia coli. The Cys287 to Val mutation in HslU uncouples the ATP-dependent proteolysis by HslvU from ATP hydrolysis.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Kim H.H."/>
+<person name="Shin D.H."/>
+<person name="Lee C.S."/>
+<person name="Seong I.S."/>
+<person name="Seol J.H."/>
+<person name="Shimbara N."/>
+<person name="Tanaka K."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="9722513"/>
+<dbReference type="DOI" id="10.1074/jbc.273.36.22929"/>
+</citation>
+<scope>MUTAGENESIS OF CYS-160</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1999" name="FEBS Lett." volume="456" first="211" last="214">
+<title>ATP-dependent degradation of SulA, a cell division inhibitor, by the HslVU protease in Escherichia coli.</title>
+<authorList>
+<person name="Seong I.S."/>
+<person name="Oh J.Y."/>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="10452560"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(99)00935-7"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="22002" last="22007">
+<title>Marked instability of the sigma(32) heat shock transcription factor at high temperature. Implications for heat shock regulation.</title>
+<authorList>
+<person name="Kanemori M."/>
+<person name="Yanagi H."/>
+<person name="Yura T."/>
+</authorList>
+<dbReference type="PubMed" id="10419524"/>
+<dbReference type="DOI" id="10.1074/jbc.274.31.22002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2005" name="Nat. Struct. Mol. Biol." volume="12" first="245" last="251">
+<title>Nucleotide-dependent substrate recognition by the AAA+ HslUV protease.</title>
+<authorList>
+<person name="Burton R.E."/>
+<person name="Baker T.A."/>
+<person name="Sauer R.T."/>
+</authorList>
+<dbReference type="PubMed" id="15696175"/>
+<dbReference type="DOI" id="10.1038/nsmb898"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="33475" last="33484">
+<title>HslVU ATP-dependent protease utilizes maximally six among twelve threonine active sites during proteolysis.</title>
+<authorList>
+<person name="Lee J.W."/>
+<person name="Park E."/>
+<person name="Jeong M.S."/>
+<person name="Jeon Y.J."/>
+<person name="Eom S.H."/>
+<person name="Seol J.H."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="19801685"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.045807"/>
+</citation>
+<scope>REACTION MECHANISM</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="6070" last="6074">
+<title>Crystal structure of heat shock locus V (HslV) from Escherichia coli.</title>
+<authorList>
+<person name="Bochtler M."/>
+<person name="Ditzel L."/>
+<person name="Groll M."/>
+<person name="Huber R."/>
+</authorList>
+<dbReference type="PubMed" id="9177170"/>
+<dbReference type="DOI" id="10.1073/pnas.94.12.6070"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.8 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2000" name="Nature" volume="403" first="800" last="805">
+<title>The structures of HslU and the ATP-dependent protease HslU-HslV.</title>
+<authorList>
+<person name="Bochtler M."/>
+<person name="Hartmann C."/>
+<person name="Song H.K."/>
+<person name="Bourenkov G.P."/>
+<person name="Bartunik H.D."/>
+<person name="Huber R."/>
+</authorList>
+<dbReference type="PubMed" id="10693812"/>
+<dbReference type="DOI" id="10.1038/35001629"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.81 ANGSTROMS) OF COMPLEXES WITH HSLU AND ATP ANALOG</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="14103" last="14108">
+<title>Mutational studies on HslU and its docking mode with HslV.</title>
+<authorList>
+<person name="Song H.K."/>
+<person name="Hartmann C."/>
+<person name="Ramachandran R."/>
+<person name="Bochtler M."/>
+<person name="Behrendt R."/>
+<person name="Moroder L."/>
+<person name="Huber R."/>
+</authorList>
+<dbReference type="PubMed" id="11114186"/>
+<dbReference type="DOI" id="10.1073/pnas.250491797"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 2-176</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2001" name="Structure" volume="9" first="177" last="184">
+<title>Crystal structures of the HslVU peptidase-ATPase complex reveal an ATP-dependent proteolysis mechanism.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Song J.J."/>
+<person name="Franklin M.C."/>
+<person name="Kamtekar S."/>
+<person name="Im Y.J."/>
+<person name="Rho S.H."/>
+<person name="Seong I.S."/>
+<person name="Lee C.S."/>
+<person name="Chung C.H."/>
+<person name="Eom S.H."/>
+</authorList>
+<dbReference type="PubMed" id="11250202"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(01)00570-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 2-175</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2001" name="Structure" volume="9" first="1107" last="1116">
+<title>Nucleotide-dependent conformational changes in a protease-associated ATPase HslU.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Song J.J."/>
+<person name="Seong I.S."/>
+<person name="Franklin M.C."/>
+<person name="Kamtekar S."/>
+<person name="Eom S.H."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="11709174"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(01)00670-0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 2-176</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 8 9 12 13">Protease subunit of a proteasome-like degradation complex believed to be a general protein degrading machinery. The complex has been shown to be involved in the specific degradation of heat shock induced transcription factors such as RpoH and SulA. In addition, small hydrophobic peptides are also hydrolyzed by HslV. HslV has weak protease activity even in the absence of HslU, but this activity is induced more than 100-fold in the presence of HslU. HslU recognizes protein substrates and unfolds these before guiding them to HslV for hydrolysis. HslV is not believed to degrade folded proteins.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3 4 5 8 12 13">
+<text>ATP-dependent cleavage of peptide bonds with broad specificity.</text>
+<dbReference type="EC" id="3.4.25.2"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="15">Allosterically activated by HslU binding.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="6">5.2 uM for Arc-MYL-st11 (at 37 degrees Celsius)</KM>
+<text>Arc is a repressor protein, Arc-MYL-st11 is a hyperstable variant of Arc.</text>
+</kinetics>
+<temperatureDependence>
+<text evidence="6">Optimum temperature is 55 degrees Celsius.</text>
+</temperatureDependence>
+</comment>
+<comment type="subunit">
+<text evidence="3 10">A double ring-shaped homohexamer of HslV is capped on each side by a ring-shaped HslU homohexamer. The assembly of the HslU/HslV complex is dependent on binding of ATP.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552265"/>
+<interactant intactId="EBI-552265"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552265"/>
+<interactant intactId="EBI-369317">
+<id>P0A6H5</id>
+<label>hslU</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>16</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="3 7">By heat shock.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the peptidase T1B family. HslV subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="15">PubMed:9013898 sequence is supposed to originate from rat but, based on sequence similarity, it seems that this is a case of bacterial contamination from E.coli.</text>
+</comment>
+<dbReference type="EC" id="3.4.25.2" evidence="3"/>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03064.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76914.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77378.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D89965">
+<property type="protein sequence ID" value="BAA14040.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L14281">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JT0760">
+<property type="entry name" value="JT0760"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418367.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000208242.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1E94">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1G4A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1G4B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="7.00"/>
+<property type="chains" value="M/N/O/P=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1HQY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1HT1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/V/X/Y/Z=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1HT2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/I/J/K/L=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="1NED">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="A/B/C=2-176"/>
+</dbReference>
+<dbReference type="PDB" id="4G4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.89"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=2-175"/>
+</dbReference>
+<dbReference type="PDB" id="5JI3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=1-176"/>
+</dbReference>
+<dbReference type="PDBsum" id="1E94"/>
+<dbReference type="PDBsum" id="1G4A"/>
+<dbReference type="PDBsum" id="1G4B"/>
+<dbReference type="PDBsum" id="1HQY"/>
+<dbReference type="PDBsum" id="1HT1"/>
+<dbReference type="PDBsum" id="1HT2"/>
+<dbReference type="PDBsum" id="1NED"/>
+<dbReference type="PDBsum" id="4G4E"/>
+<dbReference type="PDBsum" id="5JI3"/>
+<dbReference type="SMR" id="P0A7B8"/>
+<dbReference type="BioGrid" id="4261781">
+<property type="interactions" value="287"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2104">
+<property type="entry name" value="HslUV protease complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35866N"/>
+<dbReference type="IntAct" id="P0A7B8">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3932"/>
+<dbReference type="SWISS-2DPAGE" id="P0A7B8"/>
+<dbReference type="EPD" id="P0A7B8"/>
+<dbReference type="jPOST" id="P0A7B8"/>
+<dbReference type="PaxDb" id="P0A7B8"/>
+<dbReference type="PRIDE" id="P0A7B8"/>
+<dbReference type="EnsemblBacteria" id="AAC76914">
+<property type="protein sequence ID" value="AAC76914"/>
+<property type="gene ID" value="b3932"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77378">
+<property type="protein sequence ID" value="BAE77378"/>
+<property type="gene ID" value="BAE77378"/>
+</dbReference>
+<dbReference type="GeneID" id="948429"/>
+<dbReference type="KEGG" id="ecj:JW3903"/>
+<dbReference type="KEGG" id="eco:b3932"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2773"/>
+<dbReference type="EchoBASE" id="EB1627"/>
+<dbReference type="EcoGene" id="EG11676">
+<property type="gene designation" value="hslV"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108R5P">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5405">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000064533"/>
+<dbReference type="InParanoid" id="P0A7B8"/>
+<dbReference type="KO" id="K01419"/>
+<dbReference type="PhylomeDB" id="P0A7B8"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11676-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3903-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11676-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.25.2">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A7B8"/>
+<dbReference type="PRO" id="PR:P0A7B8"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009376">
+<property type="term" value="C:HslUV protease complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005839">
+<property type="term" value="C:proteasome core complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004298">
+<property type="term" value="F:threonine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034214">
+<property type="term" value="P:protein hexamerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051603">
+<property type="term" value="P:proteolysis involved in cellular protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd01913">
+<property type="entry name" value="protease_HslV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.60.20.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00248">
+<property type="entry name" value="HslV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022281">
+<property type="entry name" value="ATP-dep_Prtase_HsIV_su"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029055">
+<property type="entry name" value="Ntn_hydrolases_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001353">
+<property type="entry name" value="Proteasome_sua/b"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023333">
+<property type="entry name" value="Proteasome_suB-type"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR32194">
+<property type="entry name" value="PTHR32194"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00227">
+<property type="entry name" value="Proteasome"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF039093">
+<property type="entry name" value="HslV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56235">
+<property type="entry name" value="SSF56235"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03692">
+<property type="entry name" value="ATP_dep_HslV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51476">
+<property type="entry name" value="PROTEASOME_BETA_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0021">Allosteric enzyme</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0915">Sodium</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0888">Threonine protease</keyword>
+<feature type="initiator methionine" description="Removed">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="ATP-dependent protease subunit HslV" id="PRO_0000148105">
+<location>
+<begin position="2"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="active site" evidence="3 11">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Sodium; via carbonyl oxygen">
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Sodium; via carbonyl oxygen">
+<location>
+<position position="160"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Sodium; via carbonyl oxygen">
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="80% reduced protease activity in the absence of HslU. Almost no effect in the presence of HslU." evidence="11">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No protease activity." evidence="11">
+<original>T</original>
+<variation>V</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="80% reduced protease activity." evidence="11">
+<original>T</original>
+<variation>S</variation>
+<variation>V</variation>
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="11">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="50% reduced protease activity." evidence="11">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost no protease activity." evidence="11">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="11">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No protease activity. Cannot form complexes with HslU." evidence="14">
+<original>C</original>
+<variation>A</variation>
+<variation>S</variation>
+<location>
+<position position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost no protease activity." evidence="11">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="10"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="21"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="26"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="35"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="39"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="43"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="67"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="104"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="109"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="112"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="117"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="121"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="127"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="145"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="168"/>
+<end position="173"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1E94"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1G4A"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00248"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10419524"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10452560"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15696175"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8244018"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8650174"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8662828"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9177170"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9257689"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9288941"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9393683"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9722513"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="176" mass="19093" checksum="3B35E01F51486965" modified="2007-01-23" version="2">
+MTTIVSVRRNGHVVIAGDGQATLGNTVMKGNVKKVRRLYNDKVIAGFAGGTADAFTLFEL
+FERKLEMHQGHLVKAAVELAKDWRTDRMLRKLEALLAVADETASLIITGNGDVVQPENDL
+IAIGSGGPYAQAAARALLENTELSAREIAEKALDIAGDICIYTNHFHTIEELSYKA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

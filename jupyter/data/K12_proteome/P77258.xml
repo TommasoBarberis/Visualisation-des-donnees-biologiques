@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-06-05" version="130">
+<accession>P77258</accession>
+<accession>Q2MB63</accession>
+<name>NEMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="10">N-ethylmaleimide reductase</fullName>
+<shortName evidence="10">NEM reductase</shortName>
+<ecNumber evidence="5 9">1.3.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>N-ethylmaleimide reducing enzyme</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="10">nemA</name>
+<name type="synonym">ydhN</name>
+<name type="ordered locus">b1650</name>
+<name type="ordered locus">JW1642</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Biol. Pharm. Bull." volume="20" first="110" last="112">
+<title>Molecular cloning of the nemA gene encoding N-ethylmaleimide reductase from Escherichia coli.</title>
+<authorList>
+<person name="Miura K."/>
+<person name="Tomioka Y."/>
+<person name="Suzuki H."/>
+<person name="Yonezawa M."/>
+<person name="Hishinuma T."/>
+<person name="Mizugaki M."/>
+</authorList>
+<dbReference type="PubMed" id="9013822"/>
+<dbReference type="DOI" id="10.1248/bpb.20.110"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Appl. Environ. Microbiol." volume="70" first="3566" last="3574">
+<title>Biotransformation of explosives by the old yellow enzyme family of flavoproteins.</title>
+<authorList>
+<person name="Williams R.E."/>
+<person name="Rathbone D.A."/>
+<person name="Scrutton N.S."/>
+<person name="Bruce N.C."/>
+</authorList>
+<dbReference type="PubMed" id="15184158"/>
+<dbReference type="DOI" id="10.1128/AEM.70.6.3566-3574.2004"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / JM109 / ATCC 53323</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Environ. Microbiol." volume="9" first="1535" last="1540">
+<title>Escherichia coli has multiple enzymes that attack TNT and release nitrogen for growth.</title>
+<authorList>
+<person name="Gonzalez-Perez M.M."/>
+<person name="van Dillewijn P."/>
+<person name="Wittich R.M."/>
+<person name="Ramos J.L."/>
+</authorList>
+<dbReference type="PubMed" id="17504490"/>
+<dbReference type="DOI" id="10.1111/j.1462-2920.2007.01272.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / AB1157</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="5890" last="5897">
+<title>The uncharacterized transcription factor YdhM is the regulator of the nemA gene, encoding N-ethylmaleimide reductase.</title>
+<authorList>
+<person name="Umezawa Y."/>
+<person name="Shimada T."/>
+<person name="Kori A."/>
+<person name="Yamada K."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="18567656"/>
+<dbReference type="DOI" id="10.1128/JB.00459-08"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="Mol. Microbiol." volume="88" first="395" last="412">
+<title>Novel regulatory system nemRA-gloA for electrophile reduction in Escherichia coli K-12.</title>
+<authorList>
+<person name="Lee C."/>
+<person name="Shin J."/>
+<person name="Park C."/>
+</authorList>
+<dbReference type="PubMed" id="23506073"/>
+<dbReference type="DOI" id="10.1111/mmi.12192"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="PLoS ONE" volume="8" first="E59200" last="E59200">
+<title>Escherichia coli NemA is an efficient chromate reductase that can be biologically immobilized to provide a cell free system for remediation of hexavalent chromium.</title>
+<authorList>
+<person name="Robins K.J."/>
+<person name="Hooks D.O."/>
+<person name="Rehm B.H."/>
+<person name="Ackerley D.F."/>
+</authorList>
+<dbReference type="PubMed" id="23527133"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0059200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="13789" last="13798">
+<title>NemR is a bleach-sensing transcription factor.</title>
+<authorList>
+<person name="Gray M.J."/>
+<person name="Wholey W.Y."/>
+<person name="Parker B.W."/>
+<person name="Kim M."/>
+<person name="Jakob U."/>
+</authorList>
+<dbReference type="PubMed" id="23536188"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.454421"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="Mol. Microbiol." volume="88" first="936" last="950">
+<title>Integrated stress response of Escherichia coli to methylglyoxal: transcriptional readthrough from the nemRA operon enhances protection through increased expression of glyoxalase I.</title>
+<authorList>
+<person name="Ozyamak E."/>
+<person name="de Almeida C."/>
+<person name="de Moura A.P."/>
+<person name="Miller S."/>
+<person name="Booth I.R."/>
+</authorList>
+<dbReference type="PubMed" id="23646895"/>
+<dbReference type="DOI" id="10.1111/mmi.12234"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 5 6 7 9">Involved in the degradation of toxic compounds (PubMed:9013822, PubMed:15184158, PubMed:17504490, PubMed:23527133, PubMed:23506073, PubMed:23536188). Can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones (PubMed:15184158, PubMed:23527133, PubMed:23506073). Involved in resistance to hypochlorous acid (HOCl), which is the active component of household bleach and a powerful antimicrobial during the innate immune response (PubMed:23536188). Catalyzes the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide (PubMed:9013822, PubMed:23506073). Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT) (PubMed:17504490).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5 9">
+<text>H(+) + N-ethylmaleimide + NADPH = N-ethylsuccinimide + NADP(+)</text>
+<dbReference type="Rhea" id="RHEA:35523"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:44348"/>
+<dbReference type="ChEBI" id="CHEBI:44485"/>
+<dbReference type="ChEBI" id="CHEBI:57783"/>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>FMN</name>
+<dbReference type="ChEBI" id="CHEBI:58210"/>
+</cofactor>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="5">27.13 uM for NEM</KM>
+<KM evidence="6">23 uM for chromate (in the presence of NADPH)</KM>
+<KM evidence="6">16 uM for chromate (in the presence of NADH)</KM>
+<KM evidence="5">0.29 mM for menadione</KM>
+<KM evidence="5">0.31 mM for ubiquinone 0</KM>
+<KM evidence="5">0.78 mM for ubiquinone 10</KM>
+<KM evidence="5">6.43 mM for acrolein</KM>
+<KM evidence="5">11.52 mM for menaquinone</KM>
+<KM evidence="5">25.63 mM for methylglyoxal</KM>
+<KM evidence="5">318 mM for glyoxal</KM>
+<KM evidence="5">480 mM for glycolaldehyde</KM>
+<text evidence="5 6">kcat is 354000 sec(-1) with NEM as substrate. kcat is 123000 sec(-1) with ubiquinone 0 as substrate. kcat is 14200 sec(-1) with menadione as substrate (PubMed:23506073). kcat is 2.1 sec(-1) with chromate as substrate in the presence of NADPH. kcat is 1 sec(-1) with chromate as substrate in the presence of NADH (PubMed:23527133).</text>
+</kinetics>
+</comment>
+<comment type="induction">
+<text evidence="4 5 7 8">Repressed by NemR. Induced by N-ethylmaleimide and reactive electrophilic species (RES) such as quinones, glyoxals and methylglyoxal (PubMed:18567656, PubMed:23506073, PubMed:23646895). Up-regulated by HOCl (PubMed:23536188).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 7">Mutant is still able to grow and use TNT as the sole nitrogen source (PubMed:17504490). Deletion of the gene increases the HOCl sensitivity. Mutant shows no defect in survival of methylglyoxal stress (PubMed:23536188).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the NADH:flavin oxidoreductase/NADH oxidase family.</text>
+</comment>
+<dbReference type="EC" id="1.3.1.-" evidence="5 9"/>
+<dbReference type="EMBL" id="D86931">
+<property type="protein sequence ID" value="BAA13186.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74722.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76493.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JC5605">
+<property type="entry name" value="JC5605"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416167.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000093589.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P77258"/>
+<dbReference type="BioGrid" id="4259388">
+<property type="interactions" value="46"/>
+</dbReference>
+<dbReference type="IntAct" id="P77258">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1650"/>
+<dbReference type="SWISS-2DPAGE" id="P77258"/>
+<dbReference type="EPD" id="P77258"/>
+<dbReference type="jPOST" id="P77258"/>
+<dbReference type="PaxDb" id="P77258"/>
+<dbReference type="PRIDE" id="P77258"/>
+<dbReference type="EnsemblBacteria" id="AAC74722">
+<property type="protein sequence ID" value="AAC74722"/>
+<property type="gene ID" value="b1650"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76493">
+<property type="protein sequence ID" value="BAE76493"/>
+<property type="gene ID" value="BAE76493"/>
+</dbReference>
+<dbReference type="GeneID" id="946164"/>
+<dbReference type="KEGG" id="ecj:JW1642"/>
+<dbReference type="KEGG" id="eco:b1650"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.609"/>
+<dbReference type="EchoBASE" id="EB3316"/>
+<dbReference type="EcoGene" id="EG13546">
+<property type="gene designation" value="nemA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CCY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1902">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000116231"/>
+<dbReference type="InParanoid" id="P77258"/>
+<dbReference type="KO" id="K10680"/>
+<dbReference type="PhylomeDB" id="P77258"/>
+<dbReference type="BioCyc" id="EcoCyc:G6890-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1642-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6890-MONOMER"/>
+<dbReference type="PRO" id="PR:P77258"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034567">
+<property type="term" value="F:chromate reductase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010181">
+<property type="term" value="F:FMN binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008748">
+<property type="term" value="F:N-ethylmaleimide reductase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046857">
+<property type="term" value="F:oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046256">
+<property type="term" value="P:2,4,6-trinitrotoluene catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018937">
+<property type="term" value="P:nitroglycerin metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006805">
+<property type="term" value="P:xenobiotic metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.70">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013785">
+<property type="entry name" value="Aldolase_TIM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001155">
+<property type="entry name" value="OxRdtase_FMN_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00724">
+<property type="entry name" value="Oxidored_FMN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0288">FMN</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="N-ethylmaleimide reductase" id="PRO_0000194481">
+<location>
+<begin position="1"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="1">
+<location>
+<begin position="324"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="1">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="1">
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="1">
+<location>
+<position position="234"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P42593"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15184158"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17504490"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18567656"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23506073"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23527133"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23536188"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23646895"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9013822"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9013822"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="365" mass="39516" checksum="EFCFE04B42CE9C7C" modified="1997-02-01" version="1">
+MSSEKLYSPLKVGAITAANRIFMAPLTRLRSIEPGDIPTPLMAEYYRQRASAGLIISEAT
+QISAQAKGYAGAPGIHSPEQIAAWKKITAGVHAENGHMAVQLWHTGRISHASLQPGGQAP
+VAPSALSAGTRTSLRDENGQAIRVETSMPRALELEEIPGIVNDFRQAIANAREAGFDLVE
+LHSAHGYLLHQFLSPSSNHRTDQYGGSVENRARLVLEVVDAGIEEWGADRIGIRVSPIGT
+FQNTDNGPNEEADALYLIEQLGKRGIAYLHMSEPDWAGGEPYTDAFREKVRARFHGPIIG
+AGAYTVEKAETLIGKGLIDAVAFGRDWIANPDLVARLQRKAELNPQRAESFYGGGAEGYT
+DYPTL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

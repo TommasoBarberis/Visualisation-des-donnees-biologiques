@@ -1,0 +1,942 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="189">
+<accession>P00956</accession>
+<accession>P78038</accession>
+<accession>Q59429</accession>
+<name>SYI_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Isoleucine--tRNA ligase</fullName>
+<ecNumber>6.1.1.5</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Isoleucyl-tRNA synthetase</fullName>
+<shortName>IleRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ileS</name>
+<name type="synonym">ilvS</name>
+<name type="ordered locus">b0026</name>
+<name type="ordered locus">JW0024</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Science" volume="226" first="1315" last="1317">
+<title>Specific sequence homology and three-dimensional structure of an aminoacyl transfer RNA synthetase.</title>
+<authorList>
+<person name="Webster T."/>
+<person name="Tsai H."/>
+<person name="Kula M."/>
+<person name="Mackie G.A."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="6390679"/>
+<dbReference type="DOI" id="10.1126/science.6390679"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="24304" last="24309">
+<title>Relationship of protein structure of isoleucyl-tRNA synthetase with pseudomonic acid resistance of Escherichia coli. A proposed mode of action of pseudomonic acid as an inhibitor of isoleucyl-tRNA synthetase.</title>
+<authorList>
+<person name="Yanagisawa T."/>
+<person name="Lee J.T."/>
+<person name="Wu H.C."/>
+<person name="Kawakami M."/>
+</authorList>
+<dbReference type="PubMed" id="7929087"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 2-11 AND 606-615</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+<strain>PS102</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="5616" last="5620">
+<title>Characterization of the ileS-lsp operon in Escherichia coli. Identification of an open reading frame upstream of the ileS gene and potential promoter(s) for the ileS-lsp operon.</title>
+<authorList>
+<person name="Kamio Y."/>
+<person name="Lin C.-K."/>
+<person name="Regue M."/>
+<person name="Wu H.C."/>
+</authorList>
+<dbReference type="PubMed" id="2985604"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-71</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1984" name="FEBS Lett." volume="173" first="264" last="268">
+<title>Nucleotide sequence of the lspA gene, the structural gene for lipoprotein signal peptidase of Escherichia coli.</title>
+<authorList>
+<person name="Yu F."/>
+<person name="Yamada H."/>
+<person name="Daishima K."/>
+<person name="Mizushima S."/>
+</authorList>
+<dbReference type="PubMed" id="6378662"/>
+<dbReference type="DOI" id="10.1016/0014-5793(84)81060-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 794-938</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1984" name="Proc. Natl. Acad. Sci. U.S.A." volume="81" first="3708" last="3712">
+<title>Nucleotide sequence of the Escherichia coli prolipoprotein signal peptidase (lsp) gene.</title>
+<authorList>
+<person name="Innis M.A."/>
+<person name="Tokunaga M."/>
+<person name="Williams M.E."/>
+<person name="Loranger J.M."/>
+<person name="Chang S.-Y."/>
+<person name="Chang S."/>
+<person name="Wu H.C."/>
+</authorList>
+<dbReference type="PubMed" id="6374664"/>
+<dbReference type="DOI" id="10.1073/pnas.81.12.3708"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 795-938</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1988" name="Science" volume="240" first="521" last="523">
+<title>Evidence from cassette mutagenesis for a structure-function motif in a protein of unknown structure.</title>
+<authorList>
+<person name="Clarke N.D."/>
+<person name="Lien D.C."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="3282306"/>
+<dbReference type="DOI" id="10.1126/science.3282306"/>
+</citation>
+<scope>MUTAGENESIS OF GLY-94; CYS-97 AND ILE-102</scope>
+<scope>KINETIC PARAMETERS</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="Science" volume="280" first="578" last="582">
+<title>Enzyme structure with two catalytic sites for double-sieve selection of substrate.</title>
+<authorList>
+<person name="Nureki O."/>
+<person name="Vassylyev D.G."/>
+<person name="Tateno M."/>
+<person name="Shimada A."/>
+<person name="Nakama T."/>
+<person name="Fukai S."/>
+<person name="Konno M."/>
+<person name="Hendrickson T.L."/>
+<person name="Schimmel P."/>
+<person name="Yokoyama S."/>
+</authorList>
+<dbReference type="PubMed" id="9554847"/>
+<dbReference type="DOI" id="10.1126/science.280.5363.578"/>
+</citation>
+<scope>MUTAGENESIS OF THR-241; THR-243; THR-246 AND ASN-250</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="Mol. Cell" volume="4" first="519" last="528">
+<title>Transfer RNA-dependent translocation of misactivated amino acids to prevent errors in protein synthesis.</title>
+<authorList>
+<person name="Nomanbhoy T.K."/>
+<person name="Hendrickson T.L."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="10549284"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(00)80203-8"/>
+</citation>
+<scope>EDITING ACTIVITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2000" name="Biochemistry" volume="39" first="8180" last="8186">
+<title>Errors from selective disruption of the editing center in a tRNA synthetase.</title>
+<authorList>
+<person name="Hendrickson T.L."/>
+<person name="Nomanbhoy T.K."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="10889024"/>
+<dbReference type="DOI" id="10.1021/bi0004798"/>
+</citation>
+<scope>MUTAGENESIS OF THR-242 AND ASN-250</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2002" name="Mol. Cell" volume="9" first="353" last="362">
+<title>Mutational separation of two pathways for editing by a class I tRNA synthetase.</title>
+<authorList>
+<person name="Hendrickson T.L."/>
+<person name="Nomanbhoy T.K."/>
+<person name="de Crecy-Lagard V."/>
+<person name="Fukai S."/>
+<person name="Nureki O."/>
+<person name="Yokoyama S."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="11864608"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(02)00449-5"/>
+</citation>
+<scope>MUTAGENESIS OF THR-243 AND HIS-333</scope>
+<scope>PRESENCE OF TWO EDITING SUBSITES</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="585" last="590">
+<title>Blocking site-to-site translocation of a misactivatd amino acid by mutation of a class I tRNA synthetase.</title>
+<authorList>
+<person name="Bishop A.C."/>
+<person name="Nomanbhoy T.K."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="11782529"/>
+<dbReference type="DOI" id="10.1073/pnas.012611299"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-342</scope>
+<scope>TRANSLOCATION OF MISACTIVATED VALINE</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="490" last="494">
+<title>Interstice mutations that block site-to-site translocation of a misactivated amino acid bound to a class I tRNA synthetase.</title>
+<authorList>
+<person name="Bishop A.C."/>
+<person name="Beebe K."/>
+<person name="Schimmel P.R."/>
+</authorList>
+<dbReference type="PubMed" id="12515858"/>
+<dbReference type="DOI" id="10.1073/pnas.0237335100"/>
+</citation>
+<scope>MUTAGENESIS OF LYS-183 AND TRP-421</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="215" last="225">
+<title>Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Sprung R."/>
+<person name="Pei J."/>
+<person name="Tan X."/>
+<person name="Kim S."/>
+<person name="Zhu H."/>
+<person name="Liu C.F."/>
+<person name="Grishin N.V."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="18723842"/>
+<dbReference type="DOI" id="10.1074/mcp.M800187-MCP200"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-183</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>K12 / JW1106</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Catalyzes the attachment of isoleucine to tRNA(Ile). As IleRS can inadvertently accommodate and process structurally similar amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-isoleucine + tRNA(Ile) = AMP + diphosphate + L-isoleucyl-tRNA(Ile)</text>
+<dbReference type="Rhea" id="RHEA:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:9666"/>
+<dbReference type="Rhea" id="RHEA-COMP:9695"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:58045"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78528"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.5"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text>Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="7">5 uM for isoleucine</KM>
+<KM evidence="7">0.4 mM for ATP</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552928"/>
+<interactant intactId="EBI-552940">
+<id>P19930</id>
+<label>hyaD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552928"/>
+<interactant intactId="EBI-369930">
+<id>P02925</id>
+<label>rbsB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552928"/>
+<interactant intactId="EBI-301077">
+<id>P0CE47</id>
+<label>tufA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552928"/>
+<interactant intactId="EBI-549937">
+<id>P39336</id>
+<label>yjgL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>IleRS has two distinct active sites: one for aminoacylation and one for editing. The misactivated valine is translocated from the active site to the editing site, which sterically excludes the correctly activated isoleucine. The single editing site contains two valyl binding pockets, one specific for each substrate (Val-AMP or Val-tRNA(Ile)).</text>
+</comment>
+<comment type="miscellaneous">
+<text>Strain PS102 is resistant to the antibiotic mupirocin (pseudomonic acid A), an Ile-analog that competitively inhibits activation by Ile-tRNA synthetase, thus inhibiting protein biosynthesis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the class-I aminoacyl-tRNA synthetase family. IleS type 1 subfamily.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.5"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73137.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96595.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10428">
+<property type="protein sequence ID" value="AAA24606.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X00776">
+<property type="protein sequence ID" value="CAA25352.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K01990">
+<property type="protein sequence ID" value="AAA24091.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B64723">
+<property type="entry name" value="SYECIT"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414567.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001286857.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4261375">
+<property type="interactions" value="35"/>
+</dbReference>
+<dbReference type="BioGrid" id="849163">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10017N"/>
+<dbReference type="IntAct" id="P00956">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0026"/>
+<dbReference type="BindingDB" id="P00956"/>
+<dbReference type="ChEMBL" id="CHEMBL3657"/>
+<dbReference type="iPTMnet" id="P00956"/>
+<dbReference type="EPD" id="P00956"/>
+<dbReference type="jPOST" id="P00956"/>
+<dbReference type="PaxDb" id="P00956"/>
+<dbReference type="PRIDE" id="P00956"/>
+<dbReference type="EnsemblBacteria" id="AAC73137">
+<property type="protein sequence ID" value="AAC73137"/>
+<property type="gene ID" value="b0026"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96595">
+<property type="protein sequence ID" value="BAB96595"/>
+<property type="gene ID" value="BAB96595"/>
+</dbReference>
+<dbReference type="GeneID" id="944761"/>
+<dbReference type="KEGG" id="ecj:JW0024"/>
+<dbReference type="KEGG" id="eco:b0026"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2259"/>
+<dbReference type="EchoBASE" id="EB0487"/>
+<dbReference type="EcoGene" id="EG10492">
+<property type="gene designation" value="ileS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C07">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0060">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000246402"/>
+<dbReference type="InParanoid" id="P00956"/>
+<dbReference type="KO" id="K01870"/>
+<dbReference type="PhylomeDB" id="P00956"/>
+<dbReference type="BioCyc" id="EcoCyc:ILES-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0024-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:ILES-MONOMER"/>
+<dbReference type="PRO" id="PR:P00956"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002161">
+<property type="term" value="F:aminoacyl-tRNA editing activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004822">
+<property type="term" value="F:isoleucine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006428">
+<property type="term" value="P:isoleucyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd07960">
+<property type="entry name" value="Anticodon_Ia_Ile_BEm"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.740.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02002">
+<property type="entry name" value="Ile_tRNA_synth_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002300">
+<property type="entry name" value="aa-tRNA-synth_Ia"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033708">
+<property type="entry name" value="Anticodon_Ile_BEm"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002301">
+<property type="entry name" value="Ile-tRNA-ligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023585">
+<property type="entry name" value="Ile-tRNA-ligase_type1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013155">
+<property type="entry name" value="M/V/L/I-tRNA-synth_anticd-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009080">
+<property type="entry name" value="tRNAsynth_Ia_anticodon-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009008">
+<property type="entry name" value="Val/Leu/Ile-tRNA-synth_edit"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010663">
+<property type="entry name" value="Znf_FPG/IleRS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08264">
+<property type="entry name" value="Anticodon_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00133">
+<property type="entry name" value="tRNA-synt_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06827">
+<property type="entry name" value="zf-FPG_IleRS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00984">
+<property type="entry name" value="TRNASYNTHILE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47323">
+<property type="entry name" value="SSF47323"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50677">
+<property type="entry name" value="SSF50677"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00392">
+<property type="entry name" value="ileS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="initiator methionine" description="Removed" evidence="8">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Isoleucine--tRNA ligase" id="PRO_0000098384">
+<location>
+<begin position="2"/>
+<end position="938"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;HIGH&quot; region">
+<location>
+<begin position="58"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;KMSKS&quot; region">
+<location>
+<begin position="602"/>
+<end position="606"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1">
+<location>
+<position position="901"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1">
+<location>
+<position position="904"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1">
+<location>
+<position position="921"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="1">
+<location>
+<position position="924"/>
+</location>
+</feature>
+<feature type="binding site" description="Aminoacyl-adenylate" evidence="1">
+<location>
+<position position="561"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="605"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="6">
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: PS102.">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="594"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="6000-fold increase in Km for isoleucine and 4-fold increase in Km for ATP, with no effect on activity." evidence="7">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on activity." evidence="7">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No significant effect on activity." evidence="7">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes translocation from the aminoacylation site to the editing site, without effect on aminoacylation activity and posttransfer editing; when associated with A-421." evidence="5">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Nearly the same editing activity as the wild-type." evidence="9">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes editing activity against valine, with little change in aminoacylation activity; when associated with A-250." evidence="2">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="242"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes editing activity against valine, with little change in aminoacylation activity." evidence="2">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="242"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes editing activity against valine, with little change in aminoacylation activity." evidence="4 9">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes pretransfer editing." evidence="4 9">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Nearly the same editing activity as the wild-type." evidence="9">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="246"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes editing activity against valine, with little change in aminoacylation activity." evidence="2 9">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="250"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Alters the specificity for hydrolysis of the aminoacyl tRNA ester, with no effect on pretransfer editing." evidence="4">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in total editing and deacylation activities. Severely deficient in translocation from the aminoacylation site to the editing site." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<variation>N</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces 2- to 3-fold the total editing activity and 2-fold the deacylation activity. Moderately reduces translocation from the aminoacylation site to the editing site." evidence="3">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes translocation from the aminoacylation site to the editing site, without effect on aminoacylation activity and posttransfer editing; when associated with A-183." evidence="5">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="421"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>TPWTLPANRAISIAPDFDYALV</original>
+<variation>RRGLCLPTAQSLLHQISTMRWW</variation>
+<location>
+<begin position="243"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>EL</original>
+<variation>DV</variation>
+<location>
+<begin position="300"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="587"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="637"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="724"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="738"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>ADSV</original>
+<variation>RTVW</variation>
+<location>
+<begin position="740"/>
+<end position="743"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="787"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="830"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="10">
+<original>GAT</original>
+<variation>DRRY</variation>
+<location>
+<begin position="867"/>
+<end position="869"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10889024"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11782529"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11864608"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12515858"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18723842"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3282306"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7929087"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9554847"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="938" mass="104297" checksum="238CEDAF461F01D5" modified="2007-01-23" version="5">
+MSDYKSTLNLPETGFPMRGDLAKREPGMLARWTDDDLYGIIRAAKKGKKTFILHDGPPYA
+NGSIHIGHSVNKILKDIIVKSKGLSGYDSPYVPGWDCHGLPIELKVEQEYGKPGEKFTAA
+EFRAKCREYAATQVDGQRKDFIRLGVLGDWSHPYLTMDFKTEANIIRALGKIIGNGHLHK
+GAKPVHWCVDCRSALAEAEVEYYDKTSPSIDVAFQAVDQDALKAKFAVSNVNGPISLVIW
+TTTPWTLPANRAISIAPDFDYALVQIDGQAVILAKDLVESVMQRIGVTDYTILGTVKGAE
+LELLRFTHPFMGFDVPAILGDHVTLDAGTGAVHTAPGHGPDDYVIGQKYGLETANPVGPD
+GTYLPGTYPTLDGVNVFKANDIVVALLQEKGALLHVEKMQHSYPCCWRHKTPIIFRATPQ
+WFVSMDQKGLRAQSLKEIKGVQWIPDWGQARIESMVANRPDWCISRQRTWGVPMSLFVHK
+DTEELHPRTLELMEEVAKRVEVDGIQAWWDLDAKEILGDEADQYVKVPDTLDVWFDSGST
+HSSVVDVRPEFAGHAADMYLEGSDQHRGWFMSSLMISTAMKGKAPYRQVLTHGFTVDGQG
+RKMSKSIGNTVSPQDVMNKLGADILRLWVASTDYTGEMAVSDEILKRAADSYRRIRNTAR
+FLLANLNGFDPAKDMVKPEEMVVLDRWAVGCAKAAQEDILKAYEAYDFHEVVQRLMRFCS
+VEMGSFYLDIIKDRQYTAKADSVARRSCQTALYHIAEALVRWMAPILSFTADEVWGYLPG
+EREKYVFTGEWYEGLFGLADSEAMNDAFWDELLKVRGEVNKVIEQARADKKVGGSLEAAV
+TLYAEPELSAKLTALGDELRFVLLTSGATVADYNDAPADAQQSEVLKGLKVALSKAEGEK
+CPRCWHYTQDVGKVAEHAEICGRCVSNVAGDGEKRKFA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

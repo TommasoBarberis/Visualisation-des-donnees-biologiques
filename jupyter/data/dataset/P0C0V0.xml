@@ -1,0 +1,1533 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="127">
+<accession>P0C0V0</accession>
+<accession>P09376</accession>
+<accession>P15724</accession>
+<name>DEGP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Periplasmic serine endoprotease DegP</fullName>
+<ecNumber evidence="24">3.4.21.107</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Heat shock protein DegP</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protease Do</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">degP</name>
+<name type="synonym">htrA</name>
+<name type="synonym">ptd</name>
+<name type="ordered locus">b0161</name>
+<name type="ordered locus">JW0157</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="10053" last="10067">
+<title>Sequence analysis and regulation of the htrA gene of Escherichia coli: a sigma 32-independent mechanism of heat-inducible transcription.</title>
+<authorList>
+<person name="Lipinska B."/>
+<person name="Sharma S."/>
+<person name="Georgopoulos C."/>
+</authorList>
+<dbReference type="PubMed" id="3057437"/>
+<dbReference type="DOI" id="10.1093/nar/16.21.10053"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Gene" volume="89" first="13" last="18">
+<title>Primary structure of the deoxyguanosine triphosphate triphosphohydrolase-encoding gene (dgt) of Escherichia coli.</title>
+<authorList>
+<person name="Quirk S."/>
+<person name="Bhatnagar S.K."/>
+<person name="Bessman M.J."/>
+</authorList>
+<dbReference type="PubMed" id="2165018"/>
+<dbReference type="DOI" id="10.1016/0378-1119(90)90200-B"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-50</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="Proc. Natl. Acad. Sci. U.S.A." volume="87" first="2740" last="2744">
+<title>Structure and regulation of the gene for dGTP triphosphohydrolase from Escherichia coli.</title>
+<authorList>
+<person name="Wurgler S.M."/>
+<person name="Richardson C.C."/>
+</authorList>
+<dbReference type="PubMed" id="2157212"/>
+<dbReference type="DOI" id="10.1073/pnas.87.7.2740"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-16</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="1791" last="1797">
+<title>The HtrA (DegP) protein, essential for Escherichia coli survival at high temperatures, is an endopeptidase.</title>
+<authorList>
+<person name="Lipinska B."/>
+<person name="Zylicz M."/>
+<person name="Georgopoulos C."/>
+</authorList>
+<dbReference type="PubMed" id="2180903"/>
+<dbReference type="DOI" id="10.1128/jb.172.4.1791-1797.1990"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 27-39</scope>
+<scope>FUNCTION AS A SERINE PROTEASE</scope>
+<scope>ACTIVITY REGULATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="278" first="599" last="608">
+<title>Protein identification with N and C-terminal sequence tags in proteome projects.</title>
+<authorList>
+<person name="Wilkins M.R."/>
+<person name="Gasteiger E."/>
+<person name="Tonella L."/>
+<person name="Ou K."/>
+<person name="Tyler M."/>
+<person name="Sanchez J.-C."/>
+<person name="Gooley A.A."/>
+<person name="Walsh B.J."/>
+<person name="Bairoch A."/>
+<person name="Appel R.D."/>
+<person name="Williams K.L."/>
+<person name="Hochstrasser D.F."/>
+</authorList>
+<dbReference type="PubMed" id="9600841"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1726"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 27-30</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1991" name="Biochem. Biophys. Res. Commun." volume="176" first="730" last="736">
+<title>Protease Do is essential for survival of Escherichia coli at high temperatures: its identity with the htrA gene product.</title>
+<authorList>
+<person name="Seol J.H."/>
+<person name="Woo S.K."/>
+<person name="Jung E.M."/>
+<person name="Yoo S.J."/>
+<person name="Lee C.S."/>
+<person name="Kim K.J."/>
+<person name="Tanaka K."/>
+<person name="Ichihara A."/>
+<person name="Ha D.B."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="2025286"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(05)80245-1"/>
+</citation>
+<scope>IDENTITY OF HTRA AND PROTEASE DO</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1995" name="Gene" volume="163" first="47" last="52">
+<title>Site-directed mutagenesis of the HtrA (DegP) serine protease, whose proteolytic activity is indispensable for Escherichia coli survival at elevated temperatures (above 42 degrees Celsius).</title>
+<authorList>
+<person name="Skorko-Glonek J."/>
+<person name="Wawrzynow A."/>
+<person name="Krzewski K."/>
+<person name="Kurpierz K."/>
+<person name="Lipinska B."/>
+</authorList>
+<dbReference type="PubMed" id="7557477"/>
+<dbReference type="DOI" id="10.1016/0378-1119(95)00406-V"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF HIS-131 AND SER-236</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1995" name="Genes Dev." volume="9" first="387" last="398">
+<title>The Cpx two-component signal transduction pathway of Escherichia coli regulates transcription of the gene specifying the stress-inducible periplasmic protease, DegP.</title>
+<authorList>
+<person name="Danese P.N."/>
+<person name="Snyder W.B."/>
+<person name="Cosma C.L."/>
+<person name="Davis L.J."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="7883164"/>
+<dbReference type="DOI" id="10.1101/gad.9.4.387"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="11140" last="11146">
+<title>Comparison of the structure of wild-type HtrA heat shock protease and mutant HtrA proteins. A Fourier transform infrared spectroscopic study.</title>
+<authorList>
+<person name="Skorko-Glonek J."/>
+<person name="Krzewski K."/>
+<person name="Lipinska B."/>
+<person name="Bertoli E."/>
+<person name="Tanfani F."/>
+</authorList>
+<dbReference type="PubMed" id="7744744"/>
+<dbReference type="DOI" id="10.1074/jbc.270.19.11140"/>
+</citation>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="5925" last="5929">
+<title>The DegP and DegQ periplasmic endoproteases of Escherichia coli: specificity for cleavage sites and substrate conformation.</title>
+<authorList>
+<person name="Kolmar H."/>
+<person name="Waller P.R."/>
+<person name="Sauer R.T."/>
+</authorList>
+<dbReference type="PubMed" id="8830688"/>
+<dbReference type="DOI" id="10.1128/jb.178.20.5925-5929.1996"/>
+</citation>
+<scope>FUNCTION AS A SERINE PROTEASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="8974" last="8982">
+<title>HtrA heat shock protease interacts with phospholipid membranes and undergoes conformational changes.</title>
+<authorList>
+<person name="Skorko-Glonek J."/>
+<person name="Lipinska B."/>
+<person name="Krzewski K."/>
+<person name="Zolese G."/>
+<person name="Bertoli E."/>
+<person name="Tanfani F."/>
+</authorList>
+<dbReference type="PubMed" id="9083020"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1997" name="EMBO J." volume="16" first="6394" last="6406">
+<title>The chaperone-assisted membrane release and folding pathway is sensed by two signal transduction systems.</title>
+<authorList>
+<person name="Jones C.H."/>
+<person name="Danese P.N."/>
+<person name="Pinkner J.S."/>
+<person name="Silhavy T.J."/>
+<person name="Hultgren S.J."/>
+</authorList>
+<dbReference type="PubMed" id="9351822"/>
+<dbReference type="DOI" id="10.1093/emboj/16.21.6394"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1999" name="Cell" volume="97" first="339" last="347">
+<title>A temperature-dependent switch from chaperone to protease in a widely conserved heat shock protein.</title>
+<authorList>
+<person name="Spiess C."/>
+<person name="Beil A."/>
+<person name="Ehrmann M."/>
+</authorList>
+<dbReference type="PubMed" id="10319814"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(00)80743-6"/>
+</citation>
+<scope>FUNCTION AS A CHAPERONE AND AS A SERINE PROTEASE</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="5762" last="5771">
+<title>Escherichia coli DegP protease cleaves between paired hydrophobic residues in a natural substrate: the PapA pilin.</title>
+<authorList>
+<person name="Jones C.H."/>
+<person name="Dexter P."/>
+<person name="Evans A.K."/>
+<person name="Liu C."/>
+<person name="Hultgren S.J."/>
+<person name="Hruby D.E."/>
+</authorList>
+<dbReference type="PubMed" id="12270835"/>
+<dbReference type="DOI" id="10.1128/JB.184.20.5762-5771.2002"/>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2003" name="Biochim. Biophys. Acta" volume="1649" first="171" last="182">
+<title>The N-terminal region of HtrA heat shock protease from Escherichia coli is essential for stabilization of HtrA primary structure and maintaining of its oligomeric structure.</title>
+<authorList>
+<person name="Skorko-Glonek J."/>
+<person name="Zurawa D."/>
+<person name="Tanfani F."/>
+<person name="Scire A."/>
+<person name="Wawrzynow A."/>
+<person name="Narkiewicz J."/>
+<person name="Bertoli E."/>
+<person name="Lipinska B."/>
+</authorList>
+<dbReference type="PubMed" id="12878036"/>
+</citation>
+<scope>DISULFIDE BOND</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="6622" last="6630">
+<title>Cpx signal transduction is influenced by a conserved N-terminal domain in the novel inhibitor CpxP and the periplasmic protease DegP.</title>
+<authorList>
+<person name="Buelow D.R."/>
+<person name="Raivio T.L."/>
+</authorList>
+<dbReference type="PubMed" id="16166523"/>
+<dbReference type="DOI" id="10.1128/JB.187.19.6622-6630.2005"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="17775" last="17779">
+<title>The extracytoplasmic adaptor protein CpxP is degraded with substrate by DegP.</title>
+<authorList>
+<person name="Isaac D.D."/>
+<person name="Pinkner J.S."/>
+<person name="Hultgren S.J."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="16303867"/>
+<dbReference type="DOI" id="10.1073/pnas.0508936102"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="7702" last="7707">
+<title>Interplay of PDZ and protease domain of DegP ensures efficient elimination of misfolded proteins.</title>
+<authorList>
+<person name="Krojer T."/>
+<person name="Pangerl K."/>
+<person name="Kurt J."/>
+<person name="Sawa J."/>
+<person name="Stingl C."/>
+<person name="Mechtler K."/>
+<person name="Huber R."/>
+<person name="Ehrmann M."/>
+<person name="Clausen T."/>
+</authorList>
+<dbReference type="PubMed" id="18505836"/>
+<dbReference type="DOI" id="10.1073/pnas.0803392105"/>
+</citation>
+<scope>FUNCTION IN PREVENTION OF PROTEIN MISFOLDING</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="11939" last="11944">
+<title>Activation of DegP chaperone-protease via formation of large cage-like oligomers upon binding to substrate proteins.</title>
+<authorList>
+<person name="Jiang J."/>
+<person name="Zhang X."/>
+<person name="Chen Y."/>
+<person name="Wu Y."/>
+<person name="Zhou Z.H."/>
+<person name="Chang Z."/>
+<person name="Sui S.F."/>
+</authorList>
+<dbReference type="PubMed" id="18697939"/>
+<dbReference type="DOI" id="10.1073/pnas.0805464105"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>ROLE IN HYDROXYUREA RESISTANCE</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2010" name="Arch. Biochem. Biophys." volume="500" first="123" last="130">
+<title>The role of the L2 loop in the regulation and maintaining the proteolytic activity of HtrA (DegP) protein from Escherichia coli.</title>
+<authorList>
+<person name="Sobiecka-Szkatula A."/>
+<person name="Gieldon A."/>
+<person name="Scire A."/>
+<person name="Tanfani F."/>
+<person name="Figaj D."/>
+<person name="Koper T."/>
+<person name="Ciarkowski J."/>
+<person name="Lipinska B."/>
+<person name="Skorko-Glonek J."/>
+</authorList>
+<dbReference type="PubMed" id="20515644"/>
+<dbReference type="DOI" id="10.1016/j.abb.2010.05.028"/>
+</citation>
+<scope>MUTAGENESIS OF ILE-254; LEU-255; ASP-258; ASN-261; ILE-262 AND ILE-264</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2011" name="PLoS ONE" volume="6" first="E18944" last="E18944">
+<title>Factors defining the functional oligomeric state of Escherichia coli DegP protease.</title>
+<authorList>
+<person name="Iwanczyk J."/>
+<person name="Leong V."/>
+<person name="Ortega J."/>
+</authorList>
+<dbReference type="PubMed" id="21526129"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0018944"/>
+</citation>
+<scope>OLIGOMERIZATION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2002" name="Nature" volume="416" first="455" last="459">
+<title>Crystal structure of DegP (HtrA) reveals a new protease-chaperone machine.</title>
+<authorList>
+<person name="Krojer T."/>
+<person name="Garrido-Franco M."/>
+<person name="Huber R."/>
+<person name="Ehrmann M."/>
+<person name="Clausen T."/>
+</authorList>
+<dbReference type="PubMed" id="11919638"/>
+<dbReference type="DOI" id="10.1038/416455a"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 27-474 OF MUTANT SER-236</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2003" name="J. Bacteriol." volume="185" first="3020" last="3030">
+<title>Roles of DegP in prevention of protein misfolding in the periplasm upon overexpression of penicillin acylase in Escherichia coli.</title>
+<authorList>
+<person name="Pan K.L."/>
+<person name="Hsiao H.C."/>
+<person name="Weng C.L."/>
+<person name="Wu M.S."/>
+<person name="Chou C.P."/>
+</authorList>
+<dbReference type="PubMed" id="12730160"/>
+<dbReference type="DOI" id="10.1128/JB.185.10.3020-3030.2003"/>
+</citation>
+<scope>FUNCTION IN PREVENTION OF PROTEIN MISFOLDING</scope>
+<scope>MUTAGENESIS OF SER-236</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2008" name="Nature" volume="453" first="885" last="890">
+<title>Structural basis for the regulated protease and chaperone function of DegP.</title>
+<authorList>
+<person name="Krojer T."/>
+<person name="Sawa J."/>
+<person name="Schafer E."/>
+<person name="Saibil H.R."/>
+<person name="Ehrmann M."/>
+<person name="Clausen T."/>
+</authorList>
+<dbReference type="PubMed" id="18496527"/>
+<dbReference type="DOI" id="10.1038/nature07004"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (28.0 ANGSTROMS) OF 27-474 OF MUTANT SER-236 IN COMPLEX WITH ANALOG SUBSTRATE</scope>
+<scope>FUNCTION AS A CHAPERONE AND AS A SERINE PROTEASE</scope>
+<scope>OLIGOMERIZATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="844" last="852">
+<title>HtrA proteases have a conserved activation mechanism that can be triggered by distinct molecular cues.</title>
+<authorList>
+<person name="Krojer T."/>
+<person name="Sawa J."/>
+<person name="Huber R."/>
+<person name="Clausen T."/>
+</authorList>
+<dbReference type="PubMed" id="20581825"/>
+<dbReference type="DOI" id="10.1038/nsmb.1840"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 27-474 IN COMPLEX WITH ANALOG SUBSTRATE</scope>
+<scope>OLIGOMERIZATION</scope>
+<scope>SUBUNIT</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2011" name="Cell" volume="145" first="67" last="78">
+<title>Covalent linkage of distinct substrate degrons controls assembly and disassembly of DegP proteolytic cages.</title>
+<authorList>
+<person name="Kim S."/>
+<person name="Grant R.A."/>
+<person name="Sauer R.T."/>
+</authorList>
+<dbReference type="PubMed" id="21458668"/>
+<dbReference type="DOI" id="10.1016/j.cell.2011.02.024"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 27-474 IN COMPLEX WITH ANALOG SUBSTRATE</scope>
+<scope>OLIGOMERIZATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="5 7 10 11 12 19 21 24">DegP acts as a chaperone at low temperatures but switches to a peptidase (heat shock protein) at higher temperatures (PubMed:10319814). Degrades transiently denatured and unfolded or misfolded proteins which accumulate in the periplasm following heat shock or other stress conditions (PubMed:16303867). DegP is efficient with Val-Xaa and Ile-Xaa peptide bonds, suggesting a preference for beta-branched side chain amino acids (PubMed:8830688). Only unfolded proteins devoid of disulfide bonds appear capable of being cleaved, thereby preventing non-specific proteolysis of folded proteins (PubMed:8830688). Its proteolytic activity is essential for the survival of cells at elevated temperatures (PubMed:7557477). It can degrade IciA, Ada, casein, globin and PapA. DegP shares specificity with DegQ (PubMed:8830688). DegP is also involved in the biogenesis of partially folded outer-membrane proteins (OMP).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="24">
+<text>Acts on substrates that are at least partially unfolded. The cleavage site P1 residue is normally between a pair of hydrophobic residues, such as Val-|-Val.</text>
+<dbReference type="EC" id="3.4.21.107"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="19">Inhibited by diisopropylfluorophosphate (DFP).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<temperatureDependence>
+<text evidence="22">Optimum temperature is around 55 degrees Celsius. In the range from 37 to 55 degrees Celsius, the proteolytic activity rapidly increases with temperature.</text>
+</temperatureDependence>
+</comment>
+<comment type="subunit">
+<text evidence="6 11 13 16 17 18 24">DegP can reversibly switch between different oligomeric forms that represent inactive (6-mer) and active (12-and 24-mer) protease states. Substrate binding triggers the conversion of the resting DegP trimer and hexamer into catalytically active 12- and 24-mers. The conversion of 6-mer (DegP6) into 12-mer (DegP12) or 24-mer (DegP24) is crucial in regulating protease activity.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547165"/>
+<interactant intactId="EBI-547165"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>16</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547165"/>
+<interactant intactId="EBI-5260183">
+<id>P02666</id>
+<label>CSN2</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547165"/>
+<interactant intactId="EBI-1029543">
+<id>P00698</id>
+<label>LYZ</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547165"/>
+<interactant intactId="EBI-371347">
+<id>P0A910</id>
+<label>ompA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-547165"/>
+<interactant intactId="EBI-371155">
+<id>P06996</id>
+<label>ompC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="25">Cell inner membrane</location>
+<topology evidence="25">Peripheral membrane protein</topology>
+<orientation evidence="25">Cytoplasmic side</orientation>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="20 23 26">By heat shock (PubMed:3057437). Transcriptionally up-regulated by sigma-E factor and the Cpx two-component signal transduction pathway (PubMed:7883164, PubMed:9351822).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9 10 14">Decreased induction of Cpx two-component regulatory system (PubMed:16166523). Increased accumulation of periplasmic accessory protein CpxP, increased accumulation and toxicity of overexpressed, misfolded periplasmic proteins (PubMed:16303867). Increased resistance to hydroxyurea, probably due to decreased degradation of misfolded proteins which eventually leads to decreased OH radical formation (PubMed:20005847).</text>
+</comment>
+<comment type="miscellaneous">
+<text>DegP is indispensable for bacterial survival at temperatures above 42 degrees Celsius, however is also able to digest its natural substrates in a reducing environment at temperatures as low as 20 degrees Celsius.</text>
+</comment>
+<comment type="similarity">
+<text evidence="28">Belongs to the peptidase S1C family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.107" evidence="24"/>
+<dbReference type="EMBL" id="M36536">
+<property type="protein sequence ID" value="AAA23994.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X12457">
+<property type="protein sequence ID" value="CAA30997.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08591.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73272.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96738.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M29955">
+<property type="protein sequence ID" value="AAA23717.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M31772">
+<property type="protein sequence ID" value="AAA23680.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S45229">
+<property type="entry name" value="S45229"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414703.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000753946.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1KY9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="2ZLE">
+<property type="method" value="EM"/>
+<property type="resolution" value="28.00"/>
+<property type="chains" value="A/B/C/E/F/G/H/I/J/K/L/M=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3CS0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3MH4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3MH5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3MH6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="A=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3MH7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.96"/>
+<property type="chains" value="A=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3OTP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.76"/>
+<property type="chains" value="A/B/C/D/E/F=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="3OU0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=27-474"/>
+</dbReference>
+<dbReference type="PDB" id="4A8D">
+<property type="method" value="EM"/>
+<property type="resolution" value="28.00"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=27-474"/>
+</dbReference>
+<dbReference type="PDBsum" id="1KY9"/>
+<dbReference type="PDBsum" id="2ZLE"/>
+<dbReference type="PDBsum" id="3CS0"/>
+<dbReference type="PDBsum" id="3MH4"/>
+<dbReference type="PDBsum" id="3MH5"/>
+<dbReference type="PDBsum" id="3MH6"/>
+<dbReference type="PDBsum" id="3MH7"/>
+<dbReference type="PDBsum" id="3OTP"/>
+<dbReference type="PDBsum" id="3OU0"/>
+<dbReference type="PDBsum" id="4A8D"/>
+<dbReference type="SMR" id="P0C0V0"/>
+<dbReference type="BioGrid" id="4260994">
+<property type="interactions" value="967"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-46256N"/>
+<dbReference type="IntAct" id="P0C0V0">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="MINT" id="P0C0V0"/>
+<dbReference type="STRING" id="511145.b0161"/>
+<dbReference type="MEROPS" id="S01.273"/>
+<dbReference type="MoonProt" id="P0C0V0"/>
+<dbReference type="SWISS-2DPAGE" id="P0C0V0"/>
+<dbReference type="EPD" id="P0C0V0"/>
+<dbReference type="jPOST" id="P0C0V0"/>
+<dbReference type="PaxDb" id="P0C0V0"/>
+<dbReference type="PRIDE" id="P0C0V0"/>
+<dbReference type="EnsemblBacteria" id="AAC73272">
+<property type="protein sequence ID" value="AAC73272"/>
+<property type="gene ID" value="b0161"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96738">
+<property type="protein sequence ID" value="BAB96738"/>
+<property type="gene ID" value="BAB96738"/>
+</dbReference>
+<dbReference type="GeneID" id="947139"/>
+<dbReference type="KEGG" id="ecj:JW0157"/>
+<dbReference type="KEGG" id="eco:b0161"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2119"/>
+<dbReference type="EchoBASE" id="EB0458"/>
+<dbReference type="EcoGene" id="EG10463">
+<property type="gene designation" value="degP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C0H">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0265">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000223642"/>
+<dbReference type="InParanoid" id="P0C0V0"/>
+<dbReference type="KO" id="K04771"/>
+<dbReference type="PhylomeDB" id="P0C0V0"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10463-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0157-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10463-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.21.107">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0C0V0"/>
+<dbReference type="PRO" id="PR:P0C0V0"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008233">
+<property type="term" value="F:peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008236">
+<property type="term" value="F:serine-type peptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061077">
+<property type="term" value="P:chaperone-mediated protein folding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:protein quality control for misfolded or incompletely synthesized proteins"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009266">
+<property type="term" value="P:response to temperature stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001478">
+<property type="entry name" value="PDZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036034">
+<property type="entry name" value="PDZ_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011782">
+<property type="entry name" value="Pept_S1C_Do"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009003">
+<property type="entry name" value="Peptidase_S1_PA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001940">
+<property type="entry name" value="Peptidase_S1C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00595">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00834">
+<property type="entry name" value="PROTEASES2C"/>
+</dbReference>
+<dbReference type="SMART" id="SM00228">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50156">
+<property type="entry name" value="SSF50156"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50494">
+<property type="entry name" value="SSF50494"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02037">
+<property type="entry name" value="degP_htrA_DO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50106">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="signal peptide" evidence="19 27">
+<location>
+<begin position="1"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="chain" description="Periplasmic serine endoprotease DegP" id="PRO_0000026921">
+<location>
+<begin position="27"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="domain" description="PDZ 1" evidence="4">
+<location>
+<begin position="280"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="domain" description="PDZ 2" evidence="4">
+<location>
+<begin position="377"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="234"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="252"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="291"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="16">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="16">
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="16">
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="8">
+<location>
+<begin position="83"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of peptidase activity with no detectable changes in secondary structure." evidence="21">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of peptidase activity with no detectable changes in secondary structure." evidence="7 21">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="It does not affect the proteolytic activity." evidence="15">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="254"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="15">
+<original>L</original>
+<variation>N</variation>
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases the proteolytic activity." evidence="15">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="15">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="261"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Stimulates the proteolytic activity at low temperatures (20-30 degrees Celsius), whereas at higher temperatures (above 35 degrees Celsius), the proteolytic activity is less efficient." evidence="15">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="262"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic activity." evidence="15">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="264"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23994 and 7; AAA23680." ref="1 7" evidence="28">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAA23717." ref="6" evidence="28">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23994/CAA30997." ref="1" evidence="28">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23994/CAA30997." ref="1" evidence="28">
+<original>STIYLLMQ</original>
+<variation>RHLPVNAVISLNPFLKTGRGSPYNL</variation>
+<location>
+<begin position="467"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="42"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="49"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="52"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="106"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="121"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="125"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="130"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="136"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="148"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="158"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="162"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="189"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="202"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="216"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="225"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="238"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="247"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="257"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="262"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="270"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="293"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="301"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="313"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="323"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="326"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="338"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="348"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="364"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="373"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="388"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="401"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="406"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="411"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="423"/>
+<end position="425"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="432"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="444"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="451"/>
+<end position="453"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="460"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="468"/>
+<end position="471"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1KY9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3MH7"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3OU0"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00143"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10319814"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11919638"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12730160"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12878036"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16166523"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16303867"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18496527"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18505836"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18697939"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20515644"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20581825"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21458668"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21526129"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2180903"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3057437"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7557477"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7744744"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7883164"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8830688"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9083020"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9351822"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9600841"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000305"/>
+<sequence length="474" mass="49354" checksum="5482E596F74B6D5F" modified="2005-12-20" version="1" precursor="true">
+MKKTTLALSALALSLGLALSPLSATAAETSSATTAQQMPSLAPMLEKVMPSVVSINVEGS
+TTVNTPRMPRNFQQFFGDDSPFCQEGSPFQSSPFCQGGQGGNGGGQQQKFMALGSGVIID
+ADKGYVVTNNHVVDNATVIKVQLSDGRKFDAKMVGKDPRSDIALIQIQNPKNLTAIKMAD
+SDALRVGDYTVAIGNPFGLGETVTSGIVSALGRSGLNAENYENFIQTDAAINRGNSGGAL
+VNLNGELIGINTAILAPDGGNIGIGFAIPSNMVKNLTSQMVEYGQVKRGELGIMGTELNS
+ELAKAMKVDAQRGAFVSQVLPNSSAAKAGIKAGDVITSLNGKPISSFAALRAQVGTMPVG
+SKLTLGLLRDGKQVNVNLELQQSSQNQVDSSSIFNGIEGAEMSNKGKDQGVVVNNVKTGT
+PAAQIGLKKGDVIIGANQQAVKNIAELRKVLDSKPSVLALNIQRGDSTIYLLMQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

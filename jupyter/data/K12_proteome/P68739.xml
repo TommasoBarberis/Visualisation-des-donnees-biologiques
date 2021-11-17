@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-12-07" modified="2019-06-05" version="110">
+<accession>P68739</accession>
+<accession>P32679</accession>
+<accession>Q2M8T5</accession>
+<name>NFI_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Endonuclease V</fullName>
+<shortName>EndoV</shortName>
+<ecNumber evidence="1">3.1.21.7</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Deoxyinosine 3'endonuclease</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Deoxyribonuclease V</fullName>
+<shortName evidence="1">DNase V</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">nfi</name>
+<name type="synonym">yjaF</name>
+<name type="ordered locus">b3998</name>
+<name type="ordered locus">JW5547</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="310" last="316">
+<title>nfi, the gene for endonuclease V in Escherichia coli K-12.</title>
+<authorList>
+<person name="Guo G."/>
+<person name="Ding Y."/>
+<person name="Weiss B."/>
+</authorList>
+<dbReference type="PubMed" id="8990280"/>
+<dbReference type="DOI" id="10.1128/jb.179.2.310-316.1997"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-11</scope>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1980" name="Methods Enzymol." volume="65" first="224" last="231">
+<title>Purification and properties of Escherichia coli endodeoxyribonuclease V.</title>
+<authorList>
+<person name="Demple B."/>
+<person name="Gates F.T."/>
+<person name="Linn S."/>
+</authorList>
+<dbReference type="PubMed" id="6246346"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="16260" last="16268">
+<title>Purification and characterization of a novel deoxyinosine-specific enzyme, deoxyinosine 3' endonuclease, from Escherichia coli.</title>
+<authorList>
+<person name="Yao M."/>
+<person name="Hatahet Z."/>
+<person name="Melamede R.J."/>
+<person name="Kow Y.W."/>
+</authorList>
+<dbReference type="PubMed" id="8206931"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="30774" last="30779">
+<title>Further characterization of Escherichia coli endonuclease V. Mechanism of recognition for deoxyinosine, deoxyuridine, and base mismatches in DNA.</title>
+<authorList>
+<person name="Yao M."/>
+<person name="Kow Y.W."/>
+</authorList>
+<dbReference type="PubMed" id="9388217"/>
+<dbReference type="DOI" id="10.1074/jbc.272.49.30774"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="Mutat. Res." volume="461" first="301" last="309">
+<title>Endonuclease V of Escherichia coli prevents mutations from nitrosative deamination during nitrate/nitrite respiration.</title>
+<authorList>
+<person name="Weiss B."/>
+</authorList>
+<dbReference type="PubMed" id="11104906"/>
+<dbReference type="DOI" id="10.1016/S0921-8777(00)00062-8"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="2271" last="2271">
+<title>Endonuclease V cleaves at inosines in RNA.</title>
+<authorList>
+<person name="Sebastian Vik E."/>
+<person name="Sameen Nawaz M."/>
+<person name="Strom Andersen P."/>
+<person name="Fladeby C."/>
+<person name="Bjoras M."/>
+<person name="Dalhus B."/>
+<person name="Alseth I."/>
+</authorList>
+<dbReference type="PubMed" id="23912683"/>
+<dbReference type="DOI" id="10.1038/ncomms3271"/>
+</citation>
+<scope>FUNCTION IN CLEAVAGE OF RNA</scope>
+<scope>MUTAGENESIS OF ASP-35</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2 3 4 5 6">DNA repair enzyme involved in the repair of deaminated bases. Selectively cleaves double-stranded DNA at the second phosphodiester bond 3' to a deoxyinosine leaving behind the intact lesion on the nicked DNA. Has a wide substrate spectrum. In addition to deoxyinosine-containing DNA, the enzyme cleaves DNA containing urea residues, AP sites, base mismatches, insertion/deletion mismatches, flaps, and pseudo-Y structures. Participates in the excision repair of hypoxanthine and xanthine (deaminated adenine and guanine) in DNA. It thereby reduces the mutagenic effects of nitrous acid by attacking lesions caused by nitrosative deamination. Also active on inosines in single- and double-stranded RNA. May cleave tRNA(Arg2), which contains inosine at the wobble position.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 4 5 6">
+<text>Endonucleolytic cleavage at apurinic or apyrimidinic sites to products with a 5'-phosphate.</text>
+<dbReference type="EC" id="3.1.21.7"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 5 6">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="biophysicochemical properties">
+<phDependence>
+<text evidence="5 6">Optimum pH is 7.0-7.5.</text>
+</phDependence>
+</comment>
+<comment type="subunit">
+<text evidence="5">Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-551698"/>
+<interactant intactId="EBI-555781">
+<id>P00914</id>
+<label>phrB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the endonuclease V family.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC43096" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.1.21.7" evidence="1"/>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43096.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76972.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77321.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65207">
+<property type="entry name" value="A65207"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418426.2">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000362388.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4XPU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1-214"/>
+</dbReference>
+<dbReference type="PDBsum" id="4XPU"/>
+<dbReference type="SMR" id="P68739"/>
+<dbReference type="BioGrid" id="4263468">
+<property type="interactions" value="110"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47986N"/>
+<dbReference type="IntAct" id="P68739">
+<property type="interactions" value="30"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3998"/>
+<dbReference type="jPOST" id="P68739"/>
+<dbReference type="PaxDb" id="P68739"/>
+<dbReference type="PRIDE" id="P68739"/>
+<dbReference type="EnsemblBacteria" id="AAC76972">
+<property type="protein sequence ID" value="AAC76972"/>
+<property type="gene ID" value="b3998"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77321">
+<property type="protein sequence ID" value="BAE77321"/>
+<property type="gene ID" value="BAE77321"/>
+</dbReference>
+<dbReference type="GeneID" id="948502"/>
+<dbReference type="KEGG" id="ecj:JW5547"/>
+<dbReference type="KEGG" id="eco:b3998"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2713"/>
+<dbReference type="EchoBASE" id="EB1859"/>
+<dbReference type="EcoGene" id="EG11915">
+<property type="gene designation" value="nfi"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105Y7X">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000229135"/>
+<dbReference type="InParanoid" id="P68739"/>
+<dbReference type="KO" id="K05982"/>
+<dbReference type="PhylomeDB" id="P68739"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11915-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5547-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11915-MONOMER"/>
+<dbReference type="PRO" id="PR:P68739"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043737">
+<property type="term" value="F:deoxyribonuclease V activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd06559">
+<property type="entry name" value="Endonuclease_V"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00801">
+<property type="entry name" value="Endonuclease_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007581">
+<property type="entry name" value="Endonuclease-V"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR28511">
+<property type="entry name" value="PTHR28511"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04493">
+<property type="entry name" value="Endonuclease_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Endonuclease V" id="PRO_0000159660">
+<location>
+<begin position="1"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with target DNA" evidence="1">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity on RNA." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00801"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11104906"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23912683"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6246346"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8206931"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9388217"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="223" mass="24673" checksum="A876DEED5EB848E4" modified="2004-12-07" version="1">
+MDLASLRAQQIELASSVIREDRLDKDPPDLIAGADVGFEQGGEVTRAAMVLLKYPSLELV
+EYKVARIATTMPYIPGFLSFREYPALLAAWEMLSQKPDLVFVDGHGISHPRRLGVASHFG
+LLVDVPTIGVAKKRLCGKFEPLSSEPGALAPLMDKGEQLAWVWRSKARCNPLFIATGHRV
+SVDSALAWVQRCMKGYRLPEPTRWADAVASERPAFVRYTANQP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2019-06-05" version="141">
+<accession>P09127</accession>
+<accession>Q2M8A8</accession>
+<name>HEMX_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Protein HemX</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">ORF X</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">hemX</name>
+<name type="ordered locus">b3803</name>
+<name type="ordered locus">JW3775</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="11835" last="11835">
+<title>Nucleotide sequence of the hemX gene, the third member of the Uro operon of Escherichia coli K12.</title>
+<authorList>
+<person name="Sasarman A."/>
+<person name="Echelard Y."/>
+<person name="Letowski J."/>
+<person name="Tardif D."/>
+<person name="Drolet M."/>
+</authorList>
+<dbReference type="PubMed" id="3062586"/>
+<dbReference type="DOI" id="10.1093/nar/16.24.11835"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="9871" last="9871">
+<title>The sequence of hemC, hemD and two additional E. coli genes.</title>
+<authorList>
+<person name="Alefounder P.R."/>
+<person name="Abell C."/>
+<person name="Battersby A.R."/>
+</authorList>
+<dbReference type="PubMed" id="3054815"/>
+<dbReference type="DOI" id="10.1093/nar/16.20.9871"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS520</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Science" volume="257" first="771" last="778">
+<title>Analysis of the Escherichia coli genome: DNA sequence of the region from 84.5 to 86.5 minutes.</title>
+<authorList>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Burland V.D."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="1379743"/>
+<dbReference type="DOI" id="10.1126/science.1379743"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-12</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="34409" last="34419">
+<title>Protein complexes of the Escherichia coli cell envelope.</title>
+<authorList>
+<person name="Stenberg F."/>
+<person name="Chovanec P."/>
+<person name="Maslen S.L."/>
+<person name="Robinson C.V."/>
+<person name="Ilag L."/>
+<person name="von Heijne G."/>
+<person name="Daley D.O."/>
+</authorList>
+<dbReference type="PubMed" id="16079137"/>
+<dbReference type="DOI" id="10.1074/jbc.M506479200"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>BL21-DE3</strain>
+</source>
+</reference>
+<comment type="subunit">
+<text evidence="2">Homooligomer, possibly a homopentamer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell inner membrane</location>
+<topology evidence="1">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">Was suggested to be a uroporphyrinogen-III methyltransferase, but the function of the protein has not been experimentally determined.</text>
+</comment>
+<dbReference type="EMBL" id="X13406">
+<property type="protein sequence ID" value="CAA31772.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X12614">
+<property type="protein sequence ID" value="CAA31134.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M87049">
+<property type="protein sequence ID" value="AAA67599.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76806.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77498.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S02185">
+<property type="entry name" value="S02185"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418247.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000138997.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259707">
+<property type="interactions" value="160"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9888N"/>
+<dbReference type="IntAct" id="P09127">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3803"/>
+<dbReference type="EPD" id="P09127"/>
+<dbReference type="jPOST" id="P09127"/>
+<dbReference type="PaxDb" id="P09127"/>
+<dbReference type="PRIDE" id="P09127"/>
+<dbReference type="EnsemblBacteria" id="AAC76806">
+<property type="protein sequence ID" value="AAC76806"/>
+<property type="gene ID" value="b3803"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77498">
+<property type="protein sequence ID" value="BAE77498"/>
+<property type="gene ID" value="BAE77498"/>
+</dbReference>
+<dbReference type="GeneID" id="948446"/>
+<dbReference type="KEGG" id="ecj:JW3775"/>
+<dbReference type="KEGG" id="eco:b3803"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2905"/>
+<dbReference type="EchoBASE" id="EB0428"/>
+<dbReference type="EcoGene" id="EG10433">
+<property type="gene designation" value="hemX"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105ECF">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2959">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000270899"/>
+<dbReference type="InParanoid" id="P09127"/>
+<dbReference type="KO" id="K02496"/>
+<dbReference type="PhylomeDB" id="P09127"/>
+<dbReference type="BioCyc" id="EcoCyc:HEMX-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3775-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:HEMX-MONOMER"/>
+<dbReference type="PRO" id="PR:P09127"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007470">
+<property type="entry name" value="HemX"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR38043">
+<property type="entry name" value="PTHR38043"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04375">
+<property type="entry name" value="HemX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Protein HemX" id="PRO_0000135255">
+<location>
+<begin position="1"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="37"/>
+<end position="57"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16079137"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3062586"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3062586"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="CAA31134.1"/>
+</source>
+</evidence>
+<sequence length="393" mass="42963" checksum="9D272C6401D0E354" modified="1989-07-01" version="1">
+MTEQEKTSAVVEETREAVDTTSQPVATEKKSKNNTALILSAVAIAIALAAGIGLYGWGKQ
+QAVNQTATSDALANQLTALQKAQESQKAELEGIIKQQAAQLKQANRQQETLAKQLDEVQQ
+KVATISGSDAKTWLLAQADFLVKLAGRKLWSDQDVTTAAALLKSADASLADMNDPSLITV
+RRAITDDIASLSAVSQVDYDGIILKLNQLSNQVDNLRLADNDSDGSPMDSDGEELSSSIS
+EWRINLQKSWQNFMDNFITIRRRDDTAVPLLAPNQDIYLRENIRSRLLVAAQAVPRHQEE
+TYRQALENVSTWVRAYYDTDDATTKAFLDEVDQLSQQNISMDLPETLQSQAMLEKLMQTR
+VRNLLAQPAAGTTEAKPAPAPQADTPAAAPQGE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

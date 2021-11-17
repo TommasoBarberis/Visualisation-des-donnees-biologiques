@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-06-05" version="163">
+<accession>P06992</accession>
+<accession>Q2MCG8</accession>
+<name>RSMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Ribosomal RNA small subunit methyltransferase A</fullName>
+<ecNumber>2.1.1.182</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>16S rRNA dimethyladenosine transferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>16S rRNA dimethylase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>High level kasugamycin resistance protein KsgA</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Kasugamycin dimethyltransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rsmA</name>
+<name type="synonym">ksgA</name>
+<name type="ordered locus">b0051</name>
+<name type="ordered locus">JW0050</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Gene" volume="38" first="65" last="72">
+<title>Nucleotide sequence of the ksgA gene of Escherichia coli: comparison of methyltransferases effecting dimethylation of adenosine in ribosomal RNA.</title>
+<authorList>
+<person name="van Buul C.P.J.J."/>
+<person name="van Knippenberg P.H."/>
+</authorList>
+<dbReference type="PubMed" id="3905517"/>
+<dbReference type="DOI" id="10.1016/0378-1119(85)90204-5"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1986" name="Mol. Gen. Genet." volume="205" first="515" last="522">
+<title>The gene for Escherichia coli diadenosine tetraphosphatase is located immediately clockwise to folA and forms an operon with ksgA.</title>
+<authorList>
+<person name="Blanchin-Roland S."/>
+<person name="Blanquet S."/>
+<person name="Schmitter J.-M."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="3031429"/>
+<dbReference type="DOI" id="10.1007/BF00338091"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="3305" last="3308">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 0-2.4 min region.</title>
+<authorList>
+<person name="Yura T."/>
+<person name="Mori H."/>
+<person name="Nagai H."/>
+<person name="Nagata T."/>
+<person name="Ishihama A."/>
+<person name="Fujita N."/>
+<person name="Isono K."/>
+<person name="Mizobuchi K."/>
+<person name="Nakata A."/>
+</authorList>
+<dbReference type="PubMed" id="1630901"/>
+<dbReference type="DOI" id="10.1093/nar/20.13.3305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="4767" last="4777">
+<title>Overlap between pdxA and ksgA in the complex pdxA-ksgA-apaG-apaH operon of Escherichia coli K-12.</title>
+<authorList>
+<person name="Roa B.B."/>
+<person name="Connolly D.M."/>
+<person name="Winkler M.E."/>
+</authorList>
+<dbReference type="PubMed" id="2670894"/>
+<dbReference type="DOI" id="10.1128/jb.171.9.4767-4777.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-62</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1987" name="Biochimie" volume="69" first="841" last="848">
+<title>Characterization of the ksgA gene of Escherichia coli determining kasugamycin sensitivity.</title>
+<authorList>
+<person name="van Gemen B."/>
+<person name="Koets H.J."/>
+<person name="Plooy C.A.M."/>
+<person name="Bodlaender J."/>
+<person name="van Knippenberg P.H."/>
+</authorList>
+<dbReference type="PubMed" id="3122846"/>
+<dbReference type="DOI" id="10.1016/0300-9084(87)90210-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-67</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Nucleic Acids Res." volume="37" first="2116" last="2125">
+<title>KsgA, a 16S rRNA adenine methyltransferase, has a novel DNA glycosylase/AP lyase activity to prevent mutations in Escherichia coli.</title>
+<authorList>
+<person name="Zhang-Akiyama Q.M."/>
+<person name="Morinaga H."/>
+<person name="Kikuchi M."/>
+<person name="Yonekura S."/>
+<person name="Sugiyama H."/>
+<person name="Yamamoto K."/>
+<person name="Yonei S."/>
+</authorList>
+<dbReference type="PubMed" id="19223326"/>
+<dbReference type="DOI" id="10.1093/nar/gkp057"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-11</scope>
+<scope>FUNCTION AS A DNA GLYCOSYLASE/AP LYASE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="5243" last="5246">
+<title>The gene for 16S rRNA methyltransferase (ksgA) functions as a multicopy suppressor for a cold-sensitive mutant of era, an essential RAS-like GTP-binding protein in Escherichia coli.</title>
+<authorList>
+<person name="Lu Q."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="9748462"/>
+</citation>
+<scope>SUPPRESSES AN ERA MUTANT</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="2537" last="2545">
+<title>Genetic interaction screens with ordered overexpression and deletion clone sets implicate the Escherichia coli GTPase YjeQ in late ribosome biogenesis.</title>
+<authorList>
+<person name="Campbell T.L."/>
+<person name="Brown E.D."/>
+</authorList>
+<dbReference type="PubMed" id="18223068"/>
+<dbReference type="DOI" id="10.1128/JB.01744-07"/>
+</citation>
+<scope>PARTIALLY SUPPRESSES AN RSGA DISRUPTION MUTANT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Mol. Microbiol." volume="70" first="1062" last="1075">
+<title>Mechanistic insight into the ribosome biogenesis functions of the ancient protein KsgA.</title>
+<authorList>
+<person name="Connolly K."/>
+<person name="Rife J.P."/>
+<person name="Culver G."/>
+</authorList>
+<dbReference type="PubMed" id="18990185"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06485.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF GLU-66</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="339" first="337" last="353">
+<title>Crystal structure of KsgA, a universally conserved rRNA adenine dimethyltransferase in Escherichia coli.</title>
+<authorList>
+<person name="O'Farrell H.C."/>
+<person name="Scarsdale J.N."/>
+<person name="Rife J.P."/>
+</authorList>
+<dbReference type="PubMed" id="15136037"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.02.068"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 17-268</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="10453" last="10459">
+<title>Structural insights into methyltransferase KsgA function in 30S ribosomal subunit biogenesis.</title>
+<authorList>
+<person name="Boehringer D."/>
+<person name="O'Farrell H.C."/>
+<person name="Rife J.P."/>
+<person name="Ban N."/>
+</authorList>
+<dbReference type="PubMed" id="22308031"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.318121"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (13.5 ANGSTROMS) OF 17-268 IN COMPLEX WITH THE 30S RIBOSOMAL SMALL SUBUNIT</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6">Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits. Has also a DNA glycosylase/AP lyase activity that removes C mispaired with oxidized T from DNA, and may play a role in protection of DNA against oxidative stress.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>adenosine(1518)/adenosine(1519) in 16S rRNA + 4 S-adenosyl-L-methionine = 4 H(+) + N(6)-dimethyladenosine(1518)/N(6)-dimethyladenosine(1519) in 16S rRNA + 4 S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:19609"/>
+<dbReference type="Rhea" id="RHEA-COMP:10232"/>
+<dbReference type="Rhea" id="RHEA-COMP:10233"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:74411"/>
+<dbReference type="ChEBI" id="CHEBI:74493"/>
+<dbReference type="EC" id="2.1.1.182"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 6">Inactivation leads to kasugamycin resistance. Cells lacking this gene show cold-sensitivity phenotype, altered ribosome profiles, and small subunit rRNA-processing defects.</text>
+</comment>
+<comment type="miscellaneous">
+<text>When overexpressed partially suppresses the slow growth and decreased 70S ribosome phenotype of an rsgA knockout; RsgA may be involved in 30S ribosomal subunit biogenesis. Upon overexpression also restores cold-sensitive growth of a missense mutation in Era.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family. RsmA subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.182"/>
+<dbReference type="EMBL" id="M11054">
+<property type="protein sequence ID" value="AAA24049.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X04711">
+<property type="protein sequence ID" value="CAA28417.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73162.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76038.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M68521">
+<property type="protein sequence ID" value="AAA24306.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X06536">
+<property type="protein sequence ID" value="CAA29786.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A24527">
+<property type="entry name" value="XYECRO"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414593.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001065381.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1QYR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=17-268"/>
+</dbReference>
+<dbReference type="PDB" id="3TPZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-273"/>
+</dbReference>
+<dbReference type="PDB" id="4ADV">
+<property type="method" value="EM"/>
+<property type="resolution" value="13.50"/>
+<property type="chains" value="V=17-268"/>
+</dbReference>
+<dbReference type="PDBsum" id="1QYR"/>
+<dbReference type="PDBsum" id="3TPZ"/>
+<dbReference type="PDBsum" id="4ADV"/>
+<dbReference type="SMR" id="P06992"/>
+<dbReference type="BioGrid" id="4261012">
+<property type="interactions" value="72"/>
+</dbReference>
+<dbReference type="IntAct" id="P06992">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0051"/>
+<dbReference type="jPOST" id="P06992"/>
+<dbReference type="PaxDb" id="P06992"/>
+<dbReference type="PRIDE" id="P06992"/>
+<dbReference type="EnsemblBacteria" id="AAC73162">
+<property type="protein sequence ID" value="AAC73162"/>
+<property type="gene ID" value="b0051"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76038">
+<property type="protein sequence ID" value="BAE76038"/>
+<property type="gene ID" value="BAE76038"/>
+</dbReference>
+<dbReference type="GeneID" id="944939"/>
+<dbReference type="KEGG" id="ecj:JW0050"/>
+<dbReference type="KEGG" id="eco:b0051"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2232"/>
+<dbReference type="EchoBASE" id="EB0518"/>
+<dbReference type="EcoGene" id="EG10523">
+<property type="gene designation" value="rsmA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105D1X">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0030">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000227962"/>
+<dbReference type="InParanoid" id="P06992"/>
+<dbReference type="KO" id="K02528"/>
+<dbReference type="PhylomeDB" id="P06992"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10523-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0050-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10523-MONOMER"/>
+<dbReference type="BRENDA" id="2.1.1.182">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P06992"/>
+<dbReference type="PRO" id="PR:P06992"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052908">
+<property type="term" value="F:16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003690">
+<property type="term" value="F:double-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003729">
+<property type="term" value="F:mRNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000179">
+<property type="term" value="F:rRNA (adenine-N6,N6-)-dimethyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000028">
+<property type="term" value="P:ribosomal small subunit assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070475">
+<property type="term" value="P:rRNA base methylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006364">
+<property type="term" value="P:rRNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.8.100">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00607">
+<property type="entry name" value="16SrRNA_methyltr_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001737">
+<property type="entry name" value="KsgA/Erm"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023165">
+<property type="entry name" value="rRNA_Ade_diMease-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020596">
+<property type="entry name" value="rRNA_Ade_Mease_Trfase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020598">
+<property type="entry name" value="rRNA_Ade_methylase_Trfase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011530">
+<property type="entry name" value="rRNA_adenine_dimethylase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11727">
+<property type="entry name" value="PTHR11727"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00398">
+<property type="entry name" value="RrnaAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00650">
+<property type="entry name" value="rADc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00755">
+<property type="entry name" value="ksgA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01131">
+<property type="entry name" value="RRNA_A_DIMETH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51689">
+<property type="entry name" value="SAM_RNA_A_N6_MT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0698">rRNA processing</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Ribosomal RNA small subunit methyltransferase A" id="PRO_0000101524">
+<location>
+<begin position="2"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via carbonyl oxygen" evidence="3">
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via amide nitrogen" evidence="3">
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via carbonyl oxygen" evidence="3">
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="3">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity. Overexpression of the mutant has a negative effect on cell growth, probably because it sequesters the small subunits in the free form and limits their participation in the translation cycle." evidence="4">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="9"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="23"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="41"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="47"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="52"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="62"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="69"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="82"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="85"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="92"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="97"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="108"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="119"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="128"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="133"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="142"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="152"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="159"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="168"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="189"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="207"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="220"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="225"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="229"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="235"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="254"/>
+<end position="267"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QYR"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3TPZ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18990185"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19223326"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3905517"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="273" mass="30420" checksum="BBB163A0F4011C9D" modified="1988-04-01" version="1">
+MNNRVHQGHLARKRFGQNFLNDQFVIDSIVSAINPQKGQAMVEIGPGLAALTEPVGERLD
+QLTVIELDRDLAARLQTHPFLGPKLTIYQQDAMTFNFGELAEKMGQPLRVFGNLPYNIST
+PLMFHLFSYTDAIADMHFMLQKEVVNRLVAGPNSKAYGRLSVMAQYYCNVIPVLEVPPSA
+FTPPPKVDSAVVRLVPHATMPHPVKDVRVLSRITTEAFNQRRKTIRNSLGNLFSVEVLTG
+MGIDPAMRAENISVAQYCQMANYLAENAPLQES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

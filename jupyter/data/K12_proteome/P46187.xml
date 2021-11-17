@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-05-08" version="116">
+<accession>P46187</accession>
+<accession>Q2MAG0</accession>
+<name>RSEC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="10">Protein RseC</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="8 9">rseC</name>
+<name type="ordered locus">b2570</name>
+<name type="ordered locus">JW2554</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="EMBO J." volume="14" first="1043" last="1055">
+<title>The rpoE gene encoding the sigma E (sigma 24) heat shock sigma factor of Escherichia coli.</title>
+<authorList>
+<person name="Raina S."/>
+<person name="Missiakas D."/>
+<person name="Georgopoulos C."/>
+</authorList>
+<dbReference type="PubMed" id="7889935"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Mol. Microbiol." volume="24" first="373" last="385">
+<title>The sigmaE-mediated response to extracytoplasmic stress in Escherichia coli is transduced by RseA and RseB, two negative regulators of sigmaE.</title>
+<authorList>
+<person name="De Las Penas A."/>
+<person name="Connolly L."/>
+<person name="Gross C.A."/>
+</authorList>
+<dbReference type="PubMed" id="9159523"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1997.3611718.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>OPERON</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC1061 / ATCC 53338 / DSM 7140</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Nashimoto H."/>
+<person name="Saito N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Mol. Microbiol." volume="24" first="355" last="371">
+<title>Modulation of the Escherichia coli sigmaE (RpoE) heat-shock transcription-factor activity by the RseA, RseB and RseC proteins.</title>
+<authorList>
+<person name="Missiakas D."/>
+<person name="Mayer M.P."/>
+<person name="Lemaire M."/>
+<person name="Georgopoulos C."/>
+<person name="Raina S."/>
+</authorList>
+<dbReference type="PubMed" id="9159522"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1997.3601713.x"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>OPERON</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="EMBO J." volume="22" first="2614" last="2622">
+<title>A reducing system of the superoxide sensor SoxR in Escherichia coli.</title>
+<authorList>
+<person name="Koo M.S."/>
+<person name="Lee J.H."/>
+<person name="Rah S.Y."/>
+<person name="Yeo W.S."/>
+<person name="Lee J.W."/>
+<person name="Lee K.L."/>
+<person name="Koh Y.S."/>
+<person name="Kang S.O."/>
+<person name="Roe J.H."/>
+</authorList>
+<dbReference type="PubMed" id="12773378"/>
+<dbReference type="DOI" id="10.1093/emboj/cdg252"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Appl. Environ. Microbiol." volume="74" first="2690" last="2699">
+<title>The R1 conjugative plasmid increases Escherichia coli biofilm formation through an envelope stress response.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Ma Q."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="18344336"/>
+<dbReference type="DOI" id="10.1128/AEM.02809-07"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2014" name="Genome Biol." volume="15" first="R44.1" last="R44.17">
+<title>Inferring gene function from evolutionary change in signatures of translation efficiency.</title>
+<authorList>
+<person name="Krisko A."/>
+<person name="Copic T."/>
+<person name="Gabaldon T."/>
+<person name="Lehner B."/>
+<person name="Supek F."/>
+</authorList>
+<dbReference type="PubMed" id="24580753"/>
+<dbReference type="DOI" id="10.1186/gb-2014-15-3-r44"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2017" name="J. Bacteriol.">
+<title>Circuitry linking the global Csr and sigma(E)-dependent cell envelope stress response systems.</title>
+<authorList>
+<person name="Yakhnin H."/>
+<person name="Aichele R."/>
+<person name="Ades S.E."/>
+<person name="Romeo T."/>
+<person name="Babitzke P."/>
+</authorList>
+<dbReference type="PubMed" id="28924029"/>
+<dbReference type="DOI" id="10.1128/JB.00484-17"/>
+</citation>
+<scope>OPERON</scope>
+<source>
+<strain>K12 / CF7789</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">May play a role in reduction of the SoxR iron-sulfur cluster. May work together with the RsxABCDGE complex.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell inner membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 4 5 6 7">According to PubMed:9159522, insertion mutant shows a modest reduction in sigma-E (rpoE) activity. However, PubMed:9159523 shows that deletion of the gene has no effect on sigma-E activity (PubMed:9159522, PubMed:9159523). Deletion of the gene enhances soxS expression (PubMed:12773378). Mutant shows increased motility and biofilm formation (PubMed:18344336). Deletion mutant is more sensitive than wild-type specifically to hydrogen peroxide exposure, but not other stresses (PubMed:24580753).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="12 13 14">Part of the rseD-rpoE-rseA-rseB-rseC operon (PubMed:9159522, PubMed:9159523, PubMed:28924029).</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the RseC family.</text>
+</comment>
+<comment type="caution">
+<text evidence="13">Was originally suggested to positively regulate sigma-E activity in vitro.</text>
+</comment>
+<dbReference type="EMBL" id="U37089">
+<property type="protein sequence ID" value="AAC45317.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U37455">
+<property type="protein sequence ID" value="AAC45320.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D64044">
+<property type="protein sequence ID" value="BAA10917.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75623.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76746.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="I83299">
+<property type="entry name" value="I83299"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417065.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000589068.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4260599">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2570"/>
+<dbReference type="PaxDb" id="P46187"/>
+<dbReference type="PRIDE" id="P46187"/>
+<dbReference type="EnsemblBacteria" id="AAC75623">
+<property type="protein sequence ID" value="AAC75623"/>
+<property type="gene ID" value="b2570"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76746">
+<property type="protein sequence ID" value="BAE76746"/>
+<property type="gene ID" value="BAE76746"/>
+</dbReference>
+<dbReference type="GeneID" id="947052"/>
+<dbReference type="KEGG" id="ecj:JW2554"/>
+<dbReference type="KEGG" id="eco:b2570"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4164"/>
+<dbReference type="EchoBASE" id="EB2970"/>
+<dbReference type="EcoGene" id="EG13178">
+<property type="gene designation" value="rseC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105WMJ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3086">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000272284"/>
+<dbReference type="InParanoid" id="P46187"/>
+<dbReference type="KO" id="K03803"/>
+<dbReference type="BioCyc" id="EcoCyc:G7347-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2554-MONOMER"/>
+<dbReference type="PRO" id="PR:P46187"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026268">
+<property type="entry name" value="RseC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007359">
+<property type="entry name" value="SigmaE_reg_RseC_MucC"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR35867">
+<property type="entry name" value="PTHR35867"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF004923">
+<property type="entry name" value="RseC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Protein RseC" id="PRO_0000097483">
+<location>
+<begin position="1"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="11">
+<location>
+<begin position="1"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="73"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="11">
+<location>
+<begin position="96"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="99"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="122"/>
+<end position="159"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12773378"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18344336"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24580753"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9159522"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9159523"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9159522"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9159523"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28924029"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9159522"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9159523"/>
+</source>
+</evidence>
+<sequence length="159" mass="16639" checksum="BCFD8970DF6277C0" modified="1995-11-01" version="1">
+MIKEWATVVSWQNGQALVSCDVKASCSSCASRAGCGSRVLNKLGPQTTHTIVVPCDEPLV
+PGQKVELGIAEGSLLSSALLVYMSPLVGLFLIASLFQLLFASDVAALCGAILGGIGGFLI
+ARGYSRKFAARAEWQPIILSVALPPGLVRFETSSEDASQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-05-08" version="107">
+<accession>P0A9D2</accession>
+<accession>P39100</accession>
+<name>GSTA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Glutathione S-transferase GstA</fullName>
+<ecNumber evidence="7">2.5.1.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>GST B1-1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">gstA</name>
+<name type="synonym">gst</name>
+<name type="ordered locus">b1635</name>
+<name type="ordered locus">JW1627</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="32536" last="32541">
+<title>Molecular cloning and site-directed mutagenesis of glutathione S-transferase from Escherichia coli. The conserved tyrosyl residue near the N-terminus is not essential for catalysis.</title>
+<authorList>
+<person name="Nishida M."/>
+<person name="Kong K.-H."/>
+<person name="Inoue H."/>
+<person name="Takahashi K."/>
+</authorList>
+<dbReference type="PubMed" id="7798255"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-14</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF TYR-5</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1990" name="FEBS Lett." volume="263" first="77" last="79">
+<title>Purification and study of a bacterial glutathione S-transferase.</title>
+<authorList>
+<person name="Arca P."/>
+<person name="Garcia P."/>
+<person name="Hardisson C."/>
+<person name="Suarez J.E."/>
+</authorList>
+<dbReference type="PubMed" id="2185038"/>
+<dbReference type="DOI" id="10.1016/0014-5793(90)80709-R"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-9</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="J. Biochem." volume="140" first="703" last="711">
+<title>Three distinct-type glutathione S-transferases from Escherichia coli important for defense against oxidative stress.</title>
+<authorList>
+<person name="Kanai T."/>
+<person name="Takahashi K."/>
+<person name="Inoue H."/>
+</authorList>
+<dbReference type="PubMed" id="17018556"/>
+<dbReference type="DOI" id="10.1093/jb/mvj199"/>
+</citation>
+<scope>FUNCTION IN DEFENSE AGAINST OXIDATIVE STRESS</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Biochem. J." volume="417" first="55" last="64">
+<title>Characterization of the activity and folding of the glutathione transferase from Escherichia coli and the roles of residues Cys(10) and His(106).</title>
+<authorList>
+<person name="Wang X.Y."/>
+<person name="Zhang Z.R."/>
+<person name="Perrett S."/>
+</authorList>
+<dbReference type="PubMed" id="18778244"/>
+<dbReference type="DOI" id="10.1042/BJ20071702"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>KINETIC PARAMETERS</scope>
+<scope>MUTAGENESIS OF CYS-10 AND HIS-106</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="281" first="135" last="147">
+<title>Three-dimensional structure of Escherichia coli glutathione S-transferase complexed with glutathione sulfonate: catalytic roles of Cys10 and His106.</title>
+<authorList>
+<person name="Nishida M."/>
+<person name="Harada S."/>
+<person name="Noguchi S."/>
+<person name="Satow Y."/>
+<person name="Inoue H."/>
+<person name="Takahashi K."/>
+</authorList>
+<dbReference type="PubMed" id="9680481"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1927"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) IN COMPLEX WITH GLUTATHIONE SULFONATE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Proteins" volume="53" first="777" last="782">
+<title>Conserved structural elements in glutathione transferase homologues encoded in the genome of Escherichia coli.</title>
+<authorList>
+<person name="Rife C.L."/>
+<person name="Parsons J.F."/>
+<person name="Xiao G."/>
+<person name="Gilliland G.L."/>
+<person name="Armstrong R.N."/>
+</authorList>
+<dbReference type="PubMed" id="14635120"/>
+<dbReference type="DOI" id="10.1002/prot.10452"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) IN COMPLEX WITH GLUTATHIONE SULFONATE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6 7">Catalyzes the conjugation of reduced glutathione (GSH) to a wide number of exogenous and endogenous hydrophobic electrophiles. Shows activity toward 1-chloro-2,4-dinitrobenzene (CDNB) and ethacrynic acid. Also possesses thiol:disulfide oxidoreductase activity, using GSH to reduce bis-(2-hydroxyethyl) disulfide (HEDS). Has a low level of glutathione-dependent peroxidase activity toward cumene hydroperoxide. Is important for defense against oxidative stress, probably via its peroxidase activity.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="5 6 7">
+<text>glutathione + RX = a halide anion + an S-substituted glutathione + H(+)</text>
+<dbReference type="Rhea" id="RHEA:16437"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16042"/>
+<dbReference type="ChEBI" id="CHEBI:17792"/>
+<dbReference type="ChEBI" id="CHEBI:57925"/>
+<dbReference type="ChEBI" id="CHEBI:90779"/>
+<dbReference type="EC" id="2.5.1.18"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="5 6 7">0.041 mM for glutathione</KM>
+<KM evidence="5 6 7">0.3 mM for glutathione</KM>
+<KM evidence="5 6 7">0.99 mM for 1-chloro-2,4-dinitrobenzene</KM>
+<KM evidence="5 6 7">1.9 mM for 1-chloro-2,4-dinitrobenzene</KM>
+<text evidence="5">kcat is 9 sec(-1) for the GSH transferase reaction with CDNB as substrate.</text>
+</kinetics>
+<phDependence>
+<text evidence="6 7">Optimum pH is 7.5.</text>
+</phDependence>
+<temperatureDependence>
+<text evidence="6 7">Optimum temperature is 35 degrees Celsius.</text>
+</temperatureDependence>
+</comment>
+<comment type="subunit">
+<text evidence="3 6 7 8">Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Deletion of the gstA gene decreases the resistance of the bacteria to hydrogen peroxide.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the GST superfamily. Beta family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.18" evidence="7"/>
+<dbReference type="EMBL" id="D38497">
+<property type="protein sequence ID" value="BAA07509.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74707.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15396.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A55495">
+<property type="entry name" value="A55495"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416152.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000765749.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1A0F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-201"/>
+</dbReference>
+<dbReference type="PDB" id="1N2A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-201"/>
+</dbReference>
+<dbReference type="PDBsum" id="1A0F"/>
+<dbReference type="PDBsum" id="1N2A"/>
+<dbReference type="SMR" id="P0A9D2"/>
+<dbReference type="BioGrid" id="4260258">
+<property type="interactions" value="34"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9851N"/>
+<dbReference type="IntAct" id="P0A9D2">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1635"/>
+<dbReference type="DrugBank" id="DB03003">
+<property type="generic name" value="Glutathione Sulfonic Acid"/>
+</dbReference>
+<dbReference type="SWISS-2DPAGE" id="P0A9D2"/>
+<dbReference type="EPD" id="P0A9D2"/>
+<dbReference type="jPOST" id="P0A9D2"/>
+<dbReference type="PaxDb" id="P0A9D2"/>
+<dbReference type="PRIDE" id="P0A9D2"/>
+<dbReference type="EnsemblBacteria" id="AAC74707">
+<property type="protein sequence ID" value="AAC74707"/>
+<property type="gene ID" value="b1635"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15396">
+<property type="protein sequence ID" value="BAA15396"/>
+<property type="gene ID" value="BAA15396"/>
+</dbReference>
+<dbReference type="GeneID" id="945758"/>
+<dbReference type="KEGG" id="ecj:JW1627"/>
+<dbReference type="KEGG" id="eco:b1635"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.625"/>
+<dbReference type="EchoBASE" id="EB2497"/>
+<dbReference type="EcoGene" id="EG12613">
+<property type="gene designation" value="gstA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108K3A">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0625">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125748"/>
+<dbReference type="InParanoid" id="P0A9D2"/>
+<dbReference type="KO" id="K00799"/>
+<dbReference type="PhylomeDB" id="P0A9D2"/>
+<dbReference type="BioCyc" id="EcoCyc:GST-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1627-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:GST-MONOMER"/>
+<dbReference type="BRENDA" id="2.5.1.18">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A9D2"/>
+<dbReference type="PRO" id="PR:P0A9D2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004364">
+<property type="term" value="F:glutathione transferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042542">
+<property type="term" value="P:response to hydrogen peroxide"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010987">
+<property type="entry name" value="Glutathione-S-Trfase_C-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036282">
+<property type="entry name" value="Glutathione-S-Trfase_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040079">
+<property type="entry name" value="Glutathione_S-Trfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004045">
+<property type="entry name" value="Glutathione_S-Trfase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004046">
+<property type="entry name" value="GST_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036249">
+<property type="entry name" value="Thioredoxin-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00043">
+<property type="entry name" value="GST_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13409">
+<property type="entry name" value="GST_N_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SFLD" id="SFLDS00019">
+<property type="entry name" value="Glutathione_Transferase_(cytos"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47616">
+<property type="entry name" value="SSF47616"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52833">
+<property type="entry name" value="SSF52833"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50405">
+<property type="entry name" value="GST_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50404">
+<property type="entry name" value="GST_NTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Glutathione S-transferase GstA" id="PRO_0000185970">
+<location>
+<begin position="1"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="domain" description="GST N-terminal">
+<location>
+<begin position="1"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="domain" description="GST C-terminal">
+<location>
+<begin position="87"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="10">
+<location>
+<begin position="65"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="10">
+<location>
+<begin position="103"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutathione" evidence="10">
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutathione" evidence="10">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutathione; via amide nitrogen and carbonyl oxygen" evidence="10">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutathione" evidence="10">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not significantly affect the activity." evidence="7">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="8-fold decrease in affinity for GSH, but 5-fold increase in GSH transferase activity. Loss of thiol:disulfide oxidoreductase activity." evidence="5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="6-fold decrease in affinity for GSH, and decrease in GSH transferase activity. Loss of thiol:disulfide oxidoreductase activity." evidence="5">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in affinity for GSH while nearly no effect on affinity for CDNB, and decrease in GSH transferase activity." evidence="5">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in affinity for GSH, while nearly no effect on affinity for CDNB and on GSH transferase activity." evidence="5">
+<original>H</original>
+<variation>F</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AA sequence." ref="5" evidence="9">
+<original>K</original>
+<variation>L</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AA sequence." ref="5" evidence="9">
+<original>YK</original>
+<variation>IL</variation>
+<location>
+<begin position="5"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="2"/>
+<end position="5"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="12"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="26"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="32"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="62"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="66"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="78"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="89"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="106"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="115"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="119"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="122"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="140"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="146"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="153"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="176"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="189"/>
+<end position="197"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1A0F"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1N2A"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14635120"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17018556"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18778244"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2185038"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7798255"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9680481"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9680481"/>
+</source>
+</evidence>
+<sequence length="201" mass="22868" checksum="6347401123B044E2" modified="2005-07-19" version="1">
+MKLFYKPGACSLASHITLRESGKDFTLVSVDLMKKRLENGDDYFAVNPKGQVPALLLDDG
+TLLTEGVAIMQYLADSVPDRQLLAPVNSISRYKTIEWLNYIATELHKGFTPLFRPDTPEE
+YKPTVRAQLEKKLQYVNEALKDEHWICGQRFTIADAYLFTVLRWAYAVKLNLEGLEHIAA
+FMQRMAERPEVQDALSAEGLK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

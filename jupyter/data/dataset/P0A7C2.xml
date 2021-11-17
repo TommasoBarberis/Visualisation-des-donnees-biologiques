@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="125">
+<accession>P0A7C2</accession>
+<accession>P03033</accession>
+<accession>Q2M6R1</accession>
+<name>LEXA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">LexA repressor</fullName>
+<ecNumber evidence="3">3.4.21.88</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">lexA</name>
+<name type="synonym">exrA</name>
+<name type="synonym">spr</name>
+<name type="synonym">tsl</name>
+<name type="synonym">umuA</name>
+<name type="ordered locus">b4043</name>
+<name type="ordered locus">JW4003</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1981" name="Cell" volume="23" first="689" last="697">
+<title>Nucleotide sequence of the lexA gene of E. coli.</title>
+<authorList>
+<person name="Horii T."/>
+<person name="Ogawa T."/>
+<person name="Ogawa H."/>
+</authorList>
+<dbReference type="PubMed" id="7013987"/>
+<dbReference type="DOI" id="10.1016/0092-8674(81)90432-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1981" name="Nucleic Acids Res." volume="9" first="4149" last="4161">
+<title>Nucleotide sequence of the lexA gene of Escherichia coli K-12.</title>
+<authorList>
+<person name="Markham B.E."/>
+<person name="Little J.W."/>
+<person name="Mount D.W."/>
+</authorList>
+<dbReference type="PubMed" id="6272195"/>
+<dbReference type="DOI" id="10.1093/nar/9.16.4149"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>MUTANT LEXA3</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5408" last="5417">
+<title>Analysis of the Escherichia coli genome. IV. DNA sequence of the region from 89.2 to 92.8 minutes.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+</authorList>
+<dbReference type="PubMed" id="8265357"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5408"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Mol. Gen. Genet." volume="223" first="40" last="48">
+<title>Genetic analysis of the LexA repressor: isolation and characterization of LexA(Def) mutant proteins.</title>
+<authorList>
+<person name="Oertel-Buchheit P."/>
+<person name="Lamerichs R.M."/>
+<person name="Schnarr M."/>
+<person name="Granger-Schnarr M."/>
+</authorList>
+<dbReference type="PubMed" id="2259342"/>
+<dbReference type="DOI" id="10.1007/BF00315795"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-93</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1981" name="Nucleic Acids Res." volume="9" first="529" last="543">
+<title>Organization of the lexA gene of Escherichia coli and nucleotide sequence of the regulatory region.</title>
+<authorList>
+<person name="Miki T."/>
+<person name="Ebina Y."/>
+<person name="Kishi F."/>
+<person name="Nakazawa A."/>
+</authorList>
+<dbReference type="PubMed" id="6261224"/>
+<dbReference type="DOI" id="10.1093/nar/9.3.529"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-23</scope>
+</reference>
+<reference key="8">
+<citation type="submission" date="1992-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Lilley P.E."/>
+<person name="Dixon N.E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 195-202</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1981" name="Proc. Natl. Acad. Sci. U.S.A." volume="78" first="4199" last="4203">
+<title>Purified lexA protein is a repressor of the recA and lexA genes.</title>
+<authorList>
+<person name="Little J.W."/>
+<person name="Mount D.W."/>
+<person name="Yanisch-Perron C.R."/>
+</authorList>
+<dbReference type="PubMed" id="7027255"/>
+<dbReference type="DOI" id="10.1073/pnas.78.7.4199"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1981" name="Proc. Natl. Acad. Sci. U.S.A." volume="78" first="4204" last="4208">
+<title>Mechanism of action of the lexA gene product.</title>
+<authorList>
+<person name="Brent R."/>
+<person name="Ptashne M."/>
+</authorList>
+<dbReference type="PubMed" id="7027256"/>
+<dbReference type="DOI" id="10.1073/pnas.78.7.4204"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>ROLE IN HYDROXYUREA RESISTANCE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2012" name="PLoS Biol." volume="10" first="E1001281" last="E1001281">
+<title>Two programmed cell death systems in Escherichia coli: an apoptotic-like death is inhibited by the mazEF-mediated death pathway.</title>
+<authorList>
+<person name="Erental A."/>
+<person name="Sharon I."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="22412352"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1001281"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1989" name="Proc. Natl. Acad. Sci. U.S.A." volume="86" first="6863" last="6867">
+<title>The amino-terminal domain of LexA repressor is alpha-helical but differs from canonical helix-turn-helix proteins: a two-dimensional 1H NMR study.</title>
+<authorList>
+<person name="Lamerichs R.M.J.N."/>
+<person name="Padilla A."/>
+<person name="Boelens R."/>
+<person name="Kaptein R."/>
+<person name="Ottleben G."/>
+<person name="Rueterjans H."/>
+<person name="Granger-Schnarr M."/>
+<person name="Oertel P."/>
+<person name="Schnarr M."/>
+</authorList>
+<dbReference type="PubMed" id="2780544"/>
+<dbReference type="DOI" id="10.1073/pnas.86.18.6863"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="3936" last="3944">
+<title>Solution structure of the LexA repressor DNA binding domain determined by 1H NMR spectroscopy.</title>
+<authorList>
+<person name="Fogh R.H."/>
+<person name="Ottleben G."/>
+<person name="Rueterjans H."/>
+<person name="Schnarr M."/>
+<person name="Boelens R."/>
+<person name="Kaptein R."/>
+</authorList>
+<dbReference type="PubMed" id="8076591"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1995" name="Proteins" volume="21" first="226" last="236">
+<title>A model for the LexA repressor DNA complex.</title>
+<authorList>
+<person name="Knegtel R.M.A."/>
+<person name="Fogh R.H."/>
+<person name="Ottleben G."/>
+<person name="Rueterjans H."/>
+<person name="Dumoulin P."/>
+<person name="Schnarr M."/>
+<person name="Boelens R."/>
+<person name="Kaptein R."/>
+</authorList>
+<dbReference type="PubMed" id="7784426"/>
+<dbReference type="DOI" id="10.1002/prot.340210305"/>
+</citation>
+<scope>3D-STRUCTURE MODELING</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 7 8">Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. Binds to the 16 bp palindromic sequence 5'-CTGTATATATATACAG-3'. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair. Implicated in hydroxy radical-mediated cell death induced by hydroxyurea treatment (PubMed:20005847).The SOS response controls an apoptotic-like death (ALD) induced (in the absence of the mazE-mazF toxin-antitoxin module) in response to DNA damaging agents that is mediated by RecA and LexA (PubMed:22412352).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>Hydrolysis of Ala-|-Gly bond in repressor LexA.</text>
+<dbReference type="EC" id="3.4.21.88"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-553416"/>
+<interactant intactId="EBI-553416"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-553416"/>
+<interactant intactId="EBI-543949">
+<id>P0A7W1</id>
+<label>rpsE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the peptidase S24 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.88" evidence="3"/>
+<dbReference type="EMBL" id="J01643">
+<property type="protein sequence ID" value="AAA24067.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00006">
+<property type="protein sequence ID" value="AAC43137.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77013.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78045.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L02362">
+<property type="protein sequence ID" value="AAA24068.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A90808">
+<property type="entry name" value="ILEC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418467.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000646078.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1JHC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=68-202"/>
+</dbReference>
+<dbReference type="PDB" id="1JHE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=68-202"/>
+</dbReference>
+<dbReference type="PDB" id="1JHF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="1JHH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="1LEA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-84"/>
+</dbReference>
+<dbReference type="PDB" id="1LEB">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-84"/>
+</dbReference>
+<dbReference type="PDB" id="1MVD">
+<property type="method" value="Model"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="1QAA">
+<property type="method" value="Model"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="3JSO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="3JSP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-202"/>
+</dbReference>
+<dbReference type="PDB" id="3K3R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="E/F=1-202"/>
+</dbReference>
+<dbReference type="PDBsum" id="1JHC"/>
+<dbReference type="PDBsum" id="1JHE"/>
+<dbReference type="PDBsum" id="1JHF"/>
+<dbReference type="PDBsum" id="1JHH"/>
+<dbReference type="PDBsum" id="1LEA"/>
+<dbReference type="PDBsum" id="1LEB"/>
+<dbReference type="PDBsum" id="1MVD"/>
+<dbReference type="PDBsum" id="1QAA"/>
+<dbReference type="PDBsum" id="3JSO"/>
+<dbReference type="PDBsum" id="3JSP"/>
+<dbReference type="PDBsum" id="3K3R"/>
+<dbReference type="SMR" id="P0A7C2"/>
+<dbReference type="BioGrid" id="4261718">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-51082N"/>
+<dbReference type="IntAct" id="P0A7C2">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4043"/>
+<dbReference type="MEROPS" id="S24.001"/>
+<dbReference type="EPD" id="P0A7C2"/>
+<dbReference type="jPOST" id="P0A7C2"/>
+<dbReference type="PaxDb" id="P0A7C2"/>
+<dbReference type="PRIDE" id="P0A7C2"/>
+<dbReference type="EnsemblBacteria" id="AAC77013">
+<property type="protein sequence ID" value="AAC77013"/>
+<property type="gene ID" value="b4043"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78045">
+<property type="protein sequence ID" value="BAE78045"/>
+<property type="gene ID" value="BAE78045"/>
+</dbReference>
+<dbReference type="GeneID" id="948544"/>
+<dbReference type="KEGG" id="ecj:JW4003"/>
+<dbReference type="KEGG" id="eco:b4043"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4160"/>
+<dbReference type="EchoBASE" id="EB0528"/>
+<dbReference type="EcoGene" id="EG10533">
+<property type="gene designation" value="lexA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DS7">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1974">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000232167"/>
+<dbReference type="InParanoid" id="P0A7C2"/>
+<dbReference type="KO" id="K01356"/>
+<dbReference type="PhylomeDB" id="P0A7C2"/>
+<dbReference type="BioCyc" id="EcoCyc:PD00205"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4003-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.21.88">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A7C2"/>
+<dbReference type="PRO" id="PR:P0A7C2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="CollecTF" id="EXPREG_000007a0"/>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001217">
+<property type="term" value="F:DNA-binding transcription repressor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CollecTF"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009432">
+<property type="term" value="P:SOS response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd06529">
+<property type="entry name" value="S24_LexA-like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00015">
+<property type="entry name" value="LexA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006200">
+<property type="entry name" value="LexA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039418">
+<property type="entry name" value="LexA-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036286">
+<property type="entry name" value="LexA/Signal_pep-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006199">
+<property type="entry name" value="LexA_DNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006197">
+<property type="entry name" value="Peptidase_S24_LexA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015927">
+<property type="entry name" value="Peptidase_S24_S26A/B/C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01726">
+<property type="entry name" value="LexA_DNA_bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00717">
+<property type="entry name" value="Peptidase_S24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00726">
+<property type="entry name" value="LEXASERPTASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51306">
+<property type="entry name" value="SSF51306"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00498">
+<property type="entry name" value="lexA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0068">Autocatalytic cleavage</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0742">SOS response</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="LexA repressor" id="PRO_0000170031">
+<location>
+<begin position="1"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="3">
+<location>
+<begin position="28"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="active site" description="For autocatalytic cleavage activity" evidence="3">
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="active site" description="For autocatalytic cleavage activity" evidence="3">
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by autolysis">
+<location>
+<begin position="84"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In lexA3, resistant to cleavage. Increased sensitivity to hydroxyurea." evidence="4 6">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="6"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="28"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="40"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="55"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="60"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="74"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="102"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="105"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="111"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="121"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="130"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="143"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="152"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="164"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="172"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="177"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="186"/>
+<end position="197"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1JHF"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3JSO"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00015"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22412352"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6272195"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7027255"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7027256"/>
+</source>
+</evidence>
+<sequence length="202" mass="22358" checksum="7E8816A32C19EE71" modified="1986-07-21" version="1">
+MKALTARQQEVFDLIRDHISQTGMPPTRAEIAQRLGFRSPNAAEEHLKALARKGVIEIVS
+GASRGIRLLQEEEEGLPLVGRVAAGEPLLAQQHIEGHYQVDPSLFKPNADFLLRVSGMSM
+KDIGIMDGDLLAVHKTQDVRNGQVVVARIDDEVTVKRLKKQGNKVELLPENSEFKPIVVD
+LRQQSFTIEGLAVGVIRNGDWL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

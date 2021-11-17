@@ -1,0 +1,796 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="166">
+<accession>P00914</accession>
+<name>PHR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Deoxyribodipyrimidine photo-lyase</fullName>
+<ecNumber>4.1.99.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>DNA photolyase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Photoreactivating enzyme</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">phrB</name>
+<name type="synonym">phr</name>
+<name type="ordered locus">b0708</name>
+<name type="ordered locus">JW0698</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="J. Biol. Chem." volume="259" first="6033" last="6038">
+<title>Sequences of the Escherichia coli photolyase gene and protein.</title>
+<authorList>
+<person name="Sancar G.B."/>
+<person name="Smith F.W."/>
+<person name="Lorence M.C."/>
+<person name="Rupert C.S."/>
+<person name="Sancar A."/>
+</authorList>
+<dbReference type="PubMed" id="6325460"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1991-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Begley T.P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1987" name="Trends Biochem. Sci." volume="12" first="259" last="261">
+<title>Structure and function of DNA photolyases.</title>
+<authorList>
+<person name="Sancar G.B."/>
+<person name="Sancar A."/>
+</authorList>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="Biochemistry" volume="29" first="5698" last="5706">
+<title>Active site of Escherichia coli DNA photolyase: mutations at Trp277 alter the selectivity of the enzyme without affecting the quantum yield of photorepair.</title>
+<authorList>
+<person name="Li Y.F."/>
+<person name="Sancar A."/>
+</authorList>
+<dbReference type="PubMed" id="2200511"/>
+<dbReference type="DOI" id="10.1021/bi00476a009"/>
+</citation>
+<scope>MUTAGENESIS OF TRP-278</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="8676" last="8681">
+<title>Dissection of the triple tryptophan electron transfer chain in Escherichia coli DNA photolyase: Trp382 is the primary donor in photoactivation.</title>
+<authorList>
+<person name="Byrdin M."/>
+<person name="Eker A.P."/>
+<person name="Vos M.H."/>
+<person name="Brettel K."/>
+</authorList>
+<dbReference type="PubMed" id="12835419"/>
+<dbReference type="DOI" id="10.1073/pnas.1531645100"/>
+</citation>
+<scope>MUTAGENESIS OF TRP-383</scope>
+<scope>ELECTRON TRANSFER CHAIN</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Biochim. Biophys. Acta" volume="1707" first="1" last="23">
+<title>Light-driven enzymatic catalysis of DNA repair: a review of recent biophysical studies on photolyase.</title>
+<authorList>
+<person name="Weber S."/>
+</authorList>
+<dbReference type="PubMed" id="15721603"/>
+<dbReference type="DOI" id="10.1016/j.bbabio.2004.02.010"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1995" name="Science" volume="268" first="1866" last="1872">
+<title>Crystal structure of DNA photolyase from Escherichia coli.</title>
+<authorList>
+<person name="Park H.-W."/>
+<person name="Kim S.-T."/>
+<person name="Sancar A."/>
+<person name="Deisenhofer J."/>
+</authorList>
+<dbReference type="PubMed" id="7604260"/>
+<dbReference type="DOI" id="10.1126/science.7604260"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEX WITH FAD AND MTF</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text>Involved in repair of UV radiation-induced DNA damage. Catalyzes the light-dependent monomerization (300-600 nm) of cyclobutyl pyrimidine dimers (in cis-syn configuration), which are formed between adjacent bases on the same DNA strand upon exposure to ultraviolet radiation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Cyclobutadipyrimidine (in DNA) = 2 pyrimidine residues (in DNA).</text>
+<dbReference type="EC" id="4.1.99.3"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>FAD</name>
+<dbReference type="ChEBI" id="CHEBI:57692"/>
+</cofactor>
+<text>Binds 1 FAD per subunit.</text>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>(6R)-5,10-methylene-5,6,7,8-tetrahydrofolate</name>
+<dbReference type="ChEBI" id="CHEBI:15636"/>
+</cofactor>
+<text>Binds 1 5,10-methenyltetrahydrofolate (MTHF) non-covalently per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<absorption>
+<max>384 nm</max>
+</absorption>
+</comment>
+<comment type="subunit">
+<text evidence="5">Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-555781"/>
+<interactant intactId="EBI-551698">
+<id>P68739</id>
+<label>nfi</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="miscellaneous">
+<text>There are only 10-20 molecules of photolyase per E.coli cell.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Upon absorption of visible light electrons are transferred from Trp-307 through Trp-360 to Trp 383, and from there to FADH, giving rise to the fully reduced catalytic FADH(-).</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the DNA photolyase class-1 family.</text>
+</comment>
+<dbReference type="EC" id="4.1.99.3"/>
+<dbReference type="EMBL" id="K01299">
+<property type="protein sequence ID" value="AAA24388.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X57399">
+<property type="protein sequence ID" value="CAB56782.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73802.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35367.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A01137">
+<property type="entry name" value="WZECD"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415236.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000207142.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1DNP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=2-472"/>
+</dbReference>
+<dbReference type="PDBsum" id="1DNP"/>
+<dbReference type="SMR" id="P00914"/>
+<dbReference type="BioGrid" id="4259920">
+<property type="interactions" value="166"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10505N"/>
+<dbReference type="IntAct" id="P00914">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0708"/>
+<dbReference type="DrugBank" id="DB03147">
+<property type="generic name" value="Flavin adenine dinucleotide"/>
+</dbReference>
+<dbReference type="jPOST" id="P00914"/>
+<dbReference type="PaxDb" id="P00914"/>
+<dbReference type="PRIDE" id="P00914"/>
+<dbReference type="EnsemblBacteria" id="AAC73802">
+<property type="protein sequence ID" value="AAC73802"/>
+<property type="gene ID" value="b0708"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35367">
+<property type="protein sequence ID" value="BAA35367"/>
+<property type="gene ID" value="BAA35367"/>
+</dbReference>
+<dbReference type="GeneID" id="947005"/>
+<dbReference type="KEGG" id="ecj:JW0698"/>
+<dbReference type="KEGG" id="eco:b0708"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1565"/>
+<dbReference type="EchoBASE" id="EB0729"/>
+<dbReference type="EcoGene" id="EG10736">
+<property type="gene designation" value="phrB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CVP">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0415">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000245621"/>
+<dbReference type="InParanoid" id="P00914"/>
+<dbReference type="KO" id="K01669"/>
+<dbReference type="PhylomeDB" id="P00914"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10736-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0698-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10736-MONOMER"/>
+<dbReference type="BRENDA" id="4.1.99.3">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P00914"/>
+<dbReference type="EvolutionaryTrace" id="P00914"/>
+<dbReference type="PRO" id="PR:P00914"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003904">
+<property type="term" value="F:deoxyribodipyrimidine photo-lyase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018298">
+<property type="term" value="P:protein-chromophore linkage"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036134">
+<property type="entry name" value="Crypto/Photolyase_FAD-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036155">
+<property type="entry name" value="Crypto/Photolyase_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005101">
+<property type="entry name" value="Cryptochr/Photolyase_FAD-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002081">
+<property type="entry name" value="Cryptochrome/DNA_photolyase_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018394">
+<property type="entry name" value="DNA_photolyase_1_CS_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006050">
+<property type="entry name" value="DNA_photolyase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00875">
+<property type="entry name" value="DNA_photolyase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03441">
+<property type="entry name" value="FAD_binding_7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00147">
+<property type="entry name" value="DNAPHOTLYASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48173">
+<property type="entry name" value="SSF48173"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52425">
+<property type="entry name" value="SSF52425"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00394">
+<property type="entry name" value="DNA_PHOTOLYASES_1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00691">
+<property type="entry name" value="DNA_PHOTOLYASES_1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51645">
+<property type="entry name" value="PHR_CRY_ALPHA_BETA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0157">Chromophore</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0456">Lyase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Deoxyribodipyrimidine photo-lyase" id="PRO_0000085108">
+<location>
+<begin position="1"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="domain" description="Photolyase/cryptochrome alpha/beta">
+<location>
+<begin position="2"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="5">
+<location>
+<begin position="235"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="5">
+<location>
+<begin position="275"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="5">
+<location>
+<begin position="373"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="region of interest" description="MTF binding">
+<location>
+<begin position="109"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with DNA" evidence="2">
+<location>
+<begin position="275"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with DNA" evidence="2">
+<location>
+<begin position="342"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="5">
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="2">
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="5">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="2">
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="site" description="Electron transfer via tryptophanyl radical">
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="site" description="Electron transfer via tryptophanyl radical">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="site" description="Electron transfer via tryptophanyl radical">
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces DNA-binding affinity." evidence="4">
+<original>W</original>
+<variation>X</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes photolyase activity." evidence="3">
+<original>W</original>
+<variation>F</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="18"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="24"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="39"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="49"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="73"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="81"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="99"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="108"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="124"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="132"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="151"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="205"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="239"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="249"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="261"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="270"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="290"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="300"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="311"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="325"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="342"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="360"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="376"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="402"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="410"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="414"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="421"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="430"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="434"/>
+<end position="439"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="440"/>
+<end position="442"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="454"/>
+<end position="468"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1DNP"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12835419"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2200511"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7604260"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="472" mass="53667" checksum="B06048703F18F7AE" modified="1986-07-21" version="1">
+MTTHLVWFRQDLRLHDNLALAAACRNSSARVLALYIATPRQWATHNMSPRQAELINAQLN
+GLQIALAEKGIPLLFREVDDFVASVEIVKQVCAENSVTHLFYNYQYEVNERARDVEVERA
+LRNVVCEGFDDSVILPPGAVMTGNHEMYKVFTPFKNAWLKRLREGMPECVAAPKVRSSGS
+IEPSPSITLNYPRQSFDTAHFPVEEKAAIAQLRQFCQNGAGEYEQQRDFPAVEGTSRLSA
+SLATGGLSPRQCLHRLLAEQPQALDGGAGSVWLNELIWREFYRHLITYHPSLCKHRPFIA
+WTDRVQWQSNPAHLQAWQEGKTGYPIVDAAMRQLNSTGWMHNRLRMITASFLVKDLLIDW
+REGERYFMSQLIDGDLAANNGGWQWAASTGTDAAPYFRIFNPTTQGEKFDHEGEFIRQWL
+PELRDVPGKVVHEPWKWAQKAGVTLDYPQPIVEHKEARVQTLAAYEAARKGK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

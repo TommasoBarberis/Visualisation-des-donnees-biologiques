@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-25" modified="2019-05-08" version="101">
+<accession>P0ABF1</accession>
+<accession>P13685</accession>
+<accession>P78050</accession>
+<accession>Q8X910</accession>
+<name>PCNB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Poly(A) polymerase I</fullName>
+<shortName evidence="1">PAP I</shortName>
+<ecNumber evidence="1">2.7.7.19</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Plasmid copy number protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">pcnB</name>
+<name type="ordered locus">b0143</name>
+<name type="ordered locus">JW5808</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="1254" last="1261">
+<title>Genetics and sequence analysis of the pcnB locus, an Escherichia coli gene involved in plasmid copy number control.</title>
+<authorList>
+<person name="Liu J."/>
+<person name="Parkinson J.S."/>
+</authorList>
+<dbReference type="PubMed" id="2537812"/>
+<dbReference type="DOI" id="10.1128/jb.171.3.1254-1261.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / RP437</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="10380" last="10384">
+<title>Identification of the gene for an Escherichia coli poly(A) polymerase.</title>
+<authorList>
+<person name="Cao G.-J."/>
+<person name="Sarkar N."/>
+</authorList>
+<dbReference type="PubMed" id="1438224"/>
+<dbReference type="DOI" id="10.1073/pnas.89.21.10380"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-64</scope>
+<scope>PROTEIN SEQUENCE OF 11-25</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Mol. Gen. Genet." volume="220" first="341" last="344">
+<title>A possible role for the pcnB gene product of Escherichia coli in modulating RNA: RNA interactions.</title>
+<authorList>
+<person name="Masters M."/>
+<person name="March J.B."/>
+<person name="Oliver I.R."/>
+<person name="Collins J.F."/>
+</authorList>
+<dbReference type="PubMed" id="1691435"/>
+<dbReference type="DOI" id="10.1007/BF00260507"/>
+</citation>
+<scope>SIMILARITY TO CCA</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Mol. Microbiol." volume="32" first="765" last="775">
+<title>Poly(A) polymerase I of Escherichia coli: characterization of the catalytic domain, an RNA binding site and regions for the interaction with proteins involved in mRNA degradation.</title>
+<authorList>
+<person name="Raynal L.C."/>
+<person name="Carpousis A.J."/>
+</authorList>
+<dbReference type="PubMed" id="10361280"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1999.01394.x"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+<scope>INTERACTION WITH CSDA; RHLE AND SRMB</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="Mol. Microbiol." volume="34" first="1094" last="1108">
+<title>Analysis of the function of Escherichia coli poly(A) polymerase I in RNA metabolism.</title>
+<authorList>
+<person name="Mohanty B.K."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="10594833"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.1999.01673.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>MG1693</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="44" first="1287" last="1298">
+<title>Expression of the Escherichia coli pcnB gene is translationally limited using an inefficient start codon: a second chromosomal example of translation initiated at AUU.</title>
+<authorList>
+<person name="Binns N."/>
+<person name="Masters M."/>
+</authorList>
+<dbReference type="PubMed" id="12068810"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2002.02945.x"/>
+</citation>
+<scope>IDENTIFICATION OF INITIATION SITE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="Biochem. Biophys. Res. Commun." volume="329" first="598" last="602">
+<title>Localization of Escherichia coli poly(A) polymerase I in cellular membrane.</title>
+<authorList>
+<person name="Jasiecki J."/>
+<person name="Wegrzyn G."/>
+</authorList>
+<dbReference type="PubMed" id="15737627"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2005.02.025"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="5695" last="5704">
+<title>The majority of Escherichia coli mRNAs undergo post-transcriptional modification in exponentially growing cells.</title>
+<authorList>
+<person name="Mohanty B.K."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="17040898"/>
+<dbReference type="DOI" id="10.1093/nar/gkl684"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>MG1693</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Mol. Genet. Genomics" volume="284" first="289" last="305">
+<title>Transcription regulation of the Escherichia coli pcnB gene coding for poly(A) polymerase I: roles of ppGpp, DksA and sigma factors.</title>
+<authorList>
+<person name="Nadratowska-Wesolowska B."/>
+<person name="Slominska-Wojewodzka M."/>
+<person name="Lyzen R."/>
+<person name="Wegrzyn A."/>
+<person name="Szalewska-Palasz A."/>
+<person name="Wegrzyn G."/>
+</authorList>
+<dbReference type="PubMed" id="20700605"/>
+<dbReference type="DOI" id="10.1007/s00438-010-0567-y"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 3 4 6">Adds poly(A) tail to the 3' end of many RNAs, which usually targets these RNAs for decay. Plays a significant role in the global control of gene expression, through influencing the rate of transcript degradation, and in the general RNA quality control. Rho-independent transcription terminators may serve as polyadenylation signals. Seems to be involved in plasmid copy number control.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 4">
+<text>ATP + RNA(n) = diphosphate + RNA(n)-3'-adenine ribonucleotide</text>
+<dbReference type="Rhea" id="RHEA:11332"/>
+<dbReference type="Rhea" id="RHEA-COMP:11128"/>
+<dbReference type="Rhea" id="RHEA-COMP:14647"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:83400"/>
+<dbReference type="ChEBI" id="CHEBI:140626"/>
+<dbReference type="EC" id="2.7.7.19"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="2">Monomer. Interacts with CsdA, RhlE and SrmB.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cell inner membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="7">Transcription regulation of pcnB is a complex process that involves several factors such as Sigma-70 (rpoD), Sigma-S (rpoS), ppGpp and DksA.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="9">Uses the non-canonical initiation codon AUU, which limits pcnB expression.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the tRNA nucleotidyltransferase/poly(A) polymerase family.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA24303" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB24139" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.19" evidence="1"/>
+<dbReference type="EMBL" id="M20574">
+<property type="protein sequence ID" value="AAA24303.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73254.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAB96720.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S48039">
+<property type="protein sequence ID" value="AAB24139.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64737">
+<property type="entry name" value="G64737"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414685.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="SMR" id="P0ABF1"/>
+<dbReference type="BioGrid" id="4263029">
+<property type="interactions" value="32"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47859N"/>
+<dbReference type="IntAct" id="P0ABF1">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0143"/>
+<dbReference type="jPOST" id="P0ABF1"/>
+<dbReference type="PaxDb" id="P0ABF1"/>
+<dbReference type="PRIDE" id="P0ABF1"/>
+<dbReference type="EnsemblBacteria" id="AAC73254">
+<property type="protein sequence ID" value="AAC73254"/>
+<property type="gene ID" value="b0143"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAB96720">
+<property type="protein sequence ID" value="BAB96720"/>
+<property type="gene ID" value="BAB96720"/>
+</dbReference>
+<dbReference type="GeneID" id="947318"/>
+<dbReference type="KEGG" id="ecj:JW5808"/>
+<dbReference type="KEGG" id="eco:b0143"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.148"/>
+<dbReference type="EchoBASE" id="EB0684"/>
+<dbReference type="EcoGene" id="EG10690">
+<property type="gene designation" value="pcnB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DJ0">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0617">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000256527"/>
+<dbReference type="InParanoid" id="P0ABF1"/>
+<dbReference type="KO" id="K00970"/>
+<dbReference type="PhylomeDB" id="P0ABF1"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10690-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5808-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10690-MONOMER"/>
+<dbReference type="BRENDA" id="2.7.7.19">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P0ABF1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004652">
+<property type="term" value="F:polynucleotide adenylyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006378">
+<property type="term" value="P:mRNA polyadenylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006397">
+<property type="term" value="P:mRNA processing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006276">
+<property type="term" value="P:plasmid maintenance"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009451">
+<property type="term" value="P:RNA modification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd05398">
+<property type="entry name" value="NT_ClassII-CCAase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00957">
+<property type="entry name" value="PolyA_pol"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002646">
+<property type="entry name" value="PolA_pol_head_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010206">
+<property type="entry name" value="PolA_pol_I"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025866">
+<property type="entry name" value="PolyA_pol_arg_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032828">
+<property type="entry name" value="PolyA_RNA-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01743">
+<property type="entry name" value="PolyA_pol"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12626">
+<property type="entry name" value="PolyA_pol_arg_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12627">
+<property type="entry name" value="PolyA_pol_RNAbd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01942">
+<property type="entry name" value="pcnB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0507">mRNA processing</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0615">Plasmid copy control</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="propeptide" id="PRO_0000411163" evidence="4">
+<location>
+<begin position="1"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="chain" description="Poly(A) polymerase I" id="PRO_0000139090">
+<location>
+<begin position="11"/>
+<end position="465"/>
+</location>
+</feature>
+<feature type="active site" evidence="1">
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="active site" evidence="1">
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="active site" evidence="1">
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24303." ref="1" evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="93"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24303." ref="1" evidence="8">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24303." ref="1" evidence="8">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24303." ref="1" evidence="8">
+<original>ML</original>
+<variation>IV</variation>
+<location>
+<begin position="437"/>
+<end position="438"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24303." ref="1" evidence="8">
+<original>RRTRRPRKRAPRREGTA</original>
+<variation>QSYSSSTQTRTTS</variation>
+<location>
+<begin position="449"/>
+<end position="465"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00957"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10361280"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10594833"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1438224"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15737627"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17040898"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20700605"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12068810"/>
+</source>
+</evidence>
+<sequence length="465" mass="53871" checksum="0FAE30F2F95FB76E" modified="2006-09-19" version="2" precursor="true">
+MFTRVANFCRKVLSREESEAEQAVARPQVTVIPREQHAISRKDISENALKVMYRLNKAGY
+EAWLVGGGVRDLLLGKKPKDFDVTTNATPEQVRKLFRNCRLVGRRFRLAHVMFGPEIIEV
+ATFRGHHEGNVSDRTTSQRGQNGMLLRDNIFGSIEEDAQRRDFTINSLYYSVADFTVRDY
+VGGMKDLKDGVIRLIGNPETRYREDPVRMLRAVRFAAKLGMRISPETAEPIPRLATLLND
+IPPARLFEESLKLLQAGYGYETYKLLCEYHLFQPLFPTITRYFTENGDSPMERIIEQVLK
+NTDTRIHNDMRVNPAFLFAAMFWYPLLETAQKIAQESGLTYHDAFALAMNDVLDEACRSL
+AIPKRLTTLTRDIWQLQLRMSRRQGKRAWKLLEHPKFRAAYDLLALRAEVERNAELQRLV
+KWWGEFQVSAPPDQKGMLNELDEEPSPRRRTRRPRKRAPRREGTA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,2130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-05-08" version="128">
+<accession>P0A940</accession>
+<accession>P39170</accession>
+<accession>P39181</accession>
+<accession>P77465</accession>
+<accession>Q548B8</accession>
+<accession>Q8KR94</accession>
+<accession>Q9R2E3</accession>
+<name>BAMA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="14">Outer membrane protein assembly factor BamA</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Omp85</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="14">bamA</name>
+<name type="synonym">yaeT</name>
+<name type="synonym">yzzN</name>
+<name type="synonym">yzzY</name>
+<name type="ordered locus">b0177</name>
+<name type="ordered locus">JW0172</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="20866" last="20875">
+<title>Characterization of the Escherichia coli sigma E regulon.</title>
+<authorList>
+<person name="Dartigalongue C."/>
+<person name="Missiakas D."/>
+<person name="Raina S."/>
+</authorList>
+<dbReference type="PubMed" id="11274153"/>
+<dbReference type="DOI" id="10.1074/jbc.M100464200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2001-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Allison H.E."/>
+<person name="Sergeant M.J."/>
+<person name="Cookson S.S."/>
+<person name="Yaxian Y."/>
+<person name="James C.E."/>
+<person name="Sharp R.J."/>
+<person name="Saunders J.R."/>
+<person name="McCarthy A.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MC1061 / ATCC 53338 / DSM 7140</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1996-02" db="EMBL/GenBank/DDBJ databases">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 4.0 - 6.0 min (189,987 - 281,416bp) region.</title>
+<authorList>
+<person name="Takemoto K."/>
+<person name="Mori H."/>
+<person name="Murayama N."/>
+<person name="Kataoka K."/>
+<person name="Yano M."/>
+<person name="Itoh T."/>
+<person name="Yamamoto Y."/>
+<person name="Inokuchi H."/>
+<person name="Miki T."/>
+<person name="Hatada E."/>
+<person name="Fukuda R."/>
+<person name="Ichihara S."/>
+<person name="Mizuno T."/>
+<person name="Makino K."/>
+<person name="Nakata A."/>
+<person name="Yura T."/>
+<person name="Sampei G."/>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-32 AND 351-362</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Trends Biochem. Sci." volume="28" first="523" last="526">
+<title>POTRA: a conserved domain in the FtsQ family and a class of beta-barrel outer membrane proteins.</title>
+<authorList>
+<person name="Sanchez-Pulido L."/>
+<person name="Devos D."/>
+<person name="Genevrois S."/>
+<person name="Vicente M."/>
+<person name="Valencia A."/>
+</authorList>
+<dbReference type="PubMed" id="14559180"/>
+<dbReference type="DOI" id="10.1016/j.tibs.2003.08.003"/>
+</citation>
+<scope>POTRA DOMAIN</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Cell" volume="121" first="235" last="245">
+<title>Identification of a multicomponent complex required for outer membrane biogenesis in Escherichia coli.</title>
+<authorList>
+<person name="Wu T."/>
+<person name="Malinverni J."/>
+<person name="Ruiz N."/>
+<person name="Kim S."/>
+<person name="Silhavy T.J."/>
+<person name="Kahne D."/>
+</authorList>
+<dbReference type="PubMed" id="15851030"/>
+<dbReference type="DOI" id="10.1016/j.cell.2005.02.015"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="27679" last="27687">
+<title>Loss of outer membrane proteins without inhibition of lipid export in an Escherichia coli YaeT mutant.</title>
+<authorList>
+<person name="Doerrler W.T."/>
+<person name="Raetz C.R.H."/>
+</authorList>
+<dbReference type="PubMed" id="15951436"/>
+<dbReference type="DOI" id="10.1074/jbc.M504796200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="34409" last="34419">
+<title>Protein complexes of the Escherichia coli cell envelope.</title>
+<authorList>
+<person name="Stenberg F."/>
+<person name="Chovanec P."/>
+<person name="Maslen S.L."/>
+<person name="Robinson C.V."/>
+<person name="Ilag L."/>
+<person name="von Heijne G."/>
+<person name="Daley D.O."/>
+</authorList>
+<dbReference type="PubMed" id="16079137"/>
+<dbReference type="DOI" id="10.1074/jbc.M506479200"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>BL21-DE3</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="Mol. Microbiol." volume="57" first="1450" last="1459">
+<title>YaeT (Omp85) affects the assembly of lipid-dependent and lipid-independent outer membrane proteins of Escherichia coli.</title>
+<authorList>
+<person name="Werner J."/>
+<person name="Misra R."/>
+</authorList>
+<dbReference type="PubMed" id="16102012"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2005.04775.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Mol. Microbiol." volume="61" first="151" last="164">
+<title>YfiO stabilizes the YaeT complex and is essential for outer membrane protein assembly in Escherichia coli.</title>
+<authorList>
+<person name="Malinverni J.C."/>
+<person name="Werner J."/>
+<person name="Kim S."/>
+<person name="Sklar J.G."/>
+<person name="Kahne D."/>
+<person name="Misra R."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="16824102"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2006.05211.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH BAMB AND BAMD</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2007" name="Proc. Natl. Acad. Sci. U.S.A." volume="104" first="6400" last="6405">
+<title>Lipoprotein SmpA is a component of the YaeT complex that assembles outer membrane proteins in Escherichia coli.</title>
+<authorList>
+<person name="Sklar J.G."/>
+<person name="Wu T."/>
+<person name="Gronenberg L.S."/>
+<person name="Malinverni J.C."/>
+<person name="Kahne D."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="17404237"/>
+<dbReference type="DOI" id="10.1073/pnas.0701579104"/>
+</citation>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2008" name="Mol. Microbiol." volume="70" first="323" last="340">
+<title>Contact-dependent growth inhibition requires the essential outer membrane protein BamA (YaeT) as the receptor and the inner membrane transport protein AcrB.</title>
+<authorList>
+<person name="Aoki S.K."/>
+<person name="Malinverni J.C."/>
+<person name="Jacoby K."/>
+<person name="Thomas B."/>
+<person name="Pamma R."/>
+<person name="Trinh B.N."/>
+<person name="Remers S."/>
+<person name="Webb J."/>
+<person name="Braaten B.A."/>
+<person name="Silhavy T.J."/>
+<person name="Low D.A."/>
+</authorList>
+<dbReference type="PubMed" id="18761695"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06404.x"/>
+</citation>
+<scope>FUNCTION IN CDI (MICROBIAL INFECTION)</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC1061</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2010" name="Science" volume="328" first="890" last="892">
+<title>Reconstitution of outer membrane protein assembly from purified components.</title>
+<authorList>
+<person name="Hagan C.L."/>
+<person name="Kim S."/>
+<person name="Kahne D."/>
+</authorList>
+<dbReference type="PubMed" id="20378773"/>
+<dbReference type="DOI" id="10.1126/science.1188919"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="Biochemistry" volume="50" first="7444" last="7446">
+<title>The reconstituted Escherichia coli Bam complex catalyzes multiple rounds of beta-barrel assembly.</title>
+<authorList>
+<person name="Hagan C.L."/>
+<person name="Kahne D."/>
+</authorList>
+<dbReference type="PubMed" id="21823654"/>
+<dbReference type="DOI" id="10.1021/bi2010784"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="27792" last="27803">
+<title>Structural basis of outer membrane protein biogenesis in bacteria.</title>
+<authorList>
+<person name="Albrecht R."/>
+<person name="Zeth K."/>
+</authorList>
+<dbReference type="PubMed" id="21586578"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.238931"/>
+</citation>
+<scope>INTERACTION WITH BAMB AND BAMD</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2013" name="PLoS ONE" volume="8" first="E57609" last="E57609">
+<title>Delivery of CdiA nuclease toxins into target cells during contact-dependent growth inhibition.</title>
+<authorList>
+<person name="Webb J.S."/>
+<person name="Nikolakakis K.C."/>
+<person name="Willett J.L."/>
+<person name="Aoki S.K."/>
+<person name="Hayes C.S."/>
+<person name="Low D.A."/>
+</authorList>
+<dbReference type="PubMed" id="23469034"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0057609"/>
+</citation>
+<scope>FUNCTION IN CDI (MICROBIAL INFECTION)</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2013" name="MBio" volume="4" first="E00480" last="E00480">
+<title>Receptor polymorphism restricts contact-dependent growth inhibition to members of the same species.</title>
+<authorList>
+<person name="Ruhe Z.C."/>
+<person name="Wallace A.B."/>
+<person name="Low D.A."/>
+<person name="Hayes C.S."/>
+</authorList>
+<dbReference type="PubMed" id="23882017"/>
+<dbReference type="DOI" id="10.1128/mBio.00480-13"/>
+</citation>
+<scope>FUNCTION IN CDI (MICROBIAL INFECTION)</scope>
+<scope>STRAIN SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+<scope>MUTAGENESIS OF 554-GLU--ASP-562; 556-PRO--SER-564; 675-PHE--SER-702; 677-HIS--ASP-685 AND 754-TYR-SER-755</scope>
+</reference>
+<reference key="21" evidence="1 2">
+<citation type="journal article" date="2007" name="Science" volume="317" first="961" last="964">
+<title>Structure and function of an essential component of the outer membrane protein assembly machine.</title>
+<authorList>
+<person name="Kim S."/>
+<person name="Malinverni J.C."/>
+<person name="Sliz P."/>
+<person name="Silhavy T.J."/>
+<person name="Harrison S.C."/>
+<person name="Kahne D."/>
+</authorList>
+<dbReference type="PubMed" id="17702946"/>
+<dbReference type="DOI" id="10.1126/science.1143993"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 21-351</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="22" evidence="3">
+<citation type="journal article" date="2008" name="Mol. Microbiol." volume="68" first="1216" last="1227">
+<title>Fold and function of polypeptide transport-associated domains responsible for delivering unfolded proteins to membranes.</title>
+<authorList>
+<person name="Knowles T.J."/>
+<person name="Jeeves M."/>
+<person name="Bobat S."/>
+<person name="Dancea F."/>
+<person name="McClelland D."/>
+<person name="Palmer T."/>
+<person name="Overduin M."/>
+<person name="Henderson I.R."/>
+</authorList>
+<dbReference type="PubMed" id="18430136"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06225.x"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 21-184</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="23" evidence="4">
+<citation type="journal article" date="2008" name="Structure" volume="16" first="1873" last="1881">
+<title>Crystal structure of YaeT: conformational flexibility and substrate recognition.</title>
+<authorList>
+<person name="Gatzeva-Topalova P.Z."/>
+<person name="Walton T.A."/>
+<person name="Sousa M.C."/>
+</authorList>
+<dbReference type="PubMed" id="19081063"/>
+<dbReference type="DOI" id="10.1016/j.str.2008.09.014"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.30 ANGSTROMS) OF 21-410</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="24" evidence="5">
+<citation type="journal article" date="2011" name="Acta Crystallogr. F" volume="67" first="734" last="738">
+<title>High-resolution structure of a new crystal form of BamA POTRA4-5 from Escherichia coli.</title>
+<authorList>
+<person name="Zhang H."/>
+<person name="Gao Z.Q."/>
+<person name="Hou H.F."/>
+<person name="Xu J.H."/>
+<person name="Li L.F."/>
+<person name="Su X.D."/>
+<person name="Dong Y.H."/>
+</authorList>
+<dbReference type="PubMed" id="21795783"/>
+<dbReference type="DOI" id="10.1107/S1744309111014254"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 266-420</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="25" evidence="6">
+<citation type="journal article" date="2014" name="Acta Crystallogr. D" volume="70" first="1779" last="1789">
+<title>Structure of BamA, an essential factor in outer membrane protein biogenesis.</title>
+<authorList>
+<person name="Albrecht R."/>
+<person name="Schutz M."/>
+<person name="Oberhettinger P."/>
+<person name="Faulstich M."/>
+<person name="Bermejo I."/>
+<person name="Rudel T."/>
+<person name="Diederichs K."/>
+<person name="Zeth K."/>
+</authorList>
+<dbReference type="PubMed" id="24914988"/>
+<dbReference type="DOI" id="10.1107/S1399004714007482"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 347-810 AND 344-810</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>TOPOLOGY</scope>
+<source>
+<strain>BL21 (DE3)</strain>
+</source>
+</reference>
+<reference key="26" evidence="7">
+<citation type="journal article" date="2014" name="FASEB J." volume="28" first="2677" last="2685">
+<title>Structural and functional analysis of the beta-barrel domain of BamA from Escherichia coli.</title>
+<authorList>
+<person name="Ni D."/>
+<person name="Wang Y."/>
+<person name="Yang X."/>
+<person name="Zhou H."/>
+<person name="Hou X."/>
+<person name="Cao B."/>
+<person name="Lu Z."/>
+<person name="Zhao X."/>
+<person name="Yang K."/>
+<person name="Huang Y."/>
+</authorList>
+<dbReference type="PubMed" id="24619089"/>
+<dbReference type="DOI" id="10.1096/fj.13-248450"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 427-810</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>TOPOLOGY</scope>
+<scope>MUTAGENESIS OF GLU-435; ASP-464; ASP-500; ARG-547; ARG-661; 673-VAL--SER-702; ASP-740 AND GLU-800</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="27" evidence="13">
+<citation type="journal article" date="2016" name="Nat. Commun." volume="7" first="12865" last="12865">
+<title>Lateral opening in the intact beta-barrel assembly machinery captured by cryo-EM.</title>
+<authorList>
+<person name="Iadanza M.G."/>
+<person name="Higgins A.J."/>
+<person name="Schiffrin B."/>
+<person name="Calabrese A.N."/>
+<person name="Brockwell D.J."/>
+<person name="Ashcroft A.E."/>
+<person name="Radford S.E."/>
+<person name="Ranson N.A."/>
+</authorList>
+<dbReference type="PubMed" id="27686148"/>
+<dbReference type="DOI" id="10.1038/ncomms12865"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (4.90 ANGSTROMS) OF 24-806 IN LATERAL OPEN BAM COMPLEX</scope>
+<scope>FUNCTION</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>SUBUNIT</scope>
+<scope>MASS SPECTROMETRY</scope>
+<scope>MUTAGENESIS OF ILE-430 AND LYS-808</scope>
+</reference>
+<reference key="28" evidence="9">
+<citation type="journal article" date="2016" name="Nat. Struct. Mol. Biol." volume="23" first="192" last="196">
+<title>Structure of the BAM complex and its implications for biogenesis of outer-membrane proteins.</title>
+<authorList>
+<person name="Han L."/>
+<person name="Zheng J."/>
+<person name="Wang Y."/>
+<person name="Yang X."/>
+<person name="Liu Y."/>
+<person name="Sun C."/>
+<person name="Cao B."/>
+<person name="Zhou H."/>
+<person name="Ni D."/>
+<person name="Lou J."/>
+<person name="Zhao Y."/>
+<person name="Huang Y."/>
+</authorList>
+<dbReference type="PubMed" id="26900875"/>
+<dbReference type="DOI" id="10.1038/nsmb.3181"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.56 ANGSTROMS) OF 22-810 IN LATERAL CLOSED BAM COMPLEX</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ASN-181; LYS-251; ASN-259 AND GLY-429</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="29" evidence="10 11">
+<citation type="journal article" date="2016" name="Nature" volume="531" first="64" last="69">
+<title>Structural basis of outer membrane protein insertion by the BAM complex.</title>
+<authorList>
+<person name="Gu Y."/>
+<person name="Li H."/>
+<person name="Dong H."/>
+<person name="Zeng Y."/>
+<person name="Zhang Z."/>
+<person name="Paterson N.G."/>
+<person name="Stansfeld P.J."/>
+<person name="Wang Z."/>
+<person name="Zhang Y."/>
+<person name="Wang W."/>
+<person name="Dong C."/>
+</authorList>
+<dbReference type="PubMed" id="26901871"/>
+<dbReference type="DOI" id="10.1038/nature17199"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) IN LATERAL CLOSED BAM COMPLEX AND LATERAL OPEN BAMACDE SUBCOMPLEX</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF 351-LYS--LYS-353; LYS-351; ARG-366; GLU-373; GLY-393; 415-VAL--LYS-419; 415-VAL--LYS-417; 417-LYS--LYS-419; GLU-435; GLY-584 AND SER-658</scope>
+</reference>
+<reference key="30" evidence="12">
+<citation type="journal article" date="2016" name="Science" volume="351" first="180" last="186">
+<title>The structure of the beta-barrel assembly machinery complex.</title>
+<authorList>
+<person name="Bakelar J."/>
+<person name="Buchanan S.K."/>
+<person name="Noinaj N."/>
+</authorList>
+<dbReference type="PubMed" id="26744406"/>
+<dbReference type="DOI" id="10.1126/science.aad3460"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.39 ANGSTROMS) OF 21-810 OF LATERAL OPEN BAMACDE SUBCOMPLEX</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="17 19 20 26 29 34 35 36 37">Part of the outer membrane protein assembly complex (Bam), which is involved in assembly and insertion of beta-barrel proteins into the outer membrane. Constitutes, with BamD, the core component of the assembly machinery. Efficient substrate folding and insertion into the outer membrane requires all 5 subunits (PubMed:20378773, PubMed:21823654, PubMed:27686148). A lateral gate may open between the first and last strands of the BamA beta-barrel that allows substrate to insert into the outer membrane; comparison of the structures of complete and nearly complete Bam complexes show there is considerable movement of all 5 proteins (PubMed:27686148, PubMed:26900875, PubMed:26901871, PubMed:26744406).</text>
+</comment>
+<comment type="function">
+<text evidence="24 30 31">(Microbial infection) Acts as a receptor for CdiA-EC93, the contact-dependent growth inhibition (CDI) effector of E.coli strain EC93; antibodies against extracellular epitopes decrease CDI. Its role in CDI is independent of the other Bam complex components (PubMed:18761695). Is not the receptor for CdiA from E.coli strain 536 / UPEC, which does not have the same mode of toxicity as CdiA from strain EC93; the decreased expression of bamA101 in some experiments decreases the level of outer membrane proteins in general (PubMed:23469034, PubMed:23882017). Susceptibility to CdiA-EC93 is dependent on E.coli BamA; replacing BamA with the gene from S.typhimurium LT2, E.cloacae ATCC 13047 or D.dadantii 3937 renders cells resistant to CdiA-EC93. Cells with BamA from another bacteria no longer form CdiA-EC93-induced aggregates with EC93 cells. A chimera in which E.cloacae extracellular loops 6 and 7 are replaced with loops 6 and 7 from E.coli is susceptible to CdiA-EC93 and to CdiA-CT from strain 536 / UPEC (PubMed:23882017).</text>
+</comment>
+<comment type="subunit">
+<text evidence="16 18 20 21 26 27 29 35 36 37">Part of the Bam complex, which is composed of the outer membrane protein BamA, and four lipoproteins BamB, BamC, BamD and BamE. BamA interacts directly with BamB and the BamCDE subcomplex. The Bam complex has the shape of a hat, with the BamA beta-barrel crown in the outer membrane and the periplasmic brim formed by the BamA POTRA domains and the 4 lipoproteins (PubMed:27686148, PubMed:26900875, PubMed:26901871, PubMed:26744406).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-907371"/>
+<interactant intactId="EBI-907297">
+<id>P77774</id>
+<label>bamB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>23</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-907371"/>
+<interactant intactId="EBI-1128087">
+<id>P0AC02</id>
+<label>bamD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>26</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-907371"/>
+<interactant intactId="EBI-1114706">
+<id>P69411</id>
+<label>rcsF</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="14 18 31 32 33 36 38">Cell outer membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="22 23 25 28 32 33 40">Contains 5 N-terminal periplasmic polypeptide transport-associated (POTRA) domains which interact with other subunits of the complex, may recruit substrates from the periplasm into the outer membrane and also act as a chaperone (PubMed:17702946, PubMed:18430136, PubMed:19081063, PubMed:21795783, PubMed:14559180). The C-terminal region forms a discontinuous 16-stranded beta-barrel transmembrane region. The central pore is ellipsoid, and probably closed by extracellular loop 6, perhaps with the aid of other loops (PubMed:24914988, PubMed:24619089).</text>
+</comment>
+<comment type="mass spectrometry" mass="88426" method="Electrospray" evidence="37">
+<location>
+<begin position="21"/>
+<end position="810"/>
+</location>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="16 19 24 30">Deletion is lethal. Depletion results in the accumulation of incorrectly assembled outer membrane proteins, including TolC, OmpF, OmpC and OmpA (PubMed:15851030, PubMed:16102012). Decreased expression leads to decreased susceptibility to contact-dependent growth inhibition (CDI), and decreased expression of outer membrane proteins (including in this study LamB) as well as up-regulation of periplasmic protease DegP (PubMed:18761695, PubMed:23469034).</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the BamA family.</text>
+</comment>
+<dbReference type="EMBL" id="AF407013">
+<property type="protein sequence ID" value="AAL01379.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY035865">
+<property type="protein sequence ID" value="AAK64508.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08606.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73288.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77852.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64742">
+<property type="entry name" value="A64742"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414719.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001240896.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2QCZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=21-351"/>
+</dbReference>
+<dbReference type="PDB" id="2QDF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=21-351"/>
+</dbReference>
+<dbReference type="PDB" id="2V9H">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=21-184"/>
+</dbReference>
+<dbReference type="PDB" id="3EFC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A=21-410"/>
+</dbReference>
+<dbReference type="PDB" id="3OG5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.69"/>
+<property type="chains" value="A/B=264-424"/>
+</dbReference>
+<dbReference type="PDB" id="3Q6B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=266-420"/>
+</dbReference>
+<dbReference type="PDB" id="4C4V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=347-810, B=344-810"/>
+</dbReference>
+<dbReference type="PDB" id="4N75">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=427-810"/>
+</dbReference>
+<dbReference type="PDB" id="4PK1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=175-424"/>
+</dbReference>
+<dbReference type="PDB" id="4XGA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="B=175-420"/>
+</dbReference>
+<dbReference type="PDB" id="5AYW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.56"/>
+<property type="chains" value="A=22-810"/>
+</dbReference>
+<dbReference type="PDB" id="5D0O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=1-810"/>
+</dbReference>
+<dbReference type="PDB" id="5D0Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/F=1-810"/>
+</dbReference>
+<dbReference type="PDB" id="5EKQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.39"/>
+<property type="chains" value="A=21-810"/>
+</dbReference>
+<dbReference type="PDB" id="5LJO">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.90"/>
+<property type="chains" value="A=24-806"/>
+</dbReference>
+<dbReference type="PDBsum" id="2QCZ"/>
+<dbReference type="PDBsum" id="2QDF"/>
+<dbReference type="PDBsum" id="2V9H"/>
+<dbReference type="PDBsum" id="3EFC"/>
+<dbReference type="PDBsum" id="3OG5"/>
+<dbReference type="PDBsum" id="3Q6B"/>
+<dbReference type="PDBsum" id="4C4V"/>
+<dbReference type="PDBsum" id="4N75"/>
+<dbReference type="PDBsum" id="4PK1"/>
+<dbReference type="PDBsum" id="4XGA"/>
+<dbReference type="PDBsum" id="5AYW"/>
+<dbReference type="PDBsum" id="5D0O"/>
+<dbReference type="PDBsum" id="5D0Q"/>
+<dbReference type="PDBsum" id="5EKQ"/>
+<dbReference type="PDBsum" id="5LJO"/>
+<dbReference type="SMR" id="P0A940"/>
+<dbReference type="BioGrid" id="4259504">
+<property type="interactions" value="747"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1923">
+<property type="entry name" value="Bam complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36019N"/>
+<dbReference type="IntAct" id="P0A940">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0177"/>
+<dbReference type="CarbonylDB" id="P0A940"/>
+<dbReference type="SWISS-2DPAGE" id="P0A940"/>
+<dbReference type="EPD" id="P0A940"/>
+<dbReference type="jPOST" id="P0A940"/>
+<dbReference type="PaxDb" id="P0A940"/>
+<dbReference type="PRIDE" id="P0A940"/>
+<dbReference type="EnsemblBacteria" id="AAC73288">
+<property type="protein sequence ID" value="AAC73288"/>
+<property type="gene ID" value="b0177"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA77852">
+<property type="protein sequence ID" value="BAA77852"/>
+<property type="gene ID" value="BAA77852"/>
+</dbReference>
+<dbReference type="GeneID" id="944870"/>
+<dbReference type="KEGG" id="ecj:JW0172"/>
+<dbReference type="KEGG" id="eco:b0177"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2102"/>
+<dbReference type="EchoBASE" id="EB2541"/>
+<dbReference type="EcoGene" id="EG12676">
+<property type="gene designation" value="bamA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E1Z">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4775">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="P0A940"/>
+<dbReference type="KO" id="K07277"/>
+<dbReference type="PhylomeDB" id="P0A940"/>
+<dbReference type="BioCyc" id="EcoCyc:G6093-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0172-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A940"/>
+<dbReference type="PRO" id="PR:P0A940"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990063">
+<property type="term" value="C:Bam protein complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009279">
+<property type="term" value="C:cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043165">
+<property type="term" value="P:Gram-negative-bacterium-type cell outer membrane assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051205">
+<property type="term" value="P:protein insertion into membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01430">
+<property type="entry name" value="OM_assembly_BamA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000184">
+<property type="entry name" value="Bac_surfAg_D15"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010827">
+<property type="entry name" value="BamA/TamA_POTRA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039910">
+<property type="entry name" value="D15-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023707">
+<property type="entry name" value="OM_assembly_BamA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034746">
+<property type="entry name" value="POTRA"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12815">
+<property type="entry name" value="PTHR12815"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12815:SF23">
+<property type="entry name" value="PTHR12815:SF23"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01103">
+<property type="entry name" value="Bac_surface_Ag"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07244">
+<property type="entry name" value="POTRA"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006076">
+<property type="entry name" value="OM_assembly_OMP85"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03303">
+<property type="entry name" value="OM_YaeT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51779">
+<property type="entry name" value="POTRA"/>
+<property type="match status" value="5"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0130">Cell adhesion</keyword>
+<keyword id="KW-0998">Cell outer membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1134">Transmembrane beta strand</keyword>
+<feature type="signal peptide" evidence="14 38">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Outer membrane protein assembly factor BamA" id="PRO_0000033470">
+<location>
+<begin position="21"/>
+<end position="810"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="21"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 1" evidence="33">
+<location>
+<begin position="425"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 1" evidence="39">
+<location>
+<begin position="434"/>
+<end position="435"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 2" evidence="33">
+<location>
+<begin position="436"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="447"/>
+<end position="454"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 3" evidence="33">
+<location>
+<begin position="455"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 2" evidence="39">
+<location>
+<begin position="463"/>
+<end position="465"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 4" evidence="33">
+<location>
+<begin position="466"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="476"/>
+<end position="483"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 5" evidence="33">
+<location>
+<begin position="484"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 3" evidence="39">
+<location>
+<begin position="496"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 6" evidence="33">
+<location>
+<begin position="505"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="507"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 7" evidence="33">
+<location>
+<begin position="523"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 4" evidence="31 33">
+<location>
+<begin position="536"/>
+<end position="563"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 8" evidence="33">
+<location>
+<begin position="564"/>
+<end position="577"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="578"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 9" evidence="33">
+<location>
+<begin position="591"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 5" evidence="39">
+<location>
+<begin position="601"/>
+<end position="608"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 10" evidence="33">
+<location>
+<begin position="609"/>
+<end position="619"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="620"/>
+<end position="628"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 11" evidence="33">
+<location>
+<begin position="629"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 6" evidence="31 33">
+<location>
+<begin position="640"/>
+<end position="708"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 12" evidence="33">
+<location>
+<begin position="709"/>
+<end position="718"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<begin position="719"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 13" evidence="33">
+<location>
+<begin position="733"/>
+<end position="745"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 7" evidence="39">
+<location>
+<begin position="746"/>
+<end position="767"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 14" evidence="33">
+<location>
+<begin position="768"/>
+<end position="777"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="39">
+<location>
+<position position="778"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 15" evidence="33">
+<location>
+<begin position="779"/>
+<end position="789"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular; loop 8" evidence="39">
+<location>
+<begin position="790"/>
+<end position="803"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded; Name=Strand 16" evidence="33">
+<location>
+<begin position="804"/>
+<end position="808"/>
+</location>
+</feature>
+<feature type="domain" description="POTRA 1" evidence="15 40">
+<location>
+<begin position="24"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="domain" description="POTRA 2" evidence="15 40">
+<location>
+<begin position="92"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="domain" description="POTRA 3" evidence="15 40">
+<location>
+<begin position="175"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="domain" description="POTRA 4" evidence="15 40">
+<location>
+<begin position="266"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="domain" description="POTRA 5" evidence="15 40">
+<location>
+<begin position="347"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, protein does not accumulate." evidence="35">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, protein does not accumulate." evidence="35">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, protein does not accumulate." evidence="35">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="259"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="36">
+<original>KIR</original>
+<variation>PIP</variation>
+<location>
+<begin position="351"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces cell growth, wild-type protein levels." evidence="36">
+<original>K</original>
+<variation>P</variation>
+<location>
+<position position="351"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely impairs cell growth, wild-type protein levels." evidence="36">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="35 36">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect. Lethal; when associated with C-584, probably locks protein in a single conformation that prevents movement, growth restored by strong reducing agent." evidence="36">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="393"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="36">
+<original>VYKVK</original>
+<variation>PYKVP</variation>
+<location>
+<begin position="415"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="36">
+<original>VYK</original>
+<variation>PYP</variation>
+<location>
+<begin position="415"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="36">
+<original>KVK</original>
+<variation>PVP</variation>
+<location>
+<begin position="417"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal, wild-type protein levels." evidence="35">
+<original>G</original>
+<variation>P</variation>
+<location>
+<position position="429"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced folding of OmpT; when associated with C-808, traps protein in lateral closed conformation, growth restored by reducing agent." evidence="37">
+<original>I</original>
+<variation>C</variation>
+<location>
+<position position="430"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect. Lethal; when associated with C-658 or C-665, probably locks protein in a single conformation that prevents movement, growth restored by strong reducing agent." evidence="36">
+<original>E</original>
+<variation>C</variation>
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Very minor growth defect. Lethal; when associated with L-800." evidence="32">
+<original>E</original>
+<variation>L</variation>
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Very minor growth defect." evidence="32">
+<original>D</original>
+<variation>L</variation>
+<location>
+<position position="464"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Very minor growth defect." evidence="32">
+<original>D</original>
+<variation>L</variation>
+<location>
+<position position="500"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal." evidence="32">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="547"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loop 4 to HA epitope; still susceptible to CdiA-EC93." evidence="31">
+<original>EHPSTSDQD</original>
+<variation>VDYPYDVPDYA</variation>
+<location>
+<begin position="554"/>
+<end position="562"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Delta loop 4; slight increase in resistance to CdiA-EC93, forms aggregates with CdiA-EC93 cells." evidence="31">
+<original>PSTSDQDN</original>
+<variation>G</variation>
+<location>
+<begin position="556"/>
+<end position="563"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect. Lethal; when associated with C-393, probably locks protein in a single conformation that prevents movement, growth restored by strong reducing agent." evidence="36">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="584"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect. Lethal; when associated with C-435, probably locks protein in a single conformation that prevents movement, growth restored by strong reducing agent." evidence="36">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="658"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slow growth on solid and liquid media, less protein accumulates which is more proteinase sensitive." evidence="32">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="661"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect. Lethal; when associated with C-435, probably locks protein in a single conformation that prevents movement, growth restored by strong reducing agent." evidence="36">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="665"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lethal." evidence="32">
+<location>
+<begin position="673"/>
+<end position="702"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Delta loop 6; fully resistant to CdiA-EC93, does not form aggregates with CdiA-EC93 cells." evidence="31">
+<original>FPHQASNYDPDYDYECATQDGAKDLCK</original>
+<variation>G</variation>
+<location>
+<begin position="675"/>
+<end position="701"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loop 6 to HA epitope; still susceptible to CdiA-EC93." evidence="31">
+<original>HQASNYDPD</original>
+<variation>VDYPYDVPDYA</variation>
+<location>
+<begin position="677"/>
+<end position="685"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slow growth on solid and liquid media, less protein accumulates which is more proteinase sensitive." evidence="32">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="740"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loop 7 to HA epitope; fully resistant to CdiA-EC93, does not form aggregates with CdiA-EC93 cells." evidence="31">
+<original>YS</original>
+<variation>VDYPYDVPDYA</variation>
+<location>
+<begin position="754"/>
+<end position="755"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Very minor growth defect. Lethal; when associated with L-435." evidence="32">
+<original>E</original>
+<variation>L</variation>
+<location>
+<position position="800"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced folding of OmpT; when associated with C-430, traps protein in lateral closed conformation, growth restored by reducing agent." evidence="37">
+<original>K</original>
+<variation>C</variation>
+<location>
+<position position="808"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK64508." ref="2" evidence="39">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK64508." ref="2" evidence="39">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK64508." ref="2" evidence="39">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="361"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK64508." ref="2" evidence="39">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="632"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK64508." ref="2" evidence="39">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="712"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="28"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="39"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="56"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="72"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="83"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="93"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="103"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="107"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="121"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="127"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="130"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="141"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="146"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="150"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="159"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="162"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="176"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="186"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="190"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="195"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="210"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="216"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="turn" evidence="8">
+<location>
+<begin position="232"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="239"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="251"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="267"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="278"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="281"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="298"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="314"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="317"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="321"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="330"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="334"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="348"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="358"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="362"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="373"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="379"/>
+<end position="392"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="396"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="408"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="427"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="434"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="437"/>
+<end position="453"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="455"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="464"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="479"/>
+<end position="482"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="484"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="496"/>
+<end position="499"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="501"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="505"/>
+<end position="520"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="523"/>
+<end position="537"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="543"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="558"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="564"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="584"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="589"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="604"/>
+<end position="606"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="608"/>
+<end position="620"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="622"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="627"/>
+<end position="643"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="648"/>
+<end position="650"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="656"/>
+<end position="660"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="671"/>
+<end position="674"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="685"/>
+<end position="687"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="689"/>
+<end position="691"/>
+</location>
+</feature>
+<feature type="helix" evidence="10">
+<location>
+<begin position="692"/>
+<end position="694"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="700"/>
+<end position="705"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="708"/>
+<end position="720"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="723"/>
+<end position="725"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="727"/>
+<end position="731"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="733"/>
+<end position="745"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="751"/>
+<end position="756"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="767"/>
+<end position="778"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="781"/>
+<end position="792"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="802"/>
+<end position="809"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2QCZ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2QDF"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2V9H"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3EFC"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3Q6B"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4C4V"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4N75"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4XGA"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5AYW"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5D0O"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5D0Q"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5EKQ"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5LJO"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01430"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01115"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15851030"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15951436"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16079137"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16102012"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16824102"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17404237"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17702946"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18430136"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18761695"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19081063"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20378773"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21586578"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21795783"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21823654"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23469034"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23882017"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24619089"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24914988"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26744406"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26900875"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26901871"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27686148"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000305"/>
+<evidence key="40" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="14559180"/>
+</source>
+</evidence>
+<sequence length="810" mass="90553" checksum="DDCE4C6D341664EB" modified="2005-07-19" version="1" precursor="true">
+MAMKKLLIASLLFSSATVYGAEGFVVKDIHFEGLQRVAVGAALLSMPVRTGDTVNDEDIS
+NTIRALFATGNFEDVRVLRDGDTLLVQVKERPTIASITFSGNKSVKDDMLKQNLEASGVR
+VGESLDRTTIADIEKGLEDFYYSVGKYSASVKAVVTPLPRNRVDLKLVFQEGVSAEIQQI
+NIVGNHAFTTDELISHFQLRDEVPWWNVVGDRKYQKQKLAGDLETLRSYYLDRGYARFNI
+DSTQVSLTPDKKGIYVTVNITEGDQYKLSGVEVSGNLAGHSAEIEQLTKIEPGELYNGTK
+VTKMEDDIKKLLGRYGYAYPRVQSMPEINDADKTVKLRVNVDAGNRFYVRKIRFEGNDTS
+KDAVLRREMRQMEGAWLGSDLVDQGKERLNRLGFFETVDTDTQRVPGSPDQVDVVYKVKE
+RNTGSFNFGIGYGTESGVSFQAGVQQDNWLGTGYAVGINGTKNDYQTYAELSVTNPYFTV
+DGVSLGGRLFYNDFQADDADLSDYTNKSYGTDVTLGFPINEYNSLRAGLGYVHNSLSNMQ
+PQVAMWRYLYSMGEHPSTSDQDNSFKTDDFTFNYGWTYNKLDRGYFPTDGSRVNLTGKVT
+IPGSDNEYYKVTLDTATYVPIDDDHKWVVLGRTRWGYGDGLGGKEMPFYENFYAGGSSTV
+RGFQSNTIGPKAVYFPHQASNYDPDYDYECATQDGAKDLCKSDDAVGGNAMAVASLEFIT
+PTPFISDKYANSVRTSFFWDMGTVWDTNWDSSQYSGYPDYSDPSNIRMSAGIALQWMSPL
+GPLVFSYAQPFKKYDGDKAEQFQFNIGKTW
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

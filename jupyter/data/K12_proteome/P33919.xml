@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-05-08" version="132">
+<accession>P33919</accession>
+<accession>P36926</accession>
+<accession>P36927</accession>
+<accession>P76449</accession>
+<accession>Q2MAQ7</accession>
+<name>RADD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative DNA repair helicase RadD</fullName>
+<ecNumber>3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="6">radD</name>
+<name type="synonym">yejH</name>
+<name type="synonym">yejI</name>
+<name type="synonym">yejJ</name>
+<name type="ordered locus">b2184</name>
+<name type="ordered locus">JW2172</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] OF 1-403</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2014" name="J. Bacteriol." volume="196" first="3534" last="3545">
+<title>Escherichia coli genes and pathways involved in surviving extreme exposure to ionizing radiation.</title>
+<authorList>
+<person name="Byrne R.T."/>
+<person name="Chen S.H."/>
+<person name="Wood E.A."/>
+<person name="Cabot E.L."/>
+<person name="Cox M.M."/>
+</authorList>
+<dbReference type="PubMed" id="25049088"/>
+<dbReference type="DOI" id="10.1128/JB.01589-14"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / e14</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="754" last="768">
+<title>Escherichia coli radD (yejH) gene: a novel function involved in radiation resistance and double-strand break repair.</title>
+<authorList>
+<person name="Chen S.H."/>
+<person name="Byrne R.T."/>
+<person name="Wood E.A."/>
+<person name="Cox M.M."/>
+</authorList>
+<dbReference type="PubMed" id="25425430"/>
+<dbReference type="DOI" id="10.1111/mmi.12885"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF LYS-37; CYS-437 AND 356-TYR--GLY-586</scope>
+<source>
+<strain>K12 / MG1655 / e14</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="769" last="779">
+<title>Genetic analysis of Escherichia coli RadA: functional motifs and genetic interactions.</title>
+<authorList>
+<person name="Cooper D.L."/>
+<person name="Boyle D.C."/>
+<person name="Lovett S.T."/>
+</authorList>
+<dbReference type="PubMed" id="25484163"/>
+<dbReference type="DOI" id="10.1111/mmi.12899"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4 5">May be a helicase. In combination with RadA is important in repair of double-strand DNA breaks (DSB) (PubMed:25425430, PubMed:25484163).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + H2O = ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:13065"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="3.6.4.12"/>
+</reaction>
+</comment>
+<comment type="domain">
+<text evidence="4">The C-terminal domain (residues 356-586) is required to alleviate the deleterious effects of UV or ciprofloxacin (CFX) treatment in a double radA-radD mutant; its effect on ionising irradiation (IR) survival in the single radD mutant were not reported (PubMed:25425430).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 4 5">100- to 10000-fold decrease in survival after IR (PubMed:25049088, PubMed:25425430). Double radA-radD deletions have nearly 10(6)-fold lower survival upon IR, and the double mutant is more severely affected by UV radiation than either of the single mutants alone (up to 100 J/m(2)). The single mutation is more sensitive to dsDNA breaks induced by CFX, the double radA-radD mutant is inviable upon CFX treatment; the SOS response is slightly induced in the single and more induced in the double mutant. No effect on RecA-mediated conjugational DNA recombination (PubMed:25425430). In another study double radA-radD deletions are sensitive to CFX but not to UV (up to 40 J/m(2)) or azidothymidine (AZT) (PubMed:25484163).</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA16381" version="1"/>
+</conflict>
+<location>
+<position position="397"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.6.4.12"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75245.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76649.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00008">
+<property type="protein sequence ID" value="AAA16381.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64987">
+<property type="entry name" value="G64987"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416689.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000578061.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P33919"/>
+<dbReference type="BioGrid" id="4259416">
+<property type="interactions" value="278"/>
+</dbReference>
+<dbReference type="IntAct" id="P33919">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2184"/>
+<dbReference type="PaxDb" id="P33919"/>
+<dbReference type="PRIDE" id="P33919"/>
+<dbReference type="EnsemblBacteria" id="AAC75245">
+<property type="protein sequence ID" value="AAC75245"/>
+<property type="gene ID" value="b2184"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76649">
+<property type="protein sequence ID" value="BAE76649"/>
+<property type="gene ID" value="BAE76649"/>
+</dbReference>
+<dbReference type="GeneID" id="945529"/>
+<dbReference type="KEGG" id="ecj:JW2172"/>
+<dbReference type="KEGG" id="eco:b2184"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.52"/>
+<dbReference type="EchoBASE" id="EB1979"/>
+<dbReference type="EcoGene" id="EG12045">
+<property type="gene designation" value="yejH"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CFI">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1061">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000279255"/>
+<dbReference type="InParanoid" id="P33919"/>
+<dbReference type="KO" id="K19789"/>
+<dbReference type="PhylomeDB" id="P33919"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12045-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2172-MONOMER"/>
+<dbReference type="PRO" id="PR:P33919"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006302">
+<property type="term" value="P:double-strand break repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042493">
+<property type="term" value="P:response to drug"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010212">
+<property type="term" value="P:response to ionizing radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006935">
+<property type="entry name" value="Helicase/UvrB_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011332">
+<property type="entry name" value="Ribosomal_zn-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04851">
+<property type="entry name" value="ResIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57829">
+<property type="entry name" value="SSF57829"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative DNA repair helicase RadD" id="PRO_0000169164">
+<location>
+<begin position="1"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="18"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="2">
+<location>
+<begin position="241"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partially complements a radD deletion mutant for survival of ionizing radiation (possible loss of ATPase activity), increases sensitivity to UV of a double radA-radD deletion. Has a dominant negative effect on survival of UV in the presence of wild-type enzyme or ciprofloxacin survival." evidence="4">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not complement sensitivity of a double radA-radD deletion to dsDNA breaks." evidence="4">
+<location>
+<begin position="356"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not complement sensitivity of a double radA-radD deletion to dsDNA breaks." evidence="4">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="437"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25049088"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25425430"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25484163"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="25425430"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="586" mass="66413" checksum="2D173250F83333DF" modified="1997-11-01" version="2">
+MIFTLRPYQQEAVDATLNHFRRHKTPAVIVLPTGAGKSLVIAELARLARGRVLVLAHVKE
+LVAQNHAKYQALGLEADIFAAGLKRKESHGKVVFGSVQSVARNLDAFQGEFSLLIVDECH
+RIGDDEESQYQQILTHLTKVNPHLRLLGLTATPFRLGKGWIYQFHYHGMVRGDEKALFRD
+CIYELPLRYMIKHGYLTPPERLDMPVVQYDFSRLQAQSNGLFSEADLNRELKKQQRITPH
+IISQIMEFAATRKGVMIFAATVEHAKEIVGLLPAEDAALITGDTPGAERDVLIENFKAQR
+FRYLVNVAVLTTGFDAPHVDLIAILRPTESVSLYQQIVGRGLRLAPGKTDCLILDYAGNP
+HDLYAPEVGTPKGKSDNVPVQVFCPACGFANTFWGKTTADGTLIEHFGRRCQGWFEDDDG
+HREQCDFRFRFKNCPQCNAENDIAARRCRECDTVLVDPDDMLKAALRLKDALVLRCSGMS
+LQHGHDEKGEWLKITYYDEDGADVSERFRLQTPAQRTAFEQLFIRPHTRTPGIPLRWITA
+ADILAQQALLRHPDFVVARMKGQYWQVREKVFDYEGRFRLAHELRG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

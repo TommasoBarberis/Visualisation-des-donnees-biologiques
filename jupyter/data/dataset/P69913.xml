@@ -1,0 +1,1022 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-01-04" modified="2019-07-03" version="112">
+<accession>P69913</accession>
+<accession>P31803</accession>
+<name>CSRA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="27">Carbon storage regulator</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="3">Translational dual regulator CsrA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3 25">csrA</name>
+<name type="synonym" evidence="26">zfiA</name>
+<name type="ordered locus">b2696</name>
+<name type="ordered locus">JW2666</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="4744" last="4755">
+<title>Identification and molecular characterization of csrA, a pleiotropic gene from Escherichia coli that affects glycogen biosynthesis, gluconeogenesis, cell size, and surface properties.</title>
+<authorList>
+<person name="Romeo T."/>
+<person name="Gong M."/>
+<person name="Liu M.-Y."/>
+<person name="Brun-Zinkernagel A.-M."/>
+</authorList>
+<dbReference type="PubMed" id="8393005"/>
+<dbReference type="DOI" id="10.1128/jb.175.15.4744-4755.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW3414</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="J. Mol. Biol." volume="256" first="483" last="502">
+<title>Evidence for involvement of Escherichia coli genes pmbA, csrA and a previously unrecognized gene tldD, in the control of DNA gyrase by letD (ccdB) of sex factor F.</title>
+<authorList>
+<person name="Murayama N."/>
+<person name="Shimizu H."/>
+<person name="Takiguchi S."/>
+<person name="Baba Y."/>
+<person name="Amino H."/>
+<person name="Horiuchi T."/>
+<person name="Sekimizu K."/>
+<person name="Miki T."/>
+</authorList>
+<dbReference type="PubMed" id="8604133"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0103"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>KP4714</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="J. Bacteriol." volume="177" first="2663" last="2672">
+<title>The product of the pleiotropic Escherichia coli gene csrA modulates glycogen biosynthesis via effects on mRNA stability.</title>
+<authorList>
+<person name="Liu M.Y."/>
+<person name="Yang H."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="7751274"/>
+<dbReference type="DOI" id="10.1128/jb.177.10.2663-2672.1995"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW3414</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="29096" last="29104">
+<title>Pleiotropic regulation of central carbohydrate metabolism in Escherichia coli via the gene csrA.</title>
+<authorList>
+<person name="Sabnis N.A."/>
+<person name="Yang H."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="7493933"/>
+<dbReference type="DOI" id="10.1074/jbc.270.49.29096"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW3414</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="17502" last="17510">
+<title>The RNA molecule CsrB binds to the global regulatory protein CsrA and antagonizes its activity in Escherichia coli.</title>
+<authorList>
+<person name="Liu M.Y."/>
+<person name="Gui G."/>
+<person name="Wei B."/>
+<person name="Preston J.F. III"/>
+<person name="Oakford L."/>
+<person name="Yuksel U."/>
+<person name="Giedroc D.P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="9211896"/>
+<dbReference type="DOI" id="10.1074/jbc.272.28.17502"/>
+</citation>
+<scope>ANTAGONIZED BY CSRB</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH SRNA CSRB</scope>
+<scope>RNA-BINDING</scope>
+<scope>POSSIBLE CSRA-BINDING SITE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="Mol. Microbiol." volume="40" first="245" last="256">
+<title>Positive regulation of motility and flhDC expression by the RNA-binding protein CsrA of Escherichia coli.</title>
+<authorList>
+<person name="Wei B.L."/>
+<person name="Brun-Zinkernagel A.-M."/>
+<person name="Simecka J.W."/>
+<person name="Pruess B.M."/>
+<person name="Babitzke P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="11298291"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2001.02380.x"/>
+</citation>
+<scope>FUNCTION IN MOTILITY REGULATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="290" last="301">
+<title>Biofilm formation and dispersal under the influence of the global regulator CsrA of Escherichia coli.</title>
+<authorList>
+<person name="Jackson D.W."/>
+<person name="Suzuki K."/>
+<person name="Oakford L."/>
+<person name="Simecka J.W."/>
+<person name="Hart M.E."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="11741870"/>
+<dbReference type="DOI" id="10.1128/JB.184.1.290-301.2002"/>
+</citation>
+<scope>FUNCTION IN BIOFILM REPRESSION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="5130" last="5140">
+<title>Regulatory circuitry of the CsrA/CsrB and BarA/UvrY systems of Escherichia coli.</title>
+<authorList>
+<person name="Suzuki K."/>
+<person name="Wang X."/>
+<person name="Weilbacher T."/>
+<person name="Pernestig A.-K."/>
+<person name="Melefors O."/>
+<person name="Georgellis D."/>
+<person name="Babitzke P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="12193630"/>
+<dbReference type="DOI" id="10.1128/JB.184.18.5130-5140.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="44" first="1599" last="1610">
+<title>CsrA regulates glycogen biosynthesis by preventing translation of glgC in Escherichia coli.</title>
+<authorList>
+<person name="Baker C.S."/>
+<person name="Morozov I."/>
+<person name="Suzuki K."/>
+<person name="Romeo T."/>
+<person name="Babitzke P."/>
+</authorList>
+<dbReference type="PubMed" id="12067347"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2002.02982.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="Mol. Microbiol." volume="48" first="657" last="670">
+<title>A novel sRNA component of the carbon storage regulatory system of Escherichia coli.</title>
+<authorList>
+<person name="Weilbacher T."/>
+<person name="Suzuki K."/>
+<person name="Dubey A.K."/>
+<person name="Wang X."/>
+<person name="Gudapaty S."/>
+<person name="Morozov I."/>
+<person name="Baker C.S."/>
+<person name="Georgellis D."/>
+<person name="Babitzke P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="12694612"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2003.03459.x"/>
+</citation>
+<scope>ANTAGONIZED BY CSRB AND CSRC</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH SRNA CSRC</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="J. Bacteriol." volume="188" first="305" last="316">
+<title>Autoinducer 2 controls biofilm formation in Escherichia coli through a novel motility quorum-sensing regulator (MqsR, B3022).</title>
+<authorList>
+<person name="Gonzalez Barrios A.F."/>
+<person name="Zuo R."/>
+<person name="Hashimoto Y."/>
+<person name="Yang L."/>
+<person name="Bentley W.E."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="16352847"/>
+<dbReference type="DOI" id="10.1128/JB.188.1.305-316.2006"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / ATCC 25404 / DSM 5698 / NCIMB 11290</strain>
+<strain>K12 / DH5-alpha</strain>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="31832" last="31842">
+<title>Comprehensive alanine-scanning mutagenesis of Escherichia coli CsrA defines two subdomains of critical functional importance.</title>
+<authorList>
+<person name="Mercante J."/>
+<person name="Suzuki K."/>
+<person name="Cheng X."/>
+<person name="Babitzke P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="16923806"/>
+<dbReference type="DOI" id="10.1074/jbc.M606057200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LEU-2; ILE-3; LEU-4; ARG-6; ARG-7; THR-19; ASN-35; VAL-40; VAL-42; ARG-44 AND ILE-47</scope>
+<scope>RNA-BINDING</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="2537" last="2545">
+<title>Genetic interaction screens with ordered overexpression and deletion clone sets implicate the Escherichia coli GTPase YjeQ in late ribosome biogenesis.</title>
+<authorList>
+<person name="Campbell T.L."/>
+<person name="Brown E.D."/>
+</authorList>
+<dbReference type="PubMed" id="18223068"/>
+<dbReference type="DOI" id="10.1128/JB.01744-07"/>
+</citation>
+<scope>PARTIALLY SUPPRESSES AN RSGA MUTANT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2008" name="Mol. Microbiol." volume="70" first="236" last="257">
+<title>The RNA binding protein CsrA controls cyclic di-GMP metabolism by directly regulating the expression of GGDEF proteins.</title>
+<authorList>
+<person name="Jonas K."/>
+<person name="Edwards A.N."/>
+<person name="Simm R."/>
+<person name="Romeo T."/>
+<person name="Romling U."/>
+<person name="Melefors O."/>
+</authorList>
+<dbReference type="PubMed" id="18713317"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2008.06411.x"/>
+</citation>
+<scope>RNA-BINDING</scope>
+<scope>FUNCTION IN DIGUANYLATE CYCLASE REGULATION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="1722" last="1724">
+<title>Conditional essentiality of the csrA gene in Escherichia coli.</title>
+<authorList>
+<person name="Timmermans J."/>
+<person name="Van Melderen L."/>
+</authorList>
+<dbReference type="PubMed" id="19103924"/>
+<dbReference type="DOI" id="10.1128/JB.01573-08"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Mol. Microbiol." volume="72" first="1500" last="1516">
+<title>Second messenger signalling governs Escherichia coli biofilm induction upon ribosomal stress.</title>
+<authorList>
+<person name="Boehm A."/>
+<person name="Steiner S."/>
+<person name="Zaehringer F."/>
+<person name="Casanova A."/>
+<person name="Hamburger F."/>
+<person name="Ritz D."/>
+<person name="Keck W."/>
+<person name="Ackermann M."/>
+<person name="Schirmer T."/>
+<person name="Jenal U."/>
+</authorList>
+<dbReference type="PubMed" id="19460094"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2009.06739.x"/>
+</citation>
+<scope>FUNCTION IN BIOFILM FORMATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / AB400</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="80" first="1561" last="1580">
+<title>Circuitry linking the Csr and stringent response global regulatory systems.</title>
+<authorList>
+<person name="Edwards A.N."/>
+<person name="Patterson-Fortin L.M."/>
+<person name="Vakulskas C.A."/>
+<person name="Mercante J.W."/>
+<person name="Potrykus K."/>
+<person name="Vinella D."/>
+<person name="Camacho M.I."/>
+<person name="Fields J.A."/>
+<person name="Thompson S.A."/>
+<person name="Georgellis D."/>
+<person name="Cashel M."/>
+<person name="Babitzke P."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="21488981"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2011.07663.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REGULON</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>RNA-BINDING</scope>
+<source>
+<strain>K12 / CF7789</strain>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="81" first="689" last="704">
+<title>Complex regulation of the global regulatory gene csrA: CsrA-mediated translational repression, transcription from five promoters by Esigma(70) and Esigma(S), and indirect transcriptional activation by CsrA.</title>
+<authorList>
+<person name="Yakhnin H."/>
+<person name="Yakhnin A.V."/>
+<person name="Baker C.S."/>
+<person name="Sineva E."/>
+<person name="Berezin I."/>
+<person name="Romeo T."/>
+<person name="Babitzke P."/>
+</authorList>
+<dbReference type="PubMed" id="21696456"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2011.07723.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / CF7789</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2017" name="MBio" volume="8">
+<title>Translational repression of the RpoS antiadapter IraD by CsrA is mediated via translational coupling to a short upstream open reading frame.</title>
+<authorList>
+<person name="Park H."/>
+<person name="McGibbon L.C."/>
+<person name="Potts A.H."/>
+<person name="Yakhnin H."/>
+<person name="Romeo T."/>
+<person name="Babitzke P."/>
+</authorList>
+<dbReference type="PubMed" id="28851853"/>
+<dbReference type="DOI" id="10.1128/mBio.01355-17"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>RNA-BINDING</scope>
+<source>
+<strain>K12 / CF7789</strain>
+</source>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2017" name="J. Bacteriol.">
+<title>Circuitry linking the global Csr and sigma(E)-dependent cell envelope stress response systems.</title>
+<authorList>
+<person name="Yakhnin H."/>
+<person name="Aichele R."/>
+<person name="Ades S.E."/>
+<person name="Romeo T."/>
+<person name="Babitzke P."/>
+</authorList>
+<dbReference type="PubMed" id="28924029"/>
+<dbReference type="DOI" id="10.1128/JB.00484-17"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>RNA-BINDING</scope>
+<source>
+<strain>K12 / CF7789</strain>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2015" name="Microbiol. Mol. Biol. Rev." volume="79" first="193" last="224">
+<title>Regulation of bacterial virulence by Csr (Rsm) systems.</title>
+<authorList>
+<person name="Vakulskas C.A."/>
+<person name="Potts A.H."/>
+<person name="Babitzke P."/>
+<person name="Ahmer B.M."/>
+<person name="Romeo T."/>
+</authorList>
+<dbReference type="PubMed" id="25833324"/>
+<dbReference type="DOI" id="10.1128/MMBR.00052-14"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="3496" last="3501">
+<title>Solution structure of the carbon storage regulator protein CsrA from Escherichia coli.</title>
+<authorList>
+<person name="Gutierrez P."/>
+<person name="Li Y."/>
+<person name="Osborne M.J."/>
+<person name="Pomerantseva E."/>
+<person name="Liu Q."/>
+<person name="Gehring K."/>
+</authorList>
+<dbReference type="PubMed" id="15866937"/>
+<dbReference type="DOI" id="10.1128/JB.187.10.3496-3501.2005"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>RNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="2 4 5 6 11 13 15 16 17 18 19 20 21 22 23">A key translational regulator that binds mRNA to regulate translation initiation and/or mRNA stability, initially identified for its effects on central carbon metabolism (PubMed:8393005). Mediates global changes in gene expression, shifting from rapid growth to stress survival by linking envelope stress, the stringent response and the catabolite repression systems (PubMed:21488981, PubMed:28924029). Binds to the 5'-UTR of mRNA to repress or activate translation; 2 binding sites on the homodimer can bridge 2 sites within target RNA (By similarity). Exerts reciprocal effects on enzymes of gluconeogenesis and glycogen biosynthesis versus those of glycolysis (PubMed:7493933, PubMed:16923806). Negatively effects glycogen biosynthesis, gluconeogenesis, alters cell size and surface properties (PubMed:8393005, PubMed:7751274, PubMed:7493933). Activates regulates expression of glycolysis genes (PubMed:7493933). Represses biofilm formation (PubMed:11741870). Regulates glycogen synthesis under both aerobic and anaerobic conditions; overexpression strongly inhibits glycogen accumulation (PubMed:8393005). Binds to 4 sites in its own promoter, including the Shine-Dalgarno sequence, repressing its own translation; mutating the binding-sites decreases repression (PubMed:21696456). Indirectly activates transcription from 1 of its 5 promoters, which is responsible for increased expression during stationary phase (PubMed:21696456). Binds to at least 720 transcripts in strain K12 / CF7789, many of which are also part of the stringent response, including relA, spoT and dksA; slightly represses RelA and slightly activates DskA translation (PubMed:21488981). Binds to and represses the ECF sigma factor rpoE promoter (PubMed:28924029). Accelerates the degradation of glgC gene transcripts; overexpression further decreases glgC transcripts (PubMed:7751274). Binds 2 sites in the glgC mRNA leader, 1 of which overlaps the Shine-Dalgarno sequence, preventing ribosome-binding and thus destabilizing the mRNA (PubMed:12067347). Acts to inhibit interaction between the CcdB (also known as LetD) protein and the A subunit of DNA gyrase (PubMed:8604133). Required to activate motility and flagellum biosynthesis through the post-transcriptional activation of flhDC expression by binding to and stabilizing the flhDC message (PubMed:11298291). Represses translation of iraD mRNA via translational coupling to an upstream open reading frame (PubMed:28851853). Binds to mRNA and reduces levels of probable diguanylate cyclases dgcT and dgcZ (PubMed:18713317).</text>
+</comment>
+<comment type="function">
+<text evidence="7 8 24">Binds to and is sequestered by non-coding small RNAs (sRNA) CsrB and CsrC which antagonize the activity of CsrA (PubMed:9211896, PubMed:12694612). The consensus RNA-binding site is CAGGA(U/A/C)G which is located in probable hairpin loops (PubMed:9211896). There are 18 sites in CsrB, which cooperatively binds about 18 copies of CsrA (PubMed:9211896, PubMed:12694612). CsrC has 9 sites, and cooperatively binds multiple copies of CsrA (PubMed:12694612). Indirectly activates expression of CsrB and CsrC, both dependently and independently of the BarA-UvrY two-component system (PubMed:12193630, PubMed:12694612). ppGpp activates transcription of CsrA-antagonistic small RNAs CsrB and CsrC, which downregulates CsrA's action on translation during the stringent response (PubMed:21488981).</text>
+</comment>
+<comment type="subunit">
+<text evidence="9">Homodimer; the beta-strands of each monomer intercalate to form a hydrophobic core while the alpha-helices form wings that extend away from the core (PubMed:15866937, ECO:0000255|HAMAP-Rule:MF_00167).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="10 13 16 17">Activated by MqsR (PubMed:16352847, PubMed:18713317). Activated by DksA and (p)ppGpp, under partial control of RpoS, the sigma stress factor (at protein level) (PubMed:21488981). Binds to 4 sites in its own mRNA and represses translation (PubMed:21696456). Expressed from 5 promoters; P2 and P5 depend on housekeeping sigma factor 70 (rpoD) while P1 and P3 2 depend on RpoS; indirect activation of P3 leads to increased transcription during the log to stationary phase shift (PubMed:21696456).</text>
+</comment>
+<comment type="domain">
+<text evidence="11">Two regions important for regulation and RNA-binding are found in the N-terminus (residues 2-7) and middle (residues 40-47). Both are part of the intercalated beta-strands that form the hydrophobic core of the protein; region 1 from one monomer contacts region 2 of the other. The homodimer has 2 distinct RNA-binding regions on opposite, solvent-exposed surface of the protein.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 8 14 15 16 19 20 21 22">Essential, it cannot be deleted when cells grow on LB but cells will grow with pyruvate as the sole carbon source; if glycogen synthesis is impaired then cells become viable (PubMed:19103924). Most deletion experiments use an allele which has a kanamycin-resistance cassette inserted after amino acid 50, which retains about 10% residual activity (PubMed:8393005, PubMed:19103924). Increased levels of glgC transcripts during both exponential and stationary phases (PubMed:7751274). Decreased levels of enzymes involved in glycolysis (PubMed:7493933). Increased biofilm formation (PubMed:11741870). Decreased expression of it antagonistic small RNAs CsrB and CsrC (PubMed:12694612). Allows basal levels of poly-GlcNAc synthesis and biofilm formation; this disrupted strain serves as a model system for biofilm formation (PubMed:19460094). Increased expression of RelA, about 1.5-fold increase in (p)ppGpp levels (PubMed:21488981). Increased levels of ECF sigma factor E (rpoE) (PubMed:28924029).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="12">Identified as a multicopy suppressor of the slow growth phenotype of an rsgA (yjeQ) deletion mutant.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the CsrA/RsmA family.</text>
+</comment>
+<dbReference type="EMBL" id="L07596">
+<property type="protein sequence ID" value="AAA71919.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D44453">
+<property type="protein sequence ID" value="BAA21555.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75738.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16558.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B40608">
+<property type="entry name" value="B40608"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417176.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000906486.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1Y00">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-61"/>
+</dbReference>
+<dbReference type="PDB" id="5Z38">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="E/G/I/K=1-44, F/H/J/L=1-61"/>
+</dbReference>
+<dbReference type="PDBsum" id="1Y00"/>
+<dbReference type="PDBsum" id="5Z38"/>
+<dbReference type="SMR" id="P69913"/>
+<dbReference type="BioGrid" id="4259421">
+<property type="interactions" value="231"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47836N"/>
+<dbReference type="IntAct" id="P69913">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2696"/>
+<dbReference type="jPOST" id="P69913"/>
+<dbReference type="PaxDb" id="P69913"/>
+<dbReference type="PRIDE" id="P69913"/>
+<dbReference type="EnsemblBacteria" id="AAC75738">
+<property type="protein sequence ID" value="AAC75738"/>
+<property type="gene ID" value="b2696"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16558">
+<property type="protein sequence ID" value="BAA16558"/>
+<property type="gene ID" value="BAA16558"/>
+</dbReference>
+<dbReference type="GeneID" id="34151842"/>
+<dbReference type="GeneID" id="947176"/>
+<dbReference type="KEGG" id="ecj:JW2666"/>
+<dbReference type="KEGG" id="eco:b2696"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4048"/>
+<dbReference type="EchoBASE" id="EB1416"/>
+<dbReference type="EcoGene" id="EG11447">
+<property type="gene designation" value="csrA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1551">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000020767"/>
+<dbReference type="InParanoid" id="P69913"/>
+<dbReference type="KO" id="K03563"/>
+<dbReference type="PhylomeDB" id="P69913"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11447-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2666-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P69913"/>
+<dbReference type="PRO" id="PR:P69913"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048027">
+<property type="term" value="F:mRNA 5'-UTR binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006402">
+<property type="term" value="P:mRNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045719">
+<property type="term" value="P:negative regulation of glycogen biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045947">
+<property type="term" value="P:negative regulation of translational initiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045948">
+<property type="term" value="P:positive regulation of translational initiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.1680">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00167">
+<property type="entry name" value="CsrA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003751">
+<property type="entry name" value="CsrA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036107">
+<property type="entry name" value="CsrA_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR34984">
+<property type="entry name" value="PTHR34984"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02599">
+<property type="entry name" value="CsrA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF117130">
+<property type="entry name" value="SSF117130"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00202">
+<property type="entry name" value="csrA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<feature type="chain" description="Carbon storage regulator" id="PRO_0000177061">
+<location>
+<begin position="1"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="region of interest" description="Region 1, important for regulation and mRNA-binding" evidence="11">
+<location>
+<begin position="2"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="region of interest" description="Region 2, important for regulation and mRNA-binding" evidence="11">
+<location>
+<begin position="40"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of in vivo repression and activation, 73-fold decreased affinity for RNA, about 75% wild-type protein levels." evidence="11">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="80% loss of in vivo repression and activation, about 20% wild-type protein levels." evidence="11">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% loss of in vivo repression and activation, 60-fold decreased affinity for RNA, about 60% wild-type protein levels." evidence="11">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="4"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Nearly complete loss of in vivo repression and activation, 30-fold decreased affinity for RNA, about 175% wild-type protein levels." evidence="11">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="70% loss of in vivo repression and activation, 12-fold decreased affinity for RNA, about 125% wild-type protein levels." evidence="11">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="7"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased repression and activation in vivo, about 75% wild-type protein levels." evidence="11">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased repression and activation in vivo, about 75% wild-type protein levels." evidence="11">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% loss of in vivo repression and activation, 67-fold decreased affinity for RNA, about 75% wild-type protein levels." evidence="11">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of in vivo repression and activation, 135-fold decreased affinity for RNA, about 40% wild-type protein levels." evidence="11">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of in vivo repression and activation, 150-fold decreased affinity for RNA, >500% wild-type protein levels." evidence="11">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% loss of in vivo repression and activation, 67-fold decreased affinity for RNA, about 150% wild-type protein levels." evidence="11">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="11"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="15"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="29"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="42"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="45"/>
+<end position="53"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5Z38"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P0DPC3"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00167"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11298291"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11741870"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12067347"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12193630"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12694612"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15866937"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16352847"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16923806"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18223068"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18713317"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19103924"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19460094"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21488981"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21696456"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28851853"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28924029"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7493933"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7751274"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8393005"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8604133"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9211896"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8393005"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8604133"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000305"/>
+<sequence length="61" mass="6856" checksum="16308FC572670E1C" modified="2005-01-04" version="1">
+MLILTRRVGETLMIGDEVTVTVLGVKGNQVRIGVNAPKEVSVHREEIYQRIQAEKSQQSS
+Y
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

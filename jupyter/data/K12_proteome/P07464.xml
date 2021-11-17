@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="155">
+<accession>P07464</accession>
+<accession>P77862</accession>
+<accession>Q2MC82</accession>
+<name>THGA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Galactoside O-acetyltransferase</fullName>
+<shortName>GAT</shortName>
+<ecNumber>2.3.1.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Thiogalactoside acetyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">lacA</name>
+<name type="ordered locus">b0342</name>
+<name type="ordered locus">JW0333</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Biochimie" volume="67" first="101" last="108">
+<title>The amino acid sequence of thiogalactoside transacetylase of Escherichia coli.</title>
+<authorList>
+<person name="Fowler A.V."/>
+<person name="Hediger M.A."/>
+<person name="Musso R.E."/>
+<person name="Zabin I."/>
+</authorList>
+<dbReference type="PubMed" id="3922433"/>
+<dbReference type="DOI" id="10.1016/S0300-9084(85)80235-2"/>
+</citation>
+<scope>PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="6414" last="6418">
+<title>DNA sequence of the lactose operon: the lacA gene and the transcriptional termination region.</title>
+<authorList>
+<person name="Hediger M.A."/>
+<person name="Johnson D.F."/>
+<person name="Nierlich D.P."/>
+<person name="Zabin I."/>
+</authorList>
+<dbReference type="PubMed" id="3901000"/>
+<dbReference type="DOI" id="10.1073/pnas.82.19.6414"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1980" name="Nature" volume="283" first="541" last="545">
+<title>Sequence of the lactose permease gene.</title>
+<authorList>
+<person name="Buechel D.E."/>
+<person name="Gronenborn B."/>
+<person name="Mueller-Hill B."/>
+</authorList>
+<dbReference type="PubMed" id="6444453"/>
+<dbReference type="DOI" id="10.1038/283541a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-26</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Structure" volume="10" first="581" last="588">
+<title>Structure of the lac operon galactoside acetyltransferase.</title>
+<authorList>
+<person name="Wang X.G."/>
+<person name="Olsen L.R."/>
+<person name="Roderick S.L."/>
+</authorList>
+<dbReference type="PubMed" id="11937062"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(02)00741-4"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>May assist cellular detoxification by acetylating non-metabolizable pyranosides, thereby preventing their reentry into the cell.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>a beta-D-galactoside + acetyl-CoA = a 6-acetyl-beta-D-galactoside + CoA</text>
+<dbReference type="Rhea" id="RHEA:15713"/>
+<dbReference type="ChEBI" id="CHEBI:28034"/>
+<dbReference type="ChEBI" id="CHEBI:28250"/>
+<dbReference type="ChEBI" id="CHEBI:57287"/>
+<dbReference type="ChEBI" id="CHEBI:57288"/>
+<dbReference type="EC" id="2.3.1.18"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text>The N-terminus of this protein is heterogeneous because the initiator methionine is only partially cleaved.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the transferase hexapeptide repeat family.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.18"/>
+<dbReference type="EMBL" id="J01636">
+<property type="protein sequence ID" value="AAA24055.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X51872">
+<property type="protein sequence ID" value="CAA36162.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U73857">
+<property type="protein sequence ID" value="AAB18066.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73445.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76124.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00295">
+<property type="protein sequence ID" value="CAA23572.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A94061">
+<property type="entry name" value="XXECTG"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414876.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001335915.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1KQA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C=1-203"/>
+</dbReference>
+<dbReference type="PDB" id="1KRR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C=1-203"/>
+</dbReference>
+<dbReference type="PDB" id="1KRU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C=1-203"/>
+</dbReference>
+<dbReference type="PDB" id="1KRV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C=1-203"/>
+</dbReference>
+<dbReference type="PDBsum" id="1KQA"/>
+<dbReference type="PDBsum" id="1KRR"/>
+<dbReference type="PDBsum" id="1KRU"/>
+<dbReference type="PDBsum" id="1KRV"/>
+<dbReference type="SMR" id="P07464"/>
+<dbReference type="BioGrid" id="4263184">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10078N"/>
+<dbReference type="IntAct" id="P07464">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0342"/>
+<dbReference type="DrugBank" id="DB02632">
+<property type="generic name" value="4-nitrophenyl-beta-D-galactoside"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01992">
+<property type="generic name" value="Coenzyme A"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01862">
+<property type="generic name" value="Isopropyl beta-D-thiogalactopyranoside"/>
+</dbReference>
+<dbReference type="PaxDb" id="P07464"/>
+<dbReference type="PRIDE" id="P07464"/>
+<dbReference type="EnsemblBacteria" id="AAC73445">
+<property type="protein sequence ID" value="AAC73445"/>
+<property type="gene ID" value="b0342"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76124">
+<property type="protein sequence ID" value="BAE76124"/>
+<property type="gene ID" value="BAE76124"/>
+</dbReference>
+<dbReference type="GeneID" id="945674"/>
+<dbReference type="KEGG" id="ecj:JW0333"/>
+<dbReference type="KEGG" id="eco:b0342"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.350"/>
+<dbReference type="EchoBASE" id="EB0519"/>
+<dbReference type="EcoGene" id="EG10524">
+<property type="gene designation" value="lacA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108UW5">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0110">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000049435"/>
+<dbReference type="InParanoid" id="P07464"/>
+<dbReference type="KO" id="K00633"/>
+<dbReference type="PhylomeDB" id="P07464"/>
+<dbReference type="BioCyc" id="EcoCyc:GALACTOACETYLTRAN-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0333-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:GALACTOACETYLTRAN-MONOMER"/>
+<dbReference type="BRENDA" id="2.3.1.18">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P07464"/>
+<dbReference type="PRO" id="PR:P07464"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008870">
+<property type="term" value="F:galactoside O-acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005989">
+<property type="term" value="P:lactose biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001451">
+<property type="entry name" value="Hexapep"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018357">
+<property type="entry name" value="Hexapep_transf_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039369">
+<property type="entry name" value="LacA-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024688">
+<property type="entry name" value="Mac_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011004">
+<property type="entry name" value="Trimer_LpxA-like_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43017">
+<property type="entry name" value="PTHR43017"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00132">
+<property type="entry name" value="Hexapep"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14602">
+<property type="entry name" value="Hexapep_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12464">
+<property type="entry name" value="Mac"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01266">
+<property type="entry name" value="Mac"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51161">
+<property type="entry name" value="SSF51161"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00101">
+<property type="entry name" value="HEXAPEP_TRANSFERASES"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0422">Lactose biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Galactoside O-acetyltransferase" id="PRO_0000068696">
+<location>
+<begin position="1"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="22"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="55"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="68"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="88"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="96"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="119"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="127"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="132"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="172"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="176"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="180"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="187"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="192"/>
+<end position="194"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1KRR"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1KRU"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="203" mass="22799" checksum="31C7FEA0B0150D70" modified="1988-04-01" version="1">
+MNMPMTERIRAGKLFTDMCEGLPEKRLRGKTLMYEFNHSHPSEVEKRESLIKEMFATVGE
+NAWVEPPVYFSYGSNIHIGRNFYANFNLTIVDDYTVTIGDNVLIAPNVTLSVTGHPVHHE
+LRKNGEMYSFPITIGNNVWIGSHVVINPGVTIGDNSVIGAGSIVTKDIPPNVVAAGVPCR
+VIREINDRDKHYYFKDYKVESSV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

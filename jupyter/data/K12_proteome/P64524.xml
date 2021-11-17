@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2019-05-08" version="94">
+<accession>P64524</accession>
+<accession>P76365</accession>
+<accession>Q2MAZ1</accession>
+<name>CBTA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Cytoskeleton-binding toxin CbtA</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="7">Toxin CbtA</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="6">Toxin YeeV</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="7">cbtA</name>
+<name type="synonym">yeeV</name>
+<name type="ordered locus">b2005</name>
+<name type="ordered locus">JW1987</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="J. Bacteriol." volume="185" first="6600" last="6608">
+<title>A novel family of Escherichia coli toxin-antitoxin gene pairs.</title>
+<authorList>
+<person name="Brown J.M."/>
+<person name="Shaw K.J."/>
+</authorList>
+<dbReference type="PubMed" id="14594833"/>
+<dbReference type="DOI" id="10.1128/JB.185.22.6600-6608.2003"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="79" first="109" last="118">
+<title>YeeV is an Escherichia coli toxin that inhibits cell division by targeting the cytoskeleton proteins, FtsZ and MreB.</title>
+<authorList>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="21166897"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07433.x"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>INTERACTION WITH FTSZ AND MREB</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF 1-MET--ARG-15</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2012" name="Mol. Microbiol." volume="84" first="979" last="989">
+<title>YeeU enhances the bundling of cytoskeletal polymers of MreB and FtsZ, antagonizing the CbtA (YeeV) toxicity in Escherichia coli.</title>
+<authorList>
+<person name="Masuda H."/>
+<person name="Tan Q."/>
+<person name="Awano N."/>
+<person name="Wu K.P."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="22515815"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2012.08068.x"/>
+</citation>
+<scope>FUNCTION AS AN TOXIN</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2017" name="PLoS Genet." volume="13" first="E1007007" last="E1007007">
+<title>CbtA toxin of Escherichia coli inhibits cell division and cell elongation via direct and independent interactions with FtsZ and MreB.</title>
+<authorList>
+<person name="Heller D.M."/>
+<person name="Tavag M."/>
+<person name="Hochschild A."/>
+</authorList>
+<dbReference type="PubMed" id="28931012"/>
+<dbReference type="DOI" id="10.1371/journal.pgen.1007007"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FTSZ AND MREB</scope>
+<scope>MUTAGENESIS OF ARG-15 AND PHE-65</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2017" name="Toxins" volume="9">
+<title>Interaction of type IV toxin/antitoxin systems in cryptic prophages of Escherichia coli K-12.</title>
+<authorList>
+<person name="Wen Z."/>
+<person name="Wang P."/>
+<person name="Sun C."/>
+<person name="Guo Y."/>
+<person name="Wang X."/>
+</authorList>
+<dbReference type="PubMed" id="28257056"/>
+<dbReference type="DOI" id="10.3390/toxins9030077"/>
+</citation>
+<scope>FUNCTION AS A TOXIN</scope>
+<scope>INTERACTION WITH FTSZ</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 2 3 4 5">Toxic component of a type IV toxin-antitoxin (TA) system (PubMed:14594833, PubMed:21166897, PubMed:22515815, PubMed:28931012, PubMed:28257056). Acts as a dual toxin inhibitor that blocks cell division and cell elongation in genetically separable interactions with FtsZ and MreB (PubMed:28931012). Interacts with cytoskeletal proteins FtsZ and MreB; inhibits FtsZ GTP-dependent polymerization and GTPase activity as well as MreB ATP-dependent polymerization (PubMed:21166897, PubMed:28931012). Binds to both the N- and C-terminus of FtsZ, likely blocking its polymerization and localization, leading to blockage of cell division (PubMed:21166897, PubMed:28931012). Overexpression results in inhibition of growth in liquid cultures and decrease in colony formation; these effects are overcome by concomitant expression of antitoxin CbeA (YeeU) (PubMed:14594833). In other experiments cells swell, by 6 hours are lemon-shaped and by 24 hours those that have not lysed are spherical with diminished polar regions (PubMed:21166897, PubMed:28931012). Toxic effects are neutralized by cognate antitoxin CbeA, although there is no direct interaction between the 2 proteins (PubMed:14594833, PubMed:22515815). Toxic effects are also neutralized by overexpression of noncogate antitoxins YafW and YpjF (PubMed:28257056).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 5">Interacts with FtsZ (PubMed:21166897, PubMed:22515815, PubMed:28931012). Interacts with MreB (PubMed:21166897, PubMed:28931012).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Expressed in mid-log phase at lower levels than toxin relE.</text>
+</comment>
+<comment type="domain">
+<text evidence="2">The N-terminal 15 residues are required for interaction with both FtsZ and MreB, while the C-terminal 63 residues are required for interaction with MreB.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 4">No visible phenotype (PubMed:21166897). Deletion of 3 type IV toxin genes (cbtA, ykfI, ypfJ) leads to a slight reduction in resistance to oxidative stress, has no effect on cell growth (PubMed:28257056).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="8">Encoded in prophage CP4-44.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the CbtA/YkfI/YpjF toxin family.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75066.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76565.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D64965">
+<property type="entry name" value="D64965"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416509.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000854814.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4261508">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="IntAct" id="P64524">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2005"/>
+<dbReference type="PaxDb" id="P64524"/>
+<dbReference type="PRIDE" id="P64524"/>
+<dbReference type="EnsemblBacteria" id="AAC75066">
+<property type="protein sequence ID" value="AAC75066"/>
+<property type="gene ID" value="b2005"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76565">
+<property type="protein sequence ID" value="BAE76565"/>
+<property type="gene ID" value="BAE76565"/>
+</dbReference>
+<dbReference type="GeneID" id="946534"/>
+<dbReference type="KEGG" id="ecj:JW1987"/>
+<dbReference type="KEGG" id="eco:b2005"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.248"/>
+<dbReference type="EchoBASE" id="EB3170"/>
+<dbReference type="EcoGene" id="EG13389">
+<property type="gene designation" value="cbtA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000124769"/>
+<dbReference type="KO" id="K18837"/>
+<dbReference type="PhylomeDB" id="P64524"/>
+<dbReference type="BioCyc" id="EcoCyc:G7085-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1987-MONOMER"/>
+<dbReference type="PRO" id="PR:P64524"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008092">
+<property type="term" value="F:cytoskeletal protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0012501">
+<property type="term" value="P:programmed cell death"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008360">
+<property type="term" value="P:regulation of cell shape"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009610">
+<property type="entry name" value="CbtA_toxin"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06755">
+<property type="entry name" value="CbtA_toxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0133">Cell shape</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<feature type="chain" description="Cytoskeleton-binding toxin CbtA" id="PRO_0000169116">
+<location>
+<begin position="1"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sufficient for toxicity, toxin less stabile; cells filament, protein does not interact with MreB but probably still interacts with FtsZ" evidence="2">
+<location>
+<begin position="1"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for interaction with MreB" evidence="2">
+<location>
+<begin position="74"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No longer toxic, cells become lemon-shaped more quickly than wild-type on overexpression." evidence="2">
+<location>
+<begin position="1"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Wild-type toxicity, wild-type interaction with FtsZ, no longer interacts with MreB, no longer blocks cell elongation, cells become filamentous. No longer toxic, no altered morphology; when associated with S-65." evidence="5">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly reduced toxicity, wild-type interaction with MreB, no longer interacts with FtsZ, no longer blocks cell division, cells become spheroid. No longer toxic, no altered morphology; when associated with C-15." evidence="5">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14594833"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21166897"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22515815"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28257056"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28931012"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14594833"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21166897"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="124" mass="13899" checksum="4327D21EC2A8159A" modified="2004-10-11" version="1">
+MKTLPVLPGQAASSRPSPVEIWQILLSRLLDQHYGLTLNDTPFADERVIEQHIEAGISLC
+DAVNFLVEKYALVRTDQPGFSACTRSQLINSIDILRARRATGLMTRDNYRTVNNITLGKY
+PEAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

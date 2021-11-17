@@ -1,0 +1,1440 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="173">
+<accession>P00811</accession>
+<accession>Q2M6F2</accession>
+<name>AMPC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Beta-lactamase</fullName>
+<ecNumber>3.5.2.6</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Cephalosporinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ampC</name>
+<name type="synonym">ampA</name>
+<name type="ordered locus">b4150</name>
+<name type="ordered locus">JW4111</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1981" name="Proc. Natl. Acad. Sci. U.S.A." volume="78" first="4897" last="4901">
+<title>ampC cephalosporinase of Escherichia coli K-12 has a different evolutionary origin from that of beta-lactamases of the penicillinase type.</title>
+<authorList>
+<person name="Jaurin B."/>
+<person name="Grundstroem T."/>
+</authorList>
+<dbReference type="PubMed" id="6795623"/>
+<dbReference type="DOI" id="10.1073/pnas.78.8.4897"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 20-31</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1982" name="Proc. Natl. Acad. Sci. U.S.A." volume="79" first="1111" last="1115">
+<title>Overlap between ampC and frd operons on the Escherichia coli chromosome.</title>
+<authorList>
+<person name="Grundstroem T."/>
+<person name="Jaurin B."/>
+</authorList>
+<dbReference type="PubMed" id="7041115"/>
+<dbReference type="DOI" id="10.1073/pnas.79.4.1111"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-29</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="16082" last="16092">
+<title>Three-dimensional structure of AmpC beta-lactamase from Escherichia coli bound to a transition-state analogue: possible implications for the oxyanion hypothesis and for inhibitor design.</title>
+<authorList>
+<person name="Usher K.C."/>
+<person name="Blaszczak L.C."/>
+<person name="Weston G.S."/>
+<person name="Shoichet B.K."/>
+<person name="Remington S.J."/>
+</authorList>
+<dbReference type="PubMed" id="9819201"/>
+<dbReference type="DOI" id="10.1021/bi981210f"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="Protein Sci." volume="8" first="2330" last="2337">
+<title>The complexed structure and antimicrobial activity of a non-beta-lactam inhibitor of AmpC beta-lactamase.</title>
+<authorList>
+<person name="Powers R.A."/>
+<person name="Blazquez J."/>
+<person name="Weston G.S."/>
+<person name="Morosini M.I."/>
+<person name="Baquero F."/>
+<person name="Shoichet B.K."/>
+</authorList>
+<dbReference type="PubMed" id="10595535"/>
+<dbReference type="DOI" id="10.1110/ps.8.11.2330"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="9207" last="9214">
+<title>Structures of ceftazidime and its transition-state analogue in complex with AmpC beta-lactamase: implications for resistance mutations and inhibitor design.</title>
+<authorList>
+<person name="Powers R.A."/>
+<person name="Caselli E."/>
+<person name="Focia P.J."/>
+<person name="Prati F."/>
+<person name="Shoichet B.K."/>
+</authorList>
+<dbReference type="PubMed" id="11478888"/>
+<dbReference type="DOI" id="10.1021/bi0109358"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH SUBSTRATE ANALOGUE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="J. Mol. Biol." volume="321" first="285" last="296">
+<title>Structural bases of stability-function tradeoffs in enzymes.</title>
+<authorList>
+<person name="Beadle B.M."/>
+<person name="Shoichet B.K."/>
+</authorList>
+<dbReference type="PubMed" id="12144785"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)00599-5"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.53 ANGSTROMS)</scope>
+<scope>MUTAGENESIS OF SER-80; LYS-83; TYR-166; ASN-168 AND LYS-331</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="J. Am. Chem. Soc." volume="125" first="685" last="695">
+<title>Nanomolar inhibitors of AmpC beta-lactamase.</title>
+<authorList>
+<person name="Morandi F."/>
+<person name="Caselli E."/>
+<person name="Morandi S."/>
+<person name="Focia P.J."/>
+<person name="Blazquez J."/>
+<person name="Shoichet B.K."/>
+<person name="Prati F."/>
+</authorList>
+<dbReference type="PubMed" id="12526668"/>
+<dbReference type="DOI" id="10.1021/ja0288338"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.83 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>This protein is a serine beta-lactamase with a substrate specificity for cephalosporins.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="7">
+<text>a beta-lactam + H2O = a substituted beta-amino acid</text>
+<dbReference type="Rhea" id="RHEA:20401"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:35627"/>
+<dbReference type="ChEBI" id="CHEBI:140347"/>
+<dbReference type="EC" id="3.5.2.6"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="8">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Periplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the class-C beta-lactamase family.</text>
+</comment>
+<dbReference type="EC" id="3.5.2.6"/>
+<dbReference type="EMBL" id="J01611">
+<property type="protein sequence ID" value="AAA23441.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97049.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77110.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78154.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00277">
+<property type="protein sequence ID" value="CAA23537.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A01007">
+<property type="entry name" value="QKEC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418574.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001336292.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1C3B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1FCM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.46"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1FCN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1FCO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1FSW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-376"/>
+</dbReference>
+<dbReference type="PDB" id="1FSY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=20-376"/>
+</dbReference>
+<dbReference type="PDB" id="1GA9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1I5Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1IEL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1IEM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KDS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KDW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.28"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KE0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KE3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KE4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KVL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1KVM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.06"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1L0D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1L0E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1L0F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.66"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1L0G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1L2S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1LL5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1LL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1LLB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1MXO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1MY8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1O07">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1PI4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.39"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1PI5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.49"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1XGI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="1XGJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2BLS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2FFY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.07"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2HDQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2HDR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2HDS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.16"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2HDU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.49"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2I72">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2P9V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2PU2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2PU4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2R9W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2R9X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="2RCX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3BLS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3BM6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3FKV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3FKW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GQZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GR2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GRJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GSG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GTC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GV9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3GVB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IWI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.64"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IWO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IWQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.84"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IXB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IXD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.64"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.14"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3IXH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3O86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3O87">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="3O88">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.64"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.43"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.43"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.44"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.49"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4E3O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4JXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4JXS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4JXV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4JXW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KEN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KG2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KG5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A/B/C/D=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KG6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B/C/D=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.67"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.42"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.68"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.43"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.28"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4KZB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.37"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4LV0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4LV1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.74"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4LV2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4LV3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.42"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4OKP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.37"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4OLD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.48"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="4OLG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="5JOC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=21-377"/>
+</dbReference>
+<dbReference type="PDB" id="6DPT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="6DPX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="6DPY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.91"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDB" id="6DPZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=20-377"/>
+</dbReference>
+<dbReference type="PDBsum" id="1C3B"/>
+<dbReference type="PDBsum" id="1FCM"/>
+<dbReference type="PDBsum" id="1FCN"/>
+<dbReference type="PDBsum" id="1FCO"/>
+<dbReference type="PDBsum" id="1FSW"/>
+<dbReference type="PDBsum" id="1FSY"/>
+<dbReference type="PDBsum" id="1GA9"/>
+<dbReference type="PDBsum" id="1I5Q"/>
+<dbReference type="PDBsum" id="1IEL"/>
+<dbReference type="PDBsum" id="1IEM"/>
+<dbReference type="PDBsum" id="1KDS"/>
+<dbReference type="PDBsum" id="1KDW"/>
+<dbReference type="PDBsum" id="1KE0"/>
+<dbReference type="PDBsum" id="1KE3"/>
+<dbReference type="PDBsum" id="1KE4"/>
+<dbReference type="PDBsum" id="1KVL"/>
+<dbReference type="PDBsum" id="1KVM"/>
+<dbReference type="PDBsum" id="1L0D"/>
+<dbReference type="PDBsum" id="1L0E"/>
+<dbReference type="PDBsum" id="1L0F"/>
+<dbReference type="PDBsum" id="1L0G"/>
+<dbReference type="PDBsum" id="1L2S"/>
+<dbReference type="PDBsum" id="1LL5"/>
+<dbReference type="PDBsum" id="1LL9"/>
+<dbReference type="PDBsum" id="1LLB"/>
+<dbReference type="PDBsum" id="1MXO"/>
+<dbReference type="PDBsum" id="1MY8"/>
+<dbReference type="PDBsum" id="1O07"/>
+<dbReference type="PDBsum" id="1PI4"/>
+<dbReference type="PDBsum" id="1PI5"/>
+<dbReference type="PDBsum" id="1XGI"/>
+<dbReference type="PDBsum" id="1XGJ"/>
+<dbReference type="PDBsum" id="2BLS"/>
+<dbReference type="PDBsum" id="2FFY"/>
+<dbReference type="PDBsum" id="2HDQ"/>
+<dbReference type="PDBsum" id="2HDR"/>
+<dbReference type="PDBsum" id="2HDS"/>
+<dbReference type="PDBsum" id="2HDU"/>
+<dbReference type="PDBsum" id="2I72"/>
+<dbReference type="PDBsum" id="2P9V"/>
+<dbReference type="PDBsum" id="2PU2"/>
+<dbReference type="PDBsum" id="2PU4"/>
+<dbReference type="PDBsum" id="2R9W"/>
+<dbReference type="PDBsum" id="2R9X"/>
+<dbReference type="PDBsum" id="2RCX"/>
+<dbReference type="PDBsum" id="3BLS"/>
+<dbReference type="PDBsum" id="3BM6"/>
+<dbReference type="PDBsum" id="3FKV"/>
+<dbReference type="PDBsum" id="3FKW"/>
+<dbReference type="PDBsum" id="3GQZ"/>
+<dbReference type="PDBsum" id="3GR2"/>
+<dbReference type="PDBsum" id="3GRJ"/>
+<dbReference type="PDBsum" id="3GSG"/>
+<dbReference type="PDBsum" id="3GTC"/>
+<dbReference type="PDBsum" id="3GV9"/>
+<dbReference type="PDBsum" id="3GVB"/>
+<dbReference type="PDBsum" id="3IWI"/>
+<dbReference type="PDBsum" id="3IWO"/>
+<dbReference type="PDBsum" id="3IWQ"/>
+<dbReference type="PDBsum" id="3IXB"/>
+<dbReference type="PDBsum" id="3IXD"/>
+<dbReference type="PDBsum" id="3IXG"/>
+<dbReference type="PDBsum" id="3IXH"/>
+<dbReference type="PDBsum" id="3O86"/>
+<dbReference type="PDBsum" id="3O87"/>
+<dbReference type="PDBsum" id="3O88"/>
+<dbReference type="PDBsum" id="4E3I"/>
+<dbReference type="PDBsum" id="4E3J"/>
+<dbReference type="PDBsum" id="4E3K"/>
+<dbReference type="PDBsum" id="4E3L"/>
+<dbReference type="PDBsum" id="4E3M"/>
+<dbReference type="PDBsum" id="4E3N"/>
+<dbReference type="PDBsum" id="4E3O"/>
+<dbReference type="PDBsum" id="4JXG"/>
+<dbReference type="PDBsum" id="4JXS"/>
+<dbReference type="PDBsum" id="4JXV"/>
+<dbReference type="PDBsum" id="4JXW"/>
+<dbReference type="PDBsum" id="4KEN"/>
+<dbReference type="PDBsum" id="4KG2"/>
+<dbReference type="PDBsum" id="4KG5"/>
+<dbReference type="PDBsum" id="4KG6"/>
+<dbReference type="PDBsum" id="4KZ3"/>
+<dbReference type="PDBsum" id="4KZ4"/>
+<dbReference type="PDBsum" id="4KZ5"/>
+<dbReference type="PDBsum" id="4KZ6"/>
+<dbReference type="PDBsum" id="4KZ7"/>
+<dbReference type="PDBsum" id="4KZ8"/>
+<dbReference type="PDBsum" id="4KZ9"/>
+<dbReference type="PDBsum" id="4KZA"/>
+<dbReference type="PDBsum" id="4KZB"/>
+<dbReference type="PDBsum" id="4LV0"/>
+<dbReference type="PDBsum" id="4LV1"/>
+<dbReference type="PDBsum" id="4LV2"/>
+<dbReference type="PDBsum" id="4LV3"/>
+<dbReference type="PDBsum" id="4OKP"/>
+<dbReference type="PDBsum" id="4OLD"/>
+<dbReference type="PDBsum" id="4OLG"/>
+<dbReference type="PDBsum" id="5JOC"/>
+<dbReference type="PDBsum" id="6DPT"/>
+<dbReference type="PDBsum" id="6DPX"/>
+<dbReference type="PDBsum" id="6DPY"/>
+<dbReference type="PDBsum" id="6DPZ"/>
+<dbReference type="SMR" id="P00811"/>
+<dbReference type="BioGrid" id="4261277">
+<property type="interactions" value="168"/>
+</dbReference>
+<dbReference type="IntAct" id="P00811">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4150"/>
+<dbReference type="BindingDB" id="P00811"/>
+<dbReference type="ChEMBL" id="CHEMBL2026"/>
+<dbReference type="DrugBank" id="DB08551">
+<property type="generic name" value="(1R)-1-(2-THIENYLACETYLAMINO)-1-(3-CARBOXYPHENYL)METHYLBORONIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08552">
+<property type="generic name" value="(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07057">
+<property type="generic name" value="(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07825">
+<property type="generic name" value="(3S)-1-(4-acetylphenyl)-5-oxopyrrolidine-3-carboxylic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07803">
+<property type="generic name" value="2-phenyl-1H-imidazole-4-carboxylic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02858">
+<property type="generic name" value="3-(4-Benzenesulfonyl-Thiophene-2-Sulfonylamino)-Phenylboronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08573">
+<property type="generic name" value="3-[(4-CHLOROANILINO)SULFONYL]THIOPHENE-2-CARBOXYLIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02797">
+<property type="generic name" value="3-Nitrophenylboronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08306">
+<property type="generic name" value="3-{[(3-NITROANILINE]SULFONYL}THIOPHENE-2-CARBOXYLIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07927">
+<property type="generic name" value="3-{[(4-CARBOXY-2-HYDROXYANILINE]SULFONYL}THIOPHENE-2-CARBOXYLIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02503">
+<property type="generic name" value="4-(Carboxyvin-2-Yl)Phenylboronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07541">
+<property type="generic name" value="4-(dihydroxyboranyl)-2-({[4-(phenylsulfonyl)thiophen-2-yl]sulfonyl}amino)benzoic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB07114">
+<property type="generic name" value="4-[(METHYLSULFONYL)AMINO]BENZOIC ACID"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03140">
+<property type="generic name" value="4-Carboxyphenylboronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04293">
+<property type="generic name" value="7-(2-Amino-2-Phenyl-Acetylamino)-3-Chloro-8-Oxo-1-Aza-Bicyclo[4.2.0]Oct-2-Ene-2-Carboxylic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03530">
+<property type="generic name" value="Acylated Ceftazidime"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09323">
+<property type="generic name" value="Benzathine benzylpenicillin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04360">
+<property type="generic name" value="Benzo[B]Thiophene-2-Boronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00456">
+<property type="generic name" value="Cefalotin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01147">
+<property type="generic name" value="Cloxacillin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02247">
+<property type="generic name" value="Hydrolyzed Cephalothin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01896">
+<property type="generic name" value="M-Aminophenylboronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02588">
+<property type="generic name" value="Moxalactam Derivative"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02094">
+<property type="generic name" value="N-2-Thiophen-2-Yl-Acetamide Boronic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08375">
+<property type="generic name" value="PCNOTAXIME GROUP"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04035">
+<property type="generic name" value="Pinacol[[2-Amino-Alpha-(1-Carboxy-1-Methylethoxyimino)-4-Thiazoleacetyl]Amino]Methaneboronate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02772">
+<property type="generic name" value="Sucrose"/>
+</dbReference>
+<dbReference type="MEROPS" id="S12.006"/>
+<dbReference type="SWISS-2DPAGE" id="P00811"/>
+<dbReference type="jPOST" id="P00811"/>
+<dbReference type="PaxDb" id="P00811"/>
+<dbReference type="PRIDE" id="P00811"/>
+<dbReference type="EnsemblBacteria" id="AAC77110">
+<property type="protein sequence ID" value="AAC77110"/>
+<property type="gene ID" value="b4150"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78154">
+<property type="protein sequence ID" value="BAE78154"/>
+<property type="gene ID" value="BAE78154"/>
+</dbReference>
+<dbReference type="GeneID" id="948669"/>
+<dbReference type="KEGG" id="ecj:JW4111"/>
+<dbReference type="KEGG" id="eco:b4150"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2548"/>
+<dbReference type="EchoBASE" id="EB0038"/>
+<dbReference type="EcoGene" id="EG10040">
+<property type="gene designation" value="ampC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41066YJ">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1680">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000267102"/>
+<dbReference type="InParanoid" id="P00811"/>
+<dbReference type="KO" id="K01467"/>
+<dbReference type="PhylomeDB" id="P00811"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10040-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4111-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10040-MONOMER"/>
+<dbReference type="BRENDA" id="3.5.2.6">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P00811"/>
+<dbReference type="EvolutionaryTrace" id="P00811"/>
+<dbReference type="PRO" id="PR:P00811"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008800">
+<property type="term" value="F:beta-lactamase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017001">
+<property type="term" value="P:antibiotic catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001466">
+<property type="entry name" value="Beta-lactam-related"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012338">
+<property type="entry name" value="Beta-lactam/transpept-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001586">
+<property type="entry name" value="Beta-lactam_class-C_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00144">
+<property type="entry name" value="Beta-lactamase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56601">
+<property type="entry name" value="SSF56601"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00336">
+<property type="entry name" value="BETA_LACTAMASE_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="10">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="chain" description="Beta-lactamase" id="PRO_0000016958">
+<location>
+<begin position="20"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="6">
+<location>
+<begin position="331"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="active site" description="Acyl-ester intermediate" evidence="7 10">
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="9">
+<original>S</original>
+<variation>D</variation>
+<variation>E</variation>
+<variation>G</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowers activity more than 1000-fold and increases protein stability." evidence="9">
+<original>K</original>
+<variation>Q</variation>
+<variation>T</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowers activity more than 1000-fold." evidence="9">
+<original>Y</original>
+<variation>E</variation>
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowers activity more than 1000-fold." evidence="9">
+<original>N</original>
+<variation>D</variation>
+<variation>H</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lowers activity more than 1000-fold." evidence="9">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="331"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="22"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="42"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="53"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="64"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="82"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="105"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="115"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="122"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="144"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="162"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="168"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="179"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="186"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="194"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="204"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="209"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="218"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="223"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="229"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="233"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="240"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="243"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="256"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="262"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="273"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="281"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="288"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="296"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="303"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="306"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="310"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="315"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="325"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="338"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="346"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="350"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="362"/>
+<end position="376"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2BLS"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FFY"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3GR2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3IWI"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4OLD"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250"/>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10102"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11478888"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12144785"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6795623"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="377" mass="41556" checksum="3C6FB4FE4EF96C9F" modified="1986-07-21" version="1" precursor="true">
+MFKTTLCALLITASCSTFAAPQQINDIVHRTITPLIEQQKIPGMAVAVIYQGKPYYFTWG
+YADIAKKQPVTQQTLFELGSVSKTFTGVLGGDAIARGEIKLSDPTTKYWPELTAKQWNGI
+TLLHLATYTAGGLPLQVPDEVKSSSDLLRFYQNWQPAWAPGTQRLYANSSIGLFGALAVK
+PSGLSFEQAMQTRVFQPLKLNHTWINVPPAEEKNYAWGYREGKAVHVSPGALDAEAYGVK
+STIEDMARWVQSNLKPLDINEKTLQQGIQLAQSRYWQTGDMYQGLGWEMLDWPVNPDSII
+NGSDNKIALAARPVKAITPPTPAVRASWVHKTGATGGFGSYVAFIPEKELGIVMLANKNY
+PNPARVDAAWQILNALQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

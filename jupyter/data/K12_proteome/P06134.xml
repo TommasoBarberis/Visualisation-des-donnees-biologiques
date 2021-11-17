@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-05-08" version="193">
+<accession>P06134</accession>
+<accession>Q47032</accession>
+<name>ADA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Bifunctional transcriptional activator/DNA repair enzyme Ada</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Regulatory protein of adaptive response</fullName>
+</alternativeName>
+<domain>
+<recommendedName>
+<fullName>Methylphosphotriester-DNA--protein-cysteine S-methyltransferase</fullName>
+<ecNumber evidence="11">2.1.1.n11</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Methylphosphotriester-DNA methyltransferase</fullName>
+</alternativeName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Methylated-DNA--protein-cysteine methyltransferase</fullName>
+<ecNumber evidence="11">2.1.1.63</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>O6-methylguanine-DNA alkyltransferase</fullName>
+</alternativeName>
+</domain>
+</protein>
+<gene>
+<name type="primary">ada</name>
+<name type="ordered locus">b2213</name>
+<name type="ordered locus">JW2201</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="7281" last="7288">
+<title>Purification and structure of the intact Ada regulatory protein of Escherichia coli K12, O6-methylguanine-DNA methyltransferase.</title>
+<authorList>
+<person name="Nakabeppu Y."/>
+<person name="Kondo H."/>
+<person name="Kawabata S."/>
+<person name="Iwanaga S."/>
+<person name="Sekiguchi M."/>
+</authorList>
+<dbReference type="PubMed" id="2987251"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="2688" last="2692">
+<title>Active site and complete sequence of the suicidal methyltransferase that counters alkylation mutagenesis.</title>
+<authorList>
+<person name="Demple B."/>
+<person name="Sedgwick B."/>
+<person name="Robins P."/>
+<person name="Totty N."/>
+<person name="Waterfield M.D."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="3887409"/>
+<dbReference type="DOI" id="10.1073/pnas.82.9.2688"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="379" last="392">
+<title>A 460-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 40.1-50.0 min region on the linkage map.</title>
+<authorList>
+<person name="Itoh T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Kasai H."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097040"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1985" name="J. Bacteriol." volume="161" first="888" last="895">
+<title>Induction and autoregulation of ada, a positively acting element regulating the response of Escherichia coli K-12 to methylating agents.</title>
+<authorList>
+<person name="Lemotte P.K."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="2982792"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-49</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="15772" last="15777">
+<title>Structure and expression of the alkB gene of Escherichia coli related to the repair of alkylated DNA.</title>
+<authorList>
+<person name="Kondo H."/>
+<person name="Nakabeppu Y."/>
+<person name="Kataoka H."/>
+<person name="Kuhara S."/>
+<person name="Kawabata S."/>
+<person name="Sekiguchi M."/>
+</authorList>
+<dbReference type="PubMed" id="3536913"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 287-354</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1986" name="Cell" volume="45" first="315" last="324">
+<title>The intracellular signal for induction of resistance to alkylating agents in E. coli.</title>
+<authorList>
+<person name="Teo I."/>
+<person name="Sedgwick B."/>
+<person name="Kilpatrick M.W."/>
+<person name="McCarthy T.V."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="3009022"/>
+<dbReference type="DOI" id="10.1016/0092-8674(86)90396-X"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-29</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1986" name="Proc. Natl. Acad. Sci. U.S.A." volume="83" first="6297" last="6301">
+<title>Regulatory mechanisms for induction of synthesis of repair enzymes in response to alkylating agents: ada protein acts as a transcriptional regulator.</title>
+<authorList>
+<person name="Nakabeppu Y."/>
+<person name="Sekiguchi M."/>
+</authorList>
+<dbReference type="PubMed" id="3529081"/>
+<dbReference type="DOI" id="10.1073/pnas.83.17.6297"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-27</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1985" name="Nucleic Acids Res." volume="13" first="2683" last="2698">
+<title>Methyl phosphotriesters in alkylated DNA are repaired by the Ada regulatory protein of E. coli.</title>
+<authorList>
+<person name="McCarthy T.V."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="2987862"/>
+<dbReference type="DOI" id="10.1093/nar/13.8.2683"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="4430" last="4433">
+<title>Functional domains and methyl acceptor sites of the Escherichia coli Ada protein.</title>
+<authorList>
+<person name="Sedgwick B."/>
+<person name="Robins P."/>
+<person name="Totty N."/>
+<person name="Lindahl T."/>
+</authorList>
+<dbReference type="PubMed" id="3162236"/>
+</citation>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1992" name="Biochemistry" volume="31" first="4541" last="4547">
+<title>Zinc binding by the methylation signaling domain of the Escherichia coli Ada protein.</title>
+<authorList>
+<person name="Myers L.C."/>
+<person name="Terranova M.P."/>
+<person name="Nash H.M."/>
+<person name="Markus M.A."/>
+<person name="Verdine G.L."/>
+</authorList>
+<dbReference type="PubMed" id="1581309"/>
+<dbReference type="DOI" id="10.1021/bi00134a002"/>
+</citation>
+<scope>ZINC-BINDING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1613" last="1619">
+<title>Specificities of human, rat and E. coli O6-methylguanine-DNA methyltransferases towards the repair of O6-methyl and O6-ethylguanine in DNA.</title>
+<authorList>
+<person name="Liem L.-K."/>
+<person name="Lim A."/>
+<person name="Li B.F.L."/>
+</authorList>
+<dbReference type="PubMed" id="8202360"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1613"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1993" name="FEBS Lett." volume="323" first="252" last="256">
+<title>Folding topology and DNA binding of the N-terminal fragment of Ada protein.</title>
+<authorList>
+<person name="Sakashita H."/>
+<person name="Sakuma T."/>
+<person name="Ohkubo T."/>
+<person name="Kainosho M."/>
+<person name="Sakumi K."/>
+<person name="Sekiguchi M."/>
+<person name="Morikawa K."/>
+</authorList>
+<dbReference type="PubMed" id="8500619"/>
+<dbReference type="DOI" id="10.1016/0014-5793(93)81351-Y"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-129</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1993" name="Science" volume="261" first="1164" last="1167">
+<title>Repair of DNA methylphosphotriesters through a metalloactivated cysteine nucleophile.</title>
+<authorList>
+<person name="Myers L.C."/>
+<person name="Terranova M.P."/>
+<person name="Ferentz A.E."/>
+<person name="Wagner G."/>
+<person name="Verdine G.L."/>
+</authorList>
+<dbReference type="PubMed" id="8395079"/>
+<dbReference type="DOI" id="10.1126/science.8395079"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-92 IN COMPLEX WITH ZINC IONS</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="1495" last="1501">
+<title>Crystal structure of a suicidal DNA repair protein: the Ada O6-methylguanine-DNA methyltransferase from E. coli.</title>
+<authorList>
+<person name="Moore M.H."/>
+<person name="Gulbis J.M."/>
+<person name="Dodson E.J."/>
+<person name="Demple B."/>
+<person name="Moody P.C.E."/>
+</authorList>
+<dbReference type="PubMed" id="8156986"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 175-354</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="4261" last="4271">
+<title>Structural basis for the functional switch of the E. coli Ada protein.</title>
+<authorList>
+<person name="Lin Y."/>
+<person name="Doetsch V."/>
+<person name="Wintner T."/>
+<person name="Peariso K."/>
+<person name="Myers L.C."/>
+<person name="Penner-Hahn J.E."/>
+<person name="Verdine G.L."/>
+<person name="Wagner G."/>
+</authorList>
+<dbReference type="PubMed" id="11284682"/>
+<dbReference type="DOI" id="10.1021/bi002109p"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-92 IN COMPLEX WITH ZINC IONS</scope>
+<scope>INTERACTION WITH DNA</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2005" name="Mol. Cell" volume="20" first="117" last="129">
+<title>A methylation-dependent electrostatic switch controls DNA repair and transcriptional activation by E. coli ada.</title>
+<authorList>
+<person name="He C."/>
+<person name="Hus J.-C."/>
+<person name="Sun L.J."/>
+<person name="Zhou P."/>
+<person name="Norman D.P.G."/>
+<person name="Doetsch V."/>
+<person name="Wei H."/>
+<person name="Gross J.D."/>
+<person name="Lane W.S."/>
+<person name="Wagner G."/>
+<person name="Verdine G.L."/>
+</authorList>
+<dbReference type="PubMed" id="16209950"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2005.08.013"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 9-139 IN COMPLEX WITH DNA AND ZINC IONS</scope>
+<scope>STRUCTURE BY NMR OF 9-139</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2006" name="Protein Sci." volume="15" first="487" last="497">
+<title>The solution structure of the methylated form of the N-terminal 16-kDa domain of Escherichia coli Ada protein.</title>
+<authorList>
+<person name="Takinowaki H."/>
+<person name="Matsuda Y."/>
+<person name="Yoshida T."/>
+<person name="Kobayashi Y."/>
+<person name="Ohkubo T."/>
+</authorList>
+<dbReference type="PubMed" id="16452614"/>
+<dbReference type="DOI" id="10.1110/ps.051786306"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-146 IN COMPLEX WITH ZINC IONS</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>ACTIVE SITE CYS-38</scope>
+</reference>
+<comment type="function">
+<text evidence="11">Involved in the adaptive response to alkylation damage in DNA caused by alkylating agents. Repairs O6-methylguanine (O6-MeG) and O4-methylthymine (O4-MeT) in DNA. Repairs the methylated nucleobase in DNA by stoichiometrically transferring the methyl group to a cysteine residue in the enzyme (Cys-321). Also specifically repairs the Sp diastereomer of DNA methylphosphotriester lesions by the same mechanism, although the methyl transfer occurs onto a different cysteine residue (Cys-38). Cannot demethylate the other diastereomer, Rp-methylphosphotriester. This is a suicide reaction: the enzyme is irreversibly inactivated.</text>
+</comment>
+<comment type="function">
+<text evidence="11">The methylation of Ada by methylphosphotriesters in DNA leads to its activation as a transcriptional regulator that activates the transcription of its own gene, ada, and other alkylation resistance genes, alkA, alkB and aidB.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="11">
+<text>a methylphosphotriester deoxyribonucleoside in DNA + L-cysteinyl-[protein] = a deoxyribonucleotide in DNA + H(+) + S-methyl-L-cysteinyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:56324"/>
+<dbReference type="Rhea" id="RHEA-COMP:10131"/>
+<dbReference type="Rhea" id="RHEA-COMP:10132"/>
+<dbReference type="Rhea" id="RHEA-COMP:14462"/>
+<dbReference type="Rhea" id="RHEA-COMP:14463"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29950"/>
+<dbReference type="ChEBI" id="CHEBI:82612"/>
+<dbReference type="ChEBI" id="CHEBI:140284"/>
+<dbReference type="ChEBI" id="CHEBI:140286"/>
+<dbReference type="EC" id="2.1.1.n11"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="8 11">
+<text>a 6-O-methyl-2'-deoxyguanosine in DNA + L-cysteinyl-[protein] = a 2'-deoxyguanosine in DNA + S-methyl-L-cysteinyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:24000"/>
+<dbReference type="Rhea" id="RHEA-COMP:10131"/>
+<dbReference type="Rhea" id="RHEA-COMP:10132"/>
+<dbReference type="Rhea" id="RHEA-COMP:11367"/>
+<dbReference type="Rhea" id="RHEA-COMP:11368"/>
+<dbReference type="ChEBI" id="CHEBI:29950"/>
+<dbReference type="ChEBI" id="CHEBI:82612"/>
+<dbReference type="ChEBI" id="CHEBI:85445"/>
+<dbReference type="ChEBI" id="CHEBI:85448"/>
+<dbReference type="EC" id="2.1.1.63"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="8 11">
+<text>a 4-O-methyl-thymidine in DNA + L-cysteinyl-[protein] = a thymidine in DNA + S-methyl-L-cysteinyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:53428"/>
+<dbReference type="Rhea" id="RHEA-COMP:10131"/>
+<dbReference type="Rhea" id="RHEA-COMP:10132"/>
+<dbReference type="Rhea" id="RHEA-COMP:13555"/>
+<dbReference type="Rhea" id="RHEA-COMP:13556"/>
+<dbReference type="ChEBI" id="CHEBI:29950"/>
+<dbReference type="ChEBI" id="CHEBI:82612"/>
+<dbReference type="ChEBI" id="CHEBI:137386"/>
+<dbReference type="ChEBI" id="CHEBI:137387"/>
+<dbReference type="EC" id="2.1.1.63"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text>Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1119501"/>
+<interactant intactId="EBI-545453">
+<id>P69931</id>
+<label>hda</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="induction">
+<text>Up-regulated by methylated Ada itself in response to the exposure to alkylating agents.</text>
+</comment>
+<comment type="domain">
+<text evidence="12">Consists of two domains. The 20 kDa N-terminal domain repairs the Sp diastereomer of methylphosphotriesters and, in its methylated form, binds DNA in a sequence-specific manner. The 19 kDa C-terminal domain repairs the mutagenic lesions O6-methylguanine. Each domain retains its activity when separated form the other.</text>
+</comment>
+<comment type="miscellaneous">
+<text>This enzyme catalyzes only one turnover and therefore is not strictly catalytic. According to one definition, an enzyme is a biocatalyst that acts repeatedly and over many reaction cycles.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">In the C-terminal section; belongs to the MGMT family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.n11" evidence="11"/>
+<dbReference type="EC" id="2.1.1.63" evidence="11"/>
+<dbReference type="EMBL" id="M10211">
+<property type="protein sequence ID" value="AAA23412.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10315">
+<property type="protein sequence ID" value="AAA23413.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00008">
+<property type="protein sequence ID" value="AAA16408.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75273.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA15996.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J02607">
+<property type="protein sequence ID" value="AAA23415.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13155">
+<property type="protein sequence ID" value="AAA23418.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13828">
+<property type="protein sequence ID" value="AAA23417.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C64991">
+<property type="entry name" value="XYECO2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416717.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000710375.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1ADN">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-92"/>
+</dbReference>
+<dbReference type="PDB" id="1EYF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-92"/>
+</dbReference>
+<dbReference type="PDB" id="1SFE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=175-354"/>
+</dbReference>
+<dbReference type="PDB" id="1U8B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=9-139"/>
+</dbReference>
+<dbReference type="PDB" id="1WPK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-146"/>
+</dbReference>
+<dbReference type="PDB" id="1ZGW">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-139"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ADN"/>
+<dbReference type="PDBsum" id="1EYF"/>
+<dbReference type="PDBsum" id="1SFE"/>
+<dbReference type="PDBsum" id="1U8B"/>
+<dbReference type="PDBsum" id="1WPK"/>
+<dbReference type="PDBsum" id="1ZGW"/>
+<dbReference type="SMR" id="P06134"/>
+<dbReference type="BioGrid" id="4261923">
+<property type="interactions" value="99"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9055N"/>
+<dbReference type="IntAct" id="P06134">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2213"/>
+<dbReference type="jPOST" id="P06134"/>
+<dbReference type="PaxDb" id="P06134"/>
+<dbReference type="PRIDE" id="P06134"/>
+<dbReference type="EnsemblBacteria" id="AAC75273">
+<property type="protein sequence ID" value="AAC75273"/>
+<property type="gene ID" value="b2213"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA15996">
+<property type="protein sequence ID" value="BAA15996"/>
+<property type="gene ID" value="BAA15996"/>
+</dbReference>
+<dbReference type="GeneID" id="946710"/>
+<dbReference type="KEGG" id="ecj:JW2201"/>
+<dbReference type="KEGG" id="eco:b2213"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.22"/>
+<dbReference type="EchoBASE" id="EB0028"/>
+<dbReference type="EcoGene" id="EG10029">
+<property type="gene designation" value="ada"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105K85">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0350">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2169">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244139"/>
+<dbReference type="InParanoid" id="P06134"/>
+<dbReference type="KO" id="K10778"/>
+<dbReference type="PhylomeDB" id="P06134"/>
+<dbReference type="BioCyc" id="EcoCyc:PD00230"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2201-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:PD00230"/>
+<dbReference type="EvolutionaryTrace" id="P06134"/>
+<dbReference type="PRO" id="PR:P06134"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003908">
+<property type="term" value="F:methylated-DNA-[protein]-cysteine S-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006307">
+<property type="term" value="P:DNA dealkylation involved in DNA repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080111">
+<property type="term" value="P:DNA demethylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018125">
+<property type="term" value="P:peptidyl-cysteine methylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd06445">
+<property type="entry name" value="ATase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035451">
+<property type="entry name" value="Ada-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004026">
+<property type="entry name" value="Ada_DNA_repair_Zn-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016221">
+<property type="entry name" value="Bifunct_regulatory_prot_Ada"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018060">
+<property type="entry name" value="HTH_AraC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018062">
+<property type="entry name" value="HTH_AraC-typ_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001497">
+<property type="entry name" value="MethylDNA_cys_MeTrfase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014048">
+<property type="entry name" value="MethylDNA_cys_MeTrfase_DNA-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036217">
+<property type="entry name" value="MethylDNA_cys_MeTrfase_DNAb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008332">
+<property type="entry name" value="MethylG_MeTrfase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036631">
+<property type="entry name" value="MGMT_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02805">
+<property type="entry name" value="Ada_Zn_binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01035">
+<property type="entry name" value="DNA_binding_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12833">
+<property type="entry name" value="HTH_18"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02870">
+<property type="entry name" value="Methyltransf_1N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000409">
+<property type="entry name" value="Ada"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00342">
+<property type="entry name" value="HTH_ARAC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46767">
+<property type="entry name" value="SSF46767"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53155">
+<property type="entry name" value="SSF53155"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57884">
+<property type="entry name" value="SSF57884"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00589">
+<property type="entry name" value="ogt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00041">
+<property type="entry name" value="HTH_ARAC_FAMILY_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01124">
+<property type="entry name" value="HTH_ARAC_FAMILY_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00374">
+<property type="entry name" value="MGMT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Bifunctional transcriptional activator/DNA repair enzyme Ada" id="PRO_0000018747">
+<location>
+<begin position="1"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="domain" description="HTH araC/xylS-type" evidence="7">
+<location>
+<begin position="85"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="7">
+<location>
+<begin position="102"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="region of interest" description="Methylphosphotriester-DNA--protein-cysteine methyltransferase">
+<location>
+<begin position="1"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="region of interest" description="Methylated-DNA--protein-cysteine methyltransferase">
+<location>
+<begin position="181"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile; methyl group acceptor from methylphosphotriester" evidence="8 10">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile; methyl group acceptor from either O6-methylguanine or O4-methylthymine" evidence="8 9">
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="9">
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="9">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="9">
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="binding site" description="DNA" evidence="9">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage">
+<location>
+<begin position="128"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage">
+<location>
+<begin position="178"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: B.">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: B.">
+<original>AQ</original>
+<variation>PR</variation>
+<location>
+<begin position="79"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: B.">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="318"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: B.">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="330"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23412." ref="1" evidence="13">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="4"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="9"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="21"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="24"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="27"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="36"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="49"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="52"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="58"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="79"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="96"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="102"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="113"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="128"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="142"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="190"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="199"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="207"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="219"/>
+<end position="229"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="240"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="255"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="270"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="290"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="303"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="321"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="338"/>
+<end position="348"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ADN"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1EYF"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1SFE"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1U8B"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1WPK"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ZGW"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00593"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10017"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16209950"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16452614"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2987862"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3162236"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="354" mass="39324" checksum="4163E585C768C2F4" modified="1994-02-01" version="2">
+MKKATCLTDDQRWQSVLARDPNADGEFVFAVRTTGIFCRPSCRARHALRENVSFYANASE
+ALAAGFRPCKRCQPEKANAQQHRLDKITHACRLLEQETPVTLEALADQVAMSPFHLHRLF
+KATTGMTPKAWQQAWRARRLRESLAKGESVTTSILNAGFPDSSSYYRKADETLGMTAKQF
+RHGGENLAVRYALADCELGRCLVAESERGICAILLGDDDATLISELQQMFPAADNAPADL
+MFQQHVREVIASLNQRDTPLTLPLDIRGTAFQQQVWQALRTIPCGETVSYQQLANAIGKP
+KAVRAVASACAANKLAIIIPCHRVVRGDGTLSGYRWGVSRKAQLLRREAENEER
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

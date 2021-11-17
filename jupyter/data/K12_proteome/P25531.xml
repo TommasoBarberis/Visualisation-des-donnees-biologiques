@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-05-01" modified="2019-05-08" version="145">
+<accession>P25531</accession>
+<accession>Q2M7V2</accession>
+<name>YICR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>UPF0758 protein YicR</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yicR</name>
+<name type="ordered locus">b3638</name>
+<name type="ordered locus">JW5643</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Genomics" volume="16" first="551" last="561">
+<title>DNA sequence and analysis of 136 kilobases of the Escherichia coli genome: organizational symmetry around the origin of replication.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7686882"/>
+<dbReference type="DOI" id="10.1006/geno.1993.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="366" last="366">
+<title>Identification of the radC102 mutation. Order of the genes in the 81.5-82.0 min region of the Escherichia coli chromosome.</title>
+<authorList>
+<person name="Felzenszwalb I."/>
+<person name="Boiteux S."/>
+<person name="Laval J."/>
+</authorList>
+<dbReference type="PubMed" id="1741263"/>
+<dbReference type="DOI" id="10.1093/nar/20.2.366"/>
+</citation>
+<scope>PRELIMINARY NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 124-222</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2000" name="J. Bacteriol." volume="182" first="6287" last="6291">
+<title>radC102 of Escherichia coli is an allele of recG.</title>
+<authorList>
+<person name="Lombardo M.J."/>
+<person name="Rosenberg S.M."/>
+</authorList>
+<dbReference type="PubMed" id="11053371"/>
+<dbReference type="DOI" id="10.1128/JB.182.22.6287-6291.2000"/>
+</citation>
+<scope>SHOWS THAT THIS IS NOT RADC</scope>
+</reference>
+<comment type="similarity">
+<text evidence="2">Belongs to the UPF0758 family. YicR subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">Was originally thought to be the site of the radC102 mutation, but it was subsequently shown that radC102 is an allele of RecG.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA61991" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="L10328">
+<property type="protein sequence ID" value="AAA61991.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76662.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77654.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X63366">
+<property type="protein sequence ID" value="CAA44966.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X63367">
+<property type="protein sequence ID" value="CAA44967.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65164">
+<property type="entry name" value="H65164"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418095.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001350561.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P25531"/>
+<dbReference type="BioGrid" id="4261656">
+<property type="interactions" value="200"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10636N"/>
+<dbReference type="IntAct" id="P25531">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3638"/>
+<dbReference type="PaxDb" id="P25531"/>
+<dbReference type="PRIDE" id="P25531"/>
+<dbReference type="EnsemblBacteria" id="AAC76662">
+<property type="protein sequence ID" value="AAC76662"/>
+<property type="gene ID" value="b3638"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77654">
+<property type="protein sequence ID" value="BAE77654"/>
+<property type="gene ID" value="BAE77654"/>
+</dbReference>
+<dbReference type="GeneID" id="948968"/>
+<dbReference type="KEGG" id="ecj:JW5643"/>
+<dbReference type="KEGG" id="eco:b3638"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3758"/>
+<dbReference type="EchoBASE" id="EB1288"/>
+<dbReference type="EcoGene" id="EG11312">
+<property type="gene designation" value="yicR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105W5Q">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2003">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000273376"/>
+<dbReference type="InParanoid" id="P25531"/>
+<dbReference type="KO" id="K03630"/>
+<dbReference type="PhylomeDB" id="P25531"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11312-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5643-MONOMER"/>
+<dbReference type="PRO" id="PR:P25531"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008237">
+<property type="term" value="F:metallopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd08071">
+<property type="entry name" value="MPN_DUF2466"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00018">
+<property type="entry name" value="UPF0758_YicR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037518">
+<property type="entry name" value="MPN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025657">
+<property type="entry name" value="RadC_JAB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010994">
+<property type="entry name" value="RuvA_2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001405">
+<property type="entry name" value="UPF0758"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020891">
+<property type="entry name" value="UPF0758_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022820">
+<property type="entry name" value="UPF0758_YicR"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30471">
+<property type="entry name" value="PTHR30471"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04002">
+<property type="entry name" value="RadC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47781">
+<property type="entry name" value="SSF47781"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00608">
+<property type="entry name" value="radc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50249">
+<property type="entry name" value="MPN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01302">
+<property type="entry name" value="UPF0758"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0482">Metalloprotease</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="UPF0758 protein YicR" id="PRO_0000190694">
+<location>
+<begin position="1"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="domain" description="MPN" evidence="1">
+<location>
+<begin position="100"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="JAMM motif" evidence="1">
+<location>
+<begin position="171"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="184"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01182"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<evidence key="3" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11053371"/>
+</source>
+</evidence>
+<sequence length="222" mass="25343" checksum="1E825DEB596D742A" modified="2000-05-30" version="3">
+MKNNSQLLMPREKMLKFGISALTDVELLALFLRTGTRGKDVLTLAKEMLENFGSLYGLLT
+SEYEQFSGVHGIGVAKFAQLKGIAELARRYYNVRMREESPLLSPEMTREFLQSQLTGEER
+EIFMVIFLDSQHRVITHRRLFSGTLNHVEVHPREIIREAIKINASALILAHNHPSGCAEP
+SKADKLITERIIKSCQFMDLRVLDHIVIGRGEYVSFAERGWI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

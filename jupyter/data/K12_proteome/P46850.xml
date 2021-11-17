@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-05-08" version="112">
+<accession>P46850</accession>
+<accession>P76690</accession>
+<accession>Q2M785</accession>
+<name>RTCB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>RNA-splicing ligase RtcB</fullName>
+<ecNumber>6.5.1.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">rtcB</name>
+<name type="synonym">yhgL</name>
+<name type="ordered locus">b3421</name>
+<name type="ordered locus">JW3384</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="25516" last="25526">
+<title>Characterization of the Escherichia coli RNA 3'-terminal phosphate cyclase and its sigma54-regulated operon.</title>
+<authorList>
+<person name="Genschik P."/>
+<person name="Drabikowski K."/>
+<person name="Filipowicz W."/>
+</authorList>
+<dbReference type="PubMed" id="9738023"/>
+<dbReference type="DOI" id="10.1074/jbc.273.39.25516"/>
+</citation>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="7727" last="7731">
+<title>RtcB is the RNA ligase component of an Escherichia coli RNA repair operon.</title>
+<authorList>
+<person name="Tanaka N."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="21224389"/>
+<dbReference type="DOI" id="10.1074/jbc.C111.219022"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="30253" last="30257">
+<title>RtcB, a novel RNA ligase, can catalyze tRNA splicing and HAC1 mRNA splicing in vivo.</title>
+<authorList>
+<person name="Tanaka N."/>
+<person name="Meineke B."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="21757685"/>
+<dbReference type="DOI" id="10.1074/jbc.C111.274597"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="43134" last="43143">
+<title>Novel mechanism of RNA repair by RtcB via sequential 2',3'-cyclic phosphodiesterase and 3'-Phosphate/5'-hydroxyl ligation reactions.</title>
+<authorList>
+<person name="Tanaka N."/>
+<person name="Chakravarty A.K."/>
+<person name="Maughan B."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="22045815"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.302133"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Nucleic Acids Res." volume="40" first="8558" last="8567">
+<title>The sequential 2',3'-cyclic phosphodiesterase and 3'-phosphate/5'-OH ligation steps of the RtcB RNA splicing pathway are GTP-dependent.</title>
+<authorList>
+<person name="Chakravarty A.K."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="22730297"/>
+<dbReference type="DOI" id="10.1093/nar/gks558"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="6072" last="6077">
+<title>RNA ligase RtcB splices 3'-phosphate and 5'-OH ends via covalent RtcB-(histidinyl)-GMP and polynucleotide-(3')pp(5')G intermediates.</title>
+<authorList>
+<person name="Chakravarty A.K."/>
+<person name="Subbotin R."/>
+<person name="Chait B.T."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="22474365"/>
+<dbReference type="DOI" id="10.1073/pnas.1201207109"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>ACTIVE SITE</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>MUTAGENESIS OF HIS-337</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="Proc. Natl. Acad. Sci. U.S.A." volume="110" first="20437" last="20442">
+<title>Rewriting the rules for end joining via enzymatic splicing of DNA 3'-PO4 and 5'-OH ends.</title>
+<authorList>
+<person name="Das U."/>
+<person name="Chakravarty A.K."/>
+<person name="Remus B.S."/>
+<person name="Shuman S."/>
+</authorList>
+<dbReference type="PubMed" id="24218597"/>
+<dbReference type="DOI" id="10.1073/pnas.1314289110"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REACTION MECHANISM</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5 6 7">RNA ligase that mediates the joining of broken tRNA-like stem-loop structures in case of tRNA damage. Probably participates to tRNA restriction-repair by ligating broken tRNA-like stem-loop structures with 2',3'-cyclic phosphate and 5'-OH ends to form a splice junction with a 2'-OH, 3',5'-phosphodiester, a step that requires GTP (PubMed:21224389, PubMed:22730297). Also acts as a DNA ligase in case of DNA damage by splicing 'dirty' DNA breaks, characterized by 3'-PO4 (or cyclic-PO4) and 5'-OH ends that cannot be sealed by classical DNA ligases (PubMed:24218597).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="3 4">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<text evidence="3 4">Binds 2 manganese ions per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Monomer.</text>
+</comment>
+<comment type="induction">
+<text evidence="2">Expression is repressed by RtcR.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="9">In contrast to the vertebrate homolog, ligation does not seem to require ATP, while GTP stimulates activity.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="10 11">Ligation proceeds through 3 nucleotidyl transfer steps, with 2',3'-cyclic phosphate termini being hydrolyzed to 3'-P termini in a step that precedes 3'-P activation with GMP. In the first nucleotidyl transfer step, RtcB reacts with GTP to form a covalent RtcB-histidine-GMP intermediate with release of PPi; in the second step, the GMP moiety is transferred to the RNA 3'-P; in the third step, the 5'-OH from the opposite RNA strand attacks the activated 3'-P to form a 3',5'-phosphodiester bond and release GMP (PubMed:22474365). Acts as a DNA ligase by attaching a GMP nucleotide to the DNA 3'-PO4 end to activate it for nucleophilic attack by the 5'-OH (PubMed:24218597).</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the RtcB family.</text>
+</comment>
+<dbReference type="EC" id="6.5.1.-"/>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58219.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76446.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77871.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="H65137">
+<property type="entry name" value="H65137"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417879.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001105504.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P46850"/>
+<dbReference type="BioGrid" id="4261188">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="IntAct" id="P46850">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3421"/>
+<dbReference type="SWISS-2DPAGE" id="P46850"/>
+<dbReference type="jPOST" id="P46850"/>
+<dbReference type="PaxDb" id="P46850"/>
+<dbReference type="PRIDE" id="P46850"/>
+<dbReference type="EnsemblBacteria" id="AAC76446">
+<property type="protein sequence ID" value="AAC76446"/>
+<property type="gene ID" value="b3421"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77871">
+<property type="protein sequence ID" value="BAE77871"/>
+<property type="gene ID" value="BAE77871"/>
+</dbReference>
+<dbReference type="GeneID" id="947929"/>
+<dbReference type="KEGG" id="ecj:JW3384"/>
+<dbReference type="KEGG" id="eco:b3421"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3516"/>
+<dbReference type="EchoBASE" id="EB2774"/>
+<dbReference type="EcoGene" id="EG12939">
+<property type="gene designation" value="rtcB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E0Y">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1690">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000220066"/>
+<dbReference type="InParanoid" id="P46850"/>
+<dbReference type="KO" id="K14415"/>
+<dbReference type="PhylomeDB" id="P46850"/>
+<dbReference type="BioCyc" id="EcoCyc:G7751-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3384-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7751-MONOMER"/>
+<dbReference type="BRENDA" id="6.5.1.4">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P46850"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003909">
+<property type="term" value="F:DNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030145">
+<property type="term" value="F:manganese ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008452">
+<property type="term" value="F:RNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006396">
+<property type="term" value="P:RNA processing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042245">
+<property type="term" value="P:RNA repair"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1860.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001233">
+<property type="entry name" value="RtcB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036025">
+<property type="entry name" value="RtcB-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01139">
+<property type="entry name" value="RtcB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF103365">
+<property type="entry name" value="SSF103365"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01288">
+<property type="entry name" value="UPF0027"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="RNA-splicing ligase RtcB" id="PRO_0000215109">
+<location>
+<begin position="1"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GMP" evidence="1">
+<location>
+<begin position="281"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GMP" evidence="1">
+<location>
+<begin position="311"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GMP" evidence="1">
+<location>
+<begin position="337"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="active site" description="GMP-histidine intermediate" evidence="5">
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1" evidence="1">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1" evidence="1">
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2" evidence="1">
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 1" evidence="1">
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2" evidence="1">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese 2" evidence="1">
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="binding site" description="GMP" evidence="1">
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="binding site" description="GMP" evidence="1">
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="binding site" description="GMP" evidence="1">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of function. Abolishes formation of guanylylated RtcB intermediate." evidence="5">
+<original>H</original>
+<variation>A</variation>
+<variation>N</variation>
+<variation>Q</variation>
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA58219." ref="1" evidence="8">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21224389"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21757685"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22045815"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22474365"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22730297"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24218597"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21224389"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22474365"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24218597"/>
+</source>
+</evidence>
+<sequence length="408" mass="45222" checksum="C0C33BA04542185F" modified="1998-07-15" version="3">
+MNYELLTTENAPVKMWTKGVPVEADARQQLINTAKMPFIFKHIAVMPDVHLGKGSTIGSV
+IPTKGAIIPAAVGVDIGCGMNALRTALTAEDLPENLAELRQAIETAVPHGRTTGRCKRDK
+GAWENPPVNVDAKWAELEAGYQWLTQKYPRFLNTNNYKHLGTLGTGNHFIEICLDESDQV
+WIMLHSGSRGIGNAIGTYFIDLAQKEMQETLETLPSRDLAYFMEGTEYFDDYLKAVAWAQ
+LFASLNRDAMMENVVTALQSITQKTVRQPQTLAMEEINCHHNYVQKEQHFGEEIYVTRKG
+AVSARAGQYGIIPGSMGAKSFIVRGLGNEESFCSCSHGAGRVMSRTKAKKLFSVEDQIRA
+TAHVECRKDAEVIDEIPMAYKDIDAVMAAQSDLVEVIYTLRQVVCVKG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="81">
+<accession>P0AEQ1</accession>
+<accession>P45504</accession>
+<accession>Q2M9L9</accession>
+<name>GLCG_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protein GlcG</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">glcG</name>
+<name type="synonym">yghC</name>
+<name type="ordered locus">b2977</name>
+<name type="ordered locus">JW2944</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="J. Bacteriol." volume="178" first="2051" last="2059">
+<title>glc locus of Escherichia coli: characterization of genes encoding the subunits of glycolate oxidase and the glc regulator protein.</title>
+<authorList>
+<person name="Pellicer M.T."/>
+<person name="Badia J."/>
+<person name="Aguilar J.T."/>
+<person name="Baldoma L."/>
+</authorList>
+<dbReference type="PubMed" id="8606183"/>
+<dbReference type="DOI" id="10.1128/jb.178.7.2051-2059.1996"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1994" name="Eur. J. Biochem." volume="224" first="541" last="548">
+<title>Molecular characterization of Escherichia coli malate synthase G. Differentiation with the malate synthase A isoenzyme.</title>
+<authorList>
+<person name="Molina I."/>
+<person name="Badia J."/>
+<person name="Aguilar J.T."/>
+<person name="Pellicer M.T."/>
+<person name="Baldoma L."/>
+</authorList>
+<dbReference type="PubMed" id="7925370"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1994.00541.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 59-134</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the GlcG family.</text>
+</comment>
+<dbReference type="EMBL" id="L43490">
+<property type="protein sequence ID" value="AAB02533.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69144.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76013.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77037.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X74547">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65083">
+<property type="entry name" value="G65083"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417451.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000853256.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AEQ1"/>
+<dbReference type="BioGrid" id="4263078">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9766N"/>
+<dbReference type="STRING" id="511145.b2977"/>
+<dbReference type="jPOST" id="P0AEQ1"/>
+<dbReference type="PaxDb" id="P0AEQ1"/>
+<dbReference type="PRIDE" id="P0AEQ1"/>
+<dbReference type="EnsemblBacteria" id="AAC76013">
+<property type="protein sequence ID" value="AAC76013"/>
+<property type="gene ID" value="b2977"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77037">
+<property type="protein sequence ID" value="BAE77037"/>
+<property type="gene ID" value="BAE77037"/>
+</dbReference>
+<dbReference type="GeneID" id="947473"/>
+<dbReference type="KEGG" id="ecj:JW2944"/>
+<dbReference type="KEGG" id="eco:b2977"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3071"/>
+<dbReference type="EchoBASE" id="EB2786"/>
+<dbReference type="EcoGene" id="EG12952">
+<property type="gene designation" value="glcG"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108ZJF">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3193">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000195937"/>
+<dbReference type="InParanoid" id="P0AEQ1"/>
+<dbReference type="KO" id="K11477"/>
+<dbReference type="PhylomeDB" id="P0AEQ1"/>
+<dbReference type="BioCyc" id="EcoCyc:G7543-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2944-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AEQ1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.450.150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038084">
+<property type="entry name" value="GlcG-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005624">
+<property type="entry name" value="Haem_degrading"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03928">
+<property type="entry name" value="Haem_degrading"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF143744">
+<property type="entry name" value="SSF143744"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Protein GlcG" id="PRO_0000087504">
+<location>
+<begin position="1"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4." ref="4" evidence="1">
+<original>AAAVLAK</original>
+<variation>QQRCWRNKRKRGDKQ</variation>
+<location>
+<begin position="128"/>
+<end position="134"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="134" mass="13737" checksum="43D8A615A6E60A6A" modified="2005-12-20" version="1">
+MKTKVILSQQMASAIIAAGQEEAQKNNWSVSIAVADDGGHLLALSRMDDCAPIAAYISQE
+KARTAALGRRETKGYEEMVNNGRTAFVTAPLLTSLEGGVPVVVDGQIIGAVGVSGLTGAQ
+DAQVAKAAAAVLAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

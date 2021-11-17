@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-05-08" version="127">
+<accession>P37619</accession>
+<accession>Q2M7D4</accession>
+<name>QPTR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Queuosine precursor transporter</fullName>
+<shortName evidence="1 4">Q precursor transporter</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yhhQ</name>
+<name type="ordered locus">b3471</name>
+<name type="ordered locus">JW3436</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2017" name="Biomolecules" volume="7">
+<title>The Escherichia coli COG1738 member YhhQ is involved in 7-cyanodeazaguanine (preQ(0)) transport.</title>
+<authorList>
+<person name="Zallot R."/>
+<person name="Yuan Y."/>
+<person name="de Crecy-Lagard V."/>
+</authorList>
+<dbReference type="PubMed" id="28208705"/>
+<dbReference type="DOI" id="10.3390/biom7010012"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Involved in the import of queuosine (Q) precursors, required for Q precursor salvage. Transports 7-cyano-7-deazaguanine (preQ(0)) and 7-aminomethyl-7-deazaguanine (preQ(1)), with a preference for preQ(0).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 2">Cell inner membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">YhhQ-queD double mutant cannot produce Q modified tRNA in minimal media with preQ(0) or preQ(1). YhhQ expressed from a plasmid restores the presence of Q modified tRNA.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 4">Belongs to the vitamin uptake transporter (VUT/ECF) (TC 2.A.88) family. Q precursor transporter subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18446.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76496.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77822.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S47690">
+<property type="entry name" value="S47690"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417928.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001100469.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3471"/>
+<dbReference type="PaxDb" id="P37619"/>
+<dbReference type="PRIDE" id="P37619"/>
+<dbReference type="EnsemblBacteria" id="AAC76496">
+<property type="protein sequence ID" value="AAC76496"/>
+<property type="gene ID" value="b3471"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77822">
+<property type="protein sequence ID" value="BAE77822"/>
+<property type="gene ID" value="BAE77822"/>
+</dbReference>
+<dbReference type="GeneID" id="947984"/>
+<dbReference type="KEGG" id="ecj:JW3436"/>
+<dbReference type="KEGG" id="eco:b3471"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3254"/>
+<dbReference type="EchoBASE" id="EB2131"/>
+<dbReference type="EcoGene" id="EG12217">
+<property type="gene designation" value="yhhQ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EX9">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1738">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000284591"/>
+<dbReference type="InParanoid" id="P37619"/>
+<dbReference type="KO" id="K09125"/>
+<dbReference type="PhylomeDB" id="P37619"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12217-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3436-MONOMER"/>
+<dbReference type="PRO" id="PR:P37619"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022857">
+<property type="term" value="F:transmembrane transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072531">
+<property type="term" value="P:pyrimidine-containing compound transmembrane transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990397">
+<property type="term" value="P:queuosine salvage"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02088">
+<property type="entry name" value="Q_prec_transport"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003744">
+<property type="entry name" value="YhhQ"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR34300">
+<property type="entry name" value="PTHR34300"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02592">
+<property type="entry name" value="Vut_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00697">
+<property type="entry name" value="TIGR00697"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Queuosine precursor transporter" id="PRO_0000169556">
+<location>
+<begin position="1"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
+<location>
+<begin position="1"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="13"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="4">
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="35"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
+<location>
+<begin position="56"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="71"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="4">
+<location>
+<begin position="92"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="98"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
+<location>
+<begin position="119"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="144"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="4">
+<location>
+<begin position="165"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="185"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="206"/>
+<end position="221"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02088"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28208705"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="221" mass="25269" checksum="E3D90237BEE7ABCC" modified="1994-10-01" version="1">
+MNVFSQTQRYKALFWLSLFHLLVITSSNYLVQLPVSILGFHTTWGAFSFPFIFLATDLTV
+RIFGAPLARRIIFAVMIPALLISYVISSLFYMGSWQGFGALAHFNLFVARIATASFMAYA
+LGQILDVHVFNRLRQSRRWWLAPTASTLFGNVSDTLAFFFIAFWRSPDAFMAEHWMEIAL
+VDYCFKVLISIVFFLPMYGVLLNMLLKRLADKSEINALQAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

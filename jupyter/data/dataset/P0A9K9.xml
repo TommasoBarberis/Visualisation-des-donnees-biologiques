@@ -1,0 +1,901 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-07-03" version="120">
+<accession>P0A9K9</accession>
+<accession>P30856</accession>
+<accession>Q2M714</accession>
+<name>SLYD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>FKBP-type peptidyl-prolyl cis-trans isomerase SlyD</fullName>
+<shortName>PPIase</shortName>
+<ecNumber>5.2.1.8</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Histidine-rich protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Metallochaperone SlyD</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Rotamase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Sensitivity to lysis protein D</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>WHP</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">slyD</name>
+<name type="ordered locus">b3349</name>
+<name type="ordered locus">JW3311</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="2895" last="2901">
+<title>An Escherichia coli protein consisting of a domain homologous to FK506-binding proteins (FKBP) and a new metal binding motif.</title>
+<authorList>
+<person name="Wuelfing C."/>
+<person name="Lomardero J."/>
+<person name="Plueckthun A."/>
+</authorList>
+<dbReference type="PubMed" id="8300624"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-35 AND 141-146</scope>
+<source>
+<strain>K12 / ATCC 35607 / JM83</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="2902" last="2910">
+<title>slyD, a host gene required for phi X174 lysis, is related to the FK506-binding protein family of peptidyl-prolyl cis-trans-isomerases.</title>
+<authorList>
+<person name="Roof W.D."/>
+<person name="Horne S.M."/>
+<person name="Young K.D."/>
+<person name="Young R."/>
+</authorList>
+<dbReference type="PubMed" id="8300625"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS109</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Arch. Microbiol." volume="163" first="357" last="365">
+<title>Escherichia coli and other species of the Enterobacteriaceae encode a protein similar to the family of Mip-like FK506-binding proteins.</title>
+<authorList>
+<person name="Horne S.M."/>
+<person name="Young K.D."/>
+</authorList>
+<dbReference type="PubMed" id="7540828"/>
+<dbReference type="DOI" id="10.1007/BF00404209"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / CS109</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="15697" last="15701">
+<title>The Escherichia coli SlyD is a metal ion-regulated peptidyl-prolyl cis/trans-isomerase.</title>
+<authorList>
+<person name="Hottenrott S."/>
+<person name="Schumann T."/>
+<person name="Plueckthun A."/>
+<person name="Fischer G."/>
+<person name="Rahfeld J.-U."/>
+</authorList>
+<dbReference type="PubMed" id="9188461"/>
+<dbReference type="DOI" id="10.1074/jbc.272.25.15697"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>BL21</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Mol. Microbiol." volume="45" first="99" last="108">
+<title>The Escherichia coli FKBP-type PPIase SlyD is required for the stabilization of the E lysis protein of bacteriophage phi X174.</title>
+<authorList>
+<person name="Bernhardt T.G."/>
+<person name="Roof W.D."/>
+<person name="Young R."/>
+</authorList>
+<dbReference type="PubMed" id="12100551"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2002.02984.x"/>
+</citation>
+<scope>FUNCTION IN LYSIS OF PHIX174 INFECTED CELLS</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="4360" last="4366">
+<title>A role for SlyD in the Escherichia coli hydrogenase biosynthetic pathway.</title>
+<authorList>
+<person name="Zhang J.W."/>
+<person name="Butland G."/>
+<person name="Greenblatt J.F."/>
+<person name="Emili A."/>
+<person name="Zamble D.B."/>
+</authorList>
+<dbReference type="PubMed" id="15569666"/>
+<dbReference type="DOI" id="10.1074/jbc.M411799200"/>
+</citation>
+<scope>FUNCTION IN HYDROGENASE METALLOCENTER ASSEMBLY</scope>
+<scope>INTERACTION WITH HYPB</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Biochemistry" volume="45" first="20" last="33">
+<title>SlyD proteins from different species exhibit high prolyl isomerase and chaperone activities.</title>
+<authorList>
+<person name="Scholz C."/>
+<person name="Eckert B."/>
+<person name="Hagn F."/>
+<person name="Schaarschmidt P."/>
+<person name="Balbach J."/>
+<person name="Schmid F.X."/>
+</authorList>
+<dbReference type="PubMed" id="16388577"/>
+<dbReference type="DOI" id="10.1021/bi051922n"/>
+</citation>
+<scope>FUNCTION AS A CHAPERONE AND A PPIASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="7942" last="7944">
+<title>The peptidyl-prolyl isomerase activity of SlyD is not required for maturation of Escherichia coli hydrogenase.</title>
+<authorList>
+<person name="Zhang J.W."/>
+<person name="Leach M.R."/>
+<person name="Zamble D.B."/>
+</authorList>
+<dbReference type="PubMed" id="17720786"/>
+<dbReference type="DOI" id="10.1128/JB.00922-07"/>
+</citation>
+<scope>FUNCTION IN HYDROGENASE METALLOCENTER ASSEMBLY</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF ILE-42 AND PHE-132</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="7116" last="7124">
+<title>DnaK plays a pivotal role in Tat targeting of CueO and functions beside SlyD as a general Tat signal binding chaperone.</title>
+<authorList>
+<person name="Graubner W."/>
+<person name="Schierhorn A."/>
+<person name="Bruser T."/>
+</authorList>
+<dbReference type="PubMed" id="17215254"/>
+<dbReference type="DOI" id="10.1074/jbc.M608235200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH TAT SIGNAL SEQUENCES</scope>
+<source>
+<strain>K12 / MC4100 / JA176</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="J. Am. Chem. Soc." volume="131" first="18489" last="18500">
+<title>The Ni(II)-binding properties of the metallochaperone SlyD.</title>
+<authorList>
+<person name="Kaluarachchi H."/>
+<person name="Sutherland D.E."/>
+<person name="Young A."/>
+<person name="Pickering I.J."/>
+<person name="Stillman M.J."/>
+<person name="Zamble D.B."/>
+</authorList>
+<dbReference type="PubMed" id="19947632"/>
+<dbReference type="DOI" id="10.1021/ja9081765"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>NICKEL-BINDING</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF 167-CYS-CYS-168 AND 184-CYS-CYS-185</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2009" name="FEBS J." volume="276" first="4529" last="4544">
+<title>The interaction of the Escherichia coli protein SlyD with nickel ions illuminates the mechanism of regulation of its peptidyl-prolyl isomerase activity.</title>
+<authorList>
+<person name="Martino L."/>
+<person name="He Y."/>
+<person name="Hands-Taylor K.L."/>
+<person name="Valentine E.R."/>
+<person name="Kelly G."/>
+<person name="Giancola C."/>
+<person name="Conte M.R."/>
+</authorList>
+<dbReference type="PubMed" id="19645725"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2009.07159.x"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>NICKEL-BINDING</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2012" name="PLoS Biol." volume="10" first="E1001281" last="E1001281">
+<title>Two programmed cell death systems in Escherichia coli: an apoptotic-like death is inhibited by the mazEF-mediated death pathway.</title>
+<authorList>
+<person name="Erental A."/>
+<person name="Sharon I."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="22412352"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1001281"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="J. Mol. Biol." volume="387" first="295" last="305">
+<title>NMR solution structure of SlyD from Escherichia coli: spatial separation of prolyl isomerase and chaperone function.</title>
+<authorList>
+<person name="Weininger U."/>
+<person name="Haupt C."/>
+<person name="Schweimer K."/>
+<person name="Graubner W."/>
+<person name="Kovermann M."/>
+<person name="Bruser T."/>
+<person name="Scholz C."/>
+<person name="Schaarschmidt P."/>
+<person name="Zoldak G."/>
+<person name="Schmid F.X."/>
+<person name="Balbach J."/>
+</authorList>
+<dbReference type="PubMed" id="19356587"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2009.01.034"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-165</scope>
+<scope>FUNCTION AS A CHAPERONE</scope>
+<scope>DOMAIN</scope>
+<scope>BINDING TO UNFOLDED PROTEINS</scope>
+</reference>
+<comment type="function">
+<text>Folding helper with both chaperone and peptidyl-prolyl cis-trans isomerase (PPIase) activities. Chaperone activity prevents aggregation of unfolded or partially folded proteins and promotes their correct folding. PPIases catalyze the cis-trans isomerization of Xaa-Pro bonds of peptides, which accelerates slow steps of protein folding and thus shortens the lifetime of intermediates. Both strategies lower the concentration of intermediates and increase the productivity and yield of the folding reaction. SlyD could be involved in Tat-dependent translocation, by binding to the Tat-type signal of folded proteins. The PPIase substrate specificity, carried out with synthetic peptides of the 'suc-Ala-Xaa-Pro-Phe-4NA' type (where Xaa is the AA tested), was found to be Phe > Ala > Leu.</text>
+</comment>
+<comment type="function">
+<text>Required for lysis of phiX174 infected cells by stabilizing the hydrophobic viral lysis protein E and allowing it to accumulate to the levels required to exert its lytic effect. May act by a chaperone-like mechanism.</text>
+</comment>
+<comment type="function">
+<text>Also involved in hydrogenase metallocenter assembly, probably by participating in the nickel insertion step. This function in hydrogenase biosynthesis requires chaperone activity and the presence of the metal-binding domain, but not PPIase activity.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="7">
+<text>[protein]-peptidylproline (omega=180) = [protein]-peptidylproline (omega=0)</text>
+<dbReference type="Rhea" id="RHEA:16237"/>
+<dbReference type="Rhea" id="RHEA-COMP:10747"/>
+<dbReference type="Rhea" id="RHEA-COMP:10748"/>
+<dbReference type="ChEBI" id="CHEBI:83833"/>
+<dbReference type="ChEBI" id="CHEBI:83834"/>
+<dbReference type="EC" id="5.2.1.8"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="7 12">PPIase activity is inhibited by binding of nickel ions to the C-terminal metal-binding region and/or the C-terminal part of the PPIase domain. Folding activity is inhibited by FK506 and by permanently unfolded proteins, irrespective of their proline content.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 10">Monomer. Binds to a broad range of unrelated Tat signal sequences. Interacts with the hydrogenase nickel incorporation protein HypB.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-369251"/>
+<interactant intactId="EBI-561424">
+<id>P68066</id>
+<label>grcA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-369251"/>
+<interactant intactId="EBI-552702">
+<id>P16431</id>
+<label>hycE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-369251"/>
+<interactant intactId="EBI-558261">
+<id>P0AAN3</id>
+<label>hypB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>The N-terminal region consists of two globular folded domains that contain prolyl isomerase and chaperone activities.</text>
+</comment>
+<comment type="domain">
+<text>The C-terminal region binds up to 7 nickel ions in a non-cooperative manner. Can also bind zinc with high affinity, and copper or cobalt with lower affinity. No binding detectable for ferrous, ferric, magnesium and calcium ions. Binding of nickel causes conformational rearrangements in the PPIase domain, modulating its isomerase activity. This region is also important for hydrogenase biosynthesis.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="11">Cells undergo an apoptotic-like death upon DNA damage characterized by membrane depolarization.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The activity of SlyD is considerably smaller than the one found in other PPIases with the same substrate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the FKBP-type PPIase family.</text>
+</comment>
+<dbReference type="EC" id="5.2.1.8"/>
+<dbReference type="EMBL" id="Z21496">
+<property type="protein sequence ID" value="CAA79705.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L13261">
+<property type="protein sequence ID" value="AAA18574.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L28082">
+<property type="protein sequence ID" value="AAC41458.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA58146.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76374.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77942.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A49987">
+<property type="entry name" value="A49987"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417808.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000861334.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2K8I">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-165"/>
+</dbReference>
+<dbReference type="PDB" id="2KFW">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-196"/>
+</dbReference>
+<dbReference type="PDB" id="5I7P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=70-129"/>
+</dbReference>
+<dbReference type="PDBsum" id="2K8I"/>
+<dbReference type="PDBsum" id="2KFW"/>
+<dbReference type="PDBsum" id="5I7P"/>
+<dbReference type="SMR" id="P0A9K9"/>
+<dbReference type="BioGrid" id="4260682">
+<property type="interactions" value="44"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31853N"/>
+<dbReference type="IntAct" id="P0A9K9">
+<property type="interactions" value="124"/>
+</dbReference>
+<dbReference type="MINT" id="P0A9K9"/>
+<dbReference type="STRING" id="511145.b3349"/>
+<dbReference type="EPD" id="P0A9K9"/>
+<dbReference type="jPOST" id="P0A9K9"/>
+<dbReference type="PaxDb" id="P0A9K9"/>
+<dbReference type="PRIDE" id="P0A9K9"/>
+<dbReference type="EnsemblBacteria" id="AAC76374">
+<property type="protein sequence ID" value="AAC76374"/>
+<property type="gene ID" value="b3349"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77942">
+<property type="protein sequence ID" value="BAE77942"/>
+<property type="gene ID" value="BAE77942"/>
+</dbReference>
+<dbReference type="GeneID" id="947859"/>
+<dbReference type="KEGG" id="ecj:JW3311"/>
+<dbReference type="KEGG" id="eco:b3349"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3442"/>
+<dbReference type="EchoBASE" id="EB1614"/>
+<dbReference type="EcoGene" id="EG11663">
+<property type="gene designation" value="slyD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108YZY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1047">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000154889"/>
+<dbReference type="InParanoid" id="P0A9K9"/>
+<dbReference type="KO" id="K03775"/>
+<dbReference type="PhylomeDB" id="P0A9K9"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11663-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3311-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11663-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A9K9"/>
+<dbReference type="PRO" id="PR:P0A9K9"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050897">
+<property type="term" value="F:cobalt ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005507">
+<property type="term" value="F:copper ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016151">
+<property type="term" value="F:nickel cation binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003755">
+<property type="term" value="F:peptidyl-prolyl cis-trans isomerase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043963">
+<property type="term" value="P:modulation by symbiont of host adenylate cyclase-mediated signal transduction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051604">
+<property type="term" value="P:protein maturation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022417">
+<property type="term" value="P:protein maturation by protein folding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000413">
+<property type="term" value="P:protein peptidyl-prolyl isomerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042026">
+<property type="term" value="P:protein refolding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050821">
+<property type="term" value="P:protein stabilization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00766"/>
+<dbReference type="InterPro" id="IPR001179">
+<property type="entry name" value="PPIase_FKBP_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00254">
+<property type="entry name" value="FKBP_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50059">
+<property type="entry name" value="FKBP_PPIASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0170">Cobalt</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0186">Copper</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0413">Isomerase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0533">Nickel</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0697">Rotamase</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="FKBP-type peptidyl-prolyl cis-trans isomerase SlyD" id="PRO_0000075355">
+<location>
+<begin position="1"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="domain" description="PPIase FKBP-type" evidence="5">
+<location>
+<begin position="1"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="region of interest" description="PPIase first part">
+<location>
+<begin position="1"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="region of interest" description="IF-chaperone">
+<location>
+<begin position="76"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="region of interest" description="PPIase second part">
+<location>
+<begin position="129"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="region of interest" description="Metal-binding">
+<location>
+<begin position="152"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Glu-rich (acidic)">
+<location>
+<begin position="141"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="His-rich (basic)">
+<location>
+<begin position="148"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Gly-rich">
+<location>
+<begin position="166"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="167"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Nickel" evidence="4">
+<location>
+<position position="195"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decrease in PPIase activity, but has little impact on chaperone activity and interaction with HypB. Almost complete loss of PPIase activity; when associated with Y-132." evidence="9">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of PPIase activity, but has little impact on chaperone activity and interaction with HypB; when associated with S-42." evidence="9">
+<original>F</original>
+<variation>Y</variation>
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces nickel-binding capacity." evidence="10">
+<original>CC</original>
+<variation>AA</variation>
+<location>
+<begin position="167"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces nickel-binding capacity." evidence="10">
+<original>CC</original>
+<variation>AA</variation>
+<location>
+<begin position="184"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="7"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="18"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="22"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="28"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="44"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="64"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="73"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="76"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="95"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="103"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="117"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="124"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="130"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="145"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="177"/>
+<end position="182"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2K8I"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2KFW"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5I7P"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00277"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15569666"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16388577"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17215254"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17720786"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19947632"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22412352"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9188461"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="196" mass="20853" checksum="46DCC7C7ECD61DBA" modified="2005-07-19" version="1">
+MKVAKDLVVSLAYQVRTEDGVLVDESPVSAPLDYLHGHGSLISGLETALEGHEVGDKFDV
+AVGANDAYGQYDENLVQRVPKDVFMGVDELQVGMRFLAETDQGPVPVEITAVEDDHVVVD
+GNHMLAGQNLKFNVEVVAIREATEEELAHGHVHGAHDHHHDHDHDGCCGGHGHDHGHEHG
+GEGCCGGKGNGGCGCH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

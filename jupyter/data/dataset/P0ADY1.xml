@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2019-06-05" version="106">
+<accession>P0ADY1</accession>
+<accession>P77241</accession>
+<accession>Q2MBY5</accession>
+<name>PPID_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Peptidyl-prolyl cis-trans isomerase D</fullName>
+<shortName>PPIase D</shortName>
+<ecNumber>5.2.1.8</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Rotamase D</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ppiD</name>
+<name type="synonym">ybaU</name>
+<name type="ordered locus">b0441</name>
+<name type="ordered locus">JW0431</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1996-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Hatada E."/>
+<person name="Ohmori H."/>
+<person name="Qiao Y."/>
+<person name="Tsuji M."/>
+<person name="Fukuda R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="3968" last="3980">
+<title>A new heat-shock gene, ppiD, encodes a peptidyl-prolyl isomerase required for folding of outer membrane proteins in Escherichia coli.</title>
+<authorList>
+<person name="Dartigalongue C."/>
+<person name="Raina S."/>
+</authorList>
+<dbReference type="PubMed" id="9670013"/>
+<dbReference type="DOI" id="10.1093/emboj/17.14.3968"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="34409" last="34419">
+<title>Protein complexes of the Escherichia coli cell envelope.</title>
+<authorList>
+<person name="Stenberg F."/>
+<person name="Chovanec P."/>
+<person name="Maslen S.L."/>
+<person name="Robinson C.V."/>
+<person name="Ilag L."/>
+<person name="von Heijne G."/>
+<person name="Daley D.O."/>
+</authorList>
+<dbReference type="PubMed" id="16079137"/>
+<dbReference type="DOI" id="10.1074/jbc.M506479200"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>BL21-DE3</strain>
+</source>
+</reference>
+<comment type="function">
+<text>PPIases accelerate the folding of proteins. Seems to be involved in the folding of outer membrane proteins. Its preference at the P1 position of the peptide substrate is Glu > Leu > Ala > His > Val > Phe > Ile > Gly > Lys > Thr.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>[protein]-peptidylproline (omega=180) = [protein]-peptidylproline (omega=0)</text>
+<dbReference type="Rhea" id="RHEA:16237"/>
+<dbReference type="Rhea" id="RHEA-COMP:10747"/>
+<dbReference type="Rhea" id="RHEA-COMP:10748"/>
+<dbReference type="ChEBI" id="CHEBI:83833"/>
+<dbReference type="ChEBI" id="CHEBI:83834"/>
+<dbReference type="EC" id="5.2.1.8"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="4">Has been isolated as a homodimer and homotrimer from inner membrane preparations.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-562001"/>
+<interactant intactId="EBI-562001"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell inner membrane</location>
+<topology evidence="4">Single-pass type II membrane protein</topology>
+<orientation evidence="4">Periplasmic side</orientation>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text>By heat shock.</text>
+</comment>
+<dbReference type="EC" id="5.2.1.8"/>
+<dbReference type="EMBL" id="D82943">
+<property type="protein sequence ID" value="BAA11645.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82664">
+<property type="protein sequence ID" value="AAB40197.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73544.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76221.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64774">
+<property type="entry name" value="A64774"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414975.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000969372.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2KGJ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=264-357"/>
+</dbReference>
+<dbReference type="PDBsum" id="2KGJ"/>
+<dbReference type="SMR" id="P0ADY1"/>
+<dbReference type="BioGrid" id="4260732">
+<property type="interactions" value="206"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-39902N"/>
+<dbReference type="IntAct" id="P0ADY1">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0441"/>
+<dbReference type="EPD" id="P0ADY1"/>
+<dbReference type="jPOST" id="P0ADY1"/>
+<dbReference type="PaxDb" id="P0ADY1"/>
+<dbReference type="PRIDE" id="P0ADY1"/>
+<dbReference type="EnsemblBacteria" id="AAC73544">
+<property type="protein sequence ID" value="AAC73544"/>
+<property type="gene ID" value="b0441"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76221">
+<property type="protein sequence ID" value="BAE76221"/>
+<property type="gene ID" value="BAE76221"/>
+</dbReference>
+<dbReference type="GeneID" id="946056"/>
+<dbReference type="KEGG" id="ecj:JW0431"/>
+<dbReference type="KEGG" id="eco:b0441"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1835"/>
+<dbReference type="EchoBASE" id="EB3038"/>
+<dbReference type="EcoGene" id="EG13249">
+<property type="gene designation" value="ppiD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EIN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0760">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000276975"/>
+<dbReference type="InParanoid" id="P0ADY1"/>
+<dbReference type="KO" id="K03770"/>
+<dbReference type="PhylomeDB" id="P0ADY1"/>
+<dbReference type="BioCyc" id="EcoCyc:G6242-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0431-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0ADY1"/>
+<dbReference type="PRO" id="PR:P0ADY1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071575">
+<property type="term" value="C:integral component of external side of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003755">
+<property type="term" value="F:peptidyl-prolyl cis-trans isomerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061077">
+<property type="term" value="P:chaperone-mediated protein folding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000297">
+<property type="entry name" value="PPIase_PpiC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023058">
+<property type="entry name" value="PPIase_PpiC_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027304">
+<property type="entry name" value="Trigger_fact/SurA_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13145">
+<property type="entry name" value="Rotamase_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF109998">
+<property type="entry name" value="SSF109998"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01096">
+<property type="entry name" value="PPIC_PPIASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50198">
+<property type="entry name" value="PPIC_PPIASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0413">Isomerase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0697">Rotamase</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Peptidyl-prolyl cis-trans isomerase D" id="PRO_0000193423">
+<location>
+<begin position="1"/>
+<end position="623"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="1"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="16"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="37"/>
+<end position="623"/>
+</location>
+</feature>
+<feature type="domain" description="PpiC" evidence="3">
+<location>
+<begin position="266"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<variation>R</variation>
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<variation>R</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="5">
+<original>I</original>
+<variation>A</variation>
+<variation>F</variation>
+<location>
+<position position="350"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="268"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="279"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="295"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="306"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="310"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="313"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="325"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="338"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="347"/>
+<end position="357"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2KGJ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00278"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16079137"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9670013"/>
+</source>
+</evidence>
+<sequence length="623" mass="68150" checksum="0F646F687114A387" modified="2005-12-06" version="1">
+MMDSLRTAANSLVLKIIFGIIIVSFILTGVSGYLIGGGNNYAAKVNDQEISRGQFENAFN
+SERNRMQQQLGDQYSELAANEGYMKTLRQQVLNRLIDEALLDQYARELKLGISDEQVKQA
+IFATPAFQVDGKFDNSRYNGILNQMGMTADQYAQALRNQLTTQQLINGVAGTDFMLKGET
+DELAALVAQQRVVREATIDVNALAAKQPVTEQEIASYYEQNKNNFMTPEQFRVSYIKLDA
+ATMQQPVSDADIQSYYDQHQDQFTQPQRTRYSIIQTKTEDEAKAVLDELNKGGDFAALAK
+EKSADIISARNGGDMGWLEDATIPDELKNAGLKEKGQLSGVIKSSVGFLIVRLDDIQPAK
+VKSLDEVRDDIAAKVKHEKALDAYYALQQKVSDAASNDTESLAGAEQAAGVKATQTGWFS
+KDNLPEELNFKPVADAIFNGGLVGENGAPGINSDIITVDGDRAFVLRISEHKPEAVKPLA
+DVQEQVKALVQHNKAEQQAKVDAEKLLVDLKAGKGAEAMQAAGLKFGEPKTLSRSGRDPI
+SQAAFALPLPAKDKPSYGMATDMQGNVVLLALDEVKQGSMPEDQKKAMVQGITQNNAQIV
+FEALMSNLRKEAKIKIGDALEQQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

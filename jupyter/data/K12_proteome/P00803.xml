@@ -1,0 +1,908 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="171">
+<accession>P00803</accession>
+<accession>P78098</accession>
+<accession>Q2MAG2</accession>
+<name>LEP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Signal peptidase I</fullName>
+<shortName>SPase I</shortName>
+<ecNumber>3.4.21.89</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Leader peptidase I</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">lepB</name>
+<name type="ordered locus">b2568</name>
+<name type="ordered locus">JW2552</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="12073" last="12080">
+<title>Sequence of the leader peptidase gene of Escherichia coli and the orientation of leader peptidase in the bacterial envelope.</title>
+<authorList>
+<person name="Wolfe P.B."/>
+<person name="Wickner W."/>
+<person name="Goodman J.M."/>
+</authorList>
+<dbReference type="PubMed" id="6311837"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Nashimoto H."/>
+<person name="Saito N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1986" name="EMBO J." volume="5" first="3021" last="3027">
+<title>The distribution of positively charged residues in bacterial inner membrane proteins correlates with the trans-membrane topology.</title>
+<authorList>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="16453726"/>
+</citation>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="EMBO J." volume="9" first="2717" last="2722">
+<title>Mapping of catalytically important domains in Escherichia coli leader peptidase.</title>
+<authorList>
+<person name="Bilgin N."/>
+<person name="Lee J.I."/>
+<person name="Zhu H.Y."/>
+<person name="Dalbey R."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="2202591"/>
+</citation>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="13154" last="13159">
+<title>Identification of potential active-site residues in the Escherichia coli leader peptidase.</title>
+<authorList>
+<person name="Sung M."/>
+<person name="Dalbey R.E."/>
+</authorList>
+<dbReference type="PubMed" id="1618816"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+<scope>ACTIVE SITES</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1992" name="Biochem. J." volume="282" first="539" last="543">
+<title>On the catalytic mechanism of prokaryotic leader peptidase 1.</title>
+<authorList>
+<person name="Black M.T."/>
+<person name="Munn J.G.R."/>
+<person name="Allsop A.E."/>
+</authorList>
+<dbReference type="PubMed" id="1546969"/>
+<dbReference type="DOI" id="10.1042/bj2820539"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+<source>
+<strain>HJM114</strain>
+<strain>IT41</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="4957" last="4961">
+<title>Evidence that the catalytic activity of prokaryote leader peptidase depends upon the operation of a serine-lysine catalytic dyad.</title>
+<authorList>
+<person name="Black M.T."/>
+</authorList>
+<dbReference type="PubMed" id="8394311"/>
+<dbReference type="DOI" id="10.1128/jb.175.16.4957-4961.1993"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+<scope>ACTIVE SITES</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="5536" last="5541">
+<title>Use of phoA fusions to study the topology of the Escherichia coli inner membrane protein leader peptidase.</title>
+<authorList>
+<person name="San Millan J.L."/>
+<person name="Boyd D."/>
+<person name="Dalbey R."/>
+<person name="Wickner W."/>
+<person name="Beckwith J."/>
+</authorList>
+<dbReference type="PubMed" id="2551889"/>
+</citation>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="32464" last="32474">
+<title>Membrane localization of small proteins in Escherichia coli.</title>
+<authorList>
+<person name="Fontaine F."/>
+<person name="Fuchs R.T."/>
+<person name="Storz G."/>
+</authorList>
+<dbReference type="PubMed" id="21778229"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.245696"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1998" name="Nature" volume="396" first="186" last="190">
+<title>Crystal structure of a bacterial signal peptidase in complex with a beta-lactam inhibitor.</title>
+<authorList>
+<person name="Paetzel M."/>
+<person name="Dalbey R.E."/>
+<person name="Strynadka N.C."/>
+</authorList>
+<dbReference type="PubMed" id="9823901"/>
+<dbReference type="DOI" id="10.1038/24196"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 77-324</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>Cleavage of hydrophobic, N-terminal signal or leader sequences from secreted and periplasmic proteins.</text>
+<dbReference type="EC" id="3.4.21.89"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell inner membrane</location>
+<topology evidence="4">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the peptidase S26 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.89"/>
+<dbReference type="EMBL" id="K00426">
+<property type="protein sequence ID" value="AAA24064.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D64044">
+<property type="protein sequence ID" value="BAA10915.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75621.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76744.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65034">
+<property type="entry name" value="ZPECS"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417063.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000002541.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1B12">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B/C/D=77-324"/>
+</dbReference>
+<dbReference type="PDB" id="1KN9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D=77-324"/>
+</dbReference>
+<dbReference type="PDB" id="1T7D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.47"/>
+<property type="chains" value="A/B=76-324"/>
+</dbReference>
+<dbReference type="PDB" id="3IIQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=77-324"/>
+</dbReference>
+<dbReference type="PDB" id="3S04">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.44"/>
+<property type="chains" value="A/B=76-324"/>
+</dbReference>
+<dbReference type="PDB" id="6B88">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.41"/>
+<property type="chains" value="A/B=78-324"/>
+</dbReference>
+<dbReference type="PDBsum" id="1B12"/>
+<dbReference type="PDBsum" id="1KN9"/>
+<dbReference type="PDBsum" id="1T7D"/>
+<dbReference type="PDBsum" id="3IIQ"/>
+<dbReference type="PDBsum" id="3S04"/>
+<dbReference type="PDBsum" id="6B88"/>
+<dbReference type="SMR" id="P00803"/>
+<dbReference type="BioGrid" id="4259467">
+<property type="interactions" value="112"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2568"/>
+<dbReference type="BindingDB" id="P00803"/>
+<dbReference type="ChEMBL" id="CHEMBL4470"/>
+<dbReference type="MEROPS" id="S26.001"/>
+<dbReference type="jPOST" id="P00803"/>
+<dbReference type="PaxDb" id="P00803"/>
+<dbReference type="PRIDE" id="P00803"/>
+<dbReference type="EnsemblBacteria" id="AAC75621">
+<property type="protein sequence ID" value="AAC75621"/>
+<property type="gene ID" value="b2568"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76744">
+<property type="protein sequence ID" value="BAE76744"/>
+<property type="gene ID" value="BAE76744"/>
+</dbReference>
+<dbReference type="GeneID" id="947040"/>
+<dbReference type="KEGG" id="ecj:JW2552"/>
+<dbReference type="KEGG" id="eco:b2568"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4166"/>
+<dbReference type="EchoBASE" id="EB0525"/>
+<dbReference type="EcoGene" id="EG10530">
+<property type="gene designation" value="lepB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C3F">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0681">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000003674"/>
+<dbReference type="InParanoid" id="P00803"/>
+<dbReference type="KO" id="K03100"/>
+<dbReference type="PhylomeDB" id="P00803"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10530-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2552-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10530-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.21.89">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P00803"/>
+<dbReference type="EvolutionaryTrace" id="P00803"/>
+<dbReference type="PRO" id="PR:P00803"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004175">
+<property type="term" value="F:endopeptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008233">
+<property type="term" value="F:peptidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015643">
+<property type="term" value="F:toxic substance binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016485">
+<property type="term" value="P:protein processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006465">
+<property type="term" value="P:signal peptide processing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036286">
+<property type="entry name" value="LexA/Signal_pep-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000223">
+<property type="entry name" value="Pept_S26A_signal_pept_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019758">
+<property type="entry name" value="Pept_S26A_signal_pept_1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019757">
+<property type="entry name" value="Pept_S26A_signal_pept_1_Lys-AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019756">
+<property type="entry name" value="Pept_S26A_signal_pept_1_Ser-AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015927">
+<property type="entry name" value="Peptidase_S24_S26A/B/C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019533">
+<property type="entry name" value="Peptidase_S26"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00717">
+<property type="entry name" value="Peptidase_S24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10502">
+<property type="entry name" value="Peptidase_S26"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00727">
+<property type="entry name" value="LEADERPTASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51306">
+<property type="entry name" value="SSF51306"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02227">
+<property type="entry name" value="sigpep_I_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00501">
+<property type="entry name" value="SPASE_I_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00760">
+<property type="entry name" value="SPASE_I_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00761">
+<property type="entry name" value="SPASE_I_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Signal peptidase I" id="PRO_0000109506">
+<location>
+<begin position="1"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="6">
+<location>
+<begin position="1"/>
+<end position="3"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6">
+<location>
+<begin position="4"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="6">
+<location>
+<begin position="23"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6">
+<location>
+<begin position="59"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="6">
+<location>
+<begin position="78"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="modified residue" description="Blocked amino end (Met)" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="171"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>R</original>
+<variation>E</variation>
+<variation>N</variation>
+<variation>L</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity.">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small effect.">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity.">
+<original>K</original>
+<variation>M</variation>
+<variation>D</variation>
+<variation>G</variation>
+<variation>S</variation>
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small effect.">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity.">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small effect.">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="269"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small effect.">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="276"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Indifferent.">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Small effect.">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="283"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="6">
+<original>AG</original>
+<variation>R</variation>
+<location>
+<begin position="42"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="6">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="123"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="6">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="82"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="91"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="100"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="114"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="119"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="155"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="160"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="164"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="183"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="189"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="200"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="205"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="214"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="221"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="234"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="248"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="261"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="268"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="282"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="290"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="293"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="310"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="313"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="317"/>
+<end position="319"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1B12"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1T7D"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3IIQ"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21778229"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6311837"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="324" mass="35960" checksum="9419710D7212E660" modified="1997-11-01" version="2">
+MANMFALILVIATLVTGILWCVDKFFFAPKRRERQAAAQAAAGDSLDKATLKKVAPKPGW
+LETGASVFPVLAIVLIVRSFIYEPFQIPSGSMMPTLLIGDFILVEKFAYGIKDPIYQKTL
+IETGHPKRGDIVVFKYPEDPKLDYIKRAVGLPGDKVTYDPVSKELTIQPGCSSGQACENA
+LPVTYSNVEPSDFVQTFSRRNGGEATSGFFEVPKNETKENGIRLSERKETLGDVTHRILT
+VPIAQDQVGMYYQQPGQQLATWIVPPGQYFMMGDNRDNSADSRYWGFVPEANLVGRATAI
+WMSFDKQEGEWPTGLRLSRIGGIH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

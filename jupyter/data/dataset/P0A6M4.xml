@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-05-10" modified="2019-06-05" version="118">
+<accession>P0A6M4</accession>
+<accession>P32147</accession>
+<accession>Q2M8I4</accession>
+<name>DTD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2 14">D-aminoacyl-tRNA deacylase</fullName>
+<shortName evidence="2">DTD</shortName>
+<ecNumber evidence="2 3 4 12">3.1.1.96</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="17">D-tyrosyl RNA deacylase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="13">D-tyrosyl-tRNA(Tyr) deacylase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2 16">Gly-tRNA(Ala) deacylase</fullName>
+<ecNumber evidence="2 11">3.1.1.-</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName evidence="15">Gly-tRNA(Gly) deacylase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2 14">dtd</name>
+<name type="synonym">yihZ</name>
+<name type="ordered locus">b3887</name>
+<name type="ordered locus">JW3858</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="19109" last="19114">
+<title>Functional characterization of the D-Tyr-tRNATyr deacylase from Escherichia coli.</title>
+<authorList>
+<person name="Soutourina J."/>
+<person name="Plateau P."/>
+<person name="Delort F."/>
+<person name="Peirotes A."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="10383414"/>
+<dbReference type="DOI" id="10.1074/jbc.274.27.19109"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / EC989</strain>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1967" name="J. Mol. Biol." volume="26" first="39" last="54">
+<title>D-tyrosyl RNA: formation, hydrolysis and utilization for protein synthesis.</title>
+<authorList>
+<person name="Calendar R."/>
+<person name="Berg P."/>
+</authorList>
+<dbReference type="PubMed" id="4292198"/>
+<dbReference type="DOI" id="10.1016/0022-2836(67)90259-8"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="32535" last="32542">
+<title>Metabolism of D-aminoacyl-tRNAs in Escherichia coli and Saccharomyces cerevisiae cells.</title>
+<authorList>
+<person name="Soutourina J."/>
+<person name="Plateau P."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="10918062"/>
+<dbReference type="DOI" id="10.1074/jbc.M005166200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="42560" last="42565">
+<title>Formation of D-tyrosyl-tRNATyr accounts for the toxicity of D-tyrosine toward Escherichia coli.</title>
+<authorList>
+<person name="Soutourina O."/>
+<person name="Soutourina J."/>
+<person name="Blanquet S."/>
+<person name="Plateau P."/>
+</authorList>
+<dbReference type="PubMed" id="15292242"/>
+<dbReference type="DOI" id="10.1074/jbc.M402931200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="EMBO J." volume="25" first="4152" last="4162">
+<title>Post-transfer editing mechanism of a D-aminoacyl-tRNA deacylase-like domain in threonyl-tRNA synthetase from archaea.</title>
+<authorList>
+<person name="Hussain T."/>
+<person name="Kruparani S.P."/>
+<person name="Pal B."/>
+<person name="Dock-Bregeon A.C."/>
+<person name="Dwivedi S."/>
+<person name="Shekar M.R."/>
+<person name="Sureshbabu K."/>
+<person name="Sankaranarayanan R."/>
+</authorList>
+<dbReference type="PubMed" id="16902403"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7601278"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF MET-129</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="Elife" volume="2" first="E01519" last="E01519">
+<title>Mechanism of chiral proofreading during translation of the genetic code.</title>
+<authorList>
+<person name="Ahmad S."/>
+<person name="Routh S.B."/>
+<person name="Kamarthapu V."/>
+<person name="Chalissery J."/>
+<person name="Muthukumar S."/>
+<person name="Hussain T."/>
+<person name="Kruparani S.P."/>
+<person name="Deshmukh M.V."/>
+<person name="Sankaranarayanan R."/>
+</authorList>
+<dbReference type="PubMed" id="24302572"/>
+<dbReference type="DOI" id="10.7554/eLife.01519"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF SER-77; GLN-78; THR-80; ALA-102; PHE-125; GLY-137 AND PRO-138</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2015" name="Microbiol. Res." volume="171" first="90" last="96">
+<title>The dtd gene from Bacillus amyloliquefaciens encodes a putative D-tyrosyl-tRNATyr deacylase and is a selectable marker for Bacillus subtilis.</title>
+<authorList>
+<person name="Geraskina N.V."/>
+<person name="Butov I.A."/>
+<person name="Yomantas Y.A."/>
+<person name="Stoynova N.V."/>
+</authorList>
+<dbReference type="PubMed" id="25441601"/>
+<dbReference type="DOI" id="10.1016/j.micres.2014.11.001"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2016" name="PLoS Biol." volume="14" first="E1002465" last="E1002465">
+<title>Elongation factor Tu prevents misediting of Gly-tRNA(Gly) caused by the design behind the chiral proofreading site of D-aminoacyl-tRNA deacylase.</title>
+<authorList>
+<person name="Routh S.B."/>
+<person name="Pawar K.I."/>
+<person name="Ahmad S."/>
+<person name="Singh S."/>
+<person name="Suma K."/>
+<person name="Kumar M."/>
+<person name="Kuncha S.K."/>
+<person name="Yadav K."/>
+<person name="Kruparani S.P."/>
+<person name="Sankaranarayanan R."/>
+</authorList>
+<dbReference type="PubMed" id="27224426"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1002465"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>MUTAGENESIS OF ALA-102 AND PHE-125</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2017" name="Elife" volume="6">
+<title>Role of D-aminoacyl-tRNA deacylase beyond chiral proofreading as a cellular defense against glycine mischarging by AlaRS.</title>
+<authorList>
+<person name="Pawar K.I."/>
+<person name="Suma K."/>
+<person name="Seenivasan A."/>
+<person name="Kuncha S.K."/>
+<person name="Routh S.B."/>
+<person name="Kruparani S.P."/>
+<person name="Sankaranarayanan R."/>
+</authorList>
+<dbReference type="PubMed" id="28362257"/>
+<dbReference type="DOI" id="10.7554/eLife.24001"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>REACTION MECHANISM</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="13" evidence="1">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="47285" last="47290">
+<title>Structure of crystalline D-Tyr-tRNA(Tyr) deacylase. A representative of a new class of tRNA-dependent hydrolases.</title>
+<authorList>
+<person name="Ferri-Fioni M.-L."/>
+<person name="Schmitt E."/>
+<person name="Soutourina J."/>
+<person name="Plateau P."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="11568181"/>
+<dbReference type="DOI" id="10.1074/jbc.M106550200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12 / K37</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4 6 7 8 9 10 11 12">An aminoacyl-tRNA editing enzyme that deacylates mischarged D-aminoacyl-tRNAs, has no observable editing activity on tRNAs charged with cognate L-amino acid (PubMed:10383414, PubMed:4292198, PubMed:10918062, PubMed:24302572, PubMed:27224426). Edits mischarged glycyl-tRNA(Ala) more efficiently than AlaRS (PubMed:28362257). Acts via tRNA-based rather than protein-based catalysis (PubMed:24302572, PubMed:27224426, PubMed:28362257). Rejects correctly charged L-amino acid-tRNAs from its binding site rather than specifically recognizing incorrectly charged D-amino acid-tRNAs (PubMed:27224426). Hydrolyzes correctly charged, achiral, glycyl-tRNA(Gly); GTP-bound EF-Tu (tested with T.thermophilus EF-Tu AC Q5SHN6) protects charged glycyl-tRNA(Gly) from hydrolysis, while increasing Dtd levels or inactivating EF-Tu decreases protection (PubMed:27224426). Hydrolyzes mischarged glycyl-tRNA(Ala) (but not seryl-tRNA(Ala)) even in the presence of EF-Tu, edits about 4-fold better than the editing domain of AlaRS (PubMed:28362257). Has greater activity on glycyl-tRNA(Ala) than glycyl-tRNA(Gly) due in part to its recognition of the conserved tRNA(Ala) G3.U70 wobble base pair (PubMed:28362257). Binds D-amino acids but not L-amino acids (PubMed:16902403). Overexpression of E.coli or P.falciparum Dtd is toxic in E.coli, toxicity can be rescued by supplementation with Gly (PubMed:27224426). By recycling D-aminoacyl-tRNA to D-amino acids and free tRNA molecules, this enzyme counteracts the toxicity associated with the formation of D-aminoacyl-tRNA entities in vivo and helps enforce protein L-homochirality (PubMed:15292242). Hydrolyzes D-tyrosyl-tRNA(Tyr) (PubMed:4292198, PubMed:10383414, PubMed:24302572, PubMed:27224426). Hydrolyzes D-phenylalanyl-tRNA(Phe) (PubMed:4292198, PubMed:24302572). Hydrolyzes D-aspartyl-tRNA(Asp) (PubMed:10918062). Hydrolyzes D-tryptophanyl-tRNA(Trp) (PubMed:10918062). Hydrolyzes glycyl-tRNA(Gly) (PubMed:27224426). Hydrolyzes glycyl-tRNA(Ala) (PubMed:28362257).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 11">
+<text>glycyl-tRNA(Ala) + H2O = glycine + H(+) + tRNA(Ala)</text>
+<dbReference type="Rhea" id="RHEA:53744"/>
+<dbReference type="Rhea" id="RHEA-COMP:9657"/>
+<dbReference type="Rhea" id="RHEA-COMP:13640"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57305"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78522"/>
+<dbReference type="EC" id="3.1.1.96"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2 3 4 12">
+<text>a D-aminoacyl-tRNA + H2O = a D-alpha-amino acid + H(+) + tRNA</text>
+<dbReference type="Rhea" id="RHEA:13953"/>
+<dbReference type="Rhea" id="RHEA-COMP:10123"/>
+<dbReference type="Rhea" id="RHEA-COMP:10124"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:59871"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:79333"/>
+<dbReference type="EC" id="3.1.1.96"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="3">1.0 uM for D-tyrosyl-tRNA(Tyr)</KM>
+<KM evidence="10">1.0 uM for glycyl-tRNA(Gly)</KM>
+<text evidence="3 4 10">kcat/KM is 6 uM(-1)s(-1) for D-tyrosyl-tRNA(Tyr) (PubMed:10383414). kcat/KM is 2.8 uM(-1)s(-1) for D-tryptophanyl-tRNA(Trp) (PubMed:10918062). kcat/KM is 12 uM(-1)s(-1) for D-aspartyl-tRNA(Asp) (PubMed:10918062). kcat/KM is 10 uM (-1)s(-1) for glycyl-tRNA(Gly) (PubMed:27224426).</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 5">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-562575"/>
+<interactant intactId="EBI-545256">
+<id>P06961</id>
+<label>cca</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 18">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="2 8 10">A Gly-cisPro motif from one monomer fits into the active site of the other monomer to allow specific chiral rejection of L-amino acids (PubMed:24302572, PubMed:27224426).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 4 6 9 11">No phenotype in rich or minimal medium, decreased growth rate in the presence of excess D-tyrosine (PubMed:10383414). A double dtd-dadA deletion mutant has a more pronounced growth defect in the presence of D-Tyr (in strain K12 / EC989) (PubMed:10383414). In a dtd deletion mutant about 40% of tRNA(Tyr) is D-tyrosyl-tRNA(Tyr); overexpressing the gene for tRNA(Tyr) suppresses the toxicity of D-Tyr by increasing the levels of L-tyrosyl-tRNA(Tyr) available for translation (PubMed:15292242). Decreased growth in the presence of D-Asp, D-Ser, D-Gln and D-Trp (PubMed:10918062). Poor growth on 20 mg/ml D-Tyr, no growth on 500 mg/ml D-Tyr or 20 mg/ml D-Trp (PubMed:25441601). Overexpression of genes for tRNA(Asp) or tRNA(Trp) suppresses the toxicity of their respective D-amino acids (PubMed:15292242). No effect seen when grown in 3 or 10 mM Gly; in a mutant that no longer edits mischarged glycyl-tRNA(Ala) or seryl-tRNA(Ala) (triple mutation in alaS) Gly becomes toxic, but excess Ala restores growth (PubMed:28362257).</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the DTD family.</text>
+</comment>
+<comment type="caution">
+<text evidence="8">Initially the conserved reside Thr-80 was thought to be a nucleophile; mutagenesis in this organism and P.falciparum indicates it is not.</text>
+</comment>
+<dbReference type="EC" id="3.1.1.96" evidence="2 3 4 12"/>
+<dbReference type="EC" id="3.1.1.-" evidence="2 11"/>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03020.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAD13449.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77422.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S40831">
+<property type="entry name" value="S40831"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418323.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000560983.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1JKE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B/C/D=1-145"/>
+</dbReference>
+<dbReference type="PDBsum" id="1JKE"/>
+<dbReference type="SMR" id="P0A6M4"/>
+<dbReference type="BioGrid" id="4262640">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47962N"/>
+<dbReference type="IntAct" id="P0A6M4">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3887"/>
+<dbReference type="jPOST" id="P0A6M4"/>
+<dbReference type="PaxDb" id="P0A6M4"/>
+<dbReference type="PRIDE" id="P0A6M4"/>
+<dbReference type="EnsemblBacteria" id="AAD13449">
+<property type="protein sequence ID" value="AAD13449"/>
+<property type="gene ID" value="b3887"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77422">
+<property type="protein sequence ID" value="BAE77422"/>
+<property type="gene ID" value="BAE77422"/>
+</dbReference>
+<dbReference type="GeneID" id="948378"/>
+<dbReference type="KEGG" id="ecj:JW3858"/>
+<dbReference type="KEGG" id="eco:b3887"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2824"/>
+<dbReference type="EchoBASE" id="EB1798"/>
+<dbReference type="EcoGene" id="EG11852">
+<property type="gene designation" value="dtd"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108YYA">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1490">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000113982"/>
+<dbReference type="InParanoid" id="P0A6M4"/>
+<dbReference type="KO" id="K07560"/>
+<dbReference type="PhylomeDB" id="P0A6M4"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11852-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3858-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11852-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.1.96">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0A6M4"/>
+<dbReference type="PRO" id="PR:P0A6M4"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002161">
+<property type="term" value="F:aminoacyl-tRNA editing activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051499">
+<property type="term" value="F:D-aminoacyl-tRNA deacylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051500">
+<property type="term" value="F:D-tyrosyl-tRNA(Tyr) deacylase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0106026">
+<property type="term" value="F:Gly-tRNA(Ala) hydrolase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043908">
+<property type="term" value="F:Ser(Gly)-tRNA(Ala) hydrolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019478">
+<property type="term" value="P:D-amino acid catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006399">
+<property type="term" value="P:tRNA metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00563">
+<property type="entry name" value="Dtyr_deacylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.50.80.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00518">
+<property type="entry name" value="Deacylase_Dtd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003732">
+<property type="entry name" value="Daa-tRNA_deacyls_DTD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023509">
+<property type="entry name" value="DTD-like_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10472">
+<property type="entry name" value="PTHR10472"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02580">
+<property type="entry name" value="Tyr_Deacylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF69500">
+<property type="entry name" value="SSF69500"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00256">
+<property type="entry name" value="TIGR00256"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="chain" description="D-aminoacyl-tRNA deacylase" id="PRO_0000164537">
+<location>
+<begin position="1"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Gly-cisPro motif, important for rejection of L-amino acids" evidence="2 8">
+<location>
+<begin position="137"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Wild-type deacylation of D-tyrosyl-tRNA(Tyr)." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<variation>P</variation>
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Wild-type deacylation of D-tyrosyl-tRNA(Tyr)." evidence="8">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Wild-type deacylation of D-tyrosyl-tRNA(Tyr)." evidence="8">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of deacylation of D-tyrosyl-tRNA(Tyr), loss of deacylation of glycyl-tRNA(Gly), not toxic upon overexpression." evidence="8 10">
+<original>A</original>
+<variation>F</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of deacylation of D-tyrosyl-tRNA(Tyr), loss of deacylation of glycyl-tRNA(Gly)." evidence="8 10">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Alters stereospecificity, confers binding of L-amino acids while slightly decreasing binding of D-amino acids." evidence="7">
+<original>M</original>
+<variation>K</variation>
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of deacylation of D-tyrosyl-tRNA(Tyr)." evidence="8">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of deacylation of D-tyrosyl-tRNA(Tyr)." evidence="8">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="18"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="39"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="62"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="66"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="72"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="79"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="86"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="99"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="120"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="129"/>
+<end position="144"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1JKE"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00518"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10383414"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10918062"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11568181"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15292242"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16902403"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24302572"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25441601"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27224426"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28362257"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4292198"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10383414"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10918062"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27224426"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28362257"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="4292198"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="4292198"/>
+</source>
+</evidence>
+<sequence length="145" mass="15950" checksum="5CF0C0DB0819EC9B" modified="2005-05-10" version="1">
+MIALIQRVTRASVTVEGEVTGEIGAGLLVLLGVEKDDDEQKANRLCERVLGYRIFSDAEG
+KMNLNVQQAGGSVLVVSQFTLAADTERGMRPSFSKGASPDRAEALYDYFVERCRQQEMNT
+QTGRFAADMQVSLVNDGPVTFWLQV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

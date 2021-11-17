@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2019-05-08" version="108">
+<accession>P0A9W3</accession>
+<accession>P37797</accession>
+<accession>Q2M5S6</accession>
+<name>ETTA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Energy-dependent translational throttle protein EttA</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Translational regulatory factor EttA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ettA</name>
+<name type="synonym">yjjK</name>
+<name type="ordered locus">b4391</name>
+<name type="ordered locus">JW4354</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO C-TERMINUS</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="6773" last="6782">
+<title>Murein-metabolizing enzymes from Escherichia coli: sequence analysis and controlled overexpression of the slt gene, which encodes the soluble lytic transglycosylase.</title>
+<authorList>
+<person name="Engel H."/>
+<person name="Kazemier B."/>
+<person name="Keck W."/>
+</authorList>
+<dbReference type="PubMed" id="1938883"/>
+<dbReference type="DOI" id="10.1128/jb.173.21.6773-6782.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-80</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-12</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Electrophoresis" volume="20" first="2181" last="2195">
+<title>Enrichment of low abundance proteins of Escherichia coli by hydroxyapatite chromatography.</title>
+<authorList>
+<person name="Fountoulakis M."/>
+<person name="Takacs M.-F."/>
+<person name="Berndt P."/>
+<person name="Langen H."/>
+<person name="Takacs B."/>
+</authorList>
+<dbReference type="PubMed" id="10493123"/>
+<dbReference type="DOI" id="10.1002/(SICI)1522-2683(19990801)20:11&lt;2181::AID-ELPS2181>3.0.CO;2-Q"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>B / BL21</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="143" last="151">
+<title>The ABC-F protein EttA gates ribosome entry into the translation elongation cycle.</title>
+<authorList>
+<person name="Boel G."/>
+<person name="Smith P.C."/>
+<person name="Ning W."/>
+<person name="Englander M.T."/>
+<person name="Chen B."/>
+<person name="Hashem Y."/>
+<person name="Testa A.J."/>
+<person name="Fischer J.J."/>
+<person name="Wieden H.J."/>
+<person name="Frank J."/>
+<person name="Gonzalez R.L. Jr."/>
+<person name="Hunt J.F."/>
+</authorList>
+<dbReference type="PubMed" id="24389466"/>
+<dbReference type="DOI" id="10.1038/nsmb.2740"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS)</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DOMAIN</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF GLU-188 AND GLU-470</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="152" last="159">
+<title>EttA regulates translation by binding the ribosomal E site and restricting ribosome-tRNA dynamics.</title>
+<authorList>
+<person name="Chen B."/>
+<person name="Boel G."/>
+<person name="Hashem Y."/>
+<person name="Ning W."/>
+<person name="Fei J."/>
+<person name="Wang C."/>
+<person name="Gonzalez R.L. Jr."/>
+<person name="Hunt J.F."/>
+<person name="Frank J."/>
+</authorList>
+<dbReference type="PubMed" id="24389465"/>
+<dbReference type="DOI" id="10.1038/nsmb.2741"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (7.5 ANGSTROMS) IN COMPLEX WITH 70S RIBOSOMES</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF GLU-188 AND GLU-470</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="115" last="116">
+<title>The ABCs of the ribosome.</title>
+<authorList>
+<person name="Fredrick K."/>
+<person name="Ibba M."/>
+</authorList>
+<dbReference type="PubMed" id="24500425"/>
+<dbReference type="DOI" id="10.1038/nsmb.2765"/>
+</citation>
+<scope>COMMENT</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4">A translation factor that gates the progression of the 70S ribosomal initiation complex (IC, containing tRNA(fMet) in the P site) into the translation elongation cycle by using a mechanism sensitive to the ATP/ADP ratio. Binds to the 70S ribosome E site where it modulates the state of the translating ribosome during subunit translocation. Stimulates dipeptide bond synthesis in the presence of ATP (cell in high energy state), but inhibits dipeptide synthesis in the presence of ADP (cell in low energy state), and thus may control translation in response to changing ATP levels (including during stationary phase). Following ATP hydrolysis is probably released allowing the ribosome to enter the elongation phase. Its specificity for the IC may be conferred by its recognition of features unique to tRNA(fMet).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4">Monomer at concentrations found in vivo, exists in a slowly reversible monomer-homodimer equilibrium. Probably contacts ribosomal proteins L1, L5, L33 and S7, the 16S and 23S rRNA and the P site containing tRNA(fMet).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+<text>Associates with ribosomes and polysomes.</text>
+</comment>
+<comment type="induction">
+<text evidence="4">Constitutively expressed, increases in stationary phase (at protein level).</text>
+</comment>
+<comment type="domain">
+<text evidence="3 4">The arm domain (residues 95-139) is inserted in the first ABC transporter domain. Its deletion abrogates the growth arrest and translation inhibition effect of the double Q-188/Q-470 mutation. When deleted impairs fitness in long-term (up to 6 days) growth in stationary phase (PubMed:24389466). Probably contacts ribosomal protein L1 (PubMed:24389465).</text>
+</comment>
+<comment type="domain">
+<text>The P-site tRNA interaction motif (PtIM domain, residues 242-322) probably interacts with the P site tRNA(fMet) as well as the 23S rRNA.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Not essential it can be disrupted, its absence impairs fitness in long-term (up to 6 days) growth in stationary phase.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the ABC transporter superfamily. ABCF family. Translational throttle EttA subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA97287" version="1"/>
+</conflict>
+<location>
+<position position="541"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="frameshift">
+<sequence resource="EMBL" id="M69185"/>
+</conflict>
+<location>
+<position position="49"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97287.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77344.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78380.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M69185">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65254">
+<property type="entry name" value="F65254"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418808.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000046749.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="3J5S">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.50"/>
+<property type="chains" value="D=1-555"/>
+</dbReference>
+<dbReference type="PDB" id="4FIN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1-555"/>
+</dbReference>
+<dbReference type="PDBsum" id="3J5S"/>
+<dbReference type="PDBsum" id="4FIN"/>
+<dbReference type="SMR" id="P0A9W3"/>
+<dbReference type="BioGrid" id="4260798">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48138N"/>
+<dbReference type="IntAct" id="P0A9W3">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4391"/>
+<dbReference type="EPD" id="P0A9W3"/>
+<dbReference type="jPOST" id="P0A9W3"/>
+<dbReference type="PaxDb" id="P0A9W3"/>
+<dbReference type="PRIDE" id="P0A9W3"/>
+<dbReference type="EnsemblBacteria" id="AAC77344">
+<property type="protein sequence ID" value="AAC77344"/>
+<property type="gene ID" value="b4391"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78380">
+<property type="protein sequence ID" value="BAE78380"/>
+<property type="gene ID" value="BAE78380"/>
+</dbReference>
+<dbReference type="GeneID" id="948909"/>
+<dbReference type="KEGG" id="ecj:JW4354"/>
+<dbReference type="KEGG" id="eco:b4391"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2293"/>
+<dbReference type="EchoBASE" id="EB2247"/>
+<dbReference type="EcoGene" id="EG12343">
+<property type="gene designation" value="ettA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C5H">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0488">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000271639"/>
+<dbReference type="InParanoid" id="P0A9W3"/>
+<dbReference type="KO" id="K06020"/>
+<dbReference type="PhylomeDB" id="P0A9W3"/>
+<dbReference type="BioCyc" id="EcoCyc:YJJK-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4354-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A9W3"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043022">
+<property type="term" value="F:ribosome binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045900">
+<property type="term" value="P:negative regulation of translational elongation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032781">
+<property type="entry name" value="ABC_tran_Xtn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022374">
+<property type="entry name" value="EttA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43858">
+<property type="entry name" value="PTHR43858"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12848">
+<property type="entry name" value="ABC_tran_Xtn"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03719">
+<property type="entry name" value="ABC_ABC_ChvD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Energy-dependent translational throttle protein EttA" id="PRO_0000093191">
+<location>
+<begin position="2"/>
+<end position="555"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 1" evidence="2">
+<location>
+<begin position="6"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 2" evidence="2">
+<location>
+<begin position="324"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 1" evidence="2">
+<location>
+<begin position="39"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 2" evidence="2">
+<location>
+<begin position="356"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="region of interest" description="Arm">
+<location>
+<begin position="95"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="region of interest" description="PtIM">
+<location>
+<begin position="242"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Arrests growth, inhibits tripeptide but not dipeptide formation, stably binds 70S ribosomes, probably locked in an ATP-bound form as it should not have ATPase activity; when associated with Q-470." evidence="3 4">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Arrests growth, inhibits tripeptide but not dipeptide formation, stably binds 70S ribosomes, probably locked in an ATP-bound form as it should not have ATPase activity; when associated with Q-188." evidence="3 4">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="470"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="16"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="19"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="34"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="45"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="60"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="71"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="86"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="95"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="141"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="160"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="165"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="182"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="189"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="195"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="209"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="227"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="237"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="244"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="287"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="294"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="300"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="306"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="309"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="324"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="336"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="351"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="362"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="376"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="388"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="404"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="413"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="420"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="424"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="435"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="442"/>
+<end position="444"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="447"/>
+<end position="458"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="459"/>
+<end position="461"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="464"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="471"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="477"/>
+<end position="489"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="491"/>
+<end position="497"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="501"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="509"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="520"/>
+<end position="525"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="527"/>
+<end position="538"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="542"/>
+<end position="544"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4FIN"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24389465"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24389466"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="555" mass="62443" checksum="444C7A3E2492D978" modified="2007-01-23" version="2">
+MAQFVYTMHRVGKVVPPKRHILKNISLSFFPGAKIGVLGLNGAGKSTLLRIMAGIDKDIE
+GEARPQPDIKIGYLPQEPQLNPEHTVRESIEEAVSEVVNALKRLDEVYALYADPDADFDK
+LAAEQGRLEEIIQAHDGHNLNVQLERAADALRLPDWDAKIANLSGGERRRVALCRLLLEK
+PDMLLLDEPTNHLDAESVAWLERFLHDFEGTVVAITHDRYFLDNVAGWILELDRGEGIPW
+EGNYSSWLEQKDQRLAQEASQEAARRKSIEKELEWVRQGTKGRQSKGKARLARFEELNST
+EYQKRNETNELFIPPGPRLGDKVLEVSNLRKSYGDRLLIDDLSFSIPKGAIVGIIGPNGA
+GKSTLFRMISGQEQPDSGTITLGETVKLASVDQFRDSMDNSKTVWEEVSGGLDIMKIGNT
+EMPSRAYVGRFNFKGVDQGKRVGELSGGERGRLHLAKLLQVGGNMLLLDEPTNDLDIETL
+RALENALLEFPGCAMVISHDRWFLDRIATHILDYQDEGKVEFFEGNFTEYEEYKKRTLGA
+DALEPKRIKYKRIAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

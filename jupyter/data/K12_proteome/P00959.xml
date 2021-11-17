@@ -1,0 +1,1091 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="202">
+<accession>P00959</accession>
+<accession>Q2MAW4</accession>
+<name>SYM_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Methionine--tRNA ligase</fullName>
+<ecNumber>6.1.1.10</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Methionyl-tRNA synthetase</fullName>
+<shortName>MetRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">metG</name>
+<name type="ordered locus">b2114</name>
+<name type="ordered locus">JW2101</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="J. Bacteriol." volume="160" first="1115" last="1122">
+<title>Molecular cloning and primary structure of the Escherichia coli methionyl-tRNA synthetase gene.</title>
+<authorList>
+<person name="Dardel F."/>
+<person name="Fayat G."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="6094501"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="Mol. Gen. Genet." volume="223" first="121" last="133">
+<title>Transcription and regulation of expression of the Escherichia coli methionyl-tRNA synthetase gene.</title>
+<authorList>
+<person name="Dardel F."/>
+<person name="Panvert M."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="2259334"/>
+<dbReference type="DOI" id="10.1007/BF00315804"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1982" name="Eur. J. Biochem." volume="127" first="449" last="457">
+<title>Methionyl-tRNA synthetase from Escherichia coli. Primary structure of the active crystallised tryptic fragment.</title>
+<authorList>
+<person name="Barker D.G."/>
+<person name="Ebel J.-P."/>
+<person name="Jakes R."/>
+<person name="Bruton C.J."/>
+</authorList>
+<dbReference type="PubMed" id="6756915"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-566</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1982" name="J. Mol. Biol." volume="155" first="63" last="81">
+<title>Crystal structure of Escherichia coli methionyl-tRNA synthetase at 2.5-A resolution.</title>
+<authorList>
+<person name="Zelwer C."/>
+<person name="Risler J.-L."/>
+<person name="Brunie S."/>
+</authorList>
+<dbReference type="PubMed" id="7042987"/>
+<dbReference type="DOI" id="10.1016/0022-2836(82)90492-2"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1990" name="J. Mol. Biol." volume="216" first="411" last="424">
+<title>Crystallographic study at 2.5-A resolution of the interaction of methionyl-tRNA synthetase from Escherichia coli with ATP.</title>
+<authorList>
+<person name="Brunie S."/>
+<person name="Zelwer C."/>
+<person name="Risler J.-L."/>
+</authorList>
+<dbReference type="PubMed" id="2254937"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(05)80331-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="294" first="1287" last="1297">
+<title>Crystal structure of Escherichia coli methionyl-tRNA synthetase highlights species-specific features.</title>
+<authorList>
+<person name="Mechulam Y."/>
+<person name="Schmitt E."/>
+<person name="Maveyraud L."/>
+<person name="Zelwer C."/>
+<person name="Nureki O."/>
+<person name="Yokoyama S."/>
+<person name="Konno M."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="10600385"/>
+<dbReference type="DOI" id="10.1006/jmbi.1999.3339"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.03 ANGSTROMS) OF 1-553</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2001" name="J. Mol. Biol." volume="306" first="863" last="876">
+<title>How methionyl-tRNA synthetase creates its amino acid recognition pocket upon L-methionine binding.</title>
+<authorList>
+<person name="Serre L."/>
+<person name="Verdon G."/>
+<person name="Choinowski T."/>
+<person name="Hervouet N."/>
+<person name="Risler J.-L."/>
+<person name="Zelwer C."/>
+</authorList>
+<dbReference type="PubMed" id="11243794"/>
+<dbReference type="DOI" id="10.1006/jmbi.2001.4408"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 1-552 IN COMPLEX WITH L-METHIONINE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1993" name="J. Mol. Biol." volume="231" first="1078" last="1089">
+<title>Methionyl-tRNA synthetase zinc binding domain. Three-dimensional structure and homology with rubredoxin and gag retroviral proteins.</title>
+<authorList>
+<person name="Fourmy D."/>
+<person name="Dardel F."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="8515466"/>
+<dbReference type="DOI" id="10.1006/jmbi.1993.1353"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 139-164</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1990" name="Biochemistry" volume="29" first="8190" last="8198">
+<title>Mapping of the active site of Escherichia coli methionyl-tRNA synthetase: identification of amino acid residues labeled by periodate-oxidized tRNA(fMet) molecules having modified lengths at the 3'-acceptor end.</title>
+<authorList>
+<person name="Hountondji C."/>
+<person name="Schmitter J.-M."/>
+<person name="Beauvallet C."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="1702021"/>
+<dbReference type="DOI" id="10.1021/bi00487a029"/>
+</citation>
+<scope>MAPPING OF SUBSTRATE-BINDING SITES</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1990" name="Biochimie" volume="72" first="625" last="632">
+<title>Methionyl-tRNA synthetase from E. coli -- a review.</title>
+<authorList>
+<person name="Meinnel T."/>
+<person name="Mechulam Y."/>
+<person name="Dardel F."/>
+<person name="Schmitter J.-M."/>
+<person name="Hountondji C."/>
+<person name="Brunie S."/>
+<person name="Dessen P."/>
+<person name="Fayat G."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="2126467"/>
+<dbReference type="DOI" id="10.1016/0300-9084(90)90126-2"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1991" name="FEBS Lett." volume="292" first="259" last="263">
+<title>Identification of residues involved in the binding of methionine by Escherichia coli methionyl-tRNA synthetase.</title>
+<authorList>
+<person name="Fourmy D."/>
+<person name="Mechulam Y."/>
+<person name="Brunie S."/>
+<person name="Blanquet S."/>
+<person name="Fayat G."/>
+</authorList>
+<dbReference type="PubMed" id="1959615"/>
+<dbReference type="DOI" id="10.1016/0014-5793(91)80879-8"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1993" name="J. Mol. Biol." volume="231" first="1068" last="1077">
+<title>Mapping of the zinc binding domain of Escherichia coli methionyl-tRNA synthetase.</title>
+<authorList>
+<person name="Fourmy D."/>
+<person name="Meinnel T."/>
+<person name="Mechulam Y."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="8515465"/>
+<dbReference type="DOI" id="10.1006/jmbi.1993.1352"/>
+</citation>
+<scope>MUTAGENESIS OF ZINC LIGANDS</scope>
+</reference>
+<comment type="function">
+<text>Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-methionine + tRNA(Met) = AMP + diphosphate + L-methionyl-tRNA(Met)</text>
+<dbReference type="Rhea" id="RHEA:13481"/>
+<dbReference type="Rhea" id="RHEA-COMP:9667"/>
+<dbReference type="Rhea" id="RHEA-COMP:9698"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57844"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78530"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.10"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text>Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Homodimer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-909268"/>
+<interactant intactId="EBI-543515">
+<id>P60422</id>
+<label>rplB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the class-I aminoacyl-tRNA synthetase family. MetG type 1 subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA60526" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="6.1.1.10"/>
+<dbReference type="EMBL" id="K02671">
+<property type="protein sequence ID" value="AAA24161.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X55791">
+<property type="protein sequence ID" value="CAA39315.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00007">
+<property type="protein sequence ID" value="AAA60526.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75175.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76592.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S14427">
+<property type="entry name" value="SYECMT"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416617.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001350533.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1F4L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-551"/>
+</dbReference>
+<dbReference type="PDB" id="1MEA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="1MED">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="1P7P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PFU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.91"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PFV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PFW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PFY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PG0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1PG2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="1QQT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A=2-552"/>
+</dbReference>
+<dbReference type="PDB" id="3H97">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="3H99">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="3H9B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="3H9C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=2-548"/>
+</dbReference>
+<dbReference type="PDBsum" id="1F4L"/>
+<dbReference type="PDBsum" id="1MEA"/>
+<dbReference type="PDBsum" id="1MED"/>
+<dbReference type="PDBsum" id="1P7P"/>
+<dbReference type="PDBsum" id="1PFU"/>
+<dbReference type="PDBsum" id="1PFV"/>
+<dbReference type="PDBsum" id="1PFW"/>
+<dbReference type="PDBsum" id="1PFY"/>
+<dbReference type="PDBsum" id="1PG0"/>
+<dbReference type="PDBsum" id="1PG2"/>
+<dbReference type="PDBsum" id="1QQT"/>
+<dbReference type="PDBsum" id="3H97"/>
+<dbReference type="PDBsum" id="3H99"/>
+<dbReference type="PDBsum" id="3H9B"/>
+<dbReference type="PDBsum" id="3H9C"/>
+<dbReference type="SMR" id="P00959"/>
+<dbReference type="BioGrid" id="4259174">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10194N"/>
+<dbReference type="IntAct" id="P00959">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2114"/>
+<dbReference type="BindingDB" id="P00959"/>
+<dbReference type="ChEMBL" id="CHEMBL3367"/>
+<dbReference type="DrugBank" id="DB02229">
+<property type="generic name" value="5'-O-[(L-Methionyl)-Sulphamoyl]Adenosine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03816">
+<property type="generic name" value="Difluoromethionine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04015">
+<property type="generic name" value="Methionine Phosphinate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02151">
+<property type="generic name" value="Methionine Phosphonate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03799">
+<property type="generic name" value="Trifluoromethionine"/>
+</dbReference>
+<dbReference type="SWISS-2DPAGE" id="P00959"/>
+<dbReference type="EPD" id="P00959"/>
+<dbReference type="jPOST" id="P00959"/>
+<dbReference type="PaxDb" id="P00959"/>
+<dbReference type="PRIDE" id="P00959"/>
+<dbReference type="EnsemblBacteria" id="AAC75175">
+<property type="protein sequence ID" value="AAC75175"/>
+<property type="gene ID" value="b2114"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76592">
+<property type="protein sequence ID" value="BAE76592"/>
+<property type="gene ID" value="BAE76592"/>
+</dbReference>
+<dbReference type="GeneID" id="946643"/>
+<dbReference type="KEGG" id="ecj:JW2101"/>
+<dbReference type="KEGG" id="eco:b2114"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.133"/>
+<dbReference type="EchoBASE" id="EB0581"/>
+<dbReference type="EcoGene" id="EG10586">
+<property type="gene designation" value="metG"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CKH">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0073">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0143">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000200400"/>
+<dbReference type="InParanoid" id="P00959"/>
+<dbReference type="KO" id="K01874"/>
+<dbReference type="PhylomeDB" id="P00959"/>
+<dbReference type="BioCyc" id="EcoCyc:METG-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2101-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:METG-MONOMER"/>
+<dbReference type="BRENDA" id="6.1.1.10">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P00959"/>
+<dbReference type="PRO" id="PR:P00959"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004825">
+<property type="term" value="F:methionine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006431">
+<property type="term" value="P:methionyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07957">
+<property type="entry name" value="Anticodon_Ia_Met"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00814">
+<property type="entry name" value="MetRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd02800">
+<property type="entry name" value="tRNA_bind_EcMetRS_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.20.28.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00098">
+<property type="entry name" value="Met_tRNA_synth_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041872">
+<property type="entry name" value="Anticodon_Met"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004495">
+<property type="entry name" value="Met-tRNA-synth_bsu_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023458">
+<property type="entry name" value="Met-tRNA_ligase_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014758">
+<property type="entry name" value="Met-tRNA_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015413">
+<property type="entry name" value="Methionyl/Leucyl_tRNA_Synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033911">
+<property type="entry name" value="MetRS_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029038">
+<property type="entry name" value="MetRS_Zn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002547">
+<property type="entry name" value="tRNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009080">
+<property type="entry name" value="tRNAsynth_Ia_anticodon-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09334">
+<property type="entry name" value="tRNA-synt_1g"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01588">
+<property type="entry name" value="tRNA_bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01041">
+<property type="entry name" value="TRNASYNTHMET"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47323">
+<property type="entry name" value="SSF47323"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57770">
+<property type="entry name" value="SSF57770"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00398">
+<property type="entry name" value="metG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00399">
+<property type="entry name" value="metG_C_term"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50886">
+<property type="entry name" value="TRBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="initiator methionine" description="Removed">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Methionine--tRNA ligase" id="PRO_0000139129">
+<location>
+<begin position="2"/>
+<end position="677"/>
+</location>
+</feature>
+<feature type="domain" description="tRNA-binding">
+<location>
+<begin position="575"/>
+<end position="677"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;HIGH&quot; region">
+<location>
+<begin position="15"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;KMSKS&quot; region">
+<location>
+<begin position="333"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4 5">
+<original>K</original>
+<variation>Q</variation>
+<variation>A</variation>
+<variation>E</variation>
+<variation>R</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="7"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="16"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="23"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="45"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="57"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="70"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="93"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="101"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="120"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="131"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="139"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="142"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="152"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="160"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="168"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="172"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="177"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="184"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="195"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="199"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="213"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="233"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="253"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="277"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="288"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="296"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="299"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="305"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="319"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="327"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="336"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="344"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="353"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="371"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="375"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="386"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="392"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="398"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="416"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="426"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="438"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="461"/>
+<end position="464"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="471"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="493"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="497"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="514"/>
+<end position="517"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="537"/>
+<end position="547"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QQT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3H99"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11243794"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1959615"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8515465"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="677" mass="76255" checksum="363F3324AFD3202C" modified="2007-01-23" version="2">
+MTQVAKKILVTCALPYANGSIHLGHMLEHIQADVWVRYQRMRGHEVNFICADDAHGTPIM
+LKAQQLGITPEQMIGEMSQEHQTDFAGFNISYDNYHSTHSEENRQLSELIYSRLKENGFI
+KNRTISQLYDPEKGMFLPDRFVKGTCPKCKSPDQYGDNCEVCGATYSPTELIEPKSVVSG
+ATPVMRDSEHFFFDLPSFSEMLQAWTRSGALQEQVANKMQEWFESGLQQWDISRDAPYFG
+FEIPNAPGKYFYVWLDAPIGYMGSFKNLCDKRGDSVSFDEYWKKDSTAELYHFIGKDIVY
+FHSLFWPAMLEGSNFRKPSNLFVHGYVTVNGAKMSKSRGTFIKASTWLNHFDADSLRYYY
+TAKLSSRIDDIDLNLEDFVQRVNADIVNKVVNLASRNAGFINKRFDGVLASELADPQLYK
+TFTDAAEVIGEAWESREFGKAVREIMALADLANRYVDEQAPWVVAKQEGRDADLQAICSM
+GINLFRVLMTYLKPVLPKLTERAEAFLNTELTWDGIQQPLLGHKVNPFKALYNRIDMRQV
+EALVEASKEEVKAAAAPVTGPLADDPIQETITFDDFAKVDLRVALIENAEFVEGSDKLLR
+LTLDLGGEKRNVFSGIRSAYPDPQALIGRHTIMVANLAPRKMRFGISEGMVMAAGPGGKD
+IFLLSPDAGAKPGHQVK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

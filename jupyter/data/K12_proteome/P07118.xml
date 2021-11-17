@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="173">
+<accession>P07118</accession>
+<accession>P78142</accession>
+<accession>Q2M651</accession>
+<accession>Q7X4V7</accession>
+<name>SYV_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Valine--tRNA ligase</fullName>
+<ecNumber>6.1.1.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Valyl-tRNA synthetase</fullName>
+<shortName>ValRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">valS</name>
+<name type="ordered locus">b4258</name>
+<name type="ordered locus">JW4215</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Nucleic Acids Res." volume="15" first="9081" last="9082">
+<title>Nucleotide sequence of Escherichia coli valyl-tRNA synthetase gene valS.</title>
+<authorList>
+<person name="Haertlein M."/>
+<person name="Frank R."/>
+<person name="Madern D."/>
+</authorList>
+<dbReference type="PubMed" id="3317277"/>
+<dbReference type="DOI" id="10.1093/nar/15.21.9081"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="868" last="877">
+<title>Valyl-tRNA synthetase gene of Escherichia coli K12. Primary structure and homology within a family of aminoacyl-tRNA synthetases.</title>
+<authorList>
+<person name="Heck J.D."/>
+<person name="Hatfield G.W."/>
+</authorList>
+<dbReference type="PubMed" id="3275660"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="2003-04" db="EMBL/GenBank/DDBJ databases">
+<title>Nucleotide sequence of the valS-holC region of Escherichia coli B.</title>
+<authorList>
+<person name="Ramchandani J.H."/>
+<person name="Bhattacharjee S.K."/>
+<person name="Mahajan S.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-801</scope>
+<source>
+<strain>B / MD6014</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-12</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="Science" volume="292" first="501" last="504">
+<title>Enlarging the amino acid set of Escherichia coli by infiltration of the valine coding pathway.</title>
+<authorList>
+<person name="Doering V."/>
+<person name="Mootz H.D."/>
+<person name="Nangle L.A."/>
+<person name="Hendrickson T.L."/>
+<person name="de Crecy-Lagard V."/>
+<person name="Schimmel P."/>
+<person name="Marliere P."/>
+</authorList>
+<dbReference type="PubMed" id="11313495"/>
+<dbReference type="DOI" id="10.1126/science.1057718"/>
+</citation>
+<scope>MUTAGENESIS OF THR-222</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Biochemistry" volume="41" first="14856" last="14865">
+<title>Crucial role of conserved lysine 277 in the fidelity of tRNA aminoacylation by Escherichia coli valyl-tRNA synthetase.</title>
+<authorList>
+<person name="Hountondji C."/>
+<person name="Lazennec C."/>
+<person name="Beauvallet C."/>
+<person name="Dessen P."/>
+<person name="Pernollet J.-C."/>
+<person name="Plateau P."/>
+<person name="Blanquet S."/>
+</authorList>
+<dbReference type="PubMed" id="12475234"/>
+<dbReference type="DOI" id="10.1021/bi0205101"/>
+</citation>
+<scope>KINETIC PARAMETERS</scope>
+<scope>MUTAGENESIS OF LYS-277</scope>
+</reference>
+<comment type="function">
+<text>Catalyzes the attachment of valine to tRNA(Val). As ValRS can inadvertently accommodate and process structurally similar amino acids such as threonine, to avoid such errors, it has a "posttransfer" editing activity that hydrolyzes mischarged Thr-tRNA(Val) in a tRNA-dependent manner.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-valine + tRNA(Val) = AMP + diphosphate + L-valyl-tRNA(Val)</text>
+<dbReference type="Rhea" id="RHEA:10704"/>
+<dbReference type="Rhea" id="RHEA-COMP:9672"/>
+<dbReference type="Rhea" id="RHEA-COMP:9708"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57762"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78537"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.9"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">0.1 uM for tRNA</KM>
+<KM evidence="4">47 uM for valine</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>ValRS has two distinct active sites: one for aminoacylation and one for editing. The misactivated threonine is translocated from the active site to the editing site.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">The C-terminal coiled-coil domain is crucial for aminoacylation activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the class-I aminoacyl-tRNA synthetase family. ValS type 1 subfamily.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.9"/>
+<dbReference type="EMBL" id="X05891">
+<property type="protein sequence ID" value="CAA29322.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J03497">
+<property type="protein sequence ID" value="AAA24657.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97155.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77215.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78255.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283771">
+<property type="protein sequence ID" value="AAP43521.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E65238">
+<property type="entry name" value="SYECVT"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418679.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000416392.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P07118"/>
+<dbReference type="BioGrid" id="4262724">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11112N"/>
+<dbReference type="IntAct" id="P07118">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4258"/>
+<dbReference type="EPD" id="P07118"/>
+<dbReference type="jPOST" id="P07118"/>
+<dbReference type="PaxDb" id="P07118"/>
+<dbReference type="PRIDE" id="P07118"/>
+<dbReference type="EnsemblBacteria" id="AAC77215">
+<property type="protein sequence ID" value="AAC77215"/>
+<property type="gene ID" value="b4258"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78255">
+<property type="protein sequence ID" value="BAE78255"/>
+<property type="gene ID" value="BAE78255"/>
+</dbReference>
+<dbReference type="GeneID" id="948785"/>
+<dbReference type="KEGG" id="ecj:JW4215"/>
+<dbReference type="KEGG" id="eco:b4258"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2446"/>
+<dbReference type="EchoBASE" id="EB1060"/>
+<dbReference type="EcoGene" id="EG11067">
+<property type="gene designation" value="valS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CA4">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0525">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000020094"/>
+<dbReference type="InParanoid" id="P07118"/>
+<dbReference type="KO" id="K01873"/>
+<dbReference type="PhylomeDB" id="P07118"/>
+<dbReference type="BioCyc" id="EcoCyc:VALS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4215-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:VALS-MONOMER"/>
+<dbReference type="PRO" id="PR:P07118"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002161">
+<property type="term" value="F:aminoacyl-tRNA editing activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004832">
+<property type="term" value="F:valine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061475">
+<property type="term" value="P:cytosolic valyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045903">
+<property type="term" value="P:positive regulation of translational fidelity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006438">
+<property type="term" value="P:valyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd07962">
+<property type="entry name" value="Anticodon_Ia_Val"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.287.380">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.740.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02004">
+<property type="entry name" value="Val_tRNA_synth_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002300">
+<property type="entry name" value="aa-tRNA-synth_Ia"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033705">
+<property type="entry name" value="Anticodon_Ia_Val"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013155">
+<property type="entry name" value="M/V/L/I-tRNA-synth_anticd-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010978">
+<property type="entry name" value="tRNA-bd_arm"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009080">
+<property type="entry name" value="tRNAsynth_Ia_anticodon-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037118">
+<property type="entry name" value="Val-tRNA_synth_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019499">
+<property type="entry name" value="Val-tRNA_synth_tRNA-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009008">
+<property type="entry name" value="Val/Leu/Ile-tRNA-synth_edit"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002303">
+<property type="entry name" value="Valyl-tRNA_ligase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08264">
+<property type="entry name" value="Anticodon_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00133">
+<property type="entry name" value="tRNA-synt_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10458">
+<property type="entry name" value="Val_tRNA-synt_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00986">
+<property type="entry name" value="TRNASYNTHVAL"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46589">
+<property type="entry name" value="SSF46589"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47323">
+<property type="entry name" value="SSF47323"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50677">
+<property type="entry name" value="SSF50677"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00422">
+<property type="entry name" value="valS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Valine--tRNA ligase" id="PRO_0000106224">
+<location>
+<begin position="1"/>
+<end position="951"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="880"/>
+<end position="944"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;HIGH&quot; region">
+<location>
+<begin position="42"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;KMSKS&quot; region">
+<location>
+<begin position="554"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="557"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Produces mischarged Thr-tRNA(Val) and Cys-tRNA(Val)." evidence="3">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces posttransfer Thr-tRNA(Val) editing rate significantly and alters amino acid discrimination in the editing site, resulting in hydrolysis of the correctly charged cognate product." evidence="4">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="277"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA24657." ref="2" evidence="5">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAP43521." ref="6" evidence="5">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAP43521." ref="6" evidence="5">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="452"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAP43521." ref="6" evidence="5">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="465"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA29322." ref="1" evidence="5">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="694"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA24657." ref="2" evidence="5">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="833"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11313495"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12475234"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="951" mass="108192" checksum="3FBE09CF1E7D40BC" modified="1997-11-01" version="2">
+MEKTYNPQDIEQPLYEHWEKQGYFKPNGDESQESFCIMIPPPNVTGSLHMGHAFQQTIMD
+TMIRYQRMQGKNTLWQVGTDHAGIATQMVVERKIAAEEGKTRHDYGREAFIDKIWEWKAE
+SGGTITRQMRRLGNSVDWERERFTMDEGLSNAVKEVFVRLYKEDLIYRGKRLVNWDPKLR
+TAISDLEVENRESKGSMWHIRYPLADGAKTADGKDYLVVATTRPETLLGDTGVAVNPEDP
+RYKDLIGKYVILPLVNRRIPIVGDEHADMEKGTGCVKITPAHDFNDYEVGKRHALPMINI
+LTFDGDIRESAQVFDTKGNESDVYSSEIPAEFQKLERFAARKAVVAAVDALGLLEEIKPH
+DLTVPYGDRGGVVIEPMLTDQWYVRADVLAKPAVEAVENGDIQFVPKQYENMYFSWMRDI
+QDWCISRQLWWGHRIPAWYDEAGNVYVGRNEDEVRKENNLGADVVLRQDEDVLDTWFSSA
+LWTFSTLGWPENTDALRQFHPTSVMVSGFDIIFFWIARMIMMTMHFIKDENGKPQVPFHT
+VYMTGLIRDDEGQKMSKSKGNVIDPLDMVDGISLPELLEKRTGNMMQPQLADKIRKRTEK
+QFPNGIEPHGTDALRFTLAALASTGRDINWDMKRLEGYRNFCNKLWNASRFVLMNTEGQD
+CGFNGGEMTLSLADRWILAEFNQTIKAYREALDSFRFDIAAGILYEFTWNQFCDWYLELT
+KPVMNGGTEAELRGTRHTLVTVLEGLLRLAHPIIPFITETIWQRVKVLCGITADTIMLQP
+FPQYDASQVDEAALADTEWLKQAIVAVRNIRAEMNIAPGKPLELLLRGCSADAERRVNEN
+RGFLQTLARLESITVLPADDKGPVSVTKIIDGAELLIPMAGLINKEDELARLAKEVAKIE
+GEISRIENKLANEGFVARAPEAVIAKEREKLEGYAEAKAKLIEQQAVIAAL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-07-15" modified="2019-05-08" version="147">
+<accession>P75989</accession>
+<accession>Q9R7N5</accession>
+<name>BLUR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">HTH-type transcriptional repressor BluR</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">bluR</name>
+<name type="synonym">ycgE</name>
+<name type="ordered locus">b1162</name>
+<name type="ordered locus">JW1149</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="Antimicrob. Agents Chemother." volume="53" first="4944" last="4948">
+<title>Combined inactivation of lon and ycgE decreases multidrug susceptibility by reducing the amount of OmpF porin in Escherichia coli.</title>
+<authorList>
+<person name="Duval V."/>
+<person name="Nicoloff H."/>
+<person name="Levy S.B."/>
+</authorList>
+<dbReference type="PubMed" id="19721064"/>
+<dbReference type="DOI" id="10.1128/AAC.00787-09"/>
+</citation>
+<scope>ROLE IN REGULATION OF OMPF IN ASSOCIATION WITH LON</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / AG100</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Genes Dev." volume="23" first="522" last="534">
+<title>The BLUF-EAL protein YcgF acts as a direct anti-repressor in a blue-light response of Escherichia coli.</title>
+<authorList>
+<person name="Tschowri N."/>
+<person name="Busse S."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="19240136"/>
+<dbReference type="DOI" id="10.1101/gad.499409"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH BLUF</scope>
+<scope>DNA-BINDING</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2012" name="Mol. Microbiol." volume="85" first="893" last="906">
+<title>Molecular function and potential evolution of the biofilm-modulating blue light-signalling pathway of Escherichia coli.</title>
+<authorList>
+<person name="Tschowri N."/>
+<person name="Lindenberg S."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="22783906"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2012.08147.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>INTERACTION WITH BLUF</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 4">Controls the expression of several small proteins that may play a role in biofilm maturation. Binds to and represses the operator of the ycgZ-ymgA-ariR-ymgC operon and also regulates ynaK. Binding is antagonized by BluF upon blue light (470 nm) irradiation. Blue light may increase the affinity of BluF for BluR, allowing it to be released from its operator.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 4">Interacts with BluF.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-560582"/>
+<interactant intactId="EBI-560590">
+<id>P23874</id>
+<label>hipA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-560582"/>
+<interactant intactId="EBI-542856">
+<id>P0A9P0</id>
+<label>lpdA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="induction">
+<text evidence="2">Expression is strongly activated (7-fold at 16 degrees Celsius compared to 37 degrees) at low temperature.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2 3">3- to 20-fold derepression of several genes coding for small proteins including the ycgZ-ymgA-ariR-ymgC operon. While the BluR/F system is induced at low temperatures under blue light irradiation, it is not essential for growth under these conditions. When both lon and bluR are disrupted, levels of OmpF decrease, leading to lower drug susceptibility, with a greater effect at 26 degrees than at 37 degrees Celsius. The mechanism is not yet understood.</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74246.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35997.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64861">
+<property type="entry name" value="G64861"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415680.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000332303.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P75989"/>
+<dbReference type="BioGrid" id="4260084">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11552N"/>
+<dbReference type="IntAct" id="P75989">
+<property type="interactions" value="39"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1162"/>
+<dbReference type="EPD" id="P75989"/>
+<dbReference type="jPOST" id="P75989"/>
+<dbReference type="PaxDb" id="P75989"/>
+<dbReference type="PRIDE" id="P75989"/>
+<dbReference type="EnsemblBacteria" id="AAC74246">
+<property type="protein sequence ID" value="AAC74246"/>
+<property type="gene ID" value="b1162"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35997">
+<property type="protein sequence ID" value="BAA35997"/>
+<property type="gene ID" value="BAA35997"/>
+</dbReference>
+<dbReference type="GeneID" id="945735"/>
+<dbReference type="KEGG" id="ecj:JW1149"/>
+<dbReference type="KEGG" id="eco:b1162"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1128"/>
+<dbReference type="EchoBASE" id="EB3645"/>
+<dbReference type="EcoGene" id="EG13886">
+<property type="gene designation" value="bluR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108XDN">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0789">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000119656"/>
+<dbReference type="InParanoid" id="P75989"/>
+<dbReference type="KO" id="K21972"/>
+<dbReference type="BioCyc" id="EcoCyc:G6602-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1149-MONOMER"/>
+<dbReference type="PRO" id="PR:P75989"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009061">
+<property type="entry name" value="DNA-bd_dom_put_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000551">
+<property type="entry name" value="MerR-type_HTH_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13411">
+<property type="entry name" value="MerR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00422">
+<property type="entry name" value="HTH_MERR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46955">
+<property type="entry name" value="SSF46955"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00552">
+<property type="entry name" value="HTH_MERR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50937">
+<property type="entry name" value="HTH_MERR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="HTH-type transcriptional repressor BluR" id="PRO_0000098165">
+<location>
+<begin position="1"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="domain" description="HTH merR-type" evidence="1">
+<location>
+<begin position="3"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="6"/>
+<end position="25"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00254"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19240136"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19721064"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22783906"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22783906"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="243" mass="28265" checksum="E8E5AD376A18EB84" modified="1997-02-01" version="1">
+MAYYSIGDVAERCGINPVTLRAWQRRYGLLKPQRSEGGHRLFDEEDIQRIEEIKRWISNG
+VPVGKVKALLETTSQDTEDDWSRLQEEMMSILRMANPAKLRARIISLGREYPVDQLINHV
+YLPVRQRLVLDHNTSRIMSSMFDGALIEYAATSLFEMRRKPGKEAILMAWNVEERARLWL
+EAWRLSLSGWHISVLADPIESPRPELFPTQTLIVWTGMAPTRRQNELLQHWGEQGYKVIF
+HAP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-08-01" modified="2019-05-08" version="163">
+<accession>P16384</accession>
+<accession>Q2M6D4</accession>
+<name>MIAA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>tRNA dimethylallyltransferase</fullName>
+<ecNumber>2.5.1.75</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Dimethylallyl diphosphate:tRNA dimethylallyltransferase</fullName>
+<shortName>DMAPP:tRNA dimethylallyltransferase</shortName>
+<shortName>DMATase</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Isopentenyl-diphosphate:tRNA isopentenyltransferase</fullName>
+<shortName>IPP transferase</shortName>
+<shortName>IPPT</shortName>
+<shortName>IPTase</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">miaA</name>
+<name type="synonym">trpX</name>
+<name type="ordered locus">b4171</name>
+<name type="ordered locus">JW4129</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Bacteriol." volume="173" first="1711" last="1721">
+<title>Structure of Escherichia coli K-12 miaA and characterization of the mutator phenotype caused by miaA insertion mutations.</title>
+<authorList>
+<person name="Winkler M.E."/>
+<person name="Connolly D.M."/>
+</authorList>
+<dbReference type="PubMed" id="1999389"/>
+<dbReference type="DOI" id="10.1128/jb.173.5.1711-1721.1991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1989" name="J. Bacteriol." volume="171" first="3233" last="3246">
+<title>Genetic and physiological relationships among the miaA gene, 2-methylthio-N6-(delta 2-isopentenyl)-adenosine tRNA modification, and spontaneous mutagenesis in Escherichia coli K-12.</title>
+<authorList>
+<person name="Connolly D.M."/>
+<person name="Winkler M.E."/>
+</authorList>
+<dbReference type="PubMed" id="2656644"/>
+<dbReference type="DOI" id="10.1128/jb.171.6.3233-3246.1989"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 109-170</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1991" name="Nucleic Acids Res." volume="19" first="1063" last="1066">
+<title>Identification and sequence determination of the host factor gene for bacteriophage Q beta.</title>
+<authorList>
+<person name="Kajitani M."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="2020545"/>
+<dbReference type="DOI" id="10.1093/nar/19.5.1063"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 101-316</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="1993-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Noble J.A."/>
+<person name="Innis M.A."/>
+<person name="Banuett F."/>
+<person name="Herskowitz I."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 101-316</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="2379" last="2379">
+<title>Nonconserved segment of the MutL protein from Escherichia coli K-12 and Salmonella typhimurium.</title>
+<authorList>
+<person name="Tsui H.-C.T."/>
+<person name="Mandavilli B.S."/>
+<person name="Winkler M.E."/>
+</authorList>
+<dbReference type="PubMed" id="1594459"/>
+<dbReference type="DOI" id="10.1093/nar/20.9.2379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-65</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Biochemistry" volume="36" first="604" last="614">
+<title>Escherichia coli dimethylallyl diphosphate:tRNA dimethylallyltransferase: a binding mechanism for recombinant enzyme.</title>
+<authorList>
+<person name="Moore J.A."/>
+<person name="Poulter C.D."/>
+</authorList>
+<dbReference type="PubMed" id="9012675"/>
+<dbReference type="DOI" id="10.1021/bi962225l"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="13073" last="13083">
+<title>Regulation of substrate recognition by the MiaA tRNA prenyltransferase modification enzyme of Escherichia coli K-12.</title>
+<authorList>
+<person name="Leung H.-C.E."/>
+<person name="Chen Y."/>
+<person name="Winkler M.E."/>
+</authorList>
+<dbReference type="PubMed" id="9148919"/>
+<dbReference type="DOI" id="10.1074/jbc.272.20.13073"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="6600" last="6604">
+<title>RNA-protein mutually induced fit: structure of Escherichia coli isopentenyl-tRNA transferase in complex with tRNA(Phe).</title>
+<authorList>
+<person name="Seif E."/>
+<person name="Hallberg B.M."/>
+</authorList>
+<dbReference type="PubMed" id="19158097"/>
+<dbReference type="DOI" id="10.1074/jbc.C800235200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) IN COMPLEX WITH TRNA(PHE)</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7">Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>adenosine(37) in tRNA + dimethylallyl diphosphate = diphosphate + N(6)-dimethylallyladenosine(37) in tRNA</text>
+<dbReference type="Rhea" id="RHEA:26482"/>
+<dbReference type="Rhea" id="RHEA-COMP:10162"/>
+<dbReference type="Rhea" id="RHEA-COMP:10375"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57623"/>
+<dbReference type="ChEBI" id="CHEBI:74411"/>
+<dbReference type="ChEBI" id="CHEBI:74415"/>
+<dbReference type="EC" id="2.5.1.75"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="6">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="activity regulation">
+<text evidence="7">Strongly inhibited by ADP, ATP and other NTPs.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="6 7">96 nM for tRNA(Phe)</KM>
+<KM evidence="6 7">3.2 uM for DMAPP</KM>
+</kinetics>
+<phDependence>
+<text evidence="6 7">Optimum pH is 6.5-9.</text>
+</phDependence>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 7">Monomer. Binds to tRNA(Phe).</text>
+</comment>
+<comment type="induction">
+<text>By 2-aminopurine.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Specific tRNA undermodification may be a switch to higher mutation frequency when cells are subject to environmental stresses other than treatment with mutagens.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the IPP transferase family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.75"/>
+<dbReference type="EMBL" id="M63655">
+<property type="protein sequence ID" value="AAA24174.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97067.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77128.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78172.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D00743">
+<property type="protein sequence ID" value="BAA00643.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00005">
+<property type="protein sequence ID" value="AAC43396.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z11831">
+<property type="protein sequence ID" value="CAA77852.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B37318">
+<property type="entry name" value="B37318"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418592.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001280345.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2ZM5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A/B=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2ZXU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A/B=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3FOZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=1-316"/>
+</dbReference>
+<dbReference type="PDBsum" id="2ZM5"/>
+<dbReference type="PDBsum" id="2ZXU"/>
+<dbReference type="PDBsum" id="3FOZ"/>
+<dbReference type="SMR" id="P16384"/>
+<dbReference type="BioGrid" id="4263002">
+<property type="interactions" value="83"/>
+</dbReference>
+<dbReference type="IntAct" id="P16384">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4171"/>
+<dbReference type="DrugBank" id="DB02270">
+<property type="generic name" value="Dimethylallyl S-Thiolodiphosphate"/>
+</dbReference>
+<dbReference type="jPOST" id="P16384"/>
+<dbReference type="PaxDb" id="P16384"/>
+<dbReference type="PRIDE" id="P16384"/>
+<dbReference type="EnsemblBacteria" id="AAC77128">
+<property type="protein sequence ID" value="AAC77128"/>
+<property type="gene ID" value="b4171"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78172">
+<property type="protein sequence ID" value="BAE78172"/>
+<property type="gene ID" value="BAE78172"/>
+</dbReference>
+<dbReference type="GeneID" id="948690"/>
+<dbReference type="KEGG" id="ecj:JW4129"/>
+<dbReference type="KEGG" id="eco:b4171"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2530"/>
+<dbReference type="EchoBASE" id="EB0590"/>
+<dbReference type="EcoGene" id="EG10595">
+<property type="gene designation" value="miaA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DKX">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0324">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000039996"/>
+<dbReference type="InParanoid" id="P16384"/>
+<dbReference type="KO" id="K00791"/>
+<dbReference type="PhylomeDB" id="P16384"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10595-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4129-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10595-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P16384"/>
+<dbReference type="PRO" id="PR:P16384"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052381">
+<property type="term" value="F:tRNA dimethylallyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034605">
+<property type="term" value="P:cellular response to heat"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990497">
+<property type="term" value="P:regulation of cytoplasmic translation in response to stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006400">
+<property type="term" value="P:tRNA modification"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00185">
+<property type="entry name" value="IPP_trans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039657">
+<property type="entry name" value="Dimethylallyltransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018022">
+<property type="entry name" value="IPT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11088">
+<property type="entry name" value="PTHR11088"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01715">
+<property type="entry name" value="IPPT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00174">
+<property type="entry name" value="miaA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<feature type="chain" description="tRNA dimethylallyltransferase" id="PRO_0000163913">
+<location>
+<begin position="1"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="17"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="3">
+<location>
+<begin position="19"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with substrate tRNA">
+<location>
+<begin position="42"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with substrate tRNA">
+<location>
+<begin position="120"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with substrate tRNA">
+<location>
+<begin position="166"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with isopentenylpyrophosphate transferase">
+<location>
+<begin position="206"/>
+<end position="229"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with substrate tRNA">
+<location>
+<begin position="247"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with substrate tRNA">
+<location>
+<begin position="280"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with substrate tRNA">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with substrate tRNA">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="site" description="Required for specificity towards tRNA substrates containing a purine at position 29">
+<location>
+<position position="280"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 7; AAC43396." ref="7" evidence="8">
+<original>I</original>
+<variation>D</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="11"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="23"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="36"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="43"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="52"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="59"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="67"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="81"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="101"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="109"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="127"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="154"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="165"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="182"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="194"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="207"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="226"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="244"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="251"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="264"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="293"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="300"/>
+<end position="308"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ZM5"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3FOZ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19158097"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9012675"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9148919"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="316" mass="35065" checksum="FBFDC18770781C8F" modified="1991-11-01" version="2">
+MSDISKASLPKAIFLMGPTASGKTALAIELRKILPVELISVDSALIYKGMDIGTAKPNAE
+ELLAAPHRLLDIRDPSQAYSAADFRRDALAEMADITAAGRIPLLVGGTMLYFKALLEGLS
+PLPSADPEVRARIEQQAAEQGWESLHRQLQEVDPVAAARIHPNDPQRLSRALEVFFISGK
+TLTELTQTSGDALPYQVHQFAIAPASRELLHQRIEQRFHQMLASGFEAEVRALFARGDLH
+TDLPSIRCVGYRQMWSYLEGEISYDEMVYRGVCATRQLAKRQITWLRGWEGVHWLDSEKP
+EQARDEVLQVVGAIAG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

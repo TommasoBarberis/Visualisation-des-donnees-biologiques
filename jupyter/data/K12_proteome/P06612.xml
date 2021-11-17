@@ -1,0 +1,1475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2019-05-08" version="190">
+<accession>P06612</accession>
+<name>TOP1_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">DNA topoisomerase 1</fullName>
+<ecNumber evidence="7 8 9 10 13">5.6.2.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="7">DNA topoisomerase I</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Omega-protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Relaxing enzyme</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Swivelase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Untwisting enzyme</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="7">topA</name>
+<name type="synonym">supX</name>
+<name type="ordered locus">b1274</name>
+<name type="ordered locus">JW1266</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Mol. Biol." volume="191" first="321" last="331">
+<title>Complete nucleotide sequence of the topA gene encoding Escherichia coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Tse-Dinh Y.-C."/>
+<person name="Wang J.C."/>
+</authorList>
+<dbReference type="PubMed" id="3029379"/>
+<dbReference type="DOI" id="10.1016/0022-2836(86)90129-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1991-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Lynch D.A."/>
+<person name="Wang J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="363" last="377">
+<title>A 570-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 28.0-40.1 min region on the linkage map.</title>
+<authorList>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kasai H."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitakawa M."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Mori T."/>
+<person name="Motomura K."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Oshima T."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Takeuchi Y."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9097039"/>
+<dbReference type="DOI" id="10.1093/dnares/3.6.363"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="5999" last="6005">
+<title>DNA sequences of the cysB regions of Salmonella typhimurium and Escherichia coli.</title>
+<authorList>
+<person name="Ostrowski J."/>
+<person name="Jagura-Burdzy G."/>
+<person name="Kredich N.M."/>
+</authorList>
+<dbReference type="PubMed" id="3032952"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 698-865</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="6050" last="6056">
+<title>Identification of active site residues in Escherichia coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Chen S.J."/>
+<person name="Wang J.C."/>
+</authorList>
+<dbReference type="PubMed" id="9497321"/>
+<dbReference type="DOI" id="10.1074/jbc.273.11.6050"/>
+</citation>
+<scope>MUTAGENESIS OF GLU-9; TYR-319; ARG-321; HIS-365 AND THR-496</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="5318" last="5322">
+<title>The acidic triad conserved in type IA DNA topoisomerases is required for binding of Mg(II) and subsequent conformational change.</title>
+<authorList>
+<person name="Zhu C.X."/>
+<person name="Tse-Dinh Y.C."/>
+</authorList>
+<dbReference type="PubMed" id="10681504"/>
+<dbReference type="DOI" id="10.1074/jbc.275.8.5318"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-111; ASP-113 AND GLU-115</scope>
+<scope>COFACTOR</scope>
+<scope>FUNCTION</scope>
+<scope>ENZYME MECHANISM</scope>
+<scope>METAL-BINDING SITES</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2015" name="Cell Biochem. Biophys." volume="72" first="417" last="428">
+<title>Construction of 2,4,6-trinitrotoluene biosensors with novel sensing elements from Escherichia coli K-12 MG1655.</title>
+<authorList>
+<person name="Tan J."/>
+<person name="Kan N."/>
+<person name="Wang W."/>
+<person name="Ling J."/>
+<person name="Qu G."/>
+<person name="Jin J."/>
+<person name="Shao Y."/>
+<person name="Liu G."/>
+<person name="Chen H."/>
+</authorList>
+<dbReference type="PubMed" id="25561288"/>
+<dbReference type="DOI" id="10.1007/s12013-014-0481-8"/>
+</citation>
+<scope>INDUCTION BY 2,4,6-TRINITROTOLUENE</scope>
+<scope>BIOTECHNOLOGY</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1994" name="Nature" volume="367" first="138" last="146">
+<title>Three-dimensional structure of the 67K N-terminal fragment of E. coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Lima C.D."/>
+<person name="Wang J.C."/>
+<person name="Mondragon A."/>
+</authorList>
+<dbReference type="PubMed" id="8114910"/>
+<dbReference type="DOI" id="10.1038/367138a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-597</scope>
+<scope>PUTATIVE METAL-BINDING SITES</scope>
+<scope>ACTIVE SITE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1995" name="Biochemistry" volume="34" first="7622" last="7628">
+<title>Solution structure of the C-terminal single-stranded DNA-binding domain of Escherichia coli topoisomerase I.</title>
+<authorList>
+<person name="Yu L."/>
+<person name="Zhu C.-X."/>
+<person name="Tse-Dinh Y.-C."/>
+<person name="Fesik S.W."/>
+</authorList>
+<dbReference type="PubMed" id="7779808"/>
+<dbReference type="DOI" id="10.1021/bi00023a008"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 745-865</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="Nat. Struct. Biol." volume="6" first="918" last="922">
+<title>Conformational changes in E. coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Feinberg H."/>
+<person name="Lima C.D."/>
+<person name="Mondragon A."/>
+</authorList>
+<dbReference type="PubMed" id="10504724"/>
+<dbReference type="DOI" id="10.1038/13283"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 214-477</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1999" name="Nat. Struct. Biol." volume="6" first="961" last="968">
+<title>Protein-nucleotide interactions in E. coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Feinberg H."/>
+<person name="Changela A."/>
+<person name="Mondragon A."/>
+</authorList>
+<dbReference type="PubMed" id="10504732"/>
+<dbReference type="DOI" id="10.1038/13333"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 1-597 IN COMPLEXES WITH NUCLEOTIDES</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2003" name="Structure" volume="11" first="1349" last="1358">
+<title>Structure of a complex between E. coli DNA topoisomerase I and single-stranded DNA.</title>
+<authorList>
+<person name="Perry K."/>
+<person name="Mondragon A."/>
+</authorList>
+<dbReference type="PubMed" id="14604525"/>
+<dbReference type="DOI" id="10.1016/j.str.2003.09.013"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.67 ANGSTROMS) OF 1-592 OF MUTANT ARG-365 IN COMPLEX WITH SINGLE-STRANDED DNA</scope>
+<scope>MUTAGENESIS OF HIS-365</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="6939" last="6944">
+<title>Crystal structure of a covalent intermediate in DNA cleavage and rejoining by Escherichia coli DNA topoisomerase I.</title>
+<authorList>
+<person name="Zhang Z."/>
+<person name="Cheng B."/>
+<person name="Tse-Dinh Y.C."/>
+</authorList>
+<dbReference type="PubMed" id="21482796"/>
+<dbReference type="DOI" id="10.1073/pnas.1100300108"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 1-596 OF MUTANT ASN-111 IN COMPLEX WITH DNA</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ACTIVE SITE</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF ARG-168 AND ASP-172</scope>
+<scope>DNA-BINDING SITES</scope>
+<scope>ENZYME MECHANISM</scope>
+</reference>
+<comment type="function">
+<text evidence="7 8 10 13">Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supercoils. Finally, in the religation step, the DNA 3'-OH attacks the covalent intermediate to expel the active-site tyrosine and restore the DNA phosphodiester backbone.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="7 8 9 10 13">
+<text>ATP-independent breakage of single-stranded DNA, followed by passage and rejoining.</text>
+<dbReference type="EC" id="5.6.2.2"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="8 10">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<cofactor evidence="8 10">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<cofactor evidence="8 10">
+<name>Ca(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29108"/>
+</cofactor>
+<text evidence="8 10">Binds two Mg(2+) ions per subunit. The magnesium ions form salt bridges with both the protein and the DNA. Can also accept other divalent metal cations, such as Mn(2+) or Ca(2+).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 9 10">Monomer.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-544172"/>
+<interactant intactId="EBI-561235">
+<id>P27862</id>
+<label>yigZ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="induction">
+<text evidence="11">Transcription is increased specifically in response to 2,4,6-trinitrotoluene (TNT) and its indicator compounds 1,3-DNB, 2,4-DNT, and 2,6-DNT.</text>
+</comment>
+<comment type="biotechnology">
+<text evidence="11">Has been used to construct a 2,4,6-trinitrotoluene (TNT) biosensor strain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the type IA topoisomerase family.</text>
+</comment>
+<dbReference type="EC" id="5.6.2.2" evidence="7 8 9 10 13"/>
+<dbReference type="EMBL" id="X04475">
+<property type="protein sequence ID" value="CAA28164.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15041">
+<property type="protein sequence ID" value="AAA23641.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74356.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA14811.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64875">
+<property type="entry name" value="ISECTP"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415790.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001297122.1">
+<property type="nucleotide sequence ID" value="NZ_CP014272.1"/>
+</dbReference>
+<dbReference type="PDB" id="1CY0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1CY9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=214-477"/>
+</dbReference>
+<dbReference type="PDB" id="1CYY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=214-477"/>
+</dbReference>
+<dbReference type="PDB" id="1ECL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-597"/>
+</dbReference>
+<dbReference type="PDB" id="1MW8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="X=1-592"/>
+</dbReference>
+<dbReference type="PDB" id="1MW9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.67"/>
+<property type="chains" value="X=1-592"/>
+</dbReference>
+<dbReference type="PDB" id="1YUA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=745-865"/>
+</dbReference>
+<dbReference type="PDB" id="3PWT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-596"/>
+</dbReference>
+<dbReference type="PDB" id="3PX7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-595"/>
+</dbReference>
+<dbReference type="PDB" id="4RUL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=2-865"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CY0"/>
+<dbReference type="PDBsum" id="1CY1"/>
+<dbReference type="PDBsum" id="1CY2"/>
+<dbReference type="PDBsum" id="1CY4"/>
+<dbReference type="PDBsum" id="1CY6"/>
+<dbReference type="PDBsum" id="1CY7"/>
+<dbReference type="PDBsum" id="1CY8"/>
+<dbReference type="PDBsum" id="1CY9"/>
+<dbReference type="PDBsum" id="1CYY"/>
+<dbReference type="PDBsum" id="1ECL"/>
+<dbReference type="PDBsum" id="1MW8"/>
+<dbReference type="PDBsum" id="1MW9"/>
+<dbReference type="PDBsum" id="1YUA"/>
+<dbReference type="PDBsum" id="3PWT"/>
+<dbReference type="PDBsum" id="3PX7"/>
+<dbReference type="PDBsum" id="4RUL"/>
+<dbReference type="SMR" id="P06612"/>
+<dbReference type="BioGrid" id="4259579">
+<property type="interactions" value="153"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11011N"/>
+<dbReference type="IntAct" id="P06612">
+<property type="interactions" value="69"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1274"/>
+<dbReference type="ChEMBL" id="CHEMBL3259513"/>
+<dbReference type="DrugBank" id="DB01812">
+<property type="generic name" value="Adenosine-3'-5'-Diphosphate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01643">
+<property type="generic name" value="Thymidine-5'-Phosphate"/>
+</dbReference>
+<dbReference type="EPD" id="P06612"/>
+<dbReference type="jPOST" id="P06612"/>
+<dbReference type="PaxDb" id="P06612"/>
+<dbReference type="PRIDE" id="P06612"/>
+<dbReference type="EnsemblBacteria" id="AAC74356">
+<property type="protein sequence ID" value="AAC74356"/>
+<property type="gene ID" value="b1274"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA14811">
+<property type="protein sequence ID" value="BAA14811"/>
+<property type="gene ID" value="BAA14811"/>
+</dbReference>
+<dbReference type="GeneID" id="945862"/>
+<dbReference type="KEGG" id="ecj:JW1266"/>
+<dbReference type="KEGG" id="eco:b1274"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1010"/>
+<dbReference type="EchoBASE" id="EB1006"/>
+<dbReference type="EcoGene" id="EG11013">
+<property type="gene designation" value="topA"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C73">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0550">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0551">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000004018"/>
+<dbReference type="InParanoid" id="P06612"/>
+<dbReference type="KO" id="K03168"/>
+<dbReference type="PhylomeDB" id="P06612"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11013-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1266-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11013-MONOMER"/>
+<dbReference type="BRENDA" id="5.99.1.2">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P06612"/>
+<dbReference type="PRO" id="PR:P06612"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005694">
+<property type="term" value="C:chromosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003916">
+<property type="term" value="F:DNA topoisomerase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003917">
+<property type="term" value="F:DNA topoisomerase type I activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006265">
+<property type="term" value="P:DNA topological change"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd00186">
+<property type="entry name" value="TOP1Ac"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd03363">
+<property type="entry name" value="TOPRIM_TopoIA_TopoI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.290.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.460.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.20.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00952">
+<property type="entry name" value="Topoisom_1_prok"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000380">
+<property type="entry name" value="Topo_IA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003601">
+<property type="entry name" value="Topo_IA_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023406">
+<property type="entry name" value="Topo_IA_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013497">
+<property type="entry name" value="Topo_IA_cen"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013824">
+<property type="entry name" value="Topo_IA_cen_sub1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013825">
+<property type="entry name" value="Topo_IA_cen_sub2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013826">
+<property type="entry name" value="Topo_IA_cen_sub3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023405">
+<property type="entry name" value="Topo_IA_core_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003602">
+<property type="entry name" value="Topo_IA_DNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013498">
+<property type="entry name" value="Topo_IA_Znf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005733">
+<property type="entry name" value="TopoI_bac-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013263">
+<property type="entry name" value="TopoI_Znr_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028612">
+<property type="entry name" value="Topoisom_1_IA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006171">
+<property type="entry name" value="TOPRIM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034149">
+<property type="entry name" value="TOPRIM_TopoI"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR42785">
+<property type="entry name" value="PTHR42785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08272">
+<property type="entry name" value="Topo_Zn_Ribbon"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01131">
+<property type="entry name" value="Topoisom_bac"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01751">
+<property type="entry name" value="Toprim"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01396">
+<property type="entry name" value="zf-C4_Topoisom"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00417">
+<property type="entry name" value="PRTPISMRASEI"/>
+</dbReference>
+<dbReference type="SMART" id="SM00437">
+<property type="entry name" value="TOP1Ac"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00436">
+<property type="entry name" value="TOP1Bc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00493">
+<property type="entry name" value="TOPRIM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56712">
+<property type="entry name" value="SSF56712"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01051">
+<property type="entry name" value="topA_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00396">
+<property type="entry name" value="TOPOISOMERASE_I_PROK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50880">
+<property type="entry name" value="TOPRIM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0413">Isomerase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0799">Topoisomerase</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="DNA topoisomerase 1" id="PRO_0000145147">
+<location>
+<begin position="1"/>
+<end position="865"/>
+</location>
+</feature>
+<feature type="domain" description="Toprim" evidence="7">
+<location>
+<begin position="3"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type 1">
+<location>
+<begin position="599"/>
+<end position="630"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type 2">
+<location>
+<begin position="662"/>
+<end position="689"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type 3">
+<location>
+<begin position="711"/>
+<end position="736"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with DNA">
+<location>
+<begin position="192"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="active site" description="O-(5'-phospho-DNA)-tyrosine intermediate" evidence="7 10 12 13">
+<location>
+<position position="319"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1; catalytic" evidence="7">
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1; catalytic" evidence="14">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="14">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="14">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA">
+<location>
+<position position="507"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity." evidence="13">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on DNA cleavage activity." evidence="13">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes both magnesium binding and enzyme activity; when associated with A-113 and A-115." evidence="8">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes both magnesium binding and enzyme activity; when associated with A-111 and A-115." evidence="8">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes both magnesium binding and enzyme activity; when associated with A-111 and A-113." evidence="8">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity." evidence="10">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity." evidence="10">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity." evidence="13">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="319"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity." evidence="13">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="13">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="9 13">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="365"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases DNA binding affinity." evidence="9 13">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="365"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect." evidence="13">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="496"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAA23641." ref="6" evidence="14">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="787"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="4"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="11"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="25"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="64"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="72"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="75"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="87"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="90"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="104"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="114"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="134"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="144"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="159"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="197"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="218"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="229"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="233"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="251"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="266"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="286"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="301"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="316"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="329"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="345"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="362"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="377"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="385"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="406"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="420"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="433"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="458"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="479"/>
+<end position="488"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="494"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="497"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="509"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="516"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="521"/>
+<end position="533"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="535"/>
+<end position="538"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="540"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="560"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="582"/>
+<end position="584"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="593"/>
+<end position="598"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="600"/>
+<end position="603"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="605"/>
+<end position="610"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="615"/>
+<end position="620"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="626"/>
+<end position="628"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="633"/>
+<end position="635"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="648"/>
+<end position="650"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="651"/>
+<end position="657"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="663"/>
+<end position="665"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="668"/>
+<end position="675"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="678"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="684"/>
+<end position="688"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="692"/>
+<end position="694"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="702"/>
+<end position="705"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="712"/>
+<end position="714"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="717"/>
+<end position="722"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="724"/>
+<end position="733"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="740"/>
+<end position="742"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="744"/>
+<end position="746"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="756"/>
+<end position="762"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="764"/>
+<end position="767"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="769"/>
+<end position="775"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="778"/>
+<end position="785"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="786"/>
+<end position="788"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="797"/>
+<end position="802"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="803"/>
+<end position="806"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="809"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="812"/>
+<end position="815"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="826"/>
+<end position="829"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="833"/>
+<end position="835"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="840"/>
+<end position="843"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="851"/>
+<end position="855"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1CYY"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ECL"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1MW9"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1YUA"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3PWT"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4RUL"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00952"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10681504"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14604525"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21482796"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25561288"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8114910"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9497321"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="865" mass="97350" checksum="8C13F767FE5B178C" modified="1995-02-01" version="2">
+MGKALVIVESPAKAKTINKYLGSDYVVKSSVGHIRDLPTSGSAAKKSADSTSTKTAKKPK
+KDERGALVNRMGVDPWHNWEAHYEVLPGKEKVVSELKQLAEKADHIYLATDLDREGEAIA
+WHLREVIGGDDARYSRVVFNEITKNAIRQAFNKPGELNIDRVNAQQARRFMDRVVGYMVS
+PLLWKKIARGLSAGRVQSVAVRLVVEREREIKAFVPEEFWEVDASTTTPSGEALALQVTH
+QNDKPFRPVNKEQTQAAVSLLEKARYSVLEREDKPTTSKPGAPFITSTLQQAASTRLGFG
+VKKTMMMAQRLYEAGYITYMRTDSTNLSQDAVNMVRGYISDNFGKKYLPESPNQYASKEN
+SQEAHEAIRPSDVNVMAESLKDMEADAQKLYQLIWRQFVACQMTPAKYDSTTLTVGAGDF
+RLKARGRILRFDGWTKVMPALRKGDEDRILPAVNKGDALTLVELTPAQHFTKPPARFSEA
+SLVKELEKRGIGRPSTYASIISTIQDRGYVRVENRRFYAEKMGEIVTDRLEENFRELMNY
+DFTAQMENSLDQVANHEAEWKAVLDHFFSDFTQQLDKAEKDPEEGGMRPNQMVLTSIDCP
+TCGRKMGIRTASTGVFLGCSGYALPPKERCKTTINLVPENEVLNVLEGEDAETNALRAKR
+RCPKCGTAMDSYLIDPKRKLHVCGNNPTCDGYEIEEGEFRIKGYDGPIVECEKCGSEMHL
+KMGRFGKYMACTNEECKNTRKILRNGEVAPPKEDPVPLPELPCEKSDAYFVLRDGAAGVF
+LAANTFPKSRETRAPLVEELYRFRDRLPEKLRYLADAPQQDPEGNKTMVRFSRKTKQQYV
+SSEKDGKATGWSAFYVDGKWVEGKK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

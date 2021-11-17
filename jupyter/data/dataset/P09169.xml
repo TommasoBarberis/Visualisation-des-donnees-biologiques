@@ -1,0 +1,837 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2019-05-08" version="159">
+<accession>P09169</accession>
+<name>OMPT_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protease 7</fullName>
+<ecNumber>3.4.23.49</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Omptin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Outer membrane protein 3B</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protease A</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protease VII</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ompT</name>
+<name type="ordered locus">b0565</name>
+<name type="ordered locus">JW0554</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Nucleic Acids Res." volume="16" first="1209" last="1209">
+<title>Complete nucleotide sequence and deduced amino acid sequence of the ompT gene of Escherichia coli K-12.</title>
+<authorList>
+<person name="Grodberg J."/>
+<person name="Lundrigan M.D."/>
+<person name="Toledo D.L."/>
+<person name="Mangel W.F."/>
+<person name="Dunn J.J."/>
+</authorList>
+<dbReference type="PubMed" id="3278297"/>
+<dbReference type="DOI" id="10.1093/nar/16.3.1209"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 21-36</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="J. Bacteriol." volume="170" first="5625" last="5632">
+<title>Purification, characterization, and primary structure of Escherichia coli protease VII with specificity for paired basic residues: identity of protease VII and OmpT.</title>
+<authorList>
+<person name="Sugimura K."/>
+<person name="Nisihihara T."/>
+</authorList>
+<dbReference type="PubMed" id="3056908"/>
+<dbReference type="DOI" id="10.1128/jb.170.12.5625-5632.1988"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 21-40</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] OF 1-16</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Electrophoresis" volume="19" first="837" last="844">
+<title>Extraction of membrane proteins by differential solubilization for separation using two-dimensional gel electrophoresis.</title>
+<authorList>
+<person name="Molloy M.P."/>
+<person name="Herbert B.R."/>
+<person name="Walsh B.J."/>
+<person name="Tyler M.I."/>
+<person name="Traini M."/>
+<person name="Sanchez J.-C."/>
+<person name="Hochstrasser D.F."/>
+<person name="Williams K.L."/>
+<person name="Gooley A.A."/>
+</authorList>
+<dbReference type="PubMed" id="9629924"/>
+<dbReference type="DOI" id="10.1002/elps.1150190539"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-24</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="4002" last="4006">
+<title>Identification of OmpT as the protease that hydrolyzes the antimicrobial peptide protamine before it enters growing cells of Escherichia coli.</title>
+<authorList>
+<person name="Stumpe S."/>
+<person name="Schmid R."/>
+<person name="Stephens D.L."/>
+<person name="Georgiou G."/>
+<person name="Bakker E.P."/>
+</authorList>
+<dbReference type="PubMed" id="9683502"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="Eur. J. Biochem." volume="267" first="885" last="893">
+<title>In vitro folding, purification and characterization of Escherichia coli outer membrane protease ompT.</title>
+<authorList>
+<person name="Kramer R.A."/>
+<person name="Zandwijken D."/>
+<person name="Egmond M.R."/>
+<person name="Dekker N."/>
+</authorList>
+<dbReference type="PubMed" id="10651827"/>
+<dbReference type="DOI" id="10.1046/j.1432-1327.2000.01073.x"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<scope>PROTEIN SEQUENCE OF 21-25</scope>
+<scope>MUTAGENESIS OF GLY-236 AND LYS-237</scope>
+<source>
+<strain>BL21-DE3</strain>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="FEBS Lett." volume="505" first="426" last="430">
+<title>Identification of essential acidic residues of outer membrane protease OmpT supports a novel active site.</title>
+<authorList>
+<person name="Kramer R.A."/>
+<person name="Vandeputte-Rutten L."/>
+<person name="de Roon G.J."/>
+<person name="Gros P."/>
+<person name="Dekker N."/>
+<person name="Egmond M.R."/>
+</authorList>
+<dbReference type="PubMed" id="11576541"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(01)02863-0"/>
+</citation>
+<scope>ACTIVE SITE</scope>
+<scope>MUTAGENESIS OF ASP-103; ASP-105 AND ASP-230</scope>
+<source>
+<strain>BL21-DE3</strain>
+<strain>K12 / DH5-alpha</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="5033" last="5039">
+<title>Crystal structure of the outer membrane protease OmpT from Escherichia coli suggests a novel catalytic site.</title>
+<authorList>
+<person name="Vandeputte-Rutten L."/>
+<person name="Kramer R.A."/>
+<person name="Kroon J."/>
+<person name="Dekker N."/>
+<person name="Egmond M.R."/>
+<person name="Gros P."/>
+</authorList>
+<dbReference type="PubMed" id="11566868"/>
+<dbReference type="DOI" id="10.1093/emboj/20.18.5033"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text evidence="8">Protease that can cleave T7 RNA polymerase, ferric enterobactin receptor protein (FEP), antimicrobial peptide protamine and other proteins. This protease has a specificity for paired basic residues.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Has a virtual requirement for Arg in the P1 position and a slightly less stringent preference for this residue in the P1' position, which can also contain Lys, Gly or Val.</text>
+<dbReference type="EC" id="3.4.23.49"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text>Inhibited by zinc.</text>
+</comment>
+<comment type="subunit">
+<text evidence="9">Homopentamer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cell outer membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="miscellaneous">
+<text>Was originally classified as a serine protease, but it seems that OmpT could have a novel catalytic mechanism involving an Asp/His dyad and a pair of Asp.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Encoded by the cryptic lambdoid prophage DLP12.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the peptidase A26 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.23.49"/>
+<dbReference type="EMBL" id="X06903">
+<property type="protein sequence ID" value="CAA30008.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M23630">
+<property type="protein sequence ID" value="AAA24430.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82598">
+<property type="protein sequence ID" value="AAB40761.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73666.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35199.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A31387">
+<property type="entry name" value="A31387"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415097.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001201845.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1I78">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=21-317"/>
+</dbReference>
+<dbReference type="PDBsum" id="1I78"/>
+<dbReference type="SMR" id="P09169"/>
+<dbReference type="BioGrid" id="4263520">
+<property type="interactions" value="171"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0565"/>
+<dbReference type="MEROPS" id="A26.001"/>
+<dbReference type="TCDB" id="9.B.50.1.1">
+<property type="family name" value="the outer membrane beta-barrel endoprotease, omptin (omptin) family"/>
+</dbReference>
+<dbReference type="SWISS-2DPAGE" id="P09169"/>
+<dbReference type="jPOST" id="P09169"/>
+<dbReference type="PaxDb" id="P09169"/>
+<dbReference type="PRIDE" id="P09169"/>
+<dbReference type="EnsemblBacteria" id="AAC73666">
+<property type="protein sequence ID" value="AAC73666"/>
+<property type="gene ID" value="b0565"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35199">
+<property type="protein sequence ID" value="BAA35199"/>
+<property type="gene ID" value="BAA35199"/>
+</dbReference>
+<dbReference type="GeneID" id="945185"/>
+<dbReference type="KEGG" id="ecj:JW0554"/>
+<dbReference type="KEGG" id="eco:b0565"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1709"/>
+<dbReference type="EchoBASE" id="EB0667"/>
+<dbReference type="EcoGene" id="EG10673">
+<property type="gene designation" value="ompT"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108NC2">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4571">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000117799"/>
+<dbReference type="KO" id="K01355"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10673-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0554-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10673-MONOMER"/>
+<dbReference type="BRENDA" id="3.4.23.49">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P09169"/>
+<dbReference type="PRO" id="PR:P09169"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009279">
+<property type="term" value="C:cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031230">
+<property type="term" value="C:intrinsic component of cell outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004190">
+<property type="term" value="F:aspartic-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004175">
+<property type="term" value="F:endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020080">
+<property type="entry name" value="OM_adhesin/peptidase_omptin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020079">
+<property type="entry name" value="Peptidase_A26_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000036">
+<property type="entry name" value="Peptidase_A26_omptin"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01278">
+<property type="entry name" value="Omptin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001522">
+<property type="entry name" value="Peptidase_A26"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00482">
+<property type="entry name" value="OMPTIN"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF69917">
+<property type="entry name" value="SSF69917"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00834">
+<property type="entry name" value="OMPTIN_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00835">
+<property type="entry name" value="OMPTIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0064">Aspartyl protease</keyword>
+<keyword id="KW-0998">Cell outer membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1134">Transmembrane beta strand</keyword>
+<feature type="signal peptide" evidence="3 5 6 7">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Protease 7" id="PRO_0000025815">
+<location>
+<begin position="21"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="21"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="32"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="42"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="70"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="79"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="84"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="93"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="131"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="141"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="146"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="157"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="198"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="210"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="212"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="222"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="251"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="262"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="265"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="275"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Beta stranded" evidence="2">
+<location>
+<begin position="307"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="active site" evidence="10">
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="active site" evidence="10">
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="active site" evidence="10">
+<location>
+<position position="230"/>
+</location>
+</feature>
+<feature type="active site" evidence="10">
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="4">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="230"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="70% of wild-type enzymatic activity.">
+<original>GK</original>
+<variation>KG</variation>
+<location>
+<begin position="236"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="40% of wild-type enzymatic activity." evidence="3">
+<original>K</original>
+<variation>T</variation>
+<location>
+<position position="237"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity.">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="32"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="52"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="81"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="97"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="116"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="144"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="167"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="188"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="212"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="235"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="239"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="265"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="288"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="292"/>
+<end position="316"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1I78"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10651827"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11576541"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3056908"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3278297"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9629924"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9683502"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11576541"/>
+</source>
+</evidence>
+<sequence length="317" mass="35562" checksum="CA112FE7F6336F61" modified="1989-07-01" version="1" precursor="true">
+MRAKLLGIVLTTPIAISSFASTETLSFTPDNINADISLGTLSGKTKERVYLAEEGGRKVS
+QLDWKFNNAAIIKGAINWDLMPQISIGAAGWTTLGSRGGNMVDQDWMDSSNPGTWTDESR
+HPDTQLNYANEFDLNIKGWLLNEPNYRLGLMAGYQESRYSFTARGGSYIYSSEEGFRDDI
+GSFPNGERAIGYKQRFKMPYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPGKRIT
+YRSKVKDQNYYSVAVNAGYYVTPNAKVYVEGAWNRVTNKKGNTSLYDHNNNTSDYSKNGA
+GIENYNFITTAGLKYTF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

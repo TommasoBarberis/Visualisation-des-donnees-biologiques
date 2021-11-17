@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-08-01" modified="2019-05-08" version="118">
+<accession>P16681</accession>
+<accession>Q2M6J7</accession>
+<name>YJDN_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protein YjdN</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yjdN</name>
+<name type="synonym" evidence="2">phnB</name>
+<name type="ordered locus">b4107</name>
+<name type="ordered locus">JW4068</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="4461" last="4471">
+<title>Molecular biology of carbon-phosphorus bond cleavage. Cloning and sequencing of the phn (psiD) genes involved in alkylphosphonate uptake and C-P lyase activity in Escherichia coli B.</title>
+<authorList>
+<person name="Chen C.-M."/>
+<person name="Ye Q.-Z."/>
+<person name="Zhu Z."/>
+<person name="Wanner B.L."/>
+<person name="Walsh C.T."/>
+</authorList>
+<dbReference type="PubMed" id="2155230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1993" name="Gene" volume="129" first="27" last="32">
+<title>Evidence for a fourteen-gene, phnC to phnP locus for phosphonate metabolism in Escherichia coli.</title>
+<authorList>
+<person name="Metcalf W.W."/>
+<person name="Wanner B.L."/>
+</authorList>
+<dbReference type="PubMed" id="8335257"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>B</strain>
+</source>
+</reference>
+<comment type="disruption phenotype">
+<text evidence="1">No effect on phosphonate metabolism in B strains.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">Was originally thought to be involved in phosphonate metabolism.</text>
+</comment>
+<dbReference type="EMBL" id="J05260">
+<property type="protein sequence ID" value="AAA24338.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97006.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77068.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78109.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C35718">
+<property type="entry name" value="C35718"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418531.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001131339.1">
+<property type="nucleotide sequence ID" value="NZ_CP010444.1"/>
+</dbReference>
+<dbReference type="SMR" id="P16681"/>
+<dbReference type="BioGrid" id="4263089">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="IntAct" id="P16681">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4107"/>
+<dbReference type="EPD" id="P16681"/>
+<dbReference type="jPOST" id="P16681"/>
+<dbReference type="PaxDb" id="P16681"/>
+<dbReference type="PRIDE" id="P16681"/>
+<dbReference type="EnsemblBacteria" id="AAC77068">
+<property type="protein sequence ID" value="AAC77068"/>
+<property type="gene ID" value="b4107"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78109">
+<property type="protein sequence ID" value="BAE78109"/>
+<property type="gene ID" value="BAE78109"/>
+</dbReference>
+<dbReference type="GeneID" id="948622"/>
+<dbReference type="KEGG" id="ecj:JW4068"/>
+<dbReference type="KEGG" id="eco:b4107"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.4235"/>
+<dbReference type="EchoBASE" id="EB0706"/>
+<dbReference type="EcoGene" id="EG10712">
+<property type="gene designation" value="yjdN"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108SQ4">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2764">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000232027"/>
+<dbReference type="InParanoid" id="P16681"/>
+<dbReference type="KO" id="K04750"/>
+<dbReference type="PhylomeDB" id="P16681"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10712-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4068-MONOMER"/>
+<dbReference type="PRO" id="PR:P16681"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="CDD" id="cd06588">
+<property type="entry name" value="PhnB_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.180.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029068">
+<property type="entry name" value="Glyas_Bleomycin-R_OHBP_Dase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028973">
+<property type="entry name" value="PhnB-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06983">
+<property type="entry name" value="3-dmu-9_3-mt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54593">
+<property type="entry name" value="SSF54593"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Protein YjdN" id="PRO_0000058390">
+<location>
+<begin position="1"/>
+<end position="147"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8335257"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2155230"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2155230"/>
+</source>
+</evidence>
+<sequence length="147" mass="16171" checksum="6B1C11B5F24BBD66" modified="1990-08-01" version="1">
+MPLSPYLSFAGNCSDAIAYYQRTLGAELLYKISFGEMPKSAQDSAENCPSGMQFPDTAIA
+HANVRIAGSDIMMSDAMPSGKASYSGFTLVLDSQQVEEGKRWFDNLAANGKIEMAWQETF
+WAHGFGKVTDKFGVPWMINVVKQQPTQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

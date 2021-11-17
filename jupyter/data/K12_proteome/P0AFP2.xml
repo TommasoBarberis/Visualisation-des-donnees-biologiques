@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="103">
+<accession>P0AFP2</accession>
+<accession>P75707</accession>
+<accession>P77119</accession>
+<accession>Q2MBX2</accession>
+<name>ATL_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">DNA base-flipping protein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Alkyltransferase-like protein ATL</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">atl</name>
+<name type="synonym" evidence="7">ybaZ</name>
+<name type="ordered locus">b0454</name>
+<name type="ordered locus">JW0444</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Nucleic Acids Res." volume="33" first="3837" last="3844">
+<title>Inhibition of O6-methylguanine-DNA methyltransferase by an alkyltransferase-like protein from Escherichia coli.</title>
+<authorList>
+<person name="Pearson S.J."/>
+<person name="Ferguson J."/>
+<person name="Santibanez-Koref M."/>
+<person name="Margison G.P."/>
+</authorList>
+<dbReference type="PubMed" id="16027108"/>
+<dbReference type="DOI" id="10.1093/nar/gki696"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF TRP-83</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2008" name="Nat. Methods" volume="5" first="69" last="74">
+<title>A proteome chip approach reveals new DNA damage recognition activities in Escherichia coli.</title>
+<authorList>
+<person name="Chen C.S."/>
+<person name="Korobkova E."/>
+<person name="Chen H."/>
+<person name="Zhu J."/>
+<person name="Jian X."/>
+<person name="Tao S.C."/>
+<person name="He C."/>
+<person name="Zhu H."/>
+</authorList>
+<dbReference type="PubMed" id="18084297"/>
+<dbReference type="DOI" id="10.1038/nmeth1148"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>INTERACTION WITH HELD</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="DNA Repair" volume="8" first="697" last="703">
+<title>The alkyltransferase-like ybaZ gene product enhances nucleotide excision repair of O(6)-alkylguanine adducts in E. coli.</title>
+<authorList>
+<person name="Mazon G."/>
+<person name="Philippin G."/>
+<person name="Cadet J."/>
+<person name="Gasparutto D."/>
+<person name="Fuchs R.P."/>
+</authorList>
+<dbReference type="PubMed" id="19269902"/>
+<dbReference type="DOI" id="10.1016/j.dnarep.2009.01.022"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>INTERACTION WITH UVRA</scope>
+<source>
+<strain>K12 / AB1157</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2010" name="Proc. Natl. Acad. Sci. U.S.A." volume="107" first="18050" last="18055">
+<title>Alkyltransferase-like protein (eATL) prevents mismatch repair-mediated toxicity induced by O6-alkylguanine adducts in Escherichia coli.</title>
+<authorList>
+<person name="Mazon G."/>
+<person name="Philippin G."/>
+<person name="Cadet J."/>
+<person name="Gasparutto D."/>
+<person name="Modesti M."/>
+<person name="Fuchs R.P."/>
+</authorList>
+<dbReference type="PubMed" id="20921378"/>
+<dbReference type="DOI" id="10.1073/pnas.1008635107"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5">Involved in DNA damage recognition. Binds DNA containing O(6)-methylguanine and larger O(6)-alkylguanine adducts, and to double-stranded DNA that contains an AP (apurinic/apyrimidinic) site (PubMed:16027108, PubMed:18084297, PubMed:19269902, PubMed:20921378). Binds to the damaged base and flips the base out of the DNA duplex into an extrahelical conformation, which allows processing by repair proteins (PubMed:18084297). Works in partnership with the nucleotide excision repair (NER) pathway to enhance the repair of the O(6)-alkylguanine adducts larger than the methyl adduct (PubMed:19269902, PubMed:20921378). Also prevents methyl-directed mismatch repair (MMR)-mediated attack of the O(6)-alkylguanine:T mispairs for the larger alkyl groups (PubMed:20921378).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4">Interacts with HelD and UvrA.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-560039"/>
+<interactant intactId="EBI-552091">
+<id>P0A698</id>
+<label>uvrA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2">Does not have alkyltransferase activity. A tryptophan residue replaces the cysteine at the known active site of MGMT.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the MGMT family. ATL subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAB40210" version="1"/>
+</conflict>
+<location>
+<position position="64"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="U82664">
+<property type="protein sequence ID" value="AAB40210.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73557.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76234.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F64775">
+<property type="entry name" value="F64775"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414988.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001300427.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AFP2"/>
+<dbReference type="BioGrid" id="4259845">
+<property type="interactions" value="66"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48135N"/>
+<dbReference type="IntAct" id="P0AFP2">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0454"/>
+<dbReference type="PaxDb" id="P0AFP2"/>
+<dbReference type="PRIDE" id="P0AFP2"/>
+<dbReference type="EnsemblBacteria" id="AAC73557">
+<property type="protein sequence ID" value="AAC73557"/>
+<property type="gene ID" value="b0454"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76234">
+<property type="protein sequence ID" value="BAE76234"/>
+<property type="gene ID" value="BAE76234"/>
+</dbReference>
+<dbReference type="GeneID" id="945094"/>
+<dbReference type="KEGG" id="ecj:JW0444"/>
+<dbReference type="KEGG" id="eco:b0454"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.473"/>
+<dbReference type="EchoBASE" id="EB3043"/>
+<dbReference type="EcoGene" id="EG13254">
+<property type="gene designation" value="ybaZ"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41080UX">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3695">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244138"/>
+<dbReference type="InParanoid" id="P0AFP2"/>
+<dbReference type="KO" id="K07443"/>
+<dbReference type="PhylomeDB" id="P0AFP2"/>
+<dbReference type="BioCyc" id="EcoCyc:G6251-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0444-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AFP2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003824">
+<property type="term" value="F:catalytic activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd06445">
+<property type="entry name" value="ATase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014048">
+<property type="entry name" value="MethylDNA_cys_MeTrfase_DNA-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036217">
+<property type="entry name" value="MethylDNA_cys_MeTrfase_DNAb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01035">
+<property type="entry name" value="DNA_binding_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46767">
+<property type="entry name" value="SSF46767"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00589">
+<property type="entry name" value="ogt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="DNA base-flipping protein" id="PRO_0000139390">
+<location>
+<begin position="1"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="site" description="Required for phosphate rotation/nucleotide flipping" evidence="1">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="site" description="Arg finger, required for nucleotide flipping" evidence="1">
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not confer alkyltransferase activity." evidence="2">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9UTN9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16027108"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18084297"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19269902"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20921378"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="16027108"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="18084297"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="129" mass="14450" checksum="584382A5657919CA" modified="2005-12-20" version="1">
+MLVSCAMRLHSGVFPDYAEKLPQEEKMEKEDSFPQRVWQIVAAIPEGYVTTYGDVAKLAG
+SPRAARQVGGVLKRLPEGSTLPWHRVVNRHGTISLTGPDLQRQRQALLAEGVMVSGSGQI
+DLQRYRWNY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

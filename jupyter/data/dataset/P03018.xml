@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-06-05" version="174">
+<accession>P03018</accession>
+<accession>P76758</accession>
+<accession>Q2M8B9</accession>
+<accession>Q47709</accession>
+<name>UVRD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA helicase II</fullName>
+<ecNumber>3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">uvrD</name>
+<name type="synonym">mutU</name>
+<name type="synonym">pdeB</name>
+<name type="synonym">rad</name>
+<name type="synonym">recL</name>
+<name type="ordered locus">b3813</name>
+<name type="ordered locus">JW3786</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Nucleic Acids Res." volume="12" first="5789" last="5799">
+<title>The nucleotide sequence of the uvrD gene of E. coli.</title>
+<authorList>
+<person name="Finch P.W."/>
+<person name="Emmerson P.T."/>
+</authorList>
+<dbReference type="PubMed" id="6379604"/>
+<dbReference type="DOI" id="10.1093/nar/12.14.5789"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1986" name="J. Biochem." volume="99" first="1579" last="1590">
+<title>Determination of the initiation sites of transcription and translation of the uvrD gene of Escherichia coli.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Ogawa T."/>
+<person name="Shinagawa H."/>
+<person name="Nakayama T."/>
+<person name="Matsuo H."/>
+<person name="Ogawa H."/>
+</authorList>
+<dbReference type="PubMed" id="2943729"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a135631"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Science" volume="257" first="771" last="778">
+<title>Analysis of the Escherichia coli genome: DNA sequence of the region from 84.5 to 86.5 minutes.</title>
+<authorList>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Burland V.D."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="1379743"/>
+<dbReference type="DOI" id="10.1126/science.1379743"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1983" name="Nucleic Acids Res." volume="11" first="8625" last="8640">
+<title>Transcription of the uvrD gene of Escherichia coli is controlled by the lexA repressor and by attenuation.</title>
+<authorList>
+<person name="Easton A.M."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="6324092"/>
+<dbReference type="DOI" id="10.1093/nar/11.24.8625"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-258</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="6973" last="6980">
+<title>Recombination at ColE1 cer requires the Escherichia coli xerC gene product, a member of the lambda integrase family of site-specific recombinases.</title>
+<authorList>
+<person name="Colloms S.D."/>
+<person name="Sykora P."/>
+<person name="Szatmari G."/>
+<person name="Sherratt D.J."/>
+</authorList>
+<dbReference type="PubMed" id="2254268"/>
+<dbReference type="DOI" id="10.1128/jb.172.12.6973-6980.1990"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-17</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="341" last="350">
+<title>Characterization of DNA helicase II from a uvrD252 mutant of Escherichia coli.</title>
+<authorList>
+<person name="Washburn B.K."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="8419285"/>
+<dbReference type="DOI" id="10.1128/jb.175.2.341-350.1993"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>MUTAGENESIS OF GLY-30</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2015" name="Mol. Microbiol." volume="95" first="769" last="779">
+<title>Genetic analysis of Escherichia coli RadA: functional motifs and genetic interactions.</title>
+<authorList>
+<person name="Cooper D.L."/>
+<person name="Boyle D.C."/>
+<person name="Lovett S.T."/>
+</authorList>
+<dbReference type="PubMed" id="25484163"/>
+<dbReference type="DOI" id="10.1111/mmi.12899"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / AB1157</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="10 12">A helicase with DNA-dependent ATPase activity (PubMed:8419285). Unwinds DNA duplexes with 3' to 5' polarity with respect to the bound strand. Initiates unwinding more efficiently from a nicked substrate than ds duplex DNA (PubMed:8419285). Involved in the post-incision events of nucleotide excision repair and methyl-directed mismatch repair, and probably also in repair of alkylated DNA (Probable).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + H2O = ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:13065"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="3.6.4.12"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="10">0.05 mM for ATP</KM>
+</kinetics>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559573"/>
+<interactant intactId="EBI-542856">
+<id>P0A9P0</id>
+<label>lpdA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559573"/>
+<interactant intactId="EBI-551247">
+<id>P25665</id>
+<label>metE</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559573"/>
+<interactant intactId="EBI-554913">
+<id>P23367</id>
+<label>mutL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559573"/>
+<interactant intactId="EBI-544996">
+<id>P0A8V2</id>
+<label>rpoB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-559573"/>
+<interactant intactId="EBI-543604">
+<id>P0A8T7</id>
+<label>rpoC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9">Strongly sensitive to UV, ciprofloxacin (CFX), and azidothymidine (AZT) in single deletion mutants, radA-uvrD double deletions are more sensitive yet. Adding recF mutations almost completely suppresses AZT and partially suppresses UV and CFX sensitivity, suggesting RadA processes a class of intermediates that accumulate in uvrD mutants (PubMed:25484163).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the helicase family. UvrD subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12"/>
+<dbReference type="EMBL" id="X00738">
+<property type="protein sequence ID" value="CAA25321.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D00069">
+<property type="protein sequence ID" value="BAA00048.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X04037">
+<property type="protein sequence ID" value="CAA27671.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M87049">
+<property type="protein sequence ID" value="AAA67609.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76816.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77487.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X00225">
+<property type="protein sequence ID" value="CAA25043.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M38257">
+<property type="protein sequence ID" value="AAA24765.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="F65185">
+<property type="entry name" value="HJECD2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418258.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000383406.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2IS1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-680"/>
+</dbReference>
+<dbReference type="PDB" id="2IS2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-680"/>
+</dbReference>
+<dbReference type="PDB" id="2IS4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=1-680"/>
+</dbReference>
+<dbReference type="PDB" id="2IS6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-680"/>
+</dbReference>
+<dbReference type="PDB" id="3LFU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-647"/>
+</dbReference>
+<dbReference type="PDBsum" id="2IS1"/>
+<dbReference type="PDBsum" id="2IS2"/>
+<dbReference type="PDBsum" id="2IS4"/>
+<dbReference type="PDBsum" id="2IS6"/>
+<dbReference type="PDBsum" id="3LFU"/>
+<dbReference type="SMR" id="P03018"/>
+<dbReference type="BioGrid" id="4263340">
+<property type="interactions" value="265"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11103N"/>
+<dbReference type="IntAct" id="P03018">
+<property type="interactions" value="39"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3813"/>
+<dbReference type="jPOST" id="P03018"/>
+<dbReference type="PaxDb" id="P03018"/>
+<dbReference type="PRIDE" id="P03018"/>
+<dbReference type="EnsemblBacteria" id="AAC76816">
+<property type="protein sequence ID" value="AAC76816"/>
+<property type="gene ID" value="b3813"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77487">
+<property type="protein sequence ID" value="BAE77487"/>
+<property type="gene ID" value="BAE77487"/>
+</dbReference>
+<dbReference type="GeneID" id="948347"/>
+<dbReference type="KEGG" id="ecj:JW3786"/>
+<dbReference type="KEGG" id="eco:b3813"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3929"/>
+<dbReference type="EchoBASE" id="EB1057"/>
+<dbReference type="EcoGene" id="EG11064">
+<property type="gene designation" value="uvrD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C4R">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0210">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000033016"/>
+<dbReference type="InParanoid" id="P03018"/>
+<dbReference type="KO" id="K03657"/>
+<dbReference type="PhylomeDB" id="P03018"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11064-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3786-MONOMER"/>
+<dbReference type="BRENDA" id="3.6.4.12">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P03018"/>
+<dbReference type="PRO" id="PR:P03018"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003678">
+<property type="term" value="F:DNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015616">
+<property type="term" value="F:DNA translocase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017116">
+<property type="term" value="F:single-stranded DNA-dependent ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032508">
+<property type="term" value="P:DNA duplex unwinding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006268">
+<property type="term" value="P:DNA unwinding involved in DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006298">
+<property type="term" value="P:mismatch repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006289">
+<property type="term" value="P:nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051260">
+<property type="term" value="P:protein homooligomerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031297">
+<property type="term" value="P:replication fork processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009314">
+<property type="term" value="P:response to radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070581">
+<property type="term" value="P:rolling circle DNA replication"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009432">
+<property type="term" value="P:SOS response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.160">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013986">
+<property type="entry name" value="DExx_box_DNA_helicase_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005753">
+<property type="entry name" value="DNA_helicase_ATP-dep_UvrD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014017">
+<property type="entry name" value="DNA_helicase_UvrD-like_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000212">
+<property type="entry name" value="DNA_helicase_UvrD/REP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014016">
+<property type="entry name" value="UvrD-like_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034739">
+<property type="entry name" value="UvrD/AddA_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11070">
+<property type="entry name" value="PTHR11070"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00580">
+<property type="entry name" value="UvrD-helicase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13361">
+<property type="entry name" value="UvrD_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01075">
+<property type="entry name" value="uvrD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51198">
+<property type="entry name" value="UVRD_HELICASE_ATP_BIND"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51217">
+<property type="entry name" value="UVRD_HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0742">SOS response</keyword>
+<feature type="chain" description="DNA helicase II" id="PRO_0000102072">
+<location>
+<begin position="1"/>
+<end position="720"/>
+</location>
+</feature>
+<feature type="domain" description="UvrD-like helicase ATP-binding" evidence="7">
+<location>
+<begin position="8"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="domain" description="UvrD-like helicase C-terminal" evidence="8">
+<location>
+<begin position="287"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="7">
+<location>
+<begin position="32"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="6">
+<location>
+<position position="284"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In uvrD252, UV sensitive, significant loss of DNA-dependent ATPase, helicase activity requires higher ATP and MgCl(2), nearly inactive on 96 bp dsDNA. KM for ATP rises to 1.2 mM." evidence="10">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA25321." ref="1" evidence="11">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="224"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA25321." ref="1" evidence="11">
+<original>SAA</original>
+<variation>NAR</variation>
+<location>
+<begin position="291"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA25321." ref="1" evidence="11">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="330"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA25321." ref="1" evidence="11">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="540"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="4"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="8"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="12"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="25"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="31"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="35"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="57"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="64"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="86"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="90"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="103"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="112"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="116"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="134"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="139"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="166"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="186"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="189"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="204"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="216"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="227"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="238"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="242"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="255"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="263"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="275"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="283"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="287"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="300"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="318"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="326"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="347"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="350"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="357"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="360"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="374"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="386"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="404"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="420"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="437"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="452"/>
+<end position="471"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="472"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="477"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="490"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="500"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="530"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="542"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="554"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="560"/>
+<end position="562"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="567"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="579"/>
+<end position="581"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="583"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="587"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="592"/>
+<end position="603"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="606"/>
+<end position="620"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="623"/>
+<end position="626"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="631"/>
+<end position="635"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="638"/>
+<end position="640"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="641"/>
+<end position="643"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="646"/>
+<end position="649"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2IS1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2IS2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2IS4"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2IS6"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3LFU"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250"/>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00560"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00617"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25484163"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8419285"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25484163"/>
+</source>
+</evidence>
+<sequence length="720" mass="81990" checksum="FA68E7267C77B49A" modified="1988-04-01" version="1">
+MDVSYLLDSLNDKQREAVAAPRSNLLVLAGAGSGKTRVLVHRIAWLMSVENCSPYSIMAV
+TFTNKAAAEMRHRIGQLMGTSQGGMWVGTFHGLAHRLLRAHHMDANLPQDFQILDSEDQL
+RLLKRLIKAMNLDEKQWPPRQAMWYINSQKDEGLRPHHIQSYGNPVEQTWQKVYQAYQEA
+CDRAGLVDFAELLLRAHELWLNKPHILQHYRERFTNILVDEFQDTNNIQYAWIRLLAGDT
+GKVMIVGDDDQSIYGWRGAQVENIQRFLNDFPGAETIRLEQNYRSTSNILSAANALIENN
+NGRLGKKLWTDGADGEPISLYCAFNELDEARFVVNRIKTWQDNGGALAECAILYRSNAQS
+RVLEEALLQASMPYRIYGGMRFFERQEIKDALSYLRLIANRNDDAAFERVVNTPTRGIGD
+RTLDVVRQTSRDRQLTLWQACRELLQEKALAGRAASALQRFMELIDALAQETADMPLHVQ
+TDRVIKDSGLRTMYEQEKGEKGQTRIENLEELVTATRQFSYNEEDEDLMPLQAFLSHAAL
+EAGEGQADTWQDAVQLMTLHSAKGLEFPQVFIVGMEEGMFPSQMSLDEGGRLEEERRLAY
+VGVTRAMQKLTLTYAETRRLYGKEVYHRPSRFIGELPEECVEEVRLRATVSRPVSHQRMG
+TPMVENDSGYKLGQRVRHAKFGEGTIVNMEGSGEHSRLQVAFQGQGIKWLVAAYARLESV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

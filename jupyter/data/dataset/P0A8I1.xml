@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-06-05" version="104">
+<accession>P0A8I1</accession>
+<accession>P52050</accession>
+<accession>Q2M9P4</accession>
+<name>YQGF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3 8">Putative pre-16S rRNA nuclease</fullName>
+<ecNumber evidence="3">3.1.-.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">yqgF</name>
+<name type="synonym" evidence="8">ruvX</name>
+<name type="ordered locus">b2949</name>
+<name type="ordered locus">JW2916</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Nucleic Acids Res." volume="28" first="3417" last="3432">
+<title>Holliday junction resolvases and related nucleases: identification of new families, phyletic distribution and evolutionary trajectories.</title>
+<authorList>
+<person name="Aravind L."/>
+<person name="Makarova K.S."/>
+<person name="Koonin E.V."/>
+</authorList>
+<dbReference type="PubMed" id="10982859"/>
+<dbReference type="DOI" id="10.1093/nar/28.18.3417"/>
+</citation>
+<scope>DISCUSSION OF POSSIBLE FUNCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2012" name="J. Mol. Microbiol. Biotechnol." volume="22" first="17" last="23">
+<title>Mutations in the essential Escherichia coli gene, yqgF, and their effects on transcription.</title>
+<authorList>
+<person name="Iwamoto A."/>
+<person name="Osawa A."/>
+<person name="Kawai M."/>
+<person name="Honda H."/>
+<person name="Yoshida S."/>
+<person name="Furuya N."/>
+<person name="Kato J."/>
+</authorList>
+<dbReference type="PubMed" id="22353788"/>
+<dbReference type="DOI" id="10.1159/000336517"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF ALA-103; SER-105 AND SER-125</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2015" name="J. Mol. Biol." volume="427" first="955" last="965">
+<title>Novel essential gene Involved in 16S rRNA processing in Escherichia coli.</title>
+<authorList>
+<person name="Kurata T."/>
+<person name="Nakanishi S."/>
+<person name="Hashimoto M."/>
+<person name="Taoka M."/>
+<person name="Yamazaki Y."/>
+<person name="Isobe T."/>
+<person name="Kato J."/>
+</authorList>
+<dbReference type="PubMed" id="25545592"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2014.12.013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ASP-9; GLU-96; THR-100; 108-PHE--ALA-115 AND ASP-122</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Biomol. NMR" volume="23" first="159" last="160">
+<title>Backbone 1H, 15N and 13C resonance assignments of YqgF, an Escherichia coli protein of unknown structure and function.</title>
+<authorList>
+<person name="Liu D."/>
+<person name="Repaka P."/>
+<person name="Taremi S.S."/>
+<person name="Wyss D.F."/>
+</authorList>
+<dbReference type="PubMed" id="12153044"/>
+<dbReference type="DOI" id="10.1023/A:1016368102539"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Biomol. NMR" volume="27" first="389" last="392">
+<title>Solution structure of the hypothetical protein YqgF from Escherichia coli reveals an RNAse H fold.</title>
+<authorList>
+<person name="Liu D."/>
+<person name="Wang Y.-S."/>
+<person name="Wyss D.F."/>
+</authorList>
+<dbReference type="PubMed" id="14512736"/>
+<dbReference type="DOI" id="10.1023/A:1025840121177"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6">Involved in the processing of the 5'-end of pre-16S rRNA during 70S ribosome maturation (processing does not occur on total cellular RNA off the ribosome); may be a nuclease (PubMed:25545592). A temperature-sensitive yqgF mutant no longer grows when Rho or NusA are overproduced, and has reduced transcription of genes encoded downstream of Rho terminators; transcription increases again in the presence of the Rho inhibitor bicylomycin (PubMed:22353788).</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">Essential, it cannot be disrupted.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the YqgF nuclease family.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">Was originally suggested to be a nuclease that resolves Holliday junction intermediates during genetic recombination.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA69116" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.1.-.-" evidence="3"/>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69116.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75986.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77012.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65080">
+<property type="entry name" value="D65080"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417424.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000017106.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1NMN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-138"/>
+</dbReference>
+<dbReference type="PDB" id="1NU0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=1-138"/>
+</dbReference>
+<dbReference type="PDB" id="1OVQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-138"/>
+</dbReference>
+<dbReference type="PDBsum" id="1NMN"/>
+<dbReference type="PDBsum" id="1NU0"/>
+<dbReference type="PDBsum" id="1OVQ"/>
+<dbReference type="SMR" id="P0A8I1"/>
+<dbReference type="BioGrid" id="4259241">
+<property type="interactions" value="196"/>
+</dbReference>
+<dbReference type="IntAct" id="P0A8I1">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2949"/>
+<dbReference type="jPOST" id="P0A8I1"/>
+<dbReference type="PaxDb" id="P0A8I1"/>
+<dbReference type="PRIDE" id="P0A8I1"/>
+<dbReference type="EnsemblBacteria" id="AAC75986">
+<property type="protein sequence ID" value="AAC75986"/>
+<property type="gene ID" value="b2949"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77012">
+<property type="protein sequence ID" value="BAE77012"/>
+<property type="gene ID" value="BAE77012"/>
+</dbReference>
+<dbReference type="GeneID" id="947439"/>
+<dbReference type="KEGG" id="ecj:JW2916"/>
+<dbReference type="KEGG" id="eco:b2949"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3784"/>
+<dbReference type="EchoBASE" id="EB3075"/>
+<dbReference type="EcoGene" id="EG13290">
+<property type="gene designation" value="yqgF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107Y66">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0816">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000016954"/>
+<dbReference type="InParanoid" id="P0A8I1"/>
+<dbReference type="KO" id="K07447"/>
+<dbReference type="PhylomeDB" id="P0A8I1"/>
+<dbReference type="BioCyc" id="EcoCyc:G7525-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2916-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7525-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P0A8I1"/>
+<dbReference type="PRO" id="PR:P0A8I1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008296">
+<property type="term" value="F:3'-5'-exodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042254">
+<property type="term" value="P:ribosome biogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000967">
+<property type="term" value="P:rRNA 5'-end processing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.140">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00651">
+<property type="entry name" value="Nuclease_YqgF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012337">
+<property type="entry name" value="RNaseH-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005227">
+<property type="entry name" value="YqgF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006641">
+<property type="entry name" value="YqgF/RNaseH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037027">
+<property type="entry name" value="YqgF/RNaseH-like_dom_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR33317">
+<property type="entry name" value="PTHR33317"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03652">
+<property type="entry name" value="RuvX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00732">
+<property type="entry name" value="YqgFc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53098">
+<property type="entry name" value="SSF53098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00250">
+<property type="entry name" value="RNAse_H_YqgF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0690">Ribosome biogenesis</keyword>
+<feature type="chain" description="Putative pre-16S rRNA nuclease" id="PRO_0000172058">
+<location>
+<begin position="1"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not process pre-16S rRNA in 70S ribosomes, binds to pre-16S rRNA-containing ribosomes." evidence="6">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not process pre-16S rRNA in 70S ribosomes." evidence="6">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="96"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not process pre-16S rRNA in 70S ribosomes." evidence="6">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Allows cell growth, i.e. not toxic." evidence="5">
+<original>A</original>
+<variation>I</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Allows cell growth, i.e. not toxic." evidence="5">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not process pre-16S rRNA in 70S ribosomes." evidence="6">
+<location>
+<begin position="108"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not process pre-16S rRNA in 70S ribosomes, binds quite strongly to pre-16S rRNA-containing ribosomes." evidence="6">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Allows cell growth, i.e. not toxic." evidence="5">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="4"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="12"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="22"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="26"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="42"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="55"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="65"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="71"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="91"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="135"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1NU0"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1OVQ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00651"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14512736"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22353788"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25545592"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10982859"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="138" mass="15186" checksum="89650665AA5C1E50" modified="2005-06-07" version="1">
+MSGTLLAFDFGTKSIGVAVGQRITGTARPLPAIKAQDGTPDWNIIERLLKEWQPDEIIVG
+LPLNMDGTEQPLTARARKFANRIHGRFGVEVKLHDERLSTVEARSGLFEQGGYRALNKGK
+VDSASAVIILESYFEQGY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

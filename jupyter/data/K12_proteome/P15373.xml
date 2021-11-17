@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2019-05-08" version="133">
+<accession>P15373</accession>
+<accession>Q2M980</accession>
+<name>PRLF_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Antitoxin PrlF</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>HtrA suppressor protein SohA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">prlF</name>
+<name type="synonym">sohA</name>
+<name type="ordered locus">b3129</name>
+<name type="ordered locus">JW3098</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="185" last="192">
+<title>Increased expression of the bifunctional protein PrlF suppresses overproduction lethality associated with exported beta-galactosidase hybrid proteins in Escherichia coli.</title>
+<authorList>
+<person name="Kiino D.R."/>
+<person name="Phillips G.J."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="2152898"/>
+<dbReference type="DOI" id="10.1128/jb.172.1.185-192.1990"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SUPPRESSION OF JAMMED SECRETION MACHINERY</scope>
+<scope>MUTAGENESIS OF 91-GLN--GLU-111</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="J. Bacteriol." volume="172" first="1587" last="1594">
+<title>Identification, cloning, and characterization of the Escherichia coli sohA gene, a suppressor of the htrA (degP) null phenotype.</title>
+<authorList>
+<person name="Baird L."/>
+<person name="Georgopoulos C."/>
+</authorList>
+<dbReference type="PubMed" id="2407727"/>
+<dbReference type="DOI" id="10.1128/jb.172.3.1587-1594.1990"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>IDENTIFICATION</scope>
+<scope>SUPPRESSION OF AN HTRA NULL MUTANT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="J. Mol. Biol." volume="372" first="894" last="905">
+<title>prlF and yhaV encode a new toxin-antitoxin system in Escherichia coli.</title>
+<authorList>
+<person name="Schmidt O."/>
+<person name="Schuenemann V.J."/>
+<person name="Hand N.J."/>
+<person name="Silhavy T.J."/>
+<person name="Martin J."/>
+<person name="Lupas A.N."/>
+<person name="Djuranovic S."/>
+</authorList>
+<dbReference type="PubMed" id="17706670"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2007.07.016"/>
+</citation>
+<scope>FUNCTION AS AN ANTITOXIN</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>OPERON STRUCTURE</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Prog. Mol. Biol. Transl. Sci." volume="85" first="467" last="500">
+<title>mRNA interferases, sequence-specific endoribonucleases from the toxin-antitoxin systems.</title>
+<authorList>
+<person name="Yamaguchi Y."/>
+<person name="Inouye M."/>
+</authorList>
+<dbReference type="PubMed" id="19215780"/>
+<dbReference type="DOI" id="10.1016/S0079-6603(08)00812-X"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Antitoxin component of a type II toxin-antitoxin (TA) system. Labile antitoxin that binds to the YhaV toxin and neutralizes its ribonuclease activity. Also acts as a transcription factor. The YhaV/PrlF complex binds the prlF-yhaV operon, probably negatively regulating its expression.</text>
+</comment>
+<comment type="function">
+<text evidence="2">Negatively regulates its own expression as well as relieving the export block imposed by high-level synthesis of the LamB-LacZ hybrid protein. Overexpression leads to increased doubling time and also suppresses a htrA (degP) null phenotype.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homodimer; forms a complex with YhaV with stoichiometry PrlF(2)-YhaV(4), possibly as a YhaV(2)-PrlF(2)-YhaV(2) complex like the MazFE complex. This complex is seen to dimerize in solution.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">Not essential.</text>
+</comment>
+<dbReference type="EMBL" id="M30178">
+<property type="protein sequence ID" value="AAA24638.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M32358">
+<property type="protein sequence ID" value="AAA24418.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57932.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76163.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77176.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A35137">
+<property type="entry name" value="A35137"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417598.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001307405.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P15373"/>
+<dbReference type="BioGrid" id="4259492">
+<property type="interactions" value="399"/>
+</dbReference>
+<dbReference type="IntAct" id="P15373">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3129"/>
+<dbReference type="jPOST" id="P15373"/>
+<dbReference type="PaxDb" id="P15373"/>
+<dbReference type="PRIDE" id="P15373"/>
+<dbReference type="EnsemblBacteria" id="AAC76163">
+<property type="protein sequence ID" value="AAC76163"/>
+<property type="gene ID" value="b3129"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77176">
+<property type="protein sequence ID" value="BAE77176"/>
+<property type="gene ID" value="BAE77176"/>
+</dbReference>
+<dbReference type="GeneID" id="947639"/>
+<dbReference type="KEGG" id="ecj:JW3098"/>
+<dbReference type="KEGG" id="eco:b3129"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3602"/>
+<dbReference type="EchoBASE" id="EB0948"/>
+<dbReference type="EcoGene" id="EG10955">
+<property type="gene designation" value="prlF"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105ZEG">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2002">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000229555"/>
+<dbReference type="InParanoid" id="P15373"/>
+<dbReference type="KO" id="K19156"/>
+<dbReference type="PhylomeDB" id="P15373"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10955-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3098-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10955-MONOMER"/>
+<dbReference type="PRO" id="PR:P15373"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097351">
+<property type="term" value="F:toxin-antitoxin pair type II binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001558">
+<property type="term" value="P:regulation of cell growth"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031848">
+<property type="entry name" value="PrlF_antitoxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007159">
+<property type="entry name" value="SpoVT-AbrB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037914">
+<property type="entry name" value="SpoVT-AbrB_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF15937">
+<property type="entry name" value="PrlF_antitoxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF89447">
+<property type="entry name" value="SSF89447"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51740">
+<property type="entry name" value="SPOVT_ABRB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-1277">Toxin-antitoxin system</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Antitoxin PrlF" id="PRO_0000072033">
+<location>
+<begin position="1"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="domain" description="SpoVT-AbrB" evidence="1">
+<location>
+<begin position="12"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In prlF1; suppresses overproduction lethality of lamB-lacZ gene fusions, leads to decreased beta-galactosidase activity. Partially alleviates YhaV toxic activity." evidence="3">
+<original>QGKKLVAGMDVNIDDEIGDDE</original>
+<variation>HSTRKETCRWHGRQH</variation>
+<location>
+<begin position="91"/>
+<end position="111"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01076"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17706670"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2152898"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="111" mass="12359" checksum="5FC0D5FF43F75D8A" modified="1990-04-01" version="1">
+MPANARSHAVLTTESKVTIRGQTTIPAPVREALKLKPGQDSIHYEILPGGQVFMCRLGDE
+QEDHTMNAFLRFLDADIQNNPQKTRPFNIQQGKKLVAGMDVNIDDEIGDDE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

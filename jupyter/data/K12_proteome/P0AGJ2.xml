@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2019-05-08" version="100">
+<accession>P0AGJ2</accession>
+<accession>P19396</accession>
+<accession>Q2M7W4</accession>
+<name>TRMH_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 5">tRNA (guanosine(18)-2'-O)-methyltransferase</fullName>
+<ecNumber evidence="1 2">2.1.1.34</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1 5">tRNA [Gm18] methyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 4">trmH</name>
+<name type="synonym" evidence="3">spoU</name>
+<name type="ordered locus">b3651</name>
+<name type="ordered locus">JW3626</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="J. Biol. Chem." volume="264" first="15074" last="15082">
+<title>Characterization of the spoT gene of Escherichia coli.</title>
+<authorList>
+<person name="Sarubbi E."/>
+<person name="Rudd K.E."/>
+<person name="Xiao H."/>
+<person name="Ikehara K."/>
+<person name="Kalman M."/>
+<person name="Cashel M."/>
+</authorList>
+<dbReference type="PubMed" id="2549050"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / JM109 / ATCC 53323</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Genomics" volume="16" first="551" last="561">
+<title>DNA sequence and analysis of 136 kilobases of the Escherichia coli genome: organizational symmetry around the origin of replication.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7686882"/>
+<dbReference type="DOI" id="10.1006/geno.1993.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="5980" last="5990">
+<title>Residual guanosine 3',5'-bispyrophosphate synthetic activity of relA null mutants can be eliminated by spoT null mutations.</title>
+<authorList>
+<person name="Xiao H."/>
+<person name="Kalman M."/>
+<person name="Ikehara K."/>
+<person name="Zemel S."/>
+<person name="Glaser G."/>
+<person name="Cashel M."/>
+</authorList>
+<dbReference type="PubMed" id="2005134"/>
+</citation>
+<scope>GENE NAME</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="5519" last="5519">
+<title>SpoU protein of Escherichia coli belongs to a new family of putative rRNA methylases.</title>
+<authorList>
+<person name="Koonin E.V."/>
+<person name="Rudd K.E."/>
+</authorList>
+<dbReference type="PubMed" id="8265370"/>
+<dbReference type="DOI" id="10.1093/nar/21.23.5519"/>
+</citation>
+<scope>POSSIBLE FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Nucleic Acids Res." volume="25" first="4093" last="4097">
+<title>The spoU gene of Escherichia coli, the fourth gene of the spoT operon, is essential for tRNA (Gm18) 2'-O-methyltransferase activity.</title>
+<authorList>
+<person name="Persson B.C."/>
+<person name="Jaeger G."/>
+<person name="Gustafsson C."/>
+</authorList>
+<dbReference type="PubMed" id="9321663"/>
+<dbReference type="DOI" id="10.1093/nar/25.20.4093"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Catalyzes the 2'-O methylation of guanosine at position 18 in tRNA. Type II methylase, which methylates only a subset of tRNA species.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 2">
+<text>guanosine(18) in tRNA + S-adenosyl-L-methionine = 2'-O-methylguanosine(18) in tRNA + H(+) + S-adenosyl-L-homocysteine</text>
+<dbReference type="Rhea" id="RHEA:20077"/>
+<dbReference type="Rhea" id="RHEA-COMP:10190"/>
+<dbReference type="Rhea" id="RHEA-COMP:10192"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:57856"/>
+<dbReference type="ChEBI" id="CHEBI:59789"/>
+<dbReference type="ChEBI" id="CHEBI:74269"/>
+<dbReference type="ChEBI" id="CHEBI:74445"/>
+<dbReference type="EC" id="2.1.1.34"/>
+</reaction>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the class IV-like SAM-binding methyltransferase superfamily. RNA methyltransferase TrmH family.</text>
+</comment>
+<dbReference type="EC" id="2.1.1.34" evidence="1 2"/>
+<dbReference type="EMBL" id="M24503">
+<property type="protein sequence ID" value="AAB00161.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L10328">
+<property type="protein sequence ID" value="AAA62004.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76675.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77642.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JV0043">
+<property type="entry name" value="JV0043"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418108.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001070177.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AGJ2"/>
+<dbReference type="BioGrid" id="4262569">
+<property type="interactions" value="162"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35977N"/>
+<dbReference type="IntAct" id="P0AGJ2">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3651"/>
+<dbReference type="jPOST" id="P0AGJ2"/>
+<dbReference type="PaxDb" id="P0AGJ2"/>
+<dbReference type="PRIDE" id="P0AGJ2"/>
+<dbReference type="EnsemblBacteria" id="AAC76675">
+<property type="protein sequence ID" value="AAC76675"/>
+<property type="gene ID" value="b3651"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77642">
+<property type="protein sequence ID" value="BAE77642"/>
+<property type="gene ID" value="BAE77642"/>
+</dbReference>
+<dbReference type="GeneID" id="948161"/>
+<dbReference type="KEGG" id="ecj:JW3626"/>
+<dbReference type="KEGG" id="eco:b3651"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3055"/>
+<dbReference type="EchoBASE" id="EB0960"/>
+<dbReference type="EcoGene" id="EG10967">
+<property type="gene designation" value="trmH"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105FE8">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0566">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000285175"/>
+<dbReference type="InParanoid" id="P0AGJ2"/>
+<dbReference type="KO" id="K00556"/>
+<dbReference type="PhylomeDB" id="P0AGJ2"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10967-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3626-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10967-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AGJ2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009020">
+<property type="term" value="F:tRNA (guanosine-2'-O-)-methyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002938">
+<property type="term" value="P:tRNA guanine ribose methylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030488">
+<property type="term" value="P:tRNA methylation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1280.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02060">
+<property type="entry name" value="tRNA_methyltr_TrmH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029028">
+<property type="entry name" value="Alpha/beta_knot_MTases"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022724">
+<property type="entry name" value="rRNA_MeTrfase_SpoU_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001537">
+<property type="entry name" value="SpoU_MeTrfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033671">
+<property type="entry name" value="TrmH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029026">
+<property type="entry name" value="tRNA_m1G_MTases_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12105">
+<property type="entry name" value="SpoU_methylas_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00588">
+<property type="entry name" value="SpoU_methylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF75217">
+<property type="entry name" value="SSF75217"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0949">S-adenosyl-L-methionine</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="chain" description="tRNA (guanosine(18)-2'-O)-methyltransferase" id="PRO_0000159772">
+<location>
+<begin position="1"/>
+<end position="229"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine" evidence="1">
+<location>
+<position position="96"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via amide nitrogen and carbonyl oxygen" evidence="1">
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="binding site" description="S-adenosyl-L-methionine; via amide nitrogen" evidence="1">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_02060"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9321663"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2005134"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9321663"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="229" mass="25343" checksum="BC5AB6B804BDEE2E" modified="2005-12-20" version="1">
+MNPTRYARICEMLARRQPDLTVCMEQVHKPHNVSAIIRTADAVGVHEVHAVWPGSRMRTM
+ASAAAGSNSWVQVKTHRTIGDAVAHLKGQGMQILATHLSDNAVDFREIDYTRPTCILMGQ
+EKTGITQEALALADQDIIIPMIGMVQSLNVSVASALILYEAQRQRQNAGMYLRENSMLPE
+AEQQRLLFEGGYPVLAKVAKRKGLPYPHVNQQGEIEADADWWATMQAAG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-05-08" version="123">
+<accession>P42628</accession>
+<accession>Q2M997</accession>
+<accession>Q6BF46</accession>
+<name>DLST_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable serine transporter</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">dlsT</name>
+<name type="synonym">yhaO</name>
+<name type="ordered locus">b3110</name>
+<name type="ordered locus">JW5519</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="1" last="9">
+<title>Escherichia coli K-12: a cooperatively developed annotation snapshot -- 2005.</title>
+<authorList>
+<person name="Riley M."/>
+<person name="Abe T."/>
+<person name="Arnaud M.B."/>
+<person name="Berlyn M.K.B."/>
+<person name="Blattner F.R."/>
+<person name="Chaudhuri R.R."/>
+<person name="Glasner J.D."/>
+<person name="Horiuchi T."/>
+<person name="Keseler I.M."/>
+<person name="Kosuge T."/>
+<person name="Mori H."/>
+<person name="Perna N.T."/>
+<person name="Plunkett G. III"/>
+<person name="Rudd K.E."/>
+<person name="Serres M.H."/>
+<person name="Thomas G.H."/>
+<person name="Thomson N.R."/>
+<person name="Wishart D."/>
+<person name="Wanner B.L."/>
+</authorList>
+<dbReference type="PubMed" id="16397293"/>
+<dbReference type="DOI" id="10.1093/nar/gkj405"/>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2016" name="Microbiology" volume="162" first="1698" last="1707">
+<title>Transcription factor DecR (YbaO) controls detoxification of L-cysteine in Escherichia coli.</title>
+<authorList>
+<person name="Shimada T."/>
+<person name="Tanaka K."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="27435271"/>
+<dbReference type="DOI" id="10.1099/mic.0.000337"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION BY CYSTEINE</scope>
+<scope>OPERON</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 5">Plays a role in L-cysteine detoxification (PubMed:27435271). May transport both D- and L-serine (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell inner membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Transcription induced by L-cysteine (in vivo), under control of DecR. Member of the dlsT(yhaO)-yhaM operon.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">No change in sensitivity to excess L-cysteine. Cells produce about 15% of wild-type levels of hydrogen sulfide in the presence of excess cysteine.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the amino acid/polyamine transporter 2 family. SdaC/TdcC subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA57914" version="1"/>
+</conflict>
+<location>
+<position position="14"/>
+</location>
+<location>
+<position position="21"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="6">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAE77159" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57914.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAT48168.3"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77159.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000401598.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_026203.3">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="BioGrid" id="4259267">
+<property type="interactions" value="129"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3110"/>
+<dbReference type="TCDB" id="2.A.42.2.4">
+<property type="family name" value="the hydroxy/aromatic amino acid permease (haaap) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="P42628"/>
+<dbReference type="PRIDE" id="P42628"/>
+<dbReference type="EnsemblBacteria" id="AAT48168">
+<property type="protein sequence ID" value="AAT48168"/>
+<property type="gene ID" value="b3110"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77159">
+<property type="protein sequence ID" value="BAE77159"/>
+<property type="gene ID" value="BAE77159"/>
+</dbReference>
+<dbReference type="GeneID" id="947628"/>
+<dbReference type="KEGG" id="ecj:JW5519"/>
+<dbReference type="KEGG" id="eco:b3110"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3619"/>
+<dbReference type="EchoBASE" id="EB2609"/>
+<dbReference type="EcoGene" id="EG12754">
+<property type="gene designation" value="yhaO"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C44">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0814">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000275613"/>
+<dbReference type="PhylomeDB" id="P42628"/>
+<dbReference type="BioCyc" id="EcoCyc:YHAO-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5519-MONOMER"/>
+<dbReference type="PRO" id="PR:P42628"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006865">
+<property type="term" value="P:amino acid transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009093">
+<property type="term" value="P:cysteine catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901367">
+<property type="term" value="P:response to L-cysteine"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0029">Amino-acid transport</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Probable serine transporter" id="PRO_0000093817">
+<location>
+<begin position="1"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="1"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="49"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="70"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="111"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="132"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="150"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="171"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="183"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="204"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="215"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="236"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="265"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="286"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="298"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="319"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="340"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="368"/>
+<end position="388"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="390"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="411"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="422"/>
+<end position="442"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<position position="443"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8XAF5"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16397293"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27435271"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="443" mass="48315" checksum="B24A2D8E1A61E631" modified="2004-10-11" version="3">
+MEIASNKGVIADASTPAGRAGMSESEWREAIKFDSTDTGWVIMSIGMAIGAGIVFLPVQV
+GLMGLWVFLLSSVIGYPAMYLFQRLFINTLAESPECKDYPSVISGYLGKNWGILLGALYF
+VMLVIWMFVYSTAITNDSASYLHTFGVTEGLLSDSPFYGLVLICILVAISSRGEKLLFKI
+STGMVLTKLLVVAALGVSMVGMWHLYNVGSLPPLGLLVKNAIITLPFTLTSILFIQTLSP
+MVISYRSREKSIEVARHKALRAMNIAFGILFVTVFFYAVSFTLAMGHDEAVKAYEQNISA
+LAIAAQFISGDGAAWVKVVSVILNIFAVMTAFFGVYLGFREATQGIVMNILRRKMPAEKI
+NENLVQRGIMIFAILLAWSAIVLNAPVLSFTSICSPIFGMVGCLIPAWLVYKVPALHKYK
+GMSLYLIIVTGLLLCVSPFLAFS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

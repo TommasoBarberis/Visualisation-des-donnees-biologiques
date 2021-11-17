@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2019-05-08" version="99">
+<accession>P76395</accession>
+<accession>Q2MAX7</accession>
+<name>PRP3_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Serine/threonine-protein phosphatase 3</fullName>
+<ecNumber evidence="1">3.1.3.16</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">PP2C-like Ser/Thr phosphatase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Protein phosphatase C</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">pphC</name>
+<name type="synonym">yegK</name>
+<name type="ordered locus">b2072</name>
+<name type="ordered locus">JW2057</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2018" name="J. Bacteriol." volume="200" first="E00225" last="E00225">
+<title>Identification and biochemical characterization of a novel PP2C-like Ser/Thr phosphatase in E. coli.</title>
+<authorList>
+<person name="Rajagopalan K."/>
+<person name="Dworkin J."/>
+</authorList>
+<dbReference type="PubMed" id="29967116"/>
+<dbReference type="DOI" id="10.1128/JB.00225-18"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>MUTAGENESIS OF ASP-46</scope>
+</reference>
+<comment type="function">
+<text evidence="1">PP2C-like phosphatase that can dephosphorylate YegI. In vitro, can hydrolyze p-nitrophenyl phosphate (pNPP) to p-nitrophenol.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>H2O + O-phospho-L-seryl-[protein] = L-seryl-[protein] + phosphate</text>
+<dbReference type="Rhea" id="RHEA:20629"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="EC" id="3.1.3.16"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>H2O + O-phospho-L-threonyl-[protein] = L-threonyl-[protein] + phosphate</text>
+<dbReference type="Rhea" id="RHEA:47004"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="EC" id="3.1.3.16"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+</comment>
+<comment type="activity regulation">
+<text evidence="1">Activity dramatically decreases in the presence of the general protein phosphatase inhibitor sodium phosphate. Slightly inhibited by sodium fluoride. Activity decreases in the presence of the metal chelator EDTA.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="1">0.21 mM for pNPP</KM>
+<Vmax evidence="1">99.85 pmol/min/mg enzyme with pNPP as substrate</Vmax>
+<text evidence="1">kcat is 0.093 sec(-1) with pNPP as substrate.</text>
+</kinetics>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylated by YegI.</text>
+</comment>
+<dbReference type="EC" id="3.1.3.16" evidence="1"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75133.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76579.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64973">
+<property type="entry name" value="G64973"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416576.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000119090.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="BioGrid" id="4260424">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2072"/>
+<dbReference type="jPOST" id="P76395"/>
+<dbReference type="PaxDb" id="P76395"/>
+<dbReference type="PRIDE" id="P76395"/>
+<dbReference type="EnsemblBacteria" id="AAC75133">
+<property type="protein sequence ID" value="AAC75133"/>
+<property type="gene ID" value="b2072"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76579">
+<property type="protein sequence ID" value="BAE76579"/>
+<property type="gene ID" value="BAE76579"/>
+</dbReference>
+<dbReference type="GeneID" id="947269"/>
+<dbReference type="KEGG" id="ecj:JW2057"/>
+<dbReference type="KEGG" id="eco:b2072"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2149"/>
+<dbReference type="EchoBASE" id="EB3807"/>
+<dbReference type="EcoGene" id="EG14054">
+<property type="gene designation" value="yegK"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105UM3">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111YVJ">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000122021"/>
+<dbReference type="BioCyc" id="EcoCyc:G7111-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2057-MONOMER"/>
+<dbReference type="PRO" id="PR:P76395"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004721">
+<property type="term" value="F:phosphoprotein phosphatase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.60.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036457">
+<property type="entry name" value="PPM-type_dom_sf"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81606">
+<property type="entry name" value="SSF81606"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0904">Protein phosphatase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Serine/threonine-protein phosphatase 3" id="PRO_0000169126">
+<location>
+<begin position="1"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphatase activity." evidence="1">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="46"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29967116"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="29967116"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="253" mass="27208" checksum="DC828DD5AD67E7E0" modified="1997-02-01" version="1">
+MSWRLVYASTVGTSHISADLPCQDACQMQIAWLNDQQPLLSVFVADGAGSVSQGGEGAML
+AVNEAMAYMSQKVQGGELGLNDVLATNMVLTIRQRLFAEAEAKELAVRDFACTFLGLISS
+PDGTLIMQIGDGGVVVDLGHGLQLPLTPMAGEYANMTHFITDEDAVSRLETFTSTGRAHK
+VAAFTDGIQRLALNMLDNSPHVPFFTPFFNGLAAATQEQLDLLPELLKQFLSSPAVNERT
+DDDKTLALALWAE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-10-01" modified="2019-06-05" version="114">
+<accession>P37655</accession>
+<name>BCSQP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative cellulose biosynthesis protein BcsQ</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">bcsQ</name>
+<name type="synonym">yhjQ</name>
+<name type="ordered locus">b3534</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2013" name="J. Bacteriol." volume="195" first="5540" last="5554">
+<title>Cellulose as an architectural element in spatially structured Escherichia coli biofilms.</title>
+<authorList>
+<person name="Serra D.O."/>
+<person name="Richter A.M."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="24097954"/>
+<dbReference type="DOI" id="10.1128/JB.00946-13"/>
+</citation>
+<scope>IDENTIFICATION OF MUTATION THAT GENERATES PSEUDOGENE</scope>
+<scope>RESTORATION OF THE READING FRAME AND CELLULOSE PRODUCTION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 5">A C-terminal pseudogene fragment of BcsQ, which has a premature stop codon at position 6 of the intact protein. The mutation prevents cellulose synthesis, and has polar effects on transcription of downstream gene bcsA and probably also bcsB, bcsZ and bcsC (PubMed:24097954). When the reading frame is restored cellulose biosynthesis is also restored, see (AC P0DP92) for an intact protein. May play a role in subcellular localization of an active cellulose biosynthesis apparatus at the bacterial cell pole (By similarity).</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Part of the yhjR-bcsQABZC operon (PubMed:24097954).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="3">Cellulose production is abolished in E.coli K12 /MG1655 and W3110 due to a premature stop codon in this gene. The sequence given here starts on a GTG codon 6 nucleotides downstream of the premature stop codon.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the BcsQ family.</text>
+</comment>
+<comment type="caution">
+<text evidence="5">Could be the product of a pseudogene. The protein is missing 8 N-terminal amino acids due to a premature stop codon; when the reading frame is restored strain W3110 synthesizes cellulose. See (AC P0DP92) for a functional intact protein.</text>
+</comment>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18512.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S47756">
+<property type="entry name" value="S47756"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12388N"/>
+<dbReference type="IntAct" id="P37655">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="jPOST" id="P37655"/>
+<dbReference type="PRIDE" id="P37655"/>
+<dbReference type="EchoBASE" id="EB2170"/>
+<dbReference type="EcoGene" id="EG12261">
+<property type="gene designation" value="bcsQ"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125946"/>
+<dbReference type="InParanoid" id="P37655"/>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090540">
+<property type="term" value="P:bacterial cellulose biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017746">
+<property type="entry name" value="Cellulose_synthase_operon_BcsQ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06564">
+<property type="entry name" value="CBP_BcsQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03371">
+<property type="entry name" value="cellulose_yhjQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative cellulose biosynthesis protein BcsQ" id="PRO_0000169575">
+<location>
+<begin position="1"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="1"/>
+<end position="8"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P0DP92"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24097954"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24097954"/>
+</source>
+</evidence>
+<sequence length="242" mass="27140" checksum="C4DD72EC40E124A9" modified="2017-10-25" version="4">
+MRGGVGTTTITAALAWSLQMLGENVLVVDACPDNLLRLSFNVDFTHRQGWARAMLDGQDW
+RDAGLRYTSQLDLLPFGQLSIEEQENPQHWQTRLSDICSGLQQLKASGRYQWILIDLPRD
+ASQITHQLLSLCDHSLAIVNVDANCHIRLHQQALPDGAHILINDFRIGSQVQDDIYQLWL
+QSQRRLLPMLIHRDEAMAECLAAKQPVGEYRSDALAAEEILTLANWCLLNYSGLKTPVGS
+AS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

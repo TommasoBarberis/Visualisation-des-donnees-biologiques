@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="135">
+<accession>P76594</accession>
+<accession>Q2MAF2</accession>
+<accession>Q47320</accession>
+<name>LYSAC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="14">Peptidyl-lysine N-acetyltransferase PatZ</fullName>
+<ecNumber evidence="3 8 9 10 11">2.3.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="12">Protein lysine acetyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="13">patZ</name>
+<name type="synonym" evidence="12">pka</name>
+<name type="synonym">yfiQ</name>
+<name type="ordered locus">b2584</name>
+<name type="ordered locus">JW2568</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Nashimoto H."/>
+<person name="Saito N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-612</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="Biochem. Biophys. Res. Commun." volume="410" first="846" last="851">
+<title>Protein acetylation in prokaryotes increases stress resistance.</title>
+<authorList>
+<person name="Ma Q."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="21703240"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2011.06.076"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="Mol. Cell" volume="44" first="160" last="166">
+<title>Acetylation regulates the stability of a bacterial protein: growth stage-dependent modification of RNase R.</title>
+<authorList>
+<person name="Liang W."/>
+<person name="Malhotra A."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="21981926"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2011.06.037"/>
+</citation>
+<scope>FUNCTION IN ACETYLATION OF RNASE R</scope>
+<scope>GENE NAME</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="81" first="1190" last="1204">
+<title>Involvement of protein acetylation in glucose-induced transcription of a stress-responsive promoter.</title>
+<authorList>
+<person name="Lima B.P."/>
+<person name="Antelmann H."/>
+<person name="Gronau K."/>
+<person name="Chi B.K."/>
+<person name="Becher D."/>
+<person name="Brinsmade S.R."/>
+<person name="Wolfe A.J."/>
+</authorList>
+<dbReference type="PubMed" id="21696463"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2011.07742.x"/>
+</citation>
+<scope>FUNCTION IN ACETYLATION OF RNAP</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="82" first="1110" last="1128">
+<title>cAMP-CRP co-ordinates the expression of the protein acetylation pathway with central metabolism in Escherichia coli.</title>
+<authorList>
+<person name="Castano-Cerezo S."/>
+<person name="Bernal V."/>
+<person name="Blanco-Catala J."/>
+<person name="Iborra J.L."/>
+<person name="Canovas M."/>
+</authorList>
+<dbReference type="PubMed" id="22059728"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2011.07873.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="RNA" volume="18" first="37" last="41">
+<title>Post-translational modification of RNase R is regulated by stress-dependent reduction in the acetylating enzyme Pka (YfiQ).</title>
+<authorList>
+<person name="Liang W."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="22124017"/>
+<dbReference type="DOI" id="10.1261/rna.030213.111"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2015" name="J. Biol. Chem." volume="290" first="23077" last="23093">
+<title>The protein acetyltransferase PatZ from Escherichia coli is regulated by autoacetylation-induced oligomerization.</title>
+<authorList>
+<person name="de Diego Puente T."/>
+<person name="Gallego-Jara J."/>
+<person name="Castano-Cerezo S."/>
+<person name="Bernal Sanchez V."/>
+<person name="Fernandez Espin V."/>
+<person name="Garcia de la Torre J."/>
+<person name="Manjon Rubio A."/>
+<person name="Canovas Diaz M."/>
+</authorList>
+<dbReference type="PubMed" id="26251518"/>
+<dbReference type="DOI" id="10.1074/jbc.M115.649806"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<scope>ACETYLATION</scope>
+<scope>MUTAGENESIS OF GLU-809</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2016" name="Nucleic Acids Res." volume="44" first="1979" last="1988">
+<title>Reversible acetylation on Lys501 regulates the activity of RNase II.</title>
+<authorList>
+<person name="Song L."/>
+<person name="Wang G."/>
+<person name="Malhotra A."/>
+<person name="Deutscher M.P."/>
+<person name="Liang W."/>
+</authorList>
+<dbReference type="PubMed" id="26847092"/>
+<dbReference type="DOI" id="10.1093/nar/gkw053"/>
+</citation>
+<scope>FUNCTION IN ACETYLATION OF RNASE II</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2016" name="Sci. Rep." volume="6" first="30837" last="30837">
+<title>Reversible lysine acetylation is involved in DNA replication initiation by regulating activities of initiator DnaA in Escherichia coli.</title>
+<authorList>
+<person name="Zhang Q."/>
+<person name="Zhou A."/>
+<person name="Li S."/>
+<person name="Ni J."/>
+<person name="Tao J."/>
+<person name="Lu J."/>
+<person name="Wan B."/>
+<person name="Li S."/>
+<person name="Zhang J."/>
+<person name="Zhao S."/>
+<person name="Zhao G.P."/>
+<person name="Shao F."/>
+<person name="Yao Y.F."/>
+</authorList>
+<dbReference type="PubMed" id="27484197"/>
+<dbReference type="DOI" id="10.1038/srep30837"/>
+</citation>
+<scope>FUNCTION IN ACETYLATION OF DNAA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2018" name="MBio" volume="9" first="E01905" last="E01905">
+<title>Identification of novel protein lysine acetyltransferases in Escherichia coli.</title>
+<authorList>
+<person name="Christensen D.G."/>
+<person name="Meyer J.G."/>
+<person name="Baumgartner J.T."/>
+<person name="D'Souza A.K."/>
+<person name="Nelson W.C."/>
+<person name="Payne S.H."/>
+<person name="Kuhn M.L."/>
+<person name="Schilling B."/>
+<person name="Wolfe A.J."/>
+</authorList>
+<dbReference type="PubMed" id="30352934"/>
+<dbReference type="DOI" id="10.1128/mBio.01905-18"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>OVEREXPRESSION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 5 6 7 8 9 10 11">Catalyzes the acetyl-CoA-dependent acetylation of lysine residues of a large number of target proteins. Acetylates RNase R in exponential phase cells and RNase II (PubMed:21981926, PubMed:22124017, PubMed:26847092). Required for the glucose-dependent acetylation on multiple lysines of alpha, beta and beta' RNAP subunits (PubMed:21696463). Also acetylates acetyl-coenzyme A synthetase (Acs) and the chromosomal replication initiator protein DnaA, and inhibits their activity (PubMed:22059728, PubMed:26251518, PubMed:27484197). Overexpression leads to the acetylation of a large number of additional proteins and inhibits motility (PubMed:30352934).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3 8 9 10 11">
+<text>acetyl-CoA + L-lysyl-[protein] = CoA + H(+) + N(6)-acetyl-L-lysyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:45948"/>
+<dbReference type="Rhea" id="RHEA-COMP:9752"/>
+<dbReference type="Rhea" id="RHEA-COMP:10731"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29969"/>
+<dbReference type="ChEBI" id="CHEBI:57287"/>
+<dbReference type="ChEBI" id="CHEBI:57288"/>
+<dbReference type="ChEBI" id="CHEBI:61930"/>
+</reaction>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="8">14.78 uM for Acs</KM>
+<text evidence="8">kcat is 1.02 sec(-1) with acetyl-CoA as substrate. kcat is 1.19 sec(-1) with Acs as substrate.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="8">Stable tetramer in solution. Oligomerizes to an octomeric form by autoacetylation.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-557388"/>
+<interactant intactId="EBI-561348">
+<id>P77802</id>
+<label>ecpC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-557388"/>
+<interactant intactId="EBI-560926">
+<id>P0A9W0</id>
+<label>ulaR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="induction">
+<text evidence="6 7">Positively regulated by cAMP-CRP. Up-regulated in the presence of non-PTS carbon sources (PubMed:22059728). According to PubMed:22059728, pka is up-regulated during the stationary phase growth, while according to PubMed:22124017, it is absent from the late exponential and stationary phase cells (PubMed:22059728, PubMed:22124017).</text>
+</comment>
+<comment type="PTM">
+<text evidence="8">Autoacetylated. Deacetylated by CobB.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3 4">Deletion mutant has decreased resistance to oxidative and heat stress (PubMed:21703240). Mutant responds poorly to glucose (PubMed:21696463).</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">In the N-terminal section; belongs to the acetate CoA ligase alpha subunit family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">In the central section; belongs to the acetate CoA ligase beta subunit family.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.-" evidence="3 8 9 10 11"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75637.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76754.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D64044">
+<property type="protein sequence ID" value="BAA10925.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65036">
+<property type="entry name" value="G65036"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417079.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000083005.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P76594"/>
+<dbReference type="BioGrid" id="4260608">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-12068N"/>
+<dbReference type="IntAct" id="P76594">
+<property type="interactions" value="30"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2584"/>
+<dbReference type="jPOST" id="P76594"/>
+<dbReference type="PaxDb" id="P76594"/>
+<dbReference type="PRIDE" id="P76594"/>
+<dbReference type="EnsemblBacteria" id="AAC75637">
+<property type="protein sequence ID" value="AAC75637"/>
+<property type="gene ID" value="b2584"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76754">
+<property type="protein sequence ID" value="BAE76754"/>
+<property type="gene ID" value="BAE76754"/>
+</dbReference>
+<dbReference type="GeneID" id="947056"/>
+<dbReference type="KEGG" id="ecj:JW2568"/>
+<dbReference type="KEGG" id="eco:b2584"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4150"/>
+<dbReference type="EchoBASE" id="EB3976"/>
+<dbReference type="EcoGene" id="EG14224">
+<property type="gene designation" value="pka"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CD5">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0454">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1042">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000220090"/>
+<dbReference type="InParanoid" id="P76594"/>
+<dbReference type="KO" id="K09181"/>
+<dbReference type="PhylomeDB" id="P76594"/>
+<dbReference type="BioCyc" id="EcoCyc:G7350-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2568-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G7350-MONOMER"/>
+<dbReference type="PRO" id="PR:P76594"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048037">
+<property type="term" value="F:cofactor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061733">
+<property type="term" value="F:peptide-lysine-N-acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052858">
+<property type="term" value="F:peptidyl-lysine acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018393">
+<property type="term" value="P:internal peptidyl-lysine acetylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051289">
+<property type="term" value="P:protein homotetramerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032462">
+<property type="term" value="P:regulation of protein homooligomerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009408">
+<property type="term" value="P:response to heat"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.261">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016181">
+<property type="entry name" value="Acyl_CoA_acyltransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011761">
+<property type="entry name" value="ATP-grasp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013815">
+<property type="entry name" value="ATP_grasp_subdomain_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003781">
+<property type="entry name" value="CoA-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000182">
+<property type="entry name" value="GNAT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036291">
+<property type="entry name" value="NAD(P)-bd_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032875">
+<property type="entry name" value="Succ_CoA_lig_flav_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016102">
+<property type="entry name" value="Succinyl-CoA_synth-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00583">
+<property type="entry name" value="Acetyltransf_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13380">
+<property type="entry name" value="CoA_binding_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13607">
+<property type="entry name" value="Succ_CoA_lig"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00881">
+<property type="entry name" value="CoA_binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51735">
+<property type="entry name" value="SSF51735"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52210">
+<property type="entry name" value="SSF52210"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55729">
+<property type="entry name" value="SSF55729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50975">
+<property type="entry name" value="ATP_GRASP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51186">
+<property type="entry name" value="GNAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Peptidyl-lysine N-acetyltransferase PatZ" id="PRO_0000169272">
+<location>
+<begin position="1"/>
+<end position="886"/>
+</location>
+</feature>
+<feature type="domain" description="ATP-grasp" evidence="1">
+<location>
+<begin position="487"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="domain" description="N-acetyltransferase" evidence="2">
+<location>
+<begin position="726"/>
+<end position="881"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases activity at low pH (5-7), but does not change activity at high pH." evidence="8">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="809"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAA10925." ref="3" evidence="14">
+<original>ST</original>
+<variation>YA</variation>
+<location>
+<begin position="506"/>
+<end position="507"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00409"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00532"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21696463"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21703240"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21981926"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22059728"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22124017"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26251518"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26847092"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27484197"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30352934"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21981926"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22059728"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="886" mass="97987" checksum="255944B9E2961251" modified="1997-02-01" version="1">
+MSQRGLEALLRPKSIAVIGASMKPNRAGYLMMRNLLAGGFNGPVLPVTPAWKAVLGVLAW
+PDIASLPFTPDLAVLCTNASRNLALLEELGEKGCKTCIILSAPASQHEDLRACALRHNMR
+LLGPNSLGLLAPWQGLNASFSPVPIKRGKLAFISQSAAVSNTILDWAQQRKMGFSYFIAL
+GDSLDIDVDELLDYLARDSKTSAILLYLEQLSDARRFVSAARSASRNKPILVIKSGRSPA
+AQRLLNTTAGMDPAWDAAIQRAGLLRVQDTHELFSAVETLSHMRPLRGDRLMIISNGAAP
+AALALDALWSRNGKLATLSEETCQKLRDALPEHVAISNPLDLRDDASSEHYIKTLDILLH
+SQDFDALMVIHSPSAAAPATESAQVLIEAVKHHPRSKYVSLLTNWCGEHSSQEARRLFSE
+AGLPTYRTPEGTITAFMHMVEYRRNQKQLRETPALPSNLTSNTAEAHLLLQQAIAEGATS
+LDTHEVQPILQAYGMNTLPTWIASDSTEAVHIAEQIGYPVALKLRSPDIPHKSEVQGVML
+YLRTANEVQQAANAIFDRVKMAWPQARVHGLLVQSMANRAGAQELRVVVEHDPVFGPLIM
+LGEGGVEWRPEDQAVVALPPLNMNLARYLVIQGIKSKKIRARSALRPLDVAGLSQLLVQV
+SNLIVDCPEIQRLDIHPLLASGSEFTALDVTLDISPFEGDNESRLAVRPYPHQLEEWVEL
+KNGERCLFRPILPEDEPQLQQFISRVTKEDLYYRYFSEINEFTHEDLANMTQIDYDREMA
+FVAVRRIDQTEEILGVTRAISDPDNIDAEFAVLVRSDLKGLGLGRRLMEKLITYTRDHGL
+QRLNGITMPNNRGMVALARKLGFNVDIQLEEGIVGLTLNLAQREES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

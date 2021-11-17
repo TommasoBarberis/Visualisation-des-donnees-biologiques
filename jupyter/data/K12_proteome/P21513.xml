@@ -1,0 +1,1731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-05-01" modified="2019-07-03" version="189">
+<accession>P21513</accession>
+<accession>P77591</accession>
+<name>RNE_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="10">Ribonuclease E</fullName>
+<shortName evidence="10">RNase E</shortName>
+<ecNumber evidence="10">3.1.26.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="10">rne</name>
+<name type="synonym">ams</name>
+<name type="synonym">hmp1</name>
+<name type="ordered locus">b1084</name>
+<name type="ordered locus">JW1071</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1992" name="J. Mol. Biol." volume="228" first="30" last="40">
+<title>Cloning and analysis of the entire Escherichia coli ams gene. ams is identical to hmp1 and encodes a 114 kDa protein that migrates as a 180 kDa protein.</title>
+<authorList>
+<person name="Casaregola S."/>
+<person name="Jacq A."/>
+<person name="Laoudj D."/>
+<person name="McGurk G."/>
+<person name="Margarson S."/>
+<person name="Tempete M."/>
+<person name="Norris V."/>
+<person name="Holland I.B."/>
+</authorList>
+<dbReference type="PubMed" id="1447789"/>
+<dbReference type="DOI" id="10.1016/0022-2836(92)90489-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-1025</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="2843" last="2851">
+<title>Analysis of the altered mRNA stability (ams) gene from Escherichia coli. Nucleotide sequence, transcriptional analysis, and homology of its product to MRP3, a mitochondrial ribosomal protein from Neurospora crassa.</title>
+<authorList>
+<person name="Claverie-Martin F."/>
+<person name="Diaz-Torres M."/>
+<person name="Yancey S.D."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="1704367"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-844</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1991" name="Nucleic Acids Res." volume="19" first="125" last="129">
+<title>Sequencing and expression of the rne gene of Escherichia coli.</title>
+<authorList>
+<person name="Chauhan A.K."/>
+<person name="Miczak A."/>
+<person name="Taraseviciene L."/>
+<person name="Apirion D."/>
+</authorList>
+<dbReference type="PubMed" id="2011493"/>
+<dbReference type="DOI" id="10.1093/nar/19.1.125"/>
+</citation>
+<scope>PARTIAL NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-27</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="9006" last="9010">
+<title>RNase E activity is conferred by a single polypeptide: overexpression, purification, and properties of the ams/rne/hmp1 gene product.</title>
+<authorList>
+<person name="Cormack R.S."/>
+<person name="Genereaux J.L."/>
+<person name="Mackie G.A."/>
+</authorList>
+<dbReference type="PubMed" id="8415644"/>
+<dbReference type="DOI" id="10.1073/pnas.90.19.9006"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 844-1061</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1983" name="Eur. J. Biochem." volume="131" first="119" last="127">
+<title>Maturation of 5-S rRNA: ribonuclease E cleavages and their dependence on precursor sequences.</title>
+<authorList>
+<person name="Roy M.K."/>
+<person name="Singh B."/>
+<person name="Ray B.K."/>
+<person name="Apirion D."/>
+</authorList>
+<dbReference type="PubMed" id="6339234"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1983.tb07238.x"/>
+</citation>
+<scope>FUNCTION IN 5S RRNA MATURATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1990" name="J. Mol. Biol." volume="212" first="461" last="471">
+<title>Escherichia coli cell division inhibitor DicF-RNA of the dicB operon. Evidence for its generation in vivo by transcription termination and by RNase III and RNase E-dependent processing.</title>
+<authorList>
+<person name="Faubladier M."/>
+<person name="Cam K."/>
+<person name="Bouche J.P."/>
+</authorList>
+<dbReference type="PubMed" id="1691299"/>
+<dbReference type="DOI" id="10.1016/0022-2836(90)90325-G"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF DICF-RNA</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1990" name="Mol. Microbiol." volume="4" first="2127" last="2135">
+<title>RNase E, an endoribonuclease, has a general role in the chemical decay of Escherichia coli mRNA: evidence that rne and ams are the same genetic locus.</title>
+<authorList>
+<person name="Mudd E.A."/>
+<person name="Krisch H.M."/>
+<person name="Higgins C.F."/>
+</authorList>
+<dbReference type="PubMed" id="1708438"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1990.tb00574.x"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="Genes Dev." volume="12" first="2770" last="2781">
+<title>Ribonuclease E organizes the protein interactions in the Escherichia coli RNA degradosome.</title>
+<authorList>
+<person name="Vanzo N.F."/>
+<person name="Li Y.S."/>
+<person name="Py B."/>
+<person name="Blum E."/>
+<person name="Higgins C.F."/>
+<person name="Raynal L.C."/>
+<person name="Krisch H.M."/>
+<person name="Carpousis A.J."/>
+</authorList>
+<dbReference type="PubMed" id="9732274"/>
+<dbReference type="DOI" id="10.1101/gad.12.17.2770"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RHLB; PNPASE AND ENOLASE</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="EMBO J." volume="18" first="2878" last="2885">
+<title>RNase G (CafA protein) and RNase E are both required for the 5' maturation of 16S ribosomal RNA.</title>
+<authorList>
+<person name="Li Z."/>
+<person name="Pandit S."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="10329633"/>
+<dbReference type="DOI" id="10.1093/emboj/18.10.2878"/>
+</citation>
+<scope>FUNCTION IN 16S RRNA MATURATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="63" last="68">
+<title>RNA degradosomes exist in vivo in Escherichia coli as multicomponent complexes associated with the cytoplasmic membrane via the N-terminal region of ribonuclease E.</title>
+<authorList>
+<person name="Liou G.G."/>
+<person name="Jane W.N."/>
+<person name="Cohen S.N."/>
+<person name="Lin N.S."/>
+<person name="Lin-Chao S."/>
+</authorList>
+<dbReference type="PubMed" id="11134527"/>
+<dbReference type="DOI" id="10.1073/pnas.98.1.63"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2001" name="Nucleic Acids Res." volume="29" first="1864" last="1871">
+<title>Cleavage of poly(A) tails on the 3'-end of RNA by ribonuclease E of Escherichia coli.</title>
+<authorList>
+<person name="Walsh A.P."/>
+<person name="Tock M.R."/>
+<person name="Mallen M.H."/>
+<person name="Kaberdin V.R."/>
+<person name="Gabain Av A."/>
+<person name="McDowall K.J."/>
+</authorList>
+<dbReference type="PubMed" id="11328869"/>
+<dbReference type="DOI" id="10.1093/nar/29.9.1864"/>
+</citation>
+<scope>FUNCTION IN CLEAVAGE OF POLY(A)</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="RNA" volume="8" first="97" last="109">
+<title>RNase E plays an essential role in the maturation of Escherichia coli tRNA precursors.</title>
+<authorList>
+<person name="Li Z."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="11871663"/>
+<dbReference type="DOI" id="10.1017/S1355838202014929"/>
+</citation>
+<scope>FUNCTION IN TRNA MATURATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2004" name="Mol. Microbiol." volume="54" first="1409" last="1421">
+<title>Physical and functional interactions among RNase E, polynucleotide phosphorylase and the cold-shock protein, CsdA: evidence for a 'cold shock degradosome'.</title>
+<authorList>
+<person name="Prud'homme-Genereux A."/>
+<person name="Beran R.K."/>
+<person name="Iost I."/>
+<person name="Ramey C.S."/>
+<person name="Mackie G.A."/>
+<person name="Simons R.W."/>
+</authorList>
+<dbReference type="PubMed" id="15554978"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2004.04360.x"/>
+</citation>
+<scope>INTERACTION WITH DEAD</scope>
+<source>
+<strain>CF881</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="4667" last="4675">
+<title>'Zn-link': a metal-sharing interface that organizes the quaternary structure and catalytic site of the endoribonuclease, RNase E.</title>
+<authorList>
+<person name="Callaghan A.J."/>
+<person name="Redko Y."/>
+<person name="Murphy L.M."/>
+<person name="Grossmann J.G."/>
+<person name="Yates D."/>
+<person name="Garman E."/>
+<person name="Ilag L.L."/>
+<person name="Robinson C.V."/>
+<person name="Symmons M.F."/>
+<person name="McDowall K.J."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="15779893"/>
+<dbReference type="DOI" id="10.1021/bi0478244"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>RNA-BINDING</scope>
+<scope>SUBUNIT</scope>
+<scope>ZINC-BINDING</scope>
+<scope>COFACTOR</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>MUTAGENESIS OF CYS-404 AND CYS-407</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2008" name="J. Biol. Chem." volume="283" first="13850" last="13855">
+<title>RNaseE and RNA helicase B play central roles in the cytoskeletal organization of the RNA degradosome.</title>
+<authorList>
+<person name="Taghbalout A."/>
+<person name="Rothfield L."/>
+</authorList>
+<dbReference type="PubMed" id="18337249"/>
+<dbReference type="DOI" id="10.1074/jbc.M709118200"/>
+</citation>
+<scope>INTERACTION WITH RHLB; PNPASE AND ENOLASE</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2010" name="Mol. Microbiol." volume="76" first="590" last="604">
+<title>Rapid cleavage of RNA by RNase E in the absence of 5' monophosphate stimulation.</title>
+<authorList>
+<person name="Kime L."/>
+<person name="Jourdan S.S."/>
+<person name="Stead J.A."/>
+<person name="Hidalgo-Sastre A."/>
+<person name="McDowall K.J."/>
+</authorList>
+<dbReference type="PubMed" id="19889093"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2009.06935.x"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF THR-170</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="7019" last="7024">
+<title>Membrane binding of Escherichia coli RNase E catalytic domain stabilizes protein structure and increases RNA substrate affinity.</title>
+<authorList>
+<person name="Murashko O.N."/>
+<person name="Kaberdin V.R."/>
+<person name="Lin-Chao S."/>
+</authorList>
+<dbReference type="PubMed" id="22509045"/>
+<dbReference type="DOI" id="10.1073/pnas.1120181109"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2016" name="RNA" volume="22" first="1163" last="1171">
+<title>Elucidation of pathways of ribosomal RNA degradation: an essential role for RNase E.</title>
+<authorList>
+<person name="Sulthana S."/>
+<person name="Basturea G.N."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="27298395"/>
+<dbReference type="DOI" id="10.1261/rna.056275.116"/>
+</citation>
+<scope>FUNCTION IN RRNA DEGRADATION</scope>
+<source>
+<strain>K12 / MG1655(Seq)*</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="341" first="37" last="54">
+<title>Structural characterization of the RNase E S1 domain and identification of its oligonucleotide-binding and dimerization interfaces.</title>
+<authorList>
+<person name="Schubert M."/>
+<person name="Edge R.E."/>
+<person name="Lario P."/>
+<person name="Cook M.A."/>
+<person name="Strynadka N.C."/>
+<person name="Mackie G.A."/>
+<person name="McIntosh L.P."/>
+</authorList>
+<dbReference type="PubMed" id="15312761"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.05.061"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 35-125</scope>
+<scope>STRUCTURE BY NMR OF 35-125</scope>
+<scope>SUBUNIT</scope>
+<scope>RNA-BINDING</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF GLY-66</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="Nature" volume="437" first="1187" last="1191">
+<title>Structure of Escherichia coli RNase E catalytic domain and implications for RNA turnover.</title>
+<authorList>
+<person name="Callaghan A.J."/>
+<person name="Marcaida M.J."/>
+<person name="Stead J.A."/>
+<person name="McDowall K.J."/>
+<person name="Scott W.G."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="16237448"/>
+<dbReference type="DOI" id="10.1038/nature04084"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.85 ANGSTROMS) OF 1-510 IN COMPLEXES WITH RNA; ZINC AND MAGNESIUM IONS</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF PHE-57; PHE-67; LYS-112; THR-170; ASP-303; ASN-305; ASP-346 AND ARG-373</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="358" first="8" last="15">
+<title>Recognition of enolase in the Escherichia coli RNA degradosome.</title>
+<authorList>
+<person name="Chandran V."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="16516921"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2006.02.012"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 833-850 IN COMPLEX WITH ENO</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2008" name="Structure" volume="16" first="1238" last="1244">
+<title>The crystal structure of the Escherichia coli RNase E apoprotein and a mechanism for RNA degradation.</title>
+<authorList>
+<person name="Koslover D.J."/>
+<person name="Callaghan A.J."/>
+<person name="Marcaida M.J."/>
+<person name="Garman E.F."/>
+<person name="Martick M."/>
+<person name="Scott W.G."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="18682225"/>
+<dbReference type="DOI" id="10.1016/j.str.2008.04.017"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.30 ANGSTROMS) OF 1-515 IN COMPLEX WITH RNA AND ZINC IONS</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2009" name="J. Mol. Biol." volume="389" first="17" last="33">
+<title>Crystal structure of Escherichia coli polynucleotide phosphorylase core bound to RNase E, RNA and manganese: implications for catalytic mechanism and RNA degradosome assembly.</title>
+<authorList>
+<person name="Nurmohamed S."/>
+<person name="Vaidialingam B."/>
+<person name="Callaghan A.J."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="19327365"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2009.03.051"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1021-1061 IN COMPLEXES WITH PNP AND RNA</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2010" name="Acta Crystallogr. D" volume="66" first="1036" last="1040">
+<title>Molecular recognition between Escherichia coli enolase and ribonuclease E.</title>
+<authorList>
+<person name="Nurmohamed S."/>
+<person name="McKay A.R."/>
+<person name="Robinson C.V."/>
+<person name="Luisi B.F."/>
+</authorList>
+<dbReference type="PubMed" id="20823555"/>
+<dbReference type="DOI" id="10.1107/S0907444910030015"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 823-850 IN COMPLEX WITH ENO</scope>
+<scope>INTERACTION WITH ENO</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="10 11 13 14 18 20 21 25 28 29 30">Endoribonuclease that plays a central role in RNA processing and decay. Required for the maturation of 5S and 16S rRNAs and the majority of tRNAs. Also involved in the degradation of most mRNAs. Can also process other RNA species, such as RNAI, a molecule that controls the replication of ColE1 plasmid, and the cell division inhibitor DicF-RNA. It initiates the decay of RNAs by cutting them internally near their 5'-end. It is able to remove poly(A) tails by an endonucleolytic process. Required to initiate rRNA degradation during both starvation and quality control; acts after RNase PH (rph) exonucleolytically digests the 3'-end of the 16S rRNA (PubMed:27298395). Degradation of 16S rRNA leads to 23S rRNA degradation (PubMed:27298395).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="10 17 18 25">
+<text>Endonucleolytic cleavage of single-stranded RNA in A- and U-rich regions.</text>
+<dbReference type="EC" id="3.1.26.12"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="17 18 23">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="17">Binds 2 Zn(2+) ions per homotetramer. Zinc ions are bound between subunits and are essential for homotetramerization and catalytic activity, but not for RNA binding. In the absence of zinc, the protein dissociates into inactive dimers.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="18">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="18">Binds 1 Mg(2+) ion per subunit.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="27">Binding to the membrane stabilizes protein structure and increases affinity for the substrate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="10 12 15 16 17 18 19 22 23 24 26 30">Component of the RNA degradosome, which is a multiprotein complex involved in RNA processing and mRNA degradation. Within the RNA degradosome, Rnase E assembles into a homotetramer formed by a dimer of dimers. Tetramerization is essential for catalytic activity, but not for RNA-binding. Interacts with RhlB, PNPase (pnp) and enolase (eno). Interacts with DeaD at reduced temperature.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-549958"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-542092">
+<id>P0A6Y8</id>
+<label>dnaK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-368855">
+<id>P0A6P9</id>
+<label>eno</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>17</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-548080">
+<id>P05055</id>
+<label>pnp</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>13</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-555806">
+<id>P0A8J8</id>
+<label>rhlB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>18</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-549958"/>
+<interactant intactId="EBI-546628">
+<id>P21507</id>
+<label>srmB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="12 27">Cell inner membrane</location>
+<topology evidence="12 27">Peripheral membrane protein</topology>
+<orientation evidence="12 27">Cytoplasmic side</orientation>
+</subcellularLocation>
+<text evidence="12 27">Associated with the cytoplasmic membrane via the N- and C-terminal regions.</text>
+</comment>
+<comment type="domain">
+<text evidence="15 30">The N-terminal S1 motif binds RNA, and can also bind single-stranded DNA (in vitro). The C-terminal region interacts with the other degradosomal components.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="28">In K12 strains that are derived from W1485 (including MG1655 and W3110) the rph gene has a frameshift that leads to loss of its ribonuclease PH activity. In strain K12 / MG1655(Seq)* the wild-type Rph protein has been restored (PubMed:27298395).</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the RNase E/G family. RNase E subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="31">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAA23443" version="1"/>
+</conflict>
+<location>
+<position position="796"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="31">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA38206" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="31">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA47818" version="1"/>
+</conflict>
+<location>
+<position position="1003"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.1.26.12" evidence="10"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74168.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35893.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X67470">
+<property type="protein sequence ID" value="CAA47818.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M62747">
+<property type="protein sequence ID" value="AAA23443.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X54309">
+<property type="protein sequence ID" value="CAA38206.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L23942">
+<property type="protein sequence ID" value="AAA03347.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64852">
+<property type="entry name" value="S27311"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415602.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000827360.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1SLJ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=35-125"/>
+</dbReference>
+<dbReference type="PDB" id="1SMX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=35-125"/>
+</dbReference>
+<dbReference type="PDB" id="1SN8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=35-125"/>
+</dbReference>
+<dbReference type="PDB" id="2BX2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="L=1-510"/>
+</dbReference>
+<dbReference type="PDB" id="2C0B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.18"/>
+<property type="chains" value="L=1-510"/>
+</dbReference>
+<dbReference type="PDB" id="2C4R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="L=1-510"/>
+</dbReference>
+<dbReference type="PDB" id="2FYM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="B/E=833-850"/>
+</dbReference>
+<dbReference type="PDB" id="2VMK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A/B/C/D=1-515"/>
+</dbReference>
+<dbReference type="PDB" id="2VRT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/B/C/D=1-509"/>
+</dbReference>
+<dbReference type="PDB" id="3GCM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="D/E/F=1021-1061"/>
+</dbReference>
+<dbReference type="PDB" id="3GME">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="D=1021-1061"/>
+</dbReference>
+<dbReference type="PDB" id="3H1C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.57"/>
+<property type="chains" value="D/E/F/H/J/L/N/P/S/U/W/Y=1021-1061"/>
+</dbReference>
+<dbReference type="PDB" id="3H8A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="E/F=823-850"/>
+</dbReference>
+<dbReference type="PDB" id="5F6C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=1-510, B=1-511"/>
+</dbReference>
+<dbReference type="PDB" id="6G63">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.95"/>
+<property type="chains" value="A/G/L/N=1-510"/>
+</dbReference>
+<dbReference type="PDBsum" id="1SLJ"/>
+<dbReference type="PDBsum" id="1SMX"/>
+<dbReference type="PDBsum" id="1SN8"/>
+<dbReference type="PDBsum" id="2BX2"/>
+<dbReference type="PDBsum" id="2C0B"/>
+<dbReference type="PDBsum" id="2C4R"/>
+<dbReference type="PDBsum" id="2FYM"/>
+<dbReference type="PDBsum" id="2VMK"/>
+<dbReference type="PDBsum" id="2VRT"/>
+<dbReference type="PDBsum" id="3GCM"/>
+<dbReference type="PDBsum" id="3GME"/>
+<dbReference type="PDBsum" id="3H1C"/>
+<dbReference type="PDBsum" id="3H8A"/>
+<dbReference type="PDBsum" id="5F6C"/>
+<dbReference type="PDBsum" id="6G63"/>
+<dbReference type="SMR" id="P21513"/>
+<dbReference type="BioGrid" id="4261023">
+<property type="interactions" value="251"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-403">
+<property type="entry name" value="Degradosome"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10727N"/>
+<dbReference type="IntAct" id="P21513">
+<property type="interactions" value="63"/>
+</dbReference>
+<dbReference type="MINT" id="P21513"/>
+<dbReference type="STRING" id="511145.b1084"/>
+<dbReference type="EPD" id="P21513"/>
+<dbReference type="jPOST" id="P21513"/>
+<dbReference type="PaxDb" id="P21513"/>
+<dbReference type="PRIDE" id="P21513"/>
+<dbReference type="EnsemblBacteria" id="AAC74168">
+<property type="protein sequence ID" value="AAC74168"/>
+<property type="gene ID" value="b1084"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35893">
+<property type="protein sequence ID" value="BAA35893"/>
+<property type="gene ID" value="BAA35893"/>
+</dbReference>
+<dbReference type="GeneID" id="945641"/>
+<dbReference type="KEGG" id="ecj:JW1071"/>
+<dbReference type="KEGG" id="eco:b1084"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1184"/>
+<dbReference type="EchoBASE" id="EB0852"/>
+<dbReference type="EcoGene" id="EG10859">
+<property type="gene designation" value="rne"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107QQB">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1530">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000258027"/>
+<dbReference type="InParanoid" id="P21513"/>
+<dbReference type="KO" id="K08300"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10859-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1071-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10859-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.26.12">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P21513"/>
+<dbReference type="PRO" id="PR:P21513"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009898">
+<property type="term" value="C:cytoplasmic side of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008312">
+<property type="term" value="F:7S RNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017151">
+<property type="term" value="F:DEAD/H-box RNA helicase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004521">
+<property type="term" value="F:endoribonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008995">
+<property type="term" value="F:ribonuclease E activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006402">
+<property type="term" value="P:mRNA catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051289">
+<property type="term" value="P:protein homotetramerization"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902280">
+<property type="term" value="P:regulation of ATP-dependent RNA helicase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006401">
+<property type="term" value="P:RNA catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000967">
+<property type="term" value="P:rRNA 5'-end processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008033">
+<property type="term" value="P:tRNA processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00207"/>
+<dbReference type="HAMAP" id="MF_00970">
+<property type="entry name" value="RNase_E"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021968">
+<property type="entry name" value="PNPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019307">
+<property type="entry name" value="RNA-bd_AU-1/RNase_E/G"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028878">
+<property type="entry name" value="RNase_E"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004659">
+<property type="entry name" value="RNase_E/G"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022967">
+<property type="entry name" value="S1_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003029">
+<property type="entry name" value="S1_domain"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12111">
+<property type="entry name" value="PNPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10150">
+<property type="entry name" value="RNase_E_G"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00575">
+<property type="entry name" value="S1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00316">
+<property type="entry name" value="S1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00757">
+<property type="entry name" value="RNaseEG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50126">
+<property type="entry name" value="S1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0698">rRNA processing</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Ribonuclease E" id="PRO_0000097373">
+<location>
+<begin position="1"/>
+<end position="1061"/>
+</location>
+</feature>
+<feature type="domain" description="S1 motif" evidence="10">
+<location>
+<begin position="39"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with RNA">
+<location>
+<begin position="57"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with RNA 5'-terminal monophosphate">
+<location>
+<begin position="169"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for zinc-mediated homotetramerization and catalytic activity">
+<location>
+<begin position="404"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with enolase">
+<location>
+<begin position="833"/>
+<end position="850"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PNPase">
+<location>
+<begin position="1021"/>
+<end position="1061"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic" evidence="18">
+<location>
+<position position="303"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic" evidence="18">
+<location>
+<position position="346"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; shared with dimeric partner" evidence="17 23">
+<location>
+<position position="404"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; shared with dimeric partner" evidence="17 23">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by over 98%." evidence="18">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Disrupts folding of the S1 motif." evidence="15">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by over 98%." evidence="18">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by 98%." evidence="18">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes enzyme activity toward RNA substrates with a 5' monophosphate (PubMed:16237448). Strongly reduces enzyme activity toward cspA mRNA (PubMed:19889093)." evidence="18 25">
+<original>T</original>
+<variation>V</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by over 96%." evidence="18">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="303"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by over 96%." evidence="18">
+<original>N</original>
+<variation>D</variation>
+<variation>L</variation>
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by over 96%." evidence="18">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="346"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces RNA cleavage by 89%." evidence="18">
+<original>R</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces zinc-binding. Abolishes homotetramerization and enzyme activity." evidence="17">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="404"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces zinc-binding. Abolishes homotetramerization and enzyme activity." evidence="17">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23443." ref="5" evidence="31">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="390"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA47818 and 5; AAA23443." ref="4 5" evidence="31">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="487"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA47818." ref="4" evidence="31">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="564"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA47818." ref="4" evidence="31">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAA23443." ref="5" evidence="31">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="838"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA47818." ref="4" evidence="31">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="905"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 7; AAA03347." ref="7" evidence="31">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="1048"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="10"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="14"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="23"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="32"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="36"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="42"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="55"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="66"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="84"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="90"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="99"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="109"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="115"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="125"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="134"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="145"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="151"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="165"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="170"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="177"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="205"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="210"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="213"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="226"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="234"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="250"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="256"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="265"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="272"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="281"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="290"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="300"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="311"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="315"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="341"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="353"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="367"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="374"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="383"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="396"/>
+<end position="400"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="401"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="405"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="416"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="433"/>
+<end position="435"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="436"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="445"/>
+<end position="451"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="452"/>
+<end position="455"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="456"/>
+<end position="465"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="466"/>
+<end position="468"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="470"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="485"/>
+<end position="490"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="491"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="499"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="502"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="507"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="831"/>
+<end position="833"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="835"/>
+<end position="838"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1SLJ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1SMX"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2BX2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2C0B"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2FYM"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2VMK"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2VRT"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3H8A"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5F6C"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00970"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10329633"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11134527"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11328869"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11871663"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15312761"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15554978"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15779893"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16237448"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16516921"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1691299"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1708438"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18337249"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18682225"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19327365"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19889093"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20823555"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22509045"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27298395"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6339234"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9732274"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000305"/>
+<sequence length="1061" mass="118197" checksum="D4066D80E1DE7D37" modified="2003-08-29" version="6">
+MKRMLINATQQEELRVALVDGQRLYDLDIESPGHEQKKANIYKGKITRIEPSLEAAFVDY
+GAERHGFLPLKEIAREYFPANYSAHGRPNIKDVLREGQEVIVQIDKEERGNKGAALTTFI
+SLAGSYLVLMPNNPRAGGISRRIEGDDRTELKEALASLELPEGMGLIVRTAGVGKSAEAL
+QWDLSFRLKHWEAIKKAAESRPAPFLIHQESNVIVRAFRDYLRQDIGEILIDNPKVLELA
+RQHIAALGRPDFSSKIKLYTGEIPLFSHYQIESQIESAFQREVRLPSGGSIVIDSTEALT
+AIDINSARATRGGDIEETAFNTNLEAADEIARQLRLRDLGGLIVIDFIDMTPVRHQRAVE
+NRLREAVRQDRARIQISHISRFGLLEMSRQRLSPSLGESSHHVCPRCSGTGTVRDNESLS
+LSILRLIEEEALKENTQEVHAIVPVPIASYLLNEKRSAVNAIETRQDGVRCVIVPNDQME
+TPHYHVLRVRKGEETPTLSYMLPKLHEEAMALPSEEEFAERKRPEQPALATFAMPDVPPA
+PTPAEPAAPVVAPAPKAAPATPAAPAQPGLLSRFFGALKALFSGGEETKPTEQPAPKAEA
+KPERQQDRRKPRQNNRRDRNERRDTRSERTEGSDNREENRRNRRQAQQQTAETRESRQQA
+EVTEKARTADEQQAPRRERSRRRNDDKRQAQQEAKALNVEEQSVQETEQEERVRPVQPRR
+KQRQLNQKVRYEQSVAEEAVVAPVVEETVAAEPIVQEAPAPRTELVKVPLPVVAQTAPEQ
+QEENNADNRDNGGMPRRSRRSPRHLRVSGQRRRRYRDERYPTQSPMPLTVACASPELASG
+KVWIRYPIVRPQDVQVEEQREQEEVHVQPMVTEVPVAAAIEPVVSAPVVEEVAGVVEAPV
+QVAEPQPEVVETTHPEVIAAAVTEQPQVITESDVAVAQEVAEQAEPVVEPQEETADIEEV
+VETAEVVVAEPEVVAQPAAPVVAEVAAEVETVAAVEPEVTVEHNHATAPMTRAPAPEYVP
+EAPRHSDWQRPTFAFEGKGAAGGHTATHHASAAPARPQPVE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

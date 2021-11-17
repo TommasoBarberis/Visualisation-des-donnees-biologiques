@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="148">
+<accession>P71229</accession>
+<accession>P76567</accession>
+<accession>P76976</accession>
+<accession>P76977</accession>
+<name>HYFR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>DNA-binding transcriptional activator HyfR</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Hydrogenase-4 transcriptional activator</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">hyfR</name>
+<name type="ordered locus">b2491</name>
+<name type="ordered locus">JW2476</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Microbiology" volume="143" first="3633" last="3647">
+<title>A 12-cistron Escherichia coli operon (hyf) encoding a putative proton-translocating formate hydrogenlyase system.</title>
+<authorList>
+<person name="Andrews S.C."/>
+<person name="Berks B.C."/>
+<person name="McClay J."/>
+<person name="Ambler A."/>
+<person name="Quail M.A."/>
+<person name="Golby P."/>
+<person name="Guest J.R."/>
+</authorList>
+<dbReference type="PubMed" id="9387241"/>
+<dbReference type="DOI" id="10.1099/00221287-143-11-3633"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>POSSIBLE FUNCTION</scope>
+<scope>MOTIF</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="6642" last="6653">
+<title>Regulation of the hydrogenase-4 operon of Escherichia coli by the sigma(54)-dependent transcriptional activators FhlA and HyfR.</title>
+<authorList>
+<person name="Skibinski D.A."/>
+<person name="Golby P."/>
+<person name="Chang Y.S."/>
+<person name="Sargent F."/>
+<person name="Hoffman R."/>
+<person name="Harper R."/>
+<person name="Guest J.R."/>
+<person name="Attwood M.M."/>
+<person name="Berks B.C."/>
+<person name="Andrews S.C."/>
+</authorList>
+<dbReference type="PubMed" id="12426353"/>
+<dbReference type="DOI" id="10.1128/JB.184.23.6642-6653.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<scope>INDUCTION</scope>
+<scope>OPERON</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="J. Bacteriol." volume="186" first="580" last="587">
+<title>Expression and regulation of a silent operon, hyf, coding for hydrogenase 4 isoenzyme in Escherichia coli.</title>
+<authorList>
+<person name="Self W.T."/>
+<person name="Hasona A."/>
+<person name="Shanmugam K.T."/>
+</authorList>
+<dbReference type="PubMed" id="14702328"/>
+<dbReference type="DOI" id="10.1128/JB.186.2.580-587.2004"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4 7">A transcriptional activator of its own operon; when overexpressed operon expression is strongly enhanced by low pH (under pH 6.0), strongly inhibited by O(2) but only weakly stimulated by fumarate (PubMed:12426353, PubMed:14702328). Expression in situ is very weak (PubMed:12426353, PubMed:14702328).</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Induced during anaerobic growth in the presence of formate; part of a hyfR-focB transcript, it is not clear where the hyfR promoter is located, nor if the upstream operon (hyfABCDEFGHIJ) includes these last 2 genes.</text>
+</comment>
+<comment type="domain">
+<text evidence="7">A Cys-rich motif in the N-terminus (residues 207-221) may bind a metal cofactor or iron-sulfur cluster and be responsible for sensing redox or other signals.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">No effect on expression of the hyf operon.</text>
+</comment>
+<dbReference type="EMBL" id="M63654">
+<property type="protein sequence ID" value="AAB88573.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75544.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16380.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65025">
+<property type="entry name" value="B65025"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416986.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001251544.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P71229"/>
+<dbReference type="BioGrid" id="4261431">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9993N"/>
+<dbReference type="IntAct" id="P71229">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2491"/>
+<dbReference type="jPOST" id="P71229"/>
+<dbReference type="PaxDb" id="P71229"/>
+<dbReference type="PRIDE" id="P71229"/>
+<dbReference type="EnsemblBacteria" id="AAC75544">
+<property type="protein sequence ID" value="AAC75544"/>
+<property type="gene ID" value="b2491"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16380">
+<property type="protein sequence ID" value="BAA16380"/>
+<property type="gene ID" value="BAA16380"/>
+</dbReference>
+<dbReference type="GeneID" id="948886"/>
+<dbReference type="KEGG" id="ecj:JW2476"/>
+<dbReference type="KEGG" id="eco:b2491"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4248"/>
+<dbReference type="EchoBASE" id="EB3971"/>
+<dbReference type="EcoGene" id="EG14219">
+<property type="gene designation" value="hyfR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108JUA">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3604">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000058488"/>
+<dbReference type="InParanoid" id="P71229"/>
+<dbReference type="KO" id="K12146"/>
+<dbReference type="PhylomeDB" id="P71229"/>
+<dbReference type="BioCyc" id="EcoCyc:G7308-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2476-MONOMER"/>
+<dbReference type="PRO" id="PR:P71229"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006352">
+<property type="term" value="P:DNA-templated transcription, initiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000160">
+<property type="term" value="P:phosphorelay signal transduction system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000142">
+<property type="term" value="P:regulation of DNA-templated transcription, initiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.450.40">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003018">
+<property type="entry name" value="GAF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029016">
+<property type="entry name" value="GAF-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002078">
+<property type="entry name" value="Sigma_54_int"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025662">
+<property type="entry name" value="Sigma_54_int_dom_ATP-bd_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025943">
+<property type="entry name" value="Sigma_54_int_dom_ATP-bd_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025944">
+<property type="entry name" value="Sigma_54_int_dom_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01590">
+<property type="entry name" value="GAF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00158">
+<property type="entry name" value="Sigma54_activat"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00065">
+<property type="entry name" value="GAF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00675">
+<property type="entry name" value="SIGMA54_INTERACT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00676">
+<property type="entry name" value="SIGMA54_INTERACT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00688">
+<property type="entry name" value="SIGMA54_INTERACT_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50045">
+<property type="entry name" value="SIGMA54_INTERACT_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0902">Two-component regulatory system</keyword>
+<feature type="chain" description="DNA-binding transcriptional activator HyfR" id="PRO_0000081299">
+<location>
+<begin position="1"/>
+<end position="670"/>
+</location>
+</feature>
+<feature type="domain" description="GAF">
+<location>
+<begin position="169"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="domain" description="Sigma-54 factor interaction" evidence="2">
+<location>
+<begin position="347"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="375"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="438"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="641"/>
+<end position="660"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Cys-rich segment, might bind a metal cluster" evidence="7">
+<location>
+<begin position="207"/>
+<end position="221"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00193"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12426353"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702328"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12426353"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9387241"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9387241"/>
+</source>
+</evidence>
+<sequence length="670" mass="75305" checksum="0EA738D2D6BA96B6" modified="1997-02-01" version="1">
+MAMSDEAMFAPPQGITIEAVNGMLAERLAQKHGKASLLRAFIPLPPPFSPVQLIELHVLK
+SNFYYRYHDDGSDVTATTEYQGEMVDYSRHAVLLGSSGMAELRFIRTHGSRFTSQDCTLF
+NWLARIITPVLQSWLNDEEQQVALRLLEKDRDHHRVLVDITNAVLSHLDLDDLIADVARE
+IHHFFGLASVSMVLGDHRKNEKFSLWCSDLSASHCACLPRCMPGESVLLTQTLQTRQPTL
+THRADDLFLWQRDPLLLLLASNGCESALLIPLTFGNHTPGALLLAHTSSTLFSEENCQLL
+QHIADRIAIAVGNADAWRSMTDLQESLQQENHQLSEQLLSNLGIGDIIYQSQAMEDLLQQ
+VDIVAKSDSTVLICGETGTGKEVIARAIHQLSPRRDKPLVKINCAAIPASLLESELFGHD
+KGAFTGAINTHRGRFEIADGGTLFLDEIGDLPLELQPKLLRVLQEREIERLGGSRTIPVN
+VRVIAATNRDLWQMVEDRQFRSDLFYRLNVFPLELPPLRDRPEDIPLLAKHFTQKMARHM
+NRAIDAIPTEALRQLMSWDWPGNVRELENVIERAVLLTRGNSLNLHLNVRQSRLLPTLNE
+DSALRSSMAQLLHPTTPENDEEERQRIVQVLRETNGIVAGPRGAATRLGMKRTTLLSRMQ
+RLGISVREVL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

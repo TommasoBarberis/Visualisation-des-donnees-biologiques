@@ -1,0 +1,1252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="194">
+<accession>P00962</accession>
+<accession>Q59403</accession>
+<name>SYQ_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="11">Glutamine--tRNA ligase</fullName>
+<ecNumber evidence="11 12 13 14 15 18">6.1.1.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="11">Glutaminyl-tRNA synthetase</fullName>
+<shortName evidence="11">GlnRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="11">glnS</name>
+<name type="ordered locus">b0680</name>
+<name type="ordered locus">JW0666</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Protein Seq. Data Anal." volume="1" first="479" last="485">
+<title>Escherichia coli glutaminyl-tRNA synthetase: a single amino acid replacement relaxes rRNA specificity.</title>
+<authorList>
+<person name="Uemura H."/>
+<person name="Conley J."/>
+<person name="Yamao F."/>
+<person name="Rogers J."/>
+<person name="Soell D.G."/>
+</authorList>
+<dbReference type="PubMed" id="2464170"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="11639" last="11643">
+<title>Escherichia coli glutaminyl-tRNA synthetase. I. Isolation and DNA sequence of the glnS gene.</title>
+<authorList>
+<person name="Yamao F."/>
+<person name="Inokuchi H."/>
+<person name="Cheung A."/>
+<person name="Ozeki H."/>
+<person name="Soell D.G."/>
+</authorList>
+<dbReference type="PubMed" id="6288695"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1984" name="Fed. Proc." volume="43" first="2972" last="2976">
+<title>Misaminoacylation by glutaminyl-tRNA synthetase: relaxed specificity in wild-type and mutant enzymes.</title>
+<authorList>
+<person name="Hoben P."/>
+<person name="Uemura H."/>
+<person name="Yamao F."/>
+<person name="Cheung A."/>
+<person name="Swanson R."/>
+<person name="Sumner-Smith M."/>
+<person name="Soell D."/>
+</authorList>
+<dbReference type="PubMed" id="6389180"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-13</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="11644" last="11650">
+<title>Escherichia coli glutaminyl-tRNA synthetase. II. Characterization of the glnS gene product.</title>
+<authorList>
+<person name="Hoben P."/>
+<person name="Royal N."/>
+<person name="Cheung A."/>
+<person name="Yamao F."/>
+<person name="Biemann K."/>
+<person name="Soell D."/>
+</authorList>
+<dbReference type="PubMed" id="6749844"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-6</scope>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1989" name="Science" volume="246" first="1135" last="1142">
+<title>Structure of E. coli glutaminyl-tRNA synthetase complexed with tRNA(Gln) and ATP at 2.8-A resolution.</title>
+<authorList>
+<person name="Rould M.A."/>
+<person name="Perona J.J."/>
+<person name="Soell D."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="2479982"/>
+<dbReference type="DOI" id="10.1126/science.2479982"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS)</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1991" name="Nature" volume="352" first="213" last="218">
+<title>Structural basis of anticodon loop recognition by glutaminyl-tRNA synthetase.</title>
+<authorList>
+<person name="Rould M.A."/>
+<person name="Perona J.J."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="1857417"/>
+<dbReference type="DOI" id="10.1038/352213a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<reference key="12" evidence="4">
+<citation type="journal article" date="1998" name="Structure" volume="6" first="439" last="449">
+<title>How glutaminyl-tRNA synthetase selects glutamine.</title>
+<authorList>
+<person name="Rath V.L."/>
+<person name="Silvian L.F."/>
+<person name="Beijer B."/>
+<person name="Sproat B.S."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="9562563"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(98)00046-X"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH GLUTAMINYL-ADENYLATE ANALOG AND RNA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2000" name="J. Mol. Biol." volume="299" first="431" last="446">
+<title>Influence of transfer RNA tertiary structure on aminoacylation efficiency by glutaminyl and cysteinyl-tRNA synthetases.</title>
+<authorList>
+<person name="Sherlin L.D."/>
+<person name="Bullock T.L."/>
+<person name="Newberry K.J."/>
+<person name="Lipman R.S."/>
+<person name="Hou Y.M."/>
+<person name="Beijer B."/>
+<person name="Sproat B.S."/>
+<person name="Perona J.J."/>
+</authorList>
+<dbReference type="PubMed" id="10860750"/>
+<dbReference type="DOI" id="10.1006/jmbi.2000.3749"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS)</scope>
+</reference>
+<reference key="14" evidence="2 3">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="328" first="395" last="408">
+<title>Amino acid discrimination by a class I aminoacyl-tRNA synthetase specified by negative determinants.</title>
+<authorList>
+<person name="Bullock T.L."/>
+<person name="Uter N."/>
+<person name="Nissan T.A."/>
+<person name="Perona J.J."/>
+</authorList>
+<dbReference type="PubMed" id="12691748"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(03)00305-X"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS) OF 2-554 IN COMPLEX WITH AMP AND L-GLUTAMINE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="15" evidence="5">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="23978" last="23986">
+<title>tRNA-dependent aminoacyl-adenylate hydrolysis by a nonediting class I aminoacyl-tRNA synthetase.</title>
+<authorList>
+<person name="Gruic-Sovulj I."/>
+<person name="Uter N."/>
+<person name="Bullock T."/>
+<person name="Perona J.J."/>
+</authorList>
+<dbReference type="PubMed" id="15845536"/>
+<dbReference type="DOI" id="10.1074/jbc.M414260200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 2-554 IN COMPLEX WITH AMP AND L-GLUTAMINE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="16" evidence="6 7">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="7428" last="7433">
+<title>A rationally engineered misacylating aminoacyl-tRNA synthetase.</title>
+<authorList>
+<person name="Bullock T.L."/>
+<person name="Rodriguez-Hernandez A."/>
+<person name="Corigliano E.M."/>
+<person name="Perona J.J."/>
+</authorList>
+<dbReference type="PubMed" id="18477696"/>
+<dbReference type="DOI" id="10.1073/pnas.0711812105"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 1-548 IN COMPLEX WITH GLUTAMINYL-ADENYLATE ANALOG</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF ARG-31; CYS-230 AND GLN-256</scope>
+</reference>
+<reference key="17" evidence="8 9 10">
+<citation type="journal article" date="2013" name="J. Mol. Biol." volume="425" first="3888" last="3906">
+<title>Structural and mechanistic basis for enhanced translational efficiency by 2-thiouridine at the tRNA anticodon wobble position.</title>
+<authorList>
+<person name="Rodriguez-Hernandez A."/>
+<person name="Spears J.L."/>
+<person name="Gaston K.W."/>
+<person name="Limbach P.A."/>
+<person name="Gamper H."/>
+<person name="Hou Y.M."/>
+<person name="Kaiser R."/>
+<person name="Agris P.F."/>
+<person name="Perona J.J."/>
+</authorList>
+<dbReference type="PubMed" id="23727144"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2013.05.018"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 2-554 IN COMPLEX WITH ATP AND RNA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="11 12 13 14 15 18">
+<text>ATP + L-glutamine + tRNA(Gln) = AMP + diphosphate + L-glutaminyl-tRNA(Gln)</text>
+<dbReference type="Rhea" id="RHEA:20121"/>
+<dbReference type="Rhea" id="RHEA-COMP:9662"/>
+<dbReference type="Rhea" id="RHEA-COMP:9681"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:58359"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78521"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.18"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="11">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="11">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="11 19">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.18" evidence="11 12 13 14 15 18"/>
+<dbReference type="EMBL" id="V01575">
+<property type="protein sequence ID" value="CAA24894.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73774.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35328.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M16470">
+<property type="protein sequence ID" value="AAA69006.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M16368">
+<property type="protein sequence ID" value="AAA69006.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64802">
+<property type="entry name" value="SYECQT"/>
+</dbReference>
+<dbReference type="PIR" id="I41235">
+<property type="entry name" value="I41235"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415206.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001287154.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1EUQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="1EUY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="1EXD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="1GSG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="P=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1GTR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1GTS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1NYL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=9-547"/>
+</dbReference>
+<dbReference type="PDB" id="1O0B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1O0C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1QRS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1QRT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1QRU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1QTQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="1ZJW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="2RD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="2RE8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-548"/>
+</dbReference>
+<dbReference type="PDB" id="4JXX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="4JXZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDB" id="4JYZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=2-554"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EUQ"/>
+<dbReference type="PDBsum" id="1EUY"/>
+<dbReference type="PDBsum" id="1EXD"/>
+<dbReference type="PDBsum" id="1GSG"/>
+<dbReference type="PDBsum" id="1GTR"/>
+<dbReference type="PDBsum" id="1GTS"/>
+<dbReference type="PDBsum" id="1NYL"/>
+<dbReference type="PDBsum" id="1O0B"/>
+<dbReference type="PDBsum" id="1O0C"/>
+<dbReference type="PDBsum" id="1QRS"/>
+<dbReference type="PDBsum" id="1QRT"/>
+<dbReference type="PDBsum" id="1QRU"/>
+<dbReference type="PDBsum" id="1QTQ"/>
+<dbReference type="PDBsum" id="1ZJW"/>
+<dbReference type="PDBsum" id="2RD2"/>
+<dbReference type="PDBsum" id="2RE8"/>
+<dbReference type="PDBsum" id="4JXX"/>
+<dbReference type="PDBsum" id="4JXZ"/>
+<dbReference type="PDBsum" id="4JYZ"/>
+<dbReference type="SMR" id="P00962"/>
+<dbReference type="BioGrid" id="4261207">
+<property type="interactions" value="52"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9787N"/>
+<dbReference type="IntAct" id="P00962">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0680"/>
+<dbReference type="BindingDB" id="P00962"/>
+<dbReference type="SWISS-2DPAGE" id="P00962"/>
+<dbReference type="EPD" id="P00962"/>
+<dbReference type="jPOST" id="P00962"/>
+<dbReference type="PaxDb" id="P00962"/>
+<dbReference type="PRIDE" id="P00962"/>
+<dbReference type="EnsemblBacteria" id="AAC73774">
+<property type="protein sequence ID" value="AAC73774"/>
+<property type="gene ID" value="b0680"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35328">
+<property type="protein sequence ID" value="BAA35328"/>
+<property type="gene ID" value="BAA35328"/>
+</dbReference>
+<dbReference type="GeneID" id="945310"/>
+<dbReference type="KEGG" id="ecj:JW0666"/>
+<dbReference type="KEGG" id="eco:b0680"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1596"/>
+<dbReference type="EchoBASE" id="EB0385"/>
+<dbReference type="EcoGene" id="EG10390">
+<property type="gene designation" value="glnS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CX6">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0008">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000259232"/>
+<dbReference type="InParanoid" id="P00962"/>
+<dbReference type="KO" id="K01886"/>
+<dbReference type="PhylomeDB" id="P00962"/>
+<dbReference type="BioCyc" id="EcoCyc:GLNS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0666-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:GLNS-MONOMER"/>
+<dbReference type="BRENDA" id="6.1.1.18">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="BRENDA" id="6.1.1.24">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P00962"/>
+<dbReference type="EvolutionaryTrace" id="P00962"/>
+<dbReference type="PRO" id="PR:P00962"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004819">
+<property type="term" value="F:glutamine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006425">
+<property type="term" value="P:glutaminyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006424">
+<property type="term" value="P:glutamyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1160.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.240.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00126">
+<property type="entry name" value="Gln_tRNA_synth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004514">
+<property type="entry name" value="Gln-tRNA-synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022861">
+<property type="entry name" value="Gln_tRNA_ligase_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000924">
+<property type="entry name" value="Glu/Gln-tRNA-synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020058">
+<property type="entry name" value="Glu/Gln-tRNA-synth_Ib_cat-dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020059">
+<property type="entry name" value="Glu/Gln-tRNA-synth_Ib_codon-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020061">
+<property type="entry name" value="Glu_tRNA_lig_a-bdl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020056">
+<property type="entry name" value="Rbsml_L25/Gln-tRNA_synth_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011035">
+<property type="entry name" value="Ribosomal_L25/Gln-tRNA_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00749">
+<property type="entry name" value="tRNA-synt_1c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03950">
+<property type="entry name" value="tRNA-synt_1c_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00987">
+<property type="entry name" value="TRNASYNTHGLU"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50715">
+<property type="entry name" value="SSF50715"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00440">
+<property type="entry name" value="glnS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="16 17">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Glutamine--tRNA ligase" id="PRO_0000195833">
+<location>
+<begin position="2"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="8 9 10 11 15">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="8 9 10 11 15">
+<location>
+<begin position="41"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="8 9 10 11 14 15 18">
+<location>
+<begin position="261"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="8 9 10 11 14 15 18">
+<location>
+<begin position="269"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with tRNA" evidence="11 15 18">
+<location>
+<begin position="317"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;HIGH&quot; region" evidence="11">
+<location>
+<begin position="34"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="&quot;KMSKS&quot; region" evidence="11">
+<location>
+<begin position="268"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="binding site" description="L-glutamine" evidence="2 11 12 14 18">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="binding site" description="L-glutamine" evidence="2 5 11 12 13 14 18">
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="8 9 10 11 14 15 18">
+<location>
+<position position="231"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased affinity for glutamine and catalytic activity." evidence="14">
+<original>R</original>
+<variation>A</variation>
+<variation>K</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases catalytic activity 1000-fold, but has no effect on affinity for glutamine. Loss of catalytic activity; when associated with I-256." evidence="14">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="230"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of catalytic activity; when associated with R-230." evidence="14">
+<original>Q</original>
+<variation>I</variation>
+<location>
+<position position="256"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2." ref="2" evidence="19">
+<original>WAKVGE</original>
+<variation>GRK</variation>
+<location>
+<begin position="549"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="11"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="29"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="36"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="42"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="61"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="71"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="76"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="100"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="104"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="119"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="127"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="145"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="151"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="172"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="184"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="190"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="200"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="207"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="212"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="226"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="232"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="235"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="238"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="255"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="264"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="271"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="282"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="291"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="294"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="304"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="325"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="345"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="362"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="373"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="377"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="384"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="390"/>
+<end position="392"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="393"/>
+<end position="396"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="403"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="408"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="417"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="427"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="433"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="460"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="466"/>
+<end position="473"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="476"/>
+<end position="480"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="482"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="485"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="488"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="496"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="506"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="516"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="520"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="523"/>
+<end position="527"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="529"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="534"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="538"/>
+<end position="544"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1NYL"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1O0B"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1O0C"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QTQ"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ZJW"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2RD2"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2RE8"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JXX"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JXZ"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JYZ"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00126"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12691748"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15845536"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18477696"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23727144"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6749844"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9562563"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<sequence length="554" mass="63478" checksum="E720164EF990F335" modified="2007-01-23" version="3">
+MSEAEARPTNFIRQIIDEDLASGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDYKG
+QCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSGNVRYSSDYFDQLHAYAIELINKGLA
+YVDELTPEQIREYRGTLTQPGKNSPYRDRSVEENLALFEKMRAGGFEEGKACLRAKIDMA
+SPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDFTHCISDALEGITHSLCTLEFQDNRRL
+YDWVLDNITIPVHPRQYEFSRLNLEYTVMSKRKLNLLVTDKHVEGWDDPRMPTISGLRRR
+GYTAASIREFCKRIGVTKQDNTIEMASLESCIREDLNENAPRAMAVIDPVKLVIENYQGE
+GEMVTMPNHPNKPEMGSRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNAYVIKA
+ERVEKDAEGNITTIFCTYDADTLSKDPADGRKVKGVIHWVSAAHALPVEIRLYDRLFSVP
+NPGAADDFLSVINPESLVIKQGFAEPSLKDAVAGKAFQFEREGYFCLDSRHSTAEKPVFN
+RTVGLRDTWAKVGE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

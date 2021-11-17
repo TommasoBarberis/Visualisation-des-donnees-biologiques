@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="107">
+<accession>P0ACK2</accession>
+<accession>P42902</accession>
+<accession>Q2M978</accession>
+<name>AGAR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Putative aga operon transcriptional repressor</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">agaR</name>
+<name type="synonym">yhaW</name>
+<name type="ordered locus">b3131</name>
+<name type="ordered locus">JW3100</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="37" first="125" last="135">
+<title>Pathways for the utilization of N-acetyl-galactosamine and galactosamine in Escherichia coli.</title>
+<authorList>
+<person name="Brinkkoetter A."/>
+<person name="Kloess H."/>
+<person name="Alpert C.-A."/>
+<person name="Lengeler J.W."/>
+</authorList>
+<dbReference type="PubMed" id="10931310"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.01969.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>C</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Microbiology" volume="142" first="231" last="250">
+<title>Novel phosphotransferase genes revealed by bacterial genome sequencing: a gene cluster encoding a putative N-acetylgalactosamine metabolic pathway in Escherichia coli.</title>
+<authorList>
+<person name="Reizer J."/>
+<person name="Ramseier T.M."/>
+<person name="Reizer A."/>
+<person name="Charbit A."/>
+<person name="Saier M.H. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8932697"/>
+<dbReference type="DOI" id="10.1099/13500872-142-2-231"/>
+</citation>
+<scope>DISCUSSION OF SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text>Probable repressor for the aga operon for N-acetyl galactosamine transport and metabolism.</text>
+</comment>
+<dbReference type="EMBL" id="AF228498">
+<property type="protein sequence ID" value="AAF81081.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18997">
+<property type="protein sequence ID" value="AAA57934.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76165.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77178.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G65102">
+<property type="entry name" value="G65102"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417600.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000072187.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0ACK2"/>
+<dbReference type="BioGrid" id="4262414">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48095N"/>
+<dbReference type="IntAct" id="P0ACK2">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3131"/>
+<dbReference type="jPOST" id="P0ACK2"/>
+<dbReference type="PaxDb" id="P0ACK2"/>
+<dbReference type="PRIDE" id="P0ACK2"/>
+<dbReference type="EnsemblBacteria" id="AAC76165">
+<property type="protein sequence ID" value="AAC76165"/>
+<property type="gene ID" value="b3131"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77178">
+<property type="protein sequence ID" value="BAE77178"/>
+<property type="gene ID" value="BAE77178"/>
+</dbReference>
+<dbReference type="GeneID" id="947636"/>
+<dbReference type="KEGG" id="ecj:JW3100"/>
+<dbReference type="KEGG" id="eco:b3131"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3600"/>
+<dbReference type="EchoBASE" id="EB2615"/>
+<dbReference type="EcoGene" id="EG12762">
+<property type="gene designation" value="agaR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E98">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1349">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000224684"/>
+<dbReference type="InParanoid" id="P0ACK2"/>
+<dbReference type="KO" id="K02081"/>
+<dbReference type="PhylomeDB" id="P0ACK2"/>
+<dbReference type="BioCyc" id="EcoCyc:G7630-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3100-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ACK2"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014036">
+<property type="entry name" value="DeoR_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001034">
+<property type="entry name" value="DeoR_HTH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037171">
+<property type="entry name" value="NagB/RpiA_transferase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018356">
+<property type="entry name" value="Tscrpt_reg_HTH_DeoR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00455">
+<property type="entry name" value="DeoRC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08220">
+<property type="entry name" value="HTH_DeoR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00420">
+<property type="entry name" value="HTH_DEOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100950">
+<property type="entry name" value="SSF100950"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00894">
+<property type="entry name" value="HTH_DEOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51000">
+<property type="entry name" value="HTH_DEOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Putative aga operon transcriptional repressor" id="PRO_0000050241">
+<location>
+<begin position="1"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="domain" description="HTH deoR-type" evidence="1">
+<location>
+<begin position="15"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="32"/>
+<end position="51"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00349"/>
+</source>
+</evidence>
+<sequence length="269" mass="29572" checksum="73B5C19B357AE014" modified="2005-11-22" version="1">
+MSNTDASGEKRVTGTSERREQIIQRLRQQGSVQVNDLSALYGVSTVTIRNDLAFLEKQGI
+AVRAYGGALICDSTTPSVEPSVEDKSALNTAMKRSVAKAAVELIQPGHRVILDSGTTTFE
+IARLMRKHTDVIAMTNGMNVANALLEAEGVELLMTGGHLRRQSQSFYGDQAEQSLQNYHF
+DMLFLGVDAIDLERGVSTHNEDEARLNRRMCEVAERIIVVTDSSKFNRSSLHKIIDTQRI
+DMIIVDEGIPADSLEGLRKAGVEVILVGE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

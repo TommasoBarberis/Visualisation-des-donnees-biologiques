@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-06-07" modified="2019-06-05" version="113">
+<accession>P0A8S1</accession>
+<accession>P24194</accession>
+<accession>Q2M9S6</accession>
+<name>ARGP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="1 13">HTH-type transcriptional regulator ArgP</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="12">Inhibitor of chromosome initiation</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>OriC replication inhibitor</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 11">argP</name>
+<name type="synonym" evidence="12">iciA</name>
+<name type="ordered locus">b2916</name>
+<name type="ordered locus">JW2883</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Proc. Natl. Acad. Sci. U.S.A." volume="88" first="4066" last="4070">
+<title>iciA, an Escherichia coli gene encoding a specific inhibitor of chromosomal initiation of replication in vitro.</title>
+<authorList>
+<person name="Thoeny B."/>
+<person name="Hwang D.S."/>
+<person name="Fradkin L."/>
+<person name="Kornberg A."/>
+</authorList>
+<dbReference type="PubMed" id="2034653"/>
+<dbReference type="DOI" id="10.1073/pnas.88.10.4066"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-41</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1992-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Roy I."/>
+<person name="Leadlay P.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="5628" last="5635">
+<title>Escherichia coli rpiA gene encoding ribose phosphate isomerase A.</title>
+<authorList>
+<person name="Hove-Jensen B."/>
+<person name="Maigaard M."/>
+</authorList>
+<dbReference type="PubMed" id="8366047"/>
+<dbReference type="DOI" id="10.1128/jb.175.17.5628-5635.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-176</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="2209" last="2213">
+<title>IciA protein, a specific inhibitor of initiation of Escherichia coli chromosomal replication.</title>
+<authorList>
+<person name="Hwang D.S."/>
+<person name="Thoeny B."/>
+<person name="Kornberg A."/>
+</authorList>
+<dbReference type="PubMed" id="1733927"/>
+</citation>
+<scope>BINDING TO ORIC</scope>
+<scope>SUBUNIT</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1993" name="FEBS Lett." volume="327" first="17" last="20">
+<title>Hydrolysis of the IciA protein, an inhibitor of DNA replication initiation, by protease Do in Escherichia coli.</title>
+<authorList>
+<person name="Yoo S.J."/>
+<person name="Seol J.H."/>
+<person name="Woo S.K."/>
+<person name="Suh S.W."/>
+<person name="Hwang D.S."/>
+<person name="Ha D.B."/>
+<person name="Chung C.H."/>
+</authorList>
+<dbReference type="PubMed" id="8335089"/>
+<dbReference type="DOI" id="10.1016/0014-5793(93)81029-Y"/>
+</citation>
+<scope>CLEAVAGE BY DEGP</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Nucleic Acids Res." volume="25" first="3486" last="3489">
+<title>The binding of two dimers of IciA protein to the dnaA promoter 1P element enhances the binding of RNA polymerase to the dnaA promoter 1P.</title>
+<authorList>
+<person name="Lee Y."/>
+<person name="Lee H."/>
+<person name="Yim J."/>
+<person name="Hwang D."/>
+</authorList>
+<dbReference type="PubMed" id="9254708"/>
+<dbReference type="DOI" id="10.1093/nar/25.17.3486"/>
+</citation>
+<scope>PUTATIVE FUNCTION IN REGULATION OF DNAA EXPRESSION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="Mol. Gen. Genet." volume="259" first="610" last="614">
+<title>Effect of IciA protein on the expression of the nrd gene encoding ribonucleoside diphosphate reductase in E. coli.</title>
+<authorList>
+<person name="Han J.S."/>
+<person name="Kwon H.S."/>
+<person name="Yim J.B."/>
+<person name="Hwang D.S."/>
+</authorList>
+<dbReference type="PubMed" id="9819053"/>
+<dbReference type="DOI" id="10.1007/s004380050854"/>
+</citation>
+<scope>PUTATIVE FUNCTION IN REGULATION OF NRD EXPRESSION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="33105" last="33113">
+<title>Twelve species of the nucleoid-associated protein from Escherichia coli. Sequence recognition specificity and DNA binding affinity.</title>
+<authorList>
+<person name="Azam T.A."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="10551881"/>
+<dbReference type="DOI" id="10.1074/jbc.274.46.33105"/>
+</citation>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="294" first="1087" last="1095">
+<title>Repression and activation of arginine transport genes in Escherichia coli K 12 by the ArgP protein.</title>
+<authorList>
+<person name="Celis R.T."/>
+</authorList>
+<dbReference type="PubMed" id="10600368"/>
+<dbReference type="DOI" id="10.1006/jmbi.1999.3308"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF ARGK EXPRESSION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2004" name="J. Bacteriol." volume="186" first="3539" last="3546">
+<title>Evidence for an arginine exporter encoded by yggA (argO) that is regulated by the LysR-type transcriptional regulator ArgP in Escherichia coli.</title>
+<authorList>
+<person name="Nandineni M.R."/>
+<person name="Gowrishankar J."/>
+</authorList>
+<dbReference type="PubMed" id="15150242"/>
+<dbReference type="DOI" id="10.1128/JB.186.11.3539-3546.2004"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF ARGO EXPRESSION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2007" name="Genes Dev." volume="21" first="1258" last="1272">
+<title>Environmental regulation operating at the promoter clearance step of bacterial transcription.</title>
+<authorList>
+<person name="Laishram R.S."/>
+<person name="Gowrishankar J."/>
+</authorList>
+<dbReference type="PubMed" id="17504942"/>
+<dbReference type="DOI" id="10.1101/gad.1520507"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF ARGO EXPRESSION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2011" name="J. Bacteriol." volume="193" first="2536" last="2548">
+<title>Identification of ArgP and Lrp as transcriptional regulators of lysP, the gene encoding the specific lysine permease of Escherichia coli.</title>
+<authorList>
+<person name="Ruiz J."/>
+<person name="Haneburger I."/>
+<person name="Jung K."/>
+</authorList>
+<dbReference type="PubMed" id="21441513"/>
+<dbReference type="DOI" id="10.1128/JB.00815-10"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF LYSP EXPRESSION</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2011" name="J. Bacteriol." volume="193" first="5985" last="5996">
+<title>Role of ArgP (IciA) in lysine-mediated repression in Escherichia coli.</title>
+<authorList>
+<person name="Marbaniang C.N."/>
+<person name="Gowrishankar J."/>
+</authorList>
+<dbReference type="PubMed" id="21890697"/>
+<dbReference type="DOI" id="10.1128/JB.05869-11"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 3 4 5 6 7 9 10">Controls the transcription of genes involved in arginine and lysine metabolism. Activates transcription of several genes, including argO, lysP, lysC, asd, dapB, dapD, lysA, gdhA and argK. Acts by binding directly to their promoter or control region (PubMed:10600368, PubMed:15150242, PubMed:17504942, PubMed:21441513, PubMed:21890697). ArgP dimer by itself is able to bind the argO promoter-operator region to form a binary complex, but the formation of a ternary complex with RNA polymerase is greatly stimulated only in presence of a coeffector. Both arginine and lysine are coeffectors at the argO promoter, but only arginine is competent to activate transcription. Lysine has repressive effects (PubMed:15150242, PubMed:17504942). ArgP also mediates lysine repression of dapB, and gdhA in vivo, but via an alternative mechanism: ArgP binding is directly reduced upon the addition of lysine (PubMed:21890697). Binds in vitro to the promoter region of dnaA and to the upstream region of the nrd promoter, but these genes are probably not regulated by ArgP in vivo (PubMed:9254708, PubMed:9819053, PubMed:21890697). In vitro, binds also to the three 13-mers located in the origin region (oriC) and blocks the initiation of replication (PubMed:1733927).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="8">Specifically cleaved by the protease DegP. Cleaved ArgP can no longer interact with the oriC region in vitro. Cleavage may play an important role in the control of the protein availability.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 4">Homodimer.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="4">The amount of protein increases in the late logarithmic phase.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">Null mutants are more sensitive to canavanine.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the LysR transcriptional regulatory family.</text>
+</comment>
+<dbReference type="EMBL" id="M62865">
+<property type="protein sequence ID" value="AAA62780.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X66836">
+<property type="protein sequence ID" value="CAA47310.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69083.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75953.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76980.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X73026">
+<property type="protein sequence ID" value="CAA51508.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S22098">
+<property type="entry name" value="S22098"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417391.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000828351.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0A8S1"/>
+<dbReference type="BioGrid" id="4263054">
+<property type="interactions" value="80"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48015N"/>
+<dbReference type="IntAct" id="P0A8S1">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2916"/>
+<dbReference type="EPD" id="P0A8S1"/>
+<dbReference type="jPOST" id="P0A8S1"/>
+<dbReference type="PaxDb" id="P0A8S1"/>
+<dbReference type="PRIDE" id="P0A8S1"/>
+<dbReference type="EnsemblBacteria" id="AAC75953">
+<property type="protein sequence ID" value="AAC75953"/>
+<property type="gene ID" value="b2916"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76980">
+<property type="protein sequence ID" value="BAE76980"/>
+<property type="gene ID" value="BAE76980"/>
+</dbReference>
+<dbReference type="GeneID" id="944867"/>
+<dbReference type="KEGG" id="ecj:JW2883"/>
+<dbReference type="KEGG" id="eco:b2916"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3816"/>
+<dbReference type="EchoBASE" id="EB0485"/>
+<dbReference type="EcoGene" id="EG10490">
+<property type="gene designation" value="argP"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CXD">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0583">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000219802"/>
+<dbReference type="InParanoid" id="P0A8S1"/>
+<dbReference type="KO" id="K05596"/>
+<dbReference type="PhylomeDB" id="P0A8S1"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10490-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2883-MONOMER"/>
+<dbReference type="PRO" id="PR:P0A8S1"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003681">
+<property type="term" value="F:bent DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032297">
+<property type="term" value="P:negative regulation of DNA-dependent DNA replication initiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00513">
+<property type="entry name" value="HTH_type_ArgP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017685">
+<property type="entry name" value="ArgP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023490">
+<property type="entry name" value="ArgP_Gammaproteobact"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005119">
+<property type="entry name" value="LysR_subst-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000847">
+<property type="entry name" value="Tscrpt_reg_HTH_LysR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036390">
+<property type="entry name" value="WH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00126">
+<property type="entry name" value="HTH_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03466">
+<property type="entry name" value="LysR_substrate"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00039">
+<property type="entry name" value="HTHLYSR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46785">
+<property type="entry name" value="SSF46785"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03298">
+<property type="entry name" value="argP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50931">
+<property type="entry name" value="HTH_LYSR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="HTH-type transcriptional regulator ArgP" id="PRO_0000105641">
+<location>
+<begin position="1"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="domain" description="HTH lysR-type" evidence="1">
+<location>
+<begin position="4"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="21"/>
+<end position="40"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00513"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10600368"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15150242"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1733927"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17504942"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21441513"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21890697"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8335089"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9254708"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9819053"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10600368"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2034653"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="297" mass="33472" checksum="8AD60B7B6661E3EF" modified="2005-06-07" version="1">
+MKRPDYRTLQALDAVIRERGFERAAQKLCITQSAVSQRIKQLENMFGQPLLVRTVPPRPT
+EQGQKLLALLRQVELLEEEWLGDEQTGSTPLLLSLAVNADSLATWLLPALAPVLADSPIR
+LNLQVEDETRTQERLRRGEVVGAVSIQHQALPSCLVDKLGALDYLFVSSKPFAEKYFPNG
+VTRSALLKAPVVAFDHLDDMHQAFLQQNFDLPPGSVPCHIVNSSEAFVQLARQGTTCCMI
+PHLQIEKELASGELIDLTPGLFQRRMLYWHRFAPESRMMRKVTDALLDYGHKVLRQD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

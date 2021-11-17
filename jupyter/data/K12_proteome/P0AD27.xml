@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="98">
+<accession>P0AD27</accession>
+<accession>P33922</accession>
+<accession>P33923</accession>
+<accession>Q2MAQ3</accession>
+<name>YEJM_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Inner membrane protein YejM</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yejM</name>
+<name type="synonym">yejN</name>
+<name type="ordered locus">b2188</name>
+<name type="ordered locus">JW2176</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<title>Automated multiplex sequencing of the E.coli genome.</title>
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1994-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Robison K."/>
+</authorList>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cell inner membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">To H.influenzae HI_0842.</text>
+</comment>
+<dbReference type="EMBL" id="U00008">
+<property type="protein sequence ID" value="AAA16384.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75249.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76653.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C64988">
+<property type="entry name" value="C64988"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416693.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000256203.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5I5H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=1-586"/>
+</dbReference>
+<dbReference type="PDBsum" id="5I5H"/>
+<dbReference type="SMR" id="P0AD27"/>
+<dbReference type="BioGrid" id="4260478">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2188"/>
+<dbReference type="TCDB" id="2.A.127.1.2">
+<property type="family name" value="the enterobacterial cardiolipin transporter (clt) family"/>
+</dbReference>
+<dbReference type="jPOST" id="P0AD27"/>
+<dbReference type="PaxDb" id="P0AD27"/>
+<dbReference type="PRIDE" id="P0AD27"/>
+<dbReference type="EnsemblBacteria" id="AAC75249">
+<property type="protein sequence ID" value="AAC75249"/>
+<property type="gene ID" value="b2188"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76653">
+<property type="protein sequence ID" value="BAE76653"/>
+<property type="gene ID" value="BAE76653"/>
+</dbReference>
+<dbReference type="GeneID" id="946685"/>
+<dbReference type="KEGG" id="ecj:JW2176"/>
+<dbReference type="KEGG" id="eco:b2188"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.47"/>
+<dbReference type="EchoBASE" id="EB1981"/>
+<dbReference type="EcoGene" id="EG12049">
+<property type="gene designation" value="yejM"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E68">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3083">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000275802"/>
+<dbReference type="InParanoid" id="P0AD27"/>
+<dbReference type="KO" id="K07014"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12049-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2176-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AD27"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008484">
+<property type="term" value="F:sulfuric ester hydrolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.720.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017850">
+<property type="entry name" value="Alkaline_phosphatase_core_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000917">
+<property type="entry name" value="Sulfatase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012159">
+<property type="entry name" value="YejM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024588">
+<property type="entry name" value="YejM_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11893">
+<property type="entry name" value="DUF3413"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00884">
+<property type="entry name" value="Sulfatase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF004950">
+<property type="entry name" value="Mmb_sulf_HI0842"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53649">
+<property type="entry name" value="SSF53649"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Inner membrane protein YejM" id="PRO_0000169165">
+<location>
+<begin position="1"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="21"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="44"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="58"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="81"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="85"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="104"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="135"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="158"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="169"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="2">
+<location>
+<begin position="192"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="253"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="262"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="275"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="280"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="289"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="302"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="315"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="318"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="329"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="340"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="352"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="358"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="366"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="372"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="387"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="391"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="409"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="443"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="457"/>
+<end position="460"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="466"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="473"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="483"/>
+<end position="485"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="491"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="509"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="528"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="533"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="541"/>
+<end position="548"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="553"/>
+<end position="557"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5I5H"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="586" mass="67296" checksum="0460F8C00A0D5465" modified="2005-11-22" version="1">
+MVTHRQRYREKVSQMVSWGHWFALFNILLSLVIGSRYLFIADWPTTLAGRIYSYVSIIGH
+FSFLVFATYLLILFPLTFIVGSQRLMRFLSVILATAGMTLLLIDSEVFTRFHLHLNPIVW
+QLVINPDENEMARDWQLMFISVPVILLLELVFATWSWQKLRSLTRRRRFARPLAAFLFIA
+FIASHVVYIWADANFYRPITMQRANLPLSYPMTARRFLEKHGLLDAQEYQRRLIEQGNPD
+AVSVQYPLSELRYRDMGTGQNVLLITVDGLNYSRFEKQMPALAGFAEQNISFTRHMSSGN
+TTDNGIFGLFYGISPSYMDGILSTRTPAALITALNQQGYQLGLFSSDGFTSPLYRQALLS
+DFSMPSVRTQSDEQTATQWINWLGRYAQEDNRWFSWVSFNGTNIDDSNQQAFARKYSRAA
+GNVDDQINRVLNALRDSGKLDNTVVIITAGRGIPLSEEEETFDWSHGHLQVPLVIHWPGT
+PAQRINALTDHTDLMTTLMQRLLHVSTPASEYSQGQDLFNPQRRHYWVTAADNDTLAITT
+PKKTLVLNNNGKYRTYNLRGERVKDEKPQLSLLLQVLTDEKRFIAN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

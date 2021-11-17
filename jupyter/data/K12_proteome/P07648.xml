@@ -1,0 +1,1565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-05-08" version="159">
+<accession>P07648</accession>
+<accession>Q2MA15</accession>
+<accession>Q9RNX9</accession>
+<name>RECC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">RecBCD enzyme subunit RecC</fullName>
+<ecNumber evidence="2">3.1.11.5</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Exodeoxyribonuclease V 125 kDa polypeptide</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Exodeoxyribonuclease V gamma chain</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Exonuclease V subunit RecC</fullName>
+<shortName evidence="2">ExoV subunit RecC</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">recC</name>
+<name type="ordered locus">b2822</name>
+<name type="ordered locus">JW2790</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="Nucleic Acids Res." volume="14" first="4437" last="4451">
+<title>Complete nucleotide sequence of the Escherichia coli recC gene and of the thyA-recC intergenic region.</title>
+<authorList>
+<person name="Finch P.W."/>
+<person name="Wilson R.E."/>
+<person name="Brown K."/>
+<person name="Hickson I.D."/>
+<person name="Tomkinson A.E."/>
+<person name="Emmerson P.T."/>
+</authorList>
+<dbReference type="PubMed" id="3520484"/>
+<dbReference type="DOI" id="10.1093/nar/14.11.4437"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 1-12</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="J. Mol. Biol." volume="300" first="469" last="479">
+<title>A novel, 11 nucleotide variant of chi, chi*: one of a class of sequences defining the Escherichia coli recombination hotspot chi.</title>
+<authorList>
+<person name="Arnold D.A."/>
+<person name="Handa N."/>
+<person name="Kobayashi I."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="10884344"/>
+<dbReference type="DOI" id="10.1006/jmbi.2000.3861"/>
+</citation>
+<scope>VARIANT RECC-1004 647-GLN--LEU-655</scope>
+<scope>FUNCTION IN RECOGNITION OF CHI</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1986" name="Nucleic Acids Res." volume="14" first="7695" last="7703">
+<title>Complete nucleotide sequence of the Escherichia coli ptr gene encoding protease III.</title>
+<authorList>
+<person name="Finch P.W."/>
+<person name="Wilson R.E."/>
+<person name="Brown K."/>
+<person name="Hickson I.D."/>
+<person name="Emmerson P.T."/>
+</authorList>
+<dbReference type="PubMed" id="3534791"/>
+<dbReference type="DOI" id="10.1093/nar/14.19.7695"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1114-1122</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1972" name="J. Bacteriol." volume="112" first="161" last="169">
+<title>Degradation of bacteriophage lambda deoxyribonucleic acid after restriction by Escherichia coli K-12.</title>
+<authorList>
+<person name="Simmon V.F."/>
+<person name="Lederberg S."/>
+</authorList>
+<dbReference type="PubMed" id="4562392"/>
+</citation>
+<scope>FUNCTION IN DEGRADATION OF LAMBDA VIRUS DNA</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1972" name="J. Biol. Chem." volume="247" first="1849" last="1860">
+<title>Purification and properties of the recBC DNase of Escherichia coli K-12.</title>
+<authorList>
+<person name="Goldmark P.J."/>
+<person name="Linn S."/>
+</authorList>
+<dbReference type="PubMed" id="4552016"/>
+</citation>
+<scope>FUNCTION AS AN ENDO- AND EXODEOXYRIBONUCLEASE</scope>
+<scope>ATP-DEPENDENCE</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1973" name="J. Biol. Chem." volume="248" first="4874" last="4884">
+<title>The recBC deoxyribonuclease of Escherichia coli K-12. Substrate specificity and reaction intermediates.</title>
+<authorList>
+<person name="Karu A.E."/>
+<person name="MacKay V."/>
+<person name="Goldmark P.J."/>
+<person name="Linn S."/>
+</authorList>
+<dbReference type="PubMed" id="4268693"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATES</scope>
+<scope>PROCESSIVITY</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1975" name="J. Virol." volume="15" first="861" last="871">
+<title>Transfection of Escherichia coli spheroplasts. V. Activity of recBC nuclease in rec+ and rec minus spheroplasts measured with different forms of bacteriophage DNA.</title>
+<authorList>
+<person name="Benzinger R."/>
+<person name="Enquist L.W."/>
+<person name="Skalka A."/>
+</authorList>
+<dbReference type="PubMed" id="123277"/>
+</citation>
+<scope>FUNCTION IN DEGRADATION OF VIRUS DNA</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1984" name="J. Bacteriol." volume="160" first="788" last="791">
+<title>Escherichia coli recBC deletion mutants.</title>
+<authorList>
+<person name="Chaudhury A.M."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="6389498"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1986" name="Proc. Natl. Acad. Sci. U.S.A." volume="83" first="5558" last="5562">
+<title>recD: the gene for an essential third subunit of exonuclease V.</title>
+<authorList>
+<person name="Amundsen S.K."/>
+<person name="Taylor A.F."/>
+<person name="Chaudhury A.M."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="3526335"/>
+<dbReference type="DOI" id="10.1073/pnas.83.15.5558"/>
+</citation>
+<scope>OPERON</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="5226" last="5230">
+<title>RecBCD enzyme is altered upon cutting DNA at a chi recombination hotspot.</title>
+<authorList>
+<person name="Taylor A.F."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="1535156"/>
+<dbReference type="DOI" id="10.1073/pnas.89.12.5226"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="13564" last="13572">
+<title>Reconstitution of the activities of the RecBCD holoenzyme of Escherichia coli from the purified subunits.</title>
+<authorList>
+<person name="Masterson C."/>
+<person name="Boehmer P.E."/>
+<person name="McDonald F."/>
+<person name="Chaudhuri S."/>
+<person name="Hickson I.D."/>
+<person name="Emmerson P.T."/>
+</authorList>
+<dbReference type="PubMed" id="1618858"/>
+</citation>
+<scope>FUNCTION AS AN EXONUCLEASE; HELICASE AND ATPASE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="16360" last="16370">
+<title>Role of the Escherichia coli recombination hotspot, chi, in RecABCD-dependent homologous pairing.</title>
+<authorList>
+<person name="Dixon D.A."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="7608206"/>
+<dbReference type="DOI" id="10.1074/jbc.270.27.16360"/>
+</citation>
+<scope>FUNCTION IN HOMOLOGOUS RECOMBINATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="Cell" volume="90" first="77" last="86">
+<title>The translocating RecBCD enzyme stimulates recombination by directing RecA protein onto ssDNA in a chi-regulated manner.</title>
+<authorList>
+<person name="Anderson D.G."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="9230304"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(00)80315-3"/>
+</citation>
+<scope>FUNCTION IN RECA-LOADING</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="6706" last="6711">
+<title>The recombination hotspot Chi is recognized by the translocating RecBCD enzyme as the single strand of DNA containing the sequence 5'-GCTGGTGG-3'.</title>
+<authorList>
+<person name="Bianco P.R."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="9192629"/>
+<dbReference type="DOI" id="10.1073/pnas.94.13.6706"/>
+</citation>
+<scope>FUNCTION IN RECOGNITION OF CHI</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="283" first="797" last="808">
+<title>Identification of the nuclease active site in the multifunctional RecBCD enzyme by creation of a chimeric enzyme.</title>
+<authorList>
+<person name="Yu M."/>
+<person name="Souaya J."/>
+<person name="Julin D.A."/>
+</authorList>
+<dbReference type="PubMed" id="9790841"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.2127"/>
+</citation>
+<scope>FUNCTION IN PROCESSIVITY</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="981" last="986">
+<title>The 30-kDa C-terminal domain of the RecB protein is critical for the nuclease activity, but not the helicase activity, of the RecBCD enzyme from Escherichia coli.</title>
+<authorList>
+<person name="Yu M."/>
+<person name="Souaya J."/>
+<person name="Julin D.A."/>
+</authorList>
+<dbReference type="PubMed" id="9448271"/>
+<dbReference type="DOI" id="10.1073/pnas.95.3.981"/>
+</citation>
+<scope>FUNCTION IN PROCESSIVITY</scope>
+<scope>INTERACTION WITH RECB</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1999" name="Genes Dev." volume="13" first="890" last="900">
+<title>Regulation of homologous recombination: Chi inactivates RecBCD enzyme by disassembly of the three subunits.</title>
+<authorList>
+<person name="Taylor A.F."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="10197988"/>
+<dbReference type="DOI" id="10.1101/gad.13.7.890"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2003" name="Nature" volume="423" first="889" last="893">
+<title>RecBCD enzyme is a DNA helicase with fast and slow motors of opposite polarity.</title>
+<authorList>
+<person name="Taylor A.F."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="12815437"/>
+<dbReference type="DOI" id="10.1038/nature01674"/>
+</citation>
+<scope>FUNCTION AS A BIPOLAR HELICASE</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2003" name="Nature" volume="423" first="893" last="897">
+<title>RecBCD enzyme is a bipolar DNA helicase.</title>
+<authorList>
+<person name="Dillingham M.S."/>
+<person name="Spies M."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="12815438"/>
+<dbReference type="DOI" id="10.1038/nature01673"/>
+</citation>
+<scope>FUNCTION AS A BIPOLAR HELICASE</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="37069" last="37077">
+<title>Bipolar DNA translocation contributes to highly processive DNA unwinding by RecBCD enzyme.</title>
+<authorList>
+<person name="Dillingham M.S."/>
+<person name="Webb M.R."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="16041061"/>
+<dbReference type="DOI" id="10.1074/jbc.M505520200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2007" name="Genes Dev." volume="21" first="3296" last="3307">
+<title>Intersubunit signaling in RecBCD enzyme, a complex protein machine regulated by Chi hot spots.</title>
+<authorList>
+<person name="Amundsen S.K."/>
+<person name="Taylor A.F."/>
+<person name="Reddy M."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="18079176"/>
+<dbReference type="DOI" id="10.1101/gad.1605807"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="1210" last="1217">
+<title>Escherichia coli RecBC helicase has two translocase activities controlled by a single ATPase motor.</title>
+<authorList>
+<person name="Wu C.G."/>
+<person name="Bradford C."/>
+<person name="Lohman T.M."/>
+</authorList>
+<dbReference type="PubMed" id="20852646"/>
+<dbReference type="DOI" id="10.1038/nsmb.1901"/>
+</citation>
+<scope>FUNCTION IN DUAL DIRECTION TRANSLOCATION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2011" name="Mol. Microbiol." volume="79" first="484" last="502">
+<title>A dual function of the CRISPR-Cas system in bacterial antivirus immunity and DNA repair.</title>
+<authorList>
+<person name="Babu M."/>
+<person name="Beloglazova N."/>
+<person name="Flick R."/>
+<person name="Graham C."/>
+<person name="Skarina T."/>
+<person name="Nocek B."/>
+<person name="Gagarinova A."/>
+<person name="Pogoutse O."/>
+<person name="Brown G."/>
+<person name="Binkowski A."/>
+<person name="Phanse S."/>
+<person name="Joachimiak A."/>
+<person name="Koonin E.V."/>
+<person name="Savchenko A."/>
+<person name="Emili A."/>
+<person name="Greenblatt J."/>
+<person name="Edwards A.M."/>
+<person name="Yakunin A.F."/>
+</authorList>
+<dbReference type="PubMed" id="21219465"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.2010.07465.x"/>
+</citation>
+<scope>INTERACTION WITH CAS1</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="8901" last="8906">
+<title>Molecular determinants responsible for recognition of the single-stranded DNA regulatory sequence, chi, by RecBCD enzyme.</title>
+<authorList>
+<person name="Handa N."/>
+<person name="Yang L."/>
+<person name="Dillingham M.S."/>
+<person name="Kobayashi I."/>
+<person name="Wigley D.B."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="22603794"/>
+<dbReference type="DOI" id="10.1073/pnas.1206076109"/>
+</citation>
+<scope>DNA-BINDING</scope>
+<scope>MUTAGENESIS OF GLN-38; LEU-64; TRP-70; ASP-133; LEU-134; ASP-136; GLN-137; ARG-142; ARG-186 AND ASP-705</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2013" name="Nature" volume="500" first="482" last="485">
+<title>DNA unwinding heterogeneity by RecBCD results from static molecules able to equilibrate.</title>
+<authorList>
+<person name="Liu B."/>
+<person name="Baskin R.J."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="23851395"/>
+<dbReference type="DOI" id="10.1038/nature12333"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ENZYME RATE</scope>
+<scope>ENZYME STATE SWITCHING</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2014" name="J. Mol. Biol." volume="426" first="3479" last="3499">
+<title>Control of RecBCD enzyme activity by DNA binding- and Chi hotspot-dependent conformational changes.</title>
+<authorList>
+<person name="Taylor A.F."/>
+<person name="Amundsen S.K."/>
+<person name="Guttman M."/>
+<person name="Lee K.K."/>
+<person name="Luo J."/>
+<person name="Ranish J."/>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="25073102"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2014.07.017"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MODEL OF DOMAIN MOVEMENT</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="187" last="193">
+<title>Crystal structure of RecBCD enzyme reveals a machine for processing DNA breaks.</title>
+<authorList>
+<person name="Singleton M.R."/>
+<person name="Dillingham M.S."/>
+<person name="Gaudier M."/>
+<person name="Kowalczykowski S.C."/>
+<person name="Wigley D.B."/>
+</authorList>
+<dbReference type="PubMed" id="15538360"/>
+<dbReference type="DOI" id="10.1038/nature02988"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) IN COMPLEX WITH DNA</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2008" name="EMBO J." volume="27" first="2222" last="2229">
+<title>DNA binding to RecD: role of the 1B domain in SF1B helicase activity.</title>
+<authorList>
+<person name="Saikrishnan K."/>
+<person name="Griffiths S.P."/>
+<person name="Cook N."/>
+<person name="Court R."/>
+<person name="Wigley D.B."/>
+</authorList>
+<dbReference type="PubMed" id="18668125"/>
+<dbReference type="DOI" id="10.1038/emboj.2008.144"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.59 ANGSTROMS) IN COMPLEX WITH DNA</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2008" name="Microbiol. Mol. Biol. Rev." volume="72" first="642" last="671">
+<title>RecBCD enzyme and the repair of double-stranded DNA breaks.</title>
+<authorList>
+<person name="Dillingham M.S."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="19052323"/>
+<dbReference type="DOI" id="10.1128/MMBR.00020-08"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2012" name="Microbiol. Mol. Biol. Rev." volume="76" first="217" last="228">
+<title>How RecBCD enzyme and Chi promote DNA break repair and recombination: a molecular biologist's view.</title>
+<authorList>
+<person name="Smith G.R."/>
+</authorList>
+<dbReference type="PubMed" id="22688812"/>
+<dbReference type="DOI" id="10.1128/MMBR.05026-11"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 7 8 10 11 13 16 19 20 21 23 24 25 26 27">A helicase/nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a rapid (>1 kb/second) and highly processive (>30 kb) ATP-dependent bidirectional helicase. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator, 5'-GCTGGTGG-3') sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to Chi site, by nicking one strand or switching the strand degraded (depending on the reaction conditions). The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang which facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination (PubMed:4562392, PubMed:4552016, PubMed:123277). In the holoenzyme this subunit almost certainly recognizes the wild-type Chi sequence, when added to isolated RecB increases its ATP-dependent helicase processivity. The RecBC complex requires the RecD subunit for nuclease activity, but can translocate along ssDNA in both directions.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>Exonucleolytic cleavage (in the presence of ATP) in either 5'- to 3'- or 3'- to 5'-direction to yield 5'-phosphooligonucleotides.</text>
+<dbReference type="EC" id="3.1.11.5"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="3 8">After reacting with DNA bearing a Chi site the holoenzyme is disassembled and loses exonuclease activity, DNA unwinding and Chi-directed DNA cleavage; RecB remains complexed with ssDNA, which may prevent holoenzyme reassembly (PubMed:10197988). High levels of Mg(2+) (13 mM MgCl(2+)) or incubation with DNase allow holoenyzme reassembly, suggesting it is DNA bound to RecB that prevents reassembly (PubMed:10197988).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 9 11 12 14 18 20 26">Heterotrimer of RecB, RecC and RecD. All subunits contribute to DNA-binding. Interacts with YgbT (Cas1) (PubMed:21219465).</text>
+</comment>
+<comment type="domain">
+<text evidence="17">The holoenzyme may undergo conformational shifts upon DNA binding: the nuclease domain of RecB may swing away from the DNA exit tunnel in RecC. When Chi DNA binds to the RecC tunnel, the nuclease domain may then swing back to its original position (that seen in crystal structures), allowing it to nick the DNA 3' of the Chi site and then rotate to load RecA. At high Mg(2+) the nuclease domain may swing back more frequently, explaining differences seen in assays performed at high Mg(2+).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 21 22">Decreased degradation of DNA with free ends that is unable to undergo homologous recombination, which can fortuitously lead to more efficient viral infection (PubMed:4562392, PubMed:123277). Cells are deficient in DNA recombination repair and have increased sensitivity to UV light. The cultures have many inviable cells.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the RecC family.</text>
+</comment>
+<dbReference type="EC" id="3.1.11.5" evidence="2"/>
+<dbReference type="EMBL" id="X03966">
+<property type="protein sequence ID" value="CAA27604.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29581">
+<property type="protein sequence ID" value="AAB40469.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75861.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76891.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF176618">
+<property type="protein sequence ID" value="AAD54314.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X06227">
+<property type="protein sequence ID" value="CAA29575.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A24137">
+<property type="entry name" value="NCECXV"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417299.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000946938.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="1W36">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="C/F=1-1122"/>
+</dbReference>
+<dbReference type="PDB" id="3K70">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.59"/>
+<property type="chains" value="C/F=1-1122"/>
+</dbReference>
+<dbReference type="PDB" id="5LD2">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.83"/>
+<property type="chains" value="C=1-1122"/>
+</dbReference>
+<dbReference type="PDB" id="5MBV">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="C=1-1122"/>
+</dbReference>
+<dbReference type="PDBsum" id="1W36"/>
+<dbReference type="PDBsum" id="3K70"/>
+<dbReference type="PDBsum" id="5LD2"/>
+<dbReference type="PDBsum" id="5MBV"/>
+<dbReference type="SMR" id="P07648"/>
+<dbReference type="BioGrid" id="4261821">
+<property type="interactions" value="369"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2197">
+<property type="entry name" value="Exodeoxyribonuclease V complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10650N"/>
+<dbReference type="IntAct" id="P07648">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="P07648"/>
+<dbReference type="STRING" id="511145.b2822"/>
+<dbReference type="ChEMBL" id="CHEMBL2095232"/>
+<dbReference type="jPOST" id="P07648"/>
+<dbReference type="PaxDb" id="P07648"/>
+<dbReference type="PRIDE" id="P07648"/>
+<dbReference type="EnsemblBacteria" id="AAC75861">
+<property type="protein sequence ID" value="AAC75861"/>
+<property type="gene ID" value="b2822"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76891">
+<property type="protein sequence ID" value="BAE76891"/>
+<property type="gene ID" value="BAE76891"/>
+</dbReference>
+<dbReference type="GeneID" id="947294"/>
+<dbReference type="KEGG" id="ecj:JW2790"/>
+<dbReference type="KEGG" id="eco:b2822"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3914"/>
+<dbReference type="EchoBASE" id="EB0818"/>
+<dbReference type="EcoGene" id="EG10825">
+<property type="gene designation" value="recC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DSY">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1330">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000258319"/>
+<dbReference type="InParanoid" id="P07648"/>
+<dbReference type="KO" id="K03583"/>
+<dbReference type="PhylomeDB" id="P07648"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10825-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2790-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10825-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.11.5">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P07648"/>
+<dbReference type="PRO" id="PR:P07648"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009338">
+<property type="term" value="C:exodeoxyribonuclease V complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008854">
+<property type="term" value="F:exodeoxyribonuclease V activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044355">
+<property type="term" value="P:clearance of foreign intracellular DNA"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000724">
+<property type="term" value="P:double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009314">
+<property type="term" value="P:response to radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.160">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01486">
+<property type="entry name" value="RecC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013986">
+<property type="entry name" value="DExx_box_DNA_helicase_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006697">
+<property type="entry name" value="RecC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041500">
+<property type="entry name" value="RecC_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011335">
+<property type="entry name" value="Restrct_endonuc-II-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17946">
+<property type="entry name" value="RecC_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000980">
+<property type="entry name" value="RecC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52980">
+<property type="entry name" value="SSF52980"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01450">
+<property type="entry name" value="recC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="RecBCD enzyme subunit RecC" id="PRO_0000087120">
+<location>
+<begin position="1"/>
+<end position="1122"/>
+</location>
+</feature>
+<feature type="DNA-binding region">
+<location>
+<position position="971"/>
+</location>
+</feature>
+<feature type="DNA-binding region">
+<location>
+<position position="1001"/>
+</location>
+</feature>
+<feature type="DNA-binding region">
+<location>
+<begin position="1078"/>
+<end position="1081"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In recC-1004; holoenzyme prefers an altered Chi over wild-type Chi sequence. Pseudorevertant of a frameshift mutation at aa 647.">
+<original>QERISQRFL</original>
+<variation>KNVSASVF</variation>
+<location>
+<begin position="647"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acts at variant Chi sequences." evidence="15">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not act at Chi." evidence="15">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not act at Chi." evidence="15">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not act at Chi." evidence="15">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acts at variant Chi sequences." evidence="15">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not act at Chi." evidence="15">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acts at variant Chi sequences." evidence="15">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acts at variant Chi sequences." evidence="15">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not act at Chi." evidence="15">
+<original>R</original>
+<variation>A</variation>
+<variation>C</variation>
+<variation>H</variation>
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acts at variant Chi sequences." evidence="15">
+<original>D</original>
+<variation>A</variation>
+<variation>H</variation>
+<location>
+<position position="705"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="10"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="34"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="40"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="65"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="88"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="104"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="109"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="122"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="143"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="162"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="187"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="190"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="209"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="234"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="254"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="258"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="264"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="279"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="288"/>
+<end position="291"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="298"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="305"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="318"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="334"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="355"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="364"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="373"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="382"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="405"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="408"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="415"/>
+<end position="425"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="441"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="445"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="449"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="458"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="467"/>
+<end position="473"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="477"/>
+<end position="482"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="487"/>
+<end position="500"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="508"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="520"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="524"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="544"/>
+<end position="546"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="558"/>
+<end position="577"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="584"/>
+<end position="587"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="590"/>
+<end position="598"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="604"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="634"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="652"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="656"/>
+<end position="658"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="660"/>
+<end position="662"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="672"/>
+<end position="678"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="682"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="696"/>
+<end position="699"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="708"/>
+<end position="722"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="723"/>
+<end position="732"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="736"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="746"/>
+<end position="756"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="765"/>
+<end position="767"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="769"/>
+<end position="780"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="791"/>
+<end position="793"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="794"/>
+<end position="797"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="804"/>
+<end position="806"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="807"/>
+<end position="810"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="834"/>
+<end position="840"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="841"/>
+<end position="843"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="844"/>
+<end position="850"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="851"/>
+<end position="853"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="874"/>
+<end position="889"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="894"/>
+<end position="904"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="910"/>
+<end position="932"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="939"/>
+<end position="947"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="950"/>
+<end position="959"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="961"/>
+<end position="967"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="974"/>
+<end position="989"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="995"/>
+<end position="999"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1001"/>
+<end position="1003"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1005"/>
+<end position="1008"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1013"/>
+<end position="1029"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="1030"/>
+<end position="1032"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1039"/>
+<end position="1049"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1053"/>
+<end position="1055"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1061"/>
+<end position="1075"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1079"/>
+<end position="1081"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1088"/>
+<end position="1091"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1099"/>
+<end position="1117"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1W36"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01486"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10197988"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10884344"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="123277"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12815437"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12815438"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1535156"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15538360"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16041061"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1618858"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18668125"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20852646"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21219465"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22603794"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23851395"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25073102"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3526335"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4268693"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4552016"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4562392"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6389498"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7608206"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9192629"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9230304"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9448271"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9790841"/>
+</source>
+</evidence>
+<sequence length="1122" mass="128848" checksum="48B90092DFC1BD21" modified="1988-04-01" version="1">
+MLRVYHSNRLDVLEALMEFIVERERLDDPFEPEMILVQSTGMAQWLQMTLSQKFGIAANI
+DFPLPASFIWDMFVRVLPEIPKESAFNKQSMSWKLMTLLPQLLEREDFTLLRHYLTDDSD
+KRKLFQLSSKAADLFDQYLVYRPDWLAQWETGHLVEGLGEAQAWQAPLWKALVEYTHQLG
+QPRWHRANLYQRFIETLESATTCPPGLPSRVFICGISALPPVYLQALQALGKHIEIHLLF
+TNPCRYYWGDIKDPAYLAKLLTRQRRHSFEDRELPLFRDSENAGQLFNSDGEQDVGNPLL
+ASWGKLGRDYIYLLSDLESSQELDAFVDVTPDNLLHNIQSDILELENRAVAGVNIEEFSR
+SDNKRPLDPLDSSITFHVCHSPQREVEVLHDRLLAMLEEDPTLTPRDIIVMVADIDSYSP
+FIQAVFGSAPADRYLPYAISDRRARQSHPVLEAFISLLSLPDSRFVSEDVLALLDVPVLA
+ARFDITEEGLRYLRQWVNESGIRWGIDDDNVRELELPATGQHTWRFGLTRMLLGYAMESA
+QGEWQSVLPYDESSGLIAELVGHLASLLMQLNIWRRGLAQERPLEEWLPVCRDMLNAFFL
+PDAETEAAMTLIEQQWQAIIAEGLGAQYGDAVPLSLLRDELAQRLDQERISQRFLAGPVN
+ICTLMPMRSIPFKVVCLLGMNDGVYPRQLAPLGFDLMSQKPKRGDRSRRDDDRYLFLEAL
+ISAQQKLYISYIGRSIQDNSERFPSVLVQELIDYIGQSHYLPGDEALNCDESEARVKAHL
+TCLHTRMPFDPQNYQPGERQSYAREWLPAASQAGKAHSEFVQPLPFTLPETVPLETLQRF
+WAHPVRAFFQMRLQVNFRTEDSEIPDTEPFILEGLSRYQINQQLLNALVEQDDAERLFRR
+FRAAGDLPYGAFGEIFWETQCQEMQQLADRVIACRQPGQSMEIDLACNGVQITGWLPQVQ
+PDGLLRWRPSLLSVAQGMQLWLEHLVYCASGGNGESRLFLRKDGEWRFPPLAAEQALHYL
+SQLIEGYREGMSAPLLVLPESGGAWLKTCYDAQNDAMLDDDSTLQKARTKFLQAYEGNMM
+VRGEGDDIWYQRLWRQLTPETMEAIVEQSQRFLLPLFRFNQS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="127">
+<accession>Q46904</accession>
+<accession>Q2MA63</accession>
+<name>YGCN_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable electron transfer flavoprotein-quinone oxidoreductase YgcN</fullName>
+<ecNumber>1.5.5.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ygcN</name>
+<name type="ordered locus">b2766</name>
+<name type="ordered locus">JW2736</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Probably accepts electrons from YgcQ/YgcR and reduces a quinone.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>FAD</name>
+<dbReference type="ChEBI" id="CHEBI:57692"/>
+</cofactor>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ETF-QO/FixC family.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA69276" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="1.5.5.-"/>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69276.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75808.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76843.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65058">
+<property type="entry name" value="B65058"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417246.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001301334.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q46904"/>
+<dbReference type="BioGrid" id="4262289">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="IntAct" id="Q46904">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2766"/>
+<dbReference type="PaxDb" id="Q46904"/>
+<dbReference type="PRIDE" id="Q46904"/>
+<dbReference type="EnsemblBacteria" id="AAC75808">
+<property type="protein sequence ID" value="AAC75808"/>
+<property type="gene ID" value="b2766"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76843">
+<property type="protein sequence ID" value="BAE76843"/>
+<property type="gene ID" value="BAE76843"/>
+</dbReference>
+<dbReference type="GeneID" id="946114"/>
+<dbReference type="KEGG" id="ecj:JW2736"/>
+<dbReference type="KEGG" id="eco:b2766"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3971"/>
+<dbReference type="EchoBASE" id="EB2922"/>
+<dbReference type="EcoGene" id="EG13121">
+<property type="gene designation" value="ygcN"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DWH">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0644">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000018936"/>
+<dbReference type="InParanoid" id="Q46904"/>
+<dbReference type="KO" id="K00313"/>
+<dbReference type="PhylomeDB" id="Q46904"/>
+<dbReference type="BioCyc" id="EcoCyc:G7432-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2736-MONOMER"/>
+<dbReference type="PRO" id="PR:Q46904"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016491">
+<property type="term" value="F:oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.50.50.60">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036188">
+<property type="entry name" value="FAD/NAD-bd_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039651">
+<property type="entry name" value="FixC-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43624">
+<property type="entry name" value="PTHR43624"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51905">
+<property type="entry name" value="SSF51905"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Probable electron transfer flavoprotein-quinone oxidoreductase YgcN" id="PRO_0000200697">
+<location>
+<begin position="1"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="1">
+<location>
+<begin position="7"/>
+<end position="21"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="423" mass="46393" checksum="346ED1A132F31DFC" modified="2001-10-18" version="2">
+MEDDCDIIIIGAGIAGTACALRCARAGLSVLLLERAEIPGSKNLSGGRLYTHALAELLPQ
+FHLTAPLERRITHESLSLLTPDGVTTFSSLQPGGESWSVLRARFDPWLVAEAEKEGVECI
+PGATVDALYEENGRVCGVICGDDILRARYVVLAEGANSVLAERHGLVTRPAGEAMALGIK
+EVLSLETSAIEERFHLENNEGAALLFSGRICDDLPGGAFLYTNQQTLSLGIVCPLSSLTQ
+SRVPASELLTRFKAHPAVRPLIKNTESLEYGAHLVPEGGLHSMPVQYAGNGWLLVGDALR
+SCVNTGISVRGMDMALTGAQAAAQTLISACQHREPQNLFPLYHHNVERSLLWDVLQRYQH
+VPALLQRPGWYRTWPALMQDISRDLWDQGDKPVPPLRQLFWHHLRRHGLWHLAGDVIRSL
+RCL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

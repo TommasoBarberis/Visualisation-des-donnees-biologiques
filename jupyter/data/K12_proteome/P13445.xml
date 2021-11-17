@@ -1,0 +1,882 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-01-01" modified="2019-05-08" version="176">
+<accession>P13445</accession>
+<accession>Q2MA88</accession>
+<accession>Q79EB7</accession>
+<name>RPOS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">RNA polymerase sigma factor RpoS</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="3">Sigma S</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="3">Sigma-38</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">rpoS</name>
+<name type="synonym">appR</name>
+<name type="synonym">katF</name>
+<name type="synonym">nur</name>
+<name type="synonym">otsX</name>
+<name type="synonym">sigS</name>
+<name type="ordered locus">b2741</name>
+<name type="ordered locus">JW5437</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="9979" last="9991">
+<title>Nucleotide sequence of katF of Escherichia coli suggests KatF protein is a novel sigma transcription factor.</title>
+<authorList>
+<person name="Mulvey M.R."/>
+<person name="Loewen P.C."/>
+</authorList>
+<dbReference type="PubMed" id="2690013"/>
+<dbReference type="DOI" id="10.1093/nar/17.23.9979"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="3511" last="3515">
+<title>Heterogeneity of the principal sigma factor in Escherichia coli: the rpoS gene product, sigma 38, is a second principal sigma factor of RNA polymerase in stationary-phase Escherichia coli.</title>
+<authorList>
+<person name="Tanaka K."/>
+<person name="Takayanagi Y."/>
+<person name="Fujita N."/>
+<person name="Ishihama A."/>
+<person name="Takahashi H."/>
+</authorList>
+<dbReference type="PubMed" id="8475100"/>
+<dbReference type="DOI" id="10.1073/pnas.90.8.3511"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Nucleic Acids Res." volume="20" first="5479" last="5480">
+<title>DNA base sequence variability in katF (putative sigma factor) gene of Escherichia coli.</title>
+<authorList>
+<person name="Ivanova A."/>
+<person name="Renshaw M."/>
+<person name="Guntaka R.V."/>
+<person name="Eisenstark A."/>
+</authorList>
+<dbReference type="PubMed" id="1437569"/>
+<dbReference type="DOI" id="10.1093/nar/20.20.5479"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="Mol. Gen. Genet." volume="243" first="525" last="531">
+<title>Structure of the 5' upstream region and the regulation of the rpoS gene of Escherichia coli.</title>
+<authorList>
+<person name="Takayanagi Y."/>
+<person name="Tanaka K."/>
+<person name="Takahashi H."/>
+</authorList>
+<dbReference type="PubMed" id="8208244"/>
+<dbReference type="DOI" id="10.1007/BF00284200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-72</scope>
+<source>
+<strain>K12 / DH1 / ATCC 33849 / DSM 4235 / NCIB 12045</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="1630" last="1638">
+<title>A gene at 59 minutes on the Escherichia coli chromosome encodes a lipoprotein with unusual amino acid repeat sequences.</title>
+<authorList>
+<person name="Ichikawa J.K."/>
+<person name="Li C."/>
+<person name="Fu J.C."/>
+<person name="Clarke S."/>
+</authorList>
+<dbReference type="PubMed" id="8132457"/>
+<dbReference type="DOI" id="10.1128/jb.176.6.1630-1638.1994"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-11</scope>
+<source>
+<strain>MP180</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="2488" last="2492">
+<title>The response regulator SprE controls the stability of RpoS.</title>
+<authorList>
+<person name="Pratt L.A."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="8637901"/>
+<dbReference type="DOI" id="10.1073/pnas.93.6.2488"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="6439" last="6444">
+<title>Regulation of RpoS proteolysis in Escherichia coli: the response regulator RssB is a recognition factor that interacts with the turnover element in RpoS.</title>
+<authorList>
+<person name="Becker G."/>
+<person name="Klauck E."/>
+<person name="Hengge-Aronis R."/>
+</authorList>
+<dbReference type="PubMed" id="10339606"/>
+<dbReference type="DOI" id="10.1073/pnas.96.11.6439"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>INTERACTION WITH RSSB</scope>
+<scope>MUTAGENESIS OF LYS-173; GLU-174; VAL-177 AND TYR-178</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="35" first="657" last="666">
+<title>The response regulator RssB, a recognition factor for sigmaS proteolysis in Escherichia coli, can act like an anti-sigmaS factor.</title>
+<authorList>
+<person name="Becker G."/>
+<person name="Klauck E."/>
+<person name="Hengge-Aronis R."/>
+</authorList>
+<dbReference type="PubMed" id="10672187"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.01736.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>INTERACTION WITH RSSB</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Mol. Genet. Genomics" volume="272" first="580" last="591">
+<title>Microarray analysis of RpoS-mediated gene expression in Escherichia coli K-12.</title>
+<authorList>
+<person name="Patten C.L."/>
+<person name="Kirchhof M.G."/>
+<person name="Schertzberg M.R."/>
+<person name="Morton R.A."/>
+<person name="Schellhorn H.E."/>
+</authorList>
+<dbReference type="PubMed" id="15558318"/>
+<dbReference type="DOI" id="10.1007/s00438-004-1089-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="1591" last="1603">
+<title>Genome-wide analysis of the general stress response network in Escherichia coli: sigmaS-dependent genes, promoters, and sigma factor selectivity.</title>
+<authorList>
+<person name="Weber H."/>
+<person name="Polen T."/>
+<person name="Heuveling J."/>
+<person name="Wendisch V.F."/>
+<person name="Hengge R."/>
+</authorList>
+<dbReference type="PubMed" id="15716429"/>
+<dbReference type="DOI" id="10.1128/JB.187.5.1591-1603.2005"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Biotechnol. Bioeng." volume="94" first="585" last="595">
+<title>Effect of rpoS gene knockout on the metabolism of Escherichia coli during exponential growth phase and early stationary phase based on gene expressions, enzyme activities and intracellular metabolite concentrations.</title>
+<authorList>
+<person name="Rahman M."/>
+<person name="Hasan M.R."/>
+<person name="Oba T."/>
+<person name="Shimizu K."/>
+</authorList>
+<dbReference type="PubMed" id="16511888"/>
+<dbReference type="DOI" id="10.1002/bit.20858"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="3177" last="3182">
+<title>The stationary-phase sigma factor sigma(S) is responsible for the resistance of Escherichia coli stationary-phase cells to mazEF-mediated cell death.</title>
+<authorList>
+<person name="Kolodkin-Gal I."/>
+<person name="Engelberg-Kulka H."/>
+</authorList>
+<dbReference type="PubMed" id="19251848"/>
+<dbReference type="DOI" id="10.1128/JB.00011-09"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2011" name="Annu. Rev. Microbiol." volume="65" first="189" last="213">
+<title>The RpoS-mediated general stress response in Escherichia coli.</title>
+<authorList>
+<person name="Battesti A."/>
+<person name="Majdalani N."/>
+<person name="Gottesman S."/>
+</authorList>
+<dbReference type="PubMed" id="21639793"/>
+<dbReference type="DOI" id="10.1146/annurev-micro-090110-102946"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>REVIEW</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2011" name="Nat. Chem. Biol." volume="7" first="359" last="366">
+<title>Antitoxin MqsA helps mediate the bacterial general stress response.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Kim Y."/>
+<person name="Hong S.H."/>
+<person name="Ma Q."/>
+<person name="Brown B.L."/>
+<person name="Pu M."/>
+<person name="Tarone A.M."/>
+<person name="Benedik M.J."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="21516113"/>
+<dbReference type="DOI" id="10.1038/nchembio.560"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="Nucleic Acids Res." volume="39" first="5338" last="5355">
+<title>In vitro transcription profiling of the sigmaS subunit of bacterial RNA polymerase: re-definition of the sigmaS regulon and identification of sigmaS-specific promoter sequence elements.</title>
+<authorList>
+<person name="Maciag A."/>
+<person name="Peano C."/>
+<person name="Pietrelli A."/>
+<person name="Egli T."/>
+<person name="De Bellis G."/>
+<person name="Landini P."/>
+</authorList>
+<dbReference type="PubMed" id="21398637"/>
+<dbReference type="DOI" id="10.1093/nar/gkr129"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 6 7 8 10 13">Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released. This sigma factor is the master transcriptional regulator of the stationary phase and the general stress response. Controls, positively or negatively, the expression of several hundred genes, which are mainly involved in metabolism, transport, regulation and stress management.</text>
+</comment>
+<comment type="function">
+<text evidence="9">Protects stationary phase cells from killing induced by endoribonuclease MazF.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5">Interacts with the RNA polymerase core enzyme and RssB.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-557581"/>
+<interactant intactId="EBI-544996">
+<id>P0A8V2</id>
+<label>rpoB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4 5 11 12 13 14">Subject to complex regulation at multiple levels (transcription, translation, regulation of activity and degradation). Transcription is induced during entry into stationary phase and in response to different stresses. Transcription is repressed by antitoxin MqsA (PubMed:21516113). mRNA stability is regulated by small RNA regulators and various proteins such as Hfq, CsdA, CspC and CspE. Finally, the cellular level of RpoS is regulated by proteolysis via RssB and the ClpXP protease.</text>
+</comment>
+<comment type="domain">
+<text evidence="2">The sigma-70 factor domain-2 mediates sequence-specific interaction with the -10 element in promoter DNA, and plays an important role in melting the double-stranded DNA and the formation of the transcription bubble. The sigma-70 factor domain-2 mediates interaction with the RNA polymerase subunits RpoB and RpoC (By similarity).</text>
+</comment>
+<comment type="domain">
+<text evidence="2">The sigma-70 factor domain-4 contains a helix-turn-helix (H-T-H) motif that mediates interaction with the -35 element in promoter DNA. The domain also mediates interaction with the RNA polymerase subunit RpoA (By similarity).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="9">Stationary phase cells lose resistance to killing by endoribonuclease MazF.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the sigma-70 factor family. RpoS subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="erroneous termination">
+<sequence resource="EMBL-CDS" id="BAE76818" version="1"/>
+</conflict>
+<location>
+<position position="33"/>
+</location>
+<text>Translated as Gln.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA34435" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA78692" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EMBL" id="X16400">
+<property type="protein sequence ID" value="CAA34435.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D13548">
+<property type="protein sequence ID" value="BAA02747.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z14969">
+<property type="protein sequence ID" value="CAA78692.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69251.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75783.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76818.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D17549">
+<property type="protein sequence ID" value="BAA21003.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L07869">
+<property type="protein sequence ID" value="AAA17876.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A65055">
+<property type="entry name" value="RNECKF"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417221.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000081586.1">
+<property type="nucleotide sequence ID" value="NZ_CP011343.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000081588.1">
+<property type="nucleotide sequence ID" value="NZ_CP014272.1"/>
+</dbReference>
+<dbReference type="PDB" id="5IPL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="F=1-328"/>
+</dbReference>
+<dbReference type="PDB" id="5IPM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.20"/>
+<property type="chains" value="F=1-328"/>
+</dbReference>
+<dbReference type="PDB" id="5IPN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.61"/>
+<property type="chains" value="F=1-328"/>
+</dbReference>
+<dbReference type="PDB" id="6FI7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=245-330"/>
+</dbReference>
+<dbReference type="PDBsum" id="5IPL"/>
+<dbReference type="PDBsum" id="5IPM"/>
+<dbReference type="PDBsum" id="5IPN"/>
+<dbReference type="PDBsum" id="6FI7"/>
+<dbReference type="SMR" id="P13445"/>
+<dbReference type="BioGrid" id="4262274">
+<property type="interactions" value="308"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-10777N"/>
+<dbReference type="IntAct" id="P13445">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2741"/>
+<dbReference type="EPD" id="P13445"/>
+<dbReference type="jPOST" id="P13445"/>
+<dbReference type="PaxDb" id="P13445"/>
+<dbReference type="PRIDE" id="P13445"/>
+<dbReference type="EnsemblBacteria" id="AAC75783">
+<property type="protein sequence ID" value="AAC75783"/>
+<property type="gene ID" value="b2741"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76818">
+<property type="protein sequence ID" value="BAE76818"/>
+<property type="gene ID" value="BAE76818"/>
+</dbReference>
+<dbReference type="GeneID" id="947210"/>
+<dbReference type="KEGG" id="ecj:JW5437"/>
+<dbReference type="KEGG" id="eco:b2741"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2835"/>
+<dbReference type="EchoBASE" id="EB0505"/>
+<dbReference type="EcoGene" id="EG10510">
+<property type="gene designation" value="rpoS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105DG1">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0568">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000270273"/>
+<dbReference type="InParanoid" id="P13445"/>
+<dbReference type="KO" id="K03087"/>
+<dbReference type="PhylomeDB" id="P13445"/>
+<dbReference type="BioCyc" id="EcoCyc:RPOS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5437-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:RPOS-MONOMER"/>
+<dbReference type="PRO" id="PR:P13445"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001000">
+<property type="term" value="F:bacterial-type RNA polymerase core enzyme binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016987">
+<property type="term" value="F:sigma factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001123">
+<property type="term" value="P:transcription initiation from bacterial-type RNA polymerase promoter"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00959">
+<property type="entry name" value="Sigma70_RpoS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014284">
+<property type="entry name" value="RNA_pol_sigma-70_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000943">
+<property type="entry name" value="RNA_pol_sigma70"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009042">
+<property type="entry name" value="RNA_pol_sigma70_r1_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007627">
+<property type="entry name" value="RNA_pol_sigma70_r2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007624">
+<property type="entry name" value="RNA_pol_sigma70_r3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007630">
+<property type="entry name" value="RNA_pol_sigma70_r4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013325">
+<property type="entry name" value="RNA_pol_sigma_r2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013324">
+<property type="entry name" value="RNA_pol_sigma_r3/r4-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012761">
+<property type="entry name" value="RNA_pol_sigma_RpoS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00140">
+<property type="entry name" value="Sigma70_r1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04542">
+<property type="entry name" value="Sigma70_r2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04539">
+<property type="entry name" value="Sigma70_r3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04545">
+<property type="entry name" value="Sigma70_r4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00046">
+<property type="entry name" value="SIGMA70FCT"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF88659">
+<property type="entry name" value="SSF88659"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF88946">
+<property type="entry name" value="SSF88946"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02394">
+<property type="entry name" value="rpoS_proteo"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02937">
+<property type="entry name" value="sigma70-ECF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00715">
+<property type="entry name" value="SIGMA70_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00716">
+<property type="entry name" value="SIGMA70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0731">Sigma factor</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="RNA polymerase sigma factor RpoS" id="PRO_0000093970">
+<location>
+<begin position="1"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="3">
+<location>
+<begin position="288"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sigma-70 factor domain-1">
+<location>
+<begin position="56"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sigma-70 factor domain-2">
+<location>
+<begin position="94"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sigma-70 factor domain-3">
+<location>
+<begin position="174"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sigma-70 factor domain-4">
+<location>
+<begin position="262"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Interaction with polymerase core subunit RpoC">
+<location>
+<begin position="118"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates RpoS proteolysis. Lack of interaction with RssB." evidence="4">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="2-fold increase in RpoS half-life. Does not affect interaction with RssB." evidence="4">
+<original>E</original>
+<variation>T</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="3-fold increase in RpoS half-life." evidence="4">
+<original>V</original>
+<variation>K</variation>
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect RpoS half-life." evidence="4">
+<original>Y</original>
+<variation>L</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAA78692." ref="3" evidence="15">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA34435." ref="1" evidence="15">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAA02747 and 6; BAA21003." ref="2 6" evidence="15">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA34435." ref="1" evidence="15">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA34435." ref="1" evidence="15">
+<original>FRE</original>
+<variation>LPRVSKHLSERPVSSEAGFFCAQ</variation>
+<location>
+<begin position="328"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="253"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="256"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="262"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="268"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="288"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="299"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="319"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="324"/>
+<end position="326"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6FI7"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00959"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10339606"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10672187"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15558318"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15716429"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16511888"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19251848"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21398637"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21516113"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21639793"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8475100"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8637901"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="330" mass="37972" checksum="4E6E675E4CA6BC6F" modified="1996-10-01" version="3">
+MSQNTLKVHDLNEDAEFDENGVEVFDEKALVEQEPSDNDLAEEELLSQGATQRVLDATQL
+YLGEIGYSPLLTAEEEVYFARRALRGDVASRRRMIESNLRLVVKIARRYGNRGLALLDLI
+EEGNLGLIRAVEKFDPERGFRFSTYATWWIRQTIERAIMNQTRTIRLPIHIVKELNVYLR
+TARELSHKLDHEPSAEEIAEQLDKPVDDVSRMLRLNERITSVDTPLGGDSEKALLDILAD
+EKENGPEDTTQDDDMKQSIVKWLFELNAKQREVLARRFGLLGYEAATLEDVGREIGLTRE
+RVRQIQVEGLRRLREILQTQGLNIEALFRE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

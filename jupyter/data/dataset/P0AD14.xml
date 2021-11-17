@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-11-22" modified="2019-05-08" version="105">
+<accession>P0AD14</accession>
+<accession>P33357</accession>
+<accession>P76434</accession>
+<accession>Q2MAV4</accession>
+<name>BTSS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="8">Sensor histidine kinase BtsS</fullName>
+<ecNumber>2.7.13.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">btsS</name>
+<name type="synonym">yehU</name>
+<name type="ordered locus">b2126</name>
+<name type="ordered locus">JW5353</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1993-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Richterich P."/>
+<person name="Lakey N."/>
+<person name="Gryan G."/>
+<person name="Jaehn L."/>
+<person name="Mintz L."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12 / BHB2600</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="1448" last="1456">
+<title>Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli.</title>
+<authorList>
+<person name="Yamamoto K."/>
+<person name="Hirao K."/>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Utsumi R."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="15522865"/>
+<dbReference type="DOI" id="10.1074/jbc.M410104200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>AUTOPHOSPHORYLATION</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1321" last="1323">
+<title>Global topology analysis of the Escherichia coli inner membrane proteome.</title>
+<authorList>
+<person name="Daley D.O."/>
+<person name="Rapp M."/>
+<person name="Granseth E."/>
+<person name="Melen K."/>
+<person name="Drew D."/>
+<person name="von Heijne G."/>
+</authorList>
+<dbReference type="PubMed" id="15919996"/>
+<dbReference type="DOI" id="10.1126/science.1109730"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="4272" last="4284">
+<title>First insights into the unexplored two-component system YehU/YehT in Escherichia coli.</title>
+<authorList>
+<person name="Kraxenberger T."/>
+<person name="Fried L."/>
+<person name="Behr S."/>
+<person name="Jung K."/>
+</authorList>
+<dbReference type="PubMed" id="22685278"/>
+<dbReference type="DOI" id="10.1128/JB.00409-12"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>MUTAGENESIS OF HIS-382</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2014" name="J. Bacteriol." volume="196" first="2023" last="2029">
+<title>Identification of a novel nutrient-sensing histidine kinase/response regulator network in Escherichia coli.</title>
+<authorList>
+<person name="Behr S."/>
+<person name="Fried L."/>
+<person name="Jung K."/>
+</authorList>
+<dbReference type="PubMed" id="24659770"/>
+<dbReference type="DOI" id="10.1128/JB.01554-14"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH BTST AND YHJX</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2017" name="Sci. Rep." volume="7" first="1388" last="1388">
+<title>Identification of a high-affinity pyruvate receptor in Escherichia coli.</title>
+<authorList>
+<person name="Behr S."/>
+<person name="Kristoficova I."/>
+<person name="Witting M."/>
+<person name="Breland E.J."/>
+<person name="Eberly A.R."/>
+<person name="Sachs C."/>
+<person name="Schmitt-Kopplin P."/>
+<person name="Hadjifrangiskou M."/>
+<person name="Jung K."/>
+</authorList>
+<dbReference type="PubMed" id="28469239"/>
+<dbReference type="DOI" id="10.1038/s41598-017-01410-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 4 5 6">Member of the two-component regulatory system BtsS/BtsR, which is part of a nutrient-sensing regulatory network composed of BtsS/BtsR, the low-affinity pyruvate signaling system YpdA/YpdB and their respective target proteins, BtsT and YhjX. Responds to depletion of nutrients, specifically serine, and the concomitant presence of extracellular pyruvate. BtsS is a high-affinity receptor for extracellular pyruvate that activates BtsR by phosphorylation. Activation of the BtsS/BtsR signaling cascade also suppresses YpdA/YpdB-mediated yhjX induction.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="8">
+<text>ATP + protein L-histidine = ADP + protein N-phospho-L-histidine.</text>
+<dbReference type="EC" id="2.7.13.3"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="5">Interacts with BtsT and YhjX.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell inner membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="2">Autophosphorylated.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4">Deletion of btsSR has no obvious phenotypic effect under the conditions tested.</text>
+</comment>
+<dbReference type="EC" id="2.7.13.3"/>
+<dbReference type="EMBL" id="U00007">
+<property type="protein sequence ID" value="AAA60489.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75187.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76602.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64980">
+<property type="entry name" value="E64980"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_416630.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295431.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P0AD14"/>
+<dbReference type="BioGrid" id="4260444">
+<property type="interactions" value="256"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11909N"/>
+<dbReference type="STRING" id="511145.b2126"/>
+<dbReference type="jPOST" id="P0AD14"/>
+<dbReference type="PaxDb" id="P0AD14"/>
+<dbReference type="PRIDE" id="P0AD14"/>
+<dbReference type="EnsemblBacteria" id="AAC75187">
+<property type="protein sequence ID" value="AAC75187"/>
+<property type="gene ID" value="b2126"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76602">
+<property type="protein sequence ID" value="BAE76602"/>
+<property type="gene ID" value="BAE76602"/>
+</dbReference>
+<dbReference type="GeneID" id="949027"/>
+<dbReference type="KEGG" id="ecj:JW5353"/>
+<dbReference type="KEGG" id="eco:b2126"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.119"/>
+<dbReference type="EchoBASE" id="EB1945"/>
+<dbReference type="EcoGene" id="EG12007">
+<property type="gene designation" value="yehU"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108HRK">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3275">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000242219"/>
+<dbReference type="InParanoid" id="P0AD14"/>
+<dbReference type="KO" id="K02478"/>
+<dbReference type="PhylomeDB" id="P0AD14"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12007-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5353-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AD14"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000255"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000155">
+<property type="term" value="F:phosphorelay sensor kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071555">
+<property type="term" value="P:cell wall organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018106">
+<property type="term" value="P:peptidyl-histidine phosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000160">
+<property type="term" value="P:phosphorelay signal transduction system"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00075">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003018">
+<property type="entry name" value="GAF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036890">
+<property type="entry name" value="HATPase_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010559">
+<property type="entry name" value="Sig_transdc_His_kin_internal"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011620">
+<property type="entry name" value="Sig_transdc_His_kinase_LytS_TM"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07694">
+<property type="entry name" value="5TM-5TMR_LYT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06580">
+<property type="entry name" value="His_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00065">
+<property type="entry name" value="GAF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0997">Cell inner membrane</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0902">Two-component regulatory system</keyword>
+<feature type="chain" description="Sensor histidine kinase BtsS" id="PRO_0000013870">
+<location>
+<begin position="1"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="9">
+<location>
+<begin position="1"/>
+<end position="3"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="4"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="9">
+<location>
+<begin position="25"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="44"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="9">
+<location>
+<begin position="65"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="73"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="9">
+<location>
+<begin position="94"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="109"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="9">
+<location>
+<begin position="130"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="141"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="topological domain" description="Periplasmic" evidence="9">
+<location>
+<begin position="162"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="171"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="192"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="domain" description="Histidine kinase">
+<location>
+<begin position="354"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Lack of activity." evidence="4">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA60489." ref="1" evidence="8">
+<original>IA</original>
+<variation>MP</variation>
+<location>
+<begin position="175"/>
+<end position="176"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15522865"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22685278"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24659770"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28469239"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="28469239"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15919996"/>
+</source>
+</evidence>
+<sequence length="561" mass="62092" checksum="437B09A2010231C3" modified="2005-11-22" version="1">
+MYDFNLVLLLLQQMCVFLVIAWLMSKTPLFIPLMQVTVRLPHKFLCYIVFSIFCIMGTWF
+GLHIDDSIANTRAIGAVMGGLLGGPVVGGLVGLTGGLHRYSMGGMTALSCMISTIVEGLL
+GGLVHSILIRRGRTDKVFNPITAGAVTFVAEMVQMLIILAIARPYEDAVRLVSNIAAPMM
+VTNTVGAALFMRILLDKRAMFEKYTSAFSATALKVAASTEGILRQGFNEVNSMKVAQVLY
+QELDIGAVAITDREKLLAFTGIGDDHHLPGKPISSTYTLKAIETGEVVYADGNEVPYRCS
+LHPQCKLGSTLVIPLRGENQRVMGTIKLYEAKNRLFSSINRTLGEGIAQLLSAQILAGQY
+ERQKAMLTQSEIKLLHAQVNPHFLFNALNTIKAVIRRDSEQASQLVQYLSTFFRKNLKRP
+SEFVTLADEIEHVNAYLQIEKARFQSRLQVNIAIPQELSQQQLPAFTLQPIVENAIKHGT
+SQLLDTGRVAISARREGQHLMLEIEDNAGLYQPVTNASGLGMNLVDKRLRERFGDDYGIS
+VACEPDSYTRITLRLPWRDEA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

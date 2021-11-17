@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2019-05-08" version="96">
+<accession>P0ADE6</accession>
+<accession>P39169</accession>
+<accession>P76624</accession>
+<accession>P77022</accession>
+<accession>P77023</accession>
+<name>KBP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Potassium binding protein Kbp</fullName>
+<shortName evidence="8">K(+) binding protein Kbp</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">kbp</name>
+<name type="synonym">ygaU</name>
+<name type="synonym">yzzM</name>
+<name type="ordered locus">b2665</name>
+<name type="ordered locus">JW2640</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="91" last="113">
+<title>Construction of a contiguous 874-kb sequence of the Escherichia coli-K12 genome corresponding to 50.0-68.8 min on the linkage map and analysis of its sequence features.</title>
+<authorList>
+<person name="Yamamoto Y."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Hayashi K."/>
+<person name="Inada T."/>
+<person name="Isono K."/>
+<person name="Itoh T."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Miki T."/>
+<person name="Mitsuhashi N."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Nakade S."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Oshima T."/>
+<person name="Oyama S."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Satoh Y."/>
+<person name="Sivasundaram S."/>
+<person name="Tagami H."/>
+<person name="Takahashi H."/>
+<person name="Takeda J."/>
+<person name="Takemoto K."/>
+<person name="Uehara K."/>
+<person name="Wada C."/>
+<person name="Yamagata S."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="9205837"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.91"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1259" last="1313">
+<title>Comparing the predicted and observed properties of proteins encoded in the genome of Escherichia coli K-12.</title>
+<authorList>
+<person name="Link A.J."/>
+<person name="Robison K."/>
+<person name="Church G.M."/>
+</authorList>
+<dbReference type="PubMed" id="9298646"/>
+<dbReference type="DOI" id="10.1002/elps.1150180807"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-13</scope>
+<source>
+<strain>K12 / EMG2</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2015" name="J. Bacteriol." volume="197" first="603" last="614">
+<title>The Cpx envelope stress response modifies peptidoglycan cross-linking via the L,D-transpeptidase LdtD and the novel protein YgaU.</title>
+<authorList>
+<person name="Bernal-Cabas M."/>
+<person name="Ayala J.A."/>
+<person name="Raivio T.L."/>
+</authorList>
+<dbReference type="PubMed" id="25422305"/>
+<dbReference type="DOI" id="10.1128/JB.02449-14"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="6" evidence="1">
+<citation type="journal article" date="2016" name="Structure" volume="24" first="741" last="749">
+<title>The potassium binding protein Kbp is a cytoplasmic potassium sensor.</title>
+<authorList>
+<person name="Ashraf K.U."/>
+<person name="Josts I."/>
+<person name="Mosbahi K."/>
+<person name="Kelly S.M."/>
+<person name="Byron O."/>
+<person name="Smith B.O."/>
+<person name="Walker D."/>
+</authorList>
+<dbReference type="PubMed" id="27112601"/>
+<dbReference type="DOI" id="10.1016/J.STR.2016.03.017"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5">Highly specific potassium binding protein that is required for normal growth in the presence of high levels of external K(+). May act as a sensor of cytoplasmic K(+) concentration. Binds a single K(+) ion, which induces a large conformational change. Can also bind the larger alkali metal ions Rb(+) and Cs(+), and NH(4)(+) (PubMed:27112601). May be involved in the regulation of peptidoglycan cross-linking (PubMed:25422305).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="4">Transcriptionally regulated by CpxR, which binds directly to the promoter region.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">BON and LysM domains are both required for full K(+) binding. The major K(+) binding site is located in the BON domain and this initial complex is stabilized by interaction with the LysM domain.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5">Deletion mutant shows retarded growth at high concentrations of K(+) (PubMed:27112601). Deletion of the gene impacts the abundance of muropeptide species. The absence of YgaU leads to the activation of the Cpx pathway (PubMed:25422305).</text>
+</comment>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75712.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA16528.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65046">
+<property type="entry name" value="B65046"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417151.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000522415.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="5FIM">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-149"/>
+</dbReference>
+<dbReference type="PDBsum" id="5FIM"/>
+<dbReference type="SMR" id="P0ADE6"/>
+<dbReference type="BioGrid" id="4262266">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48134N"/>
+<dbReference type="IntAct" id="P0ADE6">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2665"/>
+<dbReference type="SWISS-2DPAGE" id="P0ADE6"/>
+<dbReference type="EPD" id="P0ADE6"/>
+<dbReference type="jPOST" id="P0ADE6"/>
+<dbReference type="PaxDb" id="P0ADE6"/>
+<dbReference type="PRIDE" id="P0ADE6"/>
+<dbReference type="EnsemblBacteria" id="AAC75712">
+<property type="protein sequence ID" value="AAC75712"/>
+<property type="gene ID" value="b2665"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA16528">
+<property type="protein sequence ID" value="BAA16528"/>
+<property type="gene ID" value="BAA16528"/>
+</dbReference>
+<dbReference type="GeneID" id="947144"/>
+<dbReference type="KEGG" id="ecj:JW2640"/>
+<dbReference type="KEGG" id="eco:b2665"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.2757"/>
+<dbReference type="EchoBASE" id="EB2540"/>
+<dbReference type="EcoGene" id="EG12675">
+<property type="gene designation" value="ygaU"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4109066">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1652">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000261244"/>
+<dbReference type="InParanoid" id="P0ADE6"/>
+<dbReference type="PhylomeDB" id="P0ADE6"/>
+<dbReference type="BioCyc" id="EcoCyc:G7395-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2640-MONOMER"/>
+<dbReference type="PRO" id="PR:P0ADE6"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030955">
+<property type="term" value="F:potassium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035864">
+<property type="term" value="P:response to potassium ion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00118">
+<property type="entry name" value="LysM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.350.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007055">
+<property type="entry name" value="BON_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018392">
+<property type="entry name" value="LysM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036779">
+<property type="entry name" value="LysM_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014004">
+<property type="entry name" value="Transpt-assoc_nodulatn_dom_bac"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04972">
+<property type="entry name" value="BON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01476">
+<property type="entry name" value="LysM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00749">
+<property type="entry name" value="BON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00257">
+<property type="entry name" value="LysM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50914">
+<property type="entry name" value="BON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51782">
+<property type="entry name" value="LYSM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0630">Potassium</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Potassium binding protein Kbp" id="PRO_0000169832">
+<location>
+<begin position="2"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="domain" description="BON" evidence="2">
+<location>
+<begin position="23"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="domain" description="LysM" evidence="3">
+<location>
+<begin position="97"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="17"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="24"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="46"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="54"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="64"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="80"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="96"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="107"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="121"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="128"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="142"/>
+<end position="147"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5FIM"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00229"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01118"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25422305"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27112601"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9298646"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27112601"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="27112601"/>
+</source>
+</evidence>
+<sequence length="149" mass="16063" checksum="DEC6BAF7707DFAE1" modified="2007-01-23" version="2">
+MGLFNFVKDAGEKLWDAVTGQHDKDDQAKKVQEHLNKTGIPDADKVNIQIADGKATVTGD
+GLSQEAKEKILVAVGNISGIASVDDQVKTATPATASQFYTVKSGDTLSAISKQVYGNANL
+YNKIFEANKPMLKSPDKIYPGQVLRIPEE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2019-06-05" version="114">
+<accession>Q46863</accession>
+<accession>Q2M9I0</accession>
+<name>YGIS_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Probable deoxycholate-binding periplasmic protein YgiS</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ygiS</name>
+<name type="ordered locus">b3020</name>
+<name type="ordered locus">JW2988</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1999" name="Electrophoresis" volume="20" first="2181" last="2195">
+<title>Enrichment of low abundance proteins of Escherichia coli by hydroxyapatite chromatography.</title>
+<authorList>
+<person name="Fountoulakis M."/>
+<person name="Takacs M.-F."/>
+<person name="Berndt P."/>
+<person name="Langen H."/>
+<person name="Takacs B."/>
+</authorList>
+<dbReference type="PubMed" id="10493123"/>
+<dbReference type="DOI" id="10.1002/(SICI)1522-2683(19990801)20:11&lt;2181::AID-ELPS2181>3.0.CO;2-Q"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>B / BL21</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2015" name="Environ. Microbiol." volume="17" first="3168" last="3181">
+<title>The MqsR/MqsA toxin/antitoxin system protects Escherichia coli during bile acid stress.</title>
+<authorList>
+<person name="Kwan B.W."/>
+<person name="Lord D.M."/>
+<person name="Peti W."/>
+<person name="Page R."/>
+<person name="Benedik M.J."/>
+<person name="Wood T.K."/>
+</authorList>
+<dbReference type="PubMed" id="25534751"/>
+<dbReference type="DOI" id="10.1111/1462-2920.12749"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / BW25113</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">Probably part of a deoxycholate transport system. Its expression in the presence of deoxycholate in a ygiS deletion mutant increases intracellular deoxycholate levels and decreases cell growth; higher expression in the presence of deoxycholate inhibits cell growth completely. Bile acid detergents such as deoxycholate are important for host defense against bacterial growth in the gall bladder and duodenum.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Periplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="2">Repressed by the toxin-antitoxin system MqsR-MqsA; this mRNA is degraded by mRNA interferase MqsR.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="2">Cells grow better in the presence of the bile acid deoxycholate. Increased membrane stability when incubated for 2 hours in the presence of 4.5% deoxycholate. Increased cell survival in the presence of 20% deoxycholate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the bacterial solute-binding protein 5 family.</text>
+</comment>
+<dbReference type="EMBL" id="U28377">
+<property type="protein sequence ID" value="AAA69188.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76056.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77076.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65089">
+<property type="entry name" value="B65089"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417492.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001295629.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q46863"/>
+<dbReference type="BioGrid" id="4259246">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3020"/>
+<dbReference type="TCDB" id="3.A.1.5.41">
+<property type="family name" value="the atp-binding cassette (abc) superfamily"/>
+</dbReference>
+<dbReference type="jPOST" id="Q46863"/>
+<dbReference type="PaxDb" id="Q46863"/>
+<dbReference type="PRIDE" id="Q46863"/>
+<dbReference type="EnsemblBacteria" id="AAC76056">
+<property type="protein sequence ID" value="AAC76056"/>
+<property type="gene ID" value="b3020"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77076">
+<property type="protein sequence ID" value="BAE77076"/>
+<property type="gene ID" value="BAE77076"/>
+</dbReference>
+<dbReference type="GeneID" id="947140"/>
+<dbReference type="KEGG" id="ecj:JW2988"/>
+<dbReference type="KEGG" id="eco:b3020"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.3710"/>
+<dbReference type="EchoBASE" id="EB2839"/>
+<dbReference type="EcoGene" id="EG13021">
+<property type="gene designation" value="ygiS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108J59">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4166">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000179191"/>
+<dbReference type="InParanoid" id="Q46863"/>
+<dbReference type="KO" id="K02035"/>
+<dbReference type="PhylomeDB" id="Q46863"/>
+<dbReference type="BioCyc" id="EcoCyc:YGIS-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2988-MONOMER"/>
+<dbReference type="PRO" id="PR:Q46863"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043190">
+<property type="term" value="C:ATP-binding cassette (ABC) transporter complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030288">
+<property type="term" value="C:outer membrane-bounded periplasmic space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015721">
+<property type="term" value="P:bile acid and bile salt transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030678">
+<property type="entry name" value="Peptide/Ni-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039424">
+<property type="entry name" value="SBP_5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000914">
+<property type="entry name" value="SBP_5_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30290">
+<property type="entry name" value="PTHR30290"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00496">
+<property type="entry name" value="SBP_bac_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002741">
+<property type="entry name" value="MppA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0574">Periplasm</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Probable deoxycholate-binding periplasmic protein YgiS" id="PRO_0000031806">
+<location>
+<begin position="21"/>
+<end position="535"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25534751"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<evidence key="4" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25534751"/>
+</source>
+</evidence>
+<sequence length="535" mass="60694" checksum="B0F56723071A54EF" modified="1996-11-01" version="1" precursor="true">
+MYTRNLLWLVSLVSAAPLYAADVPANTPLAPQQVFRYNNHSDPGTLDPQKVEENTAAQIV
+LDLFEGLVWMDGEGQVQPAQAERWEILDGGKRYIFHLRSGLQWSDGQPLTAEDFVLGWQR
+AVDPKTASPFAGYLAQAHINNAAAIVAGKADVTSLGVKATDDRTLEVTLEQPVPWFTTML
+AWPTLFPVPHHVIAKHGDSWSKPENMVYNGAFVLDQWVVNEKITARKNPKYRDAQHTVLQ
+QVEYLALDNSVTGYNRYRAGEVDLTWVPAQQIPAIEKSLPGELRIIPRLNSEYYNFNLEK
+PPFNDVRVRRALYLTVDRQLIAQKVLGLRTPATTLTPPEVKGFSATTFDELQKPMSERVA
+MAKALLKQAGYDASHPLRFELFYNKYDLHEKTAIALSSEWKKWLGAQVTLRTMEWKTYLD
+ARRAGDFMLSRQSWDATYNDASSFLNTLKSDSEENVGHWKNAQYDALLNQATQITDATKR
+NALYQQAEVIINQQAPLIPIYYQPLIKLLKPYVGGFPLHNPQDYVYSKELYIKAH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

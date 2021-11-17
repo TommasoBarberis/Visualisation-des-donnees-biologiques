@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-11-01" modified="2019-05-08" version="139">
+<accession>P05719</accession>
+<accession>Q2M5W8</accession>
+<name>T1SK_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Type-1 restriction enzyme EcoKI specificity protein</fullName>
+<shortName>S.EcoKI</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Type I restriction enzyme EcoKI specificity protein</fullName>
+<shortName>S protein</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">hsdS</name>
+<name type="synonym">hss</name>
+<name type="ordered locus">b4348</name>
+<name type="ordered locus">JW4311</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="J. Mol. Biol." volume="166" first="1" last="19">
+<title>Sequence diversity among related genes for recognition of specific targets in DNA molecules.</title>
+<authorList>
+<person name="Gough J.A."/>
+<person name="Murray N.E."/>
+</authorList>
+<dbReference type="PubMed" id="6304321"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(83)80047-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2105" last="2119">
+<title>Analysis of the Escherichia coli genome VI: DNA sequence of the region from 92.8 through 100 minutes.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Sofia H.J."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7610040"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="1177" last="1183">
+<title>Tyrosine 27 of the specificity polypeptide of EcoKI can be UV crosslinked to a bromodeoxyuridine-substituted DNA target sequence.</title>
+<authorList>
+<person name="Chen A."/>
+<person name="Powell L.M."/>
+<person name="Dryden D.T."/>
+<person name="Murray N.E."/>
+<person name="Brown T."/>
+</authorList>
+<dbReference type="PubMed" id="7739896"/>
+<dbReference type="DOI" id="10.1093/nar/23.7.1177"/>
+</citation>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text>The M and S subunits together form a methyltransferase (MTase) that methylates two adenine residues in complementary strands of a bipartite DNA recognition sequence. In the presence of the R subunit the complex can also act as an endonuclease, binding to the same target sequence but cutting the DNA some distance from this site. Whether the DNA is cut or modified depends on the methylation state of the target sequence. When the target site is unmodified, the DNA is cut. When the target site is hemimethylated, the complex acts as a maintenance MTase modifying the DNA so that both strands become methylated. Subunit S dictates DNA sequences specificity. The EcoKI enzyme recognizes 5'-AACN(6)GTGC-3'.</text>
+</comment>
+<comment type="subunit">
+<text>The type I restriction/modification system is composed of three polypeptides R, M and S.</text>
+</comment>
+<comment type="domain">
+<text>Contains two DNA recognition domains, each specifying recognition of one of the two defined components of the target sequence.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the type-I restriction system S methylase family.</text>
+</comment>
+<dbReference type="EMBL" id="V00288">
+<property type="protein sequence ID" value="CAA23554.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U14003">
+<property type="protein sequence ID" value="AAA97245.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC77304.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE78338.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A30369">
+<property type="entry name" value="NDECKS"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418768.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001272447.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="2Y7C">
+<property type="method" value="EM"/>
+<property type="resolution" value="18.00"/>
+<property type="chains" value="A=1-464"/>
+</dbReference>
+<dbReference type="PDB" id="2Y7H">
+<property type="method" value="EM"/>
+<property type="resolution" value="18.00"/>
+<property type="chains" value="A=1-464"/>
+</dbReference>
+<dbReference type="PDBsum" id="2Y7C"/>
+<dbReference type="PDBsum" id="2Y7H"/>
+<dbReference type="SMR" id="P05719"/>
+<dbReference type="BioGrid" id="4262767">
+<property type="interactions" value="128"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9945N"/>
+<dbReference type="IntAct" id="P05719">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b4348"/>
+<dbReference type="REBASE" id="3646">
+<property type="entry name" value="S.EcoKI"/>
+</dbReference>
+<dbReference type="jPOST" id="P05719"/>
+<dbReference type="PaxDb" id="P05719"/>
+<dbReference type="PRIDE" id="P05719"/>
+<dbReference type="EnsemblBacteria" id="AAC77304">
+<property type="protein sequence ID" value="AAC77304"/>
+<property type="gene ID" value="b4348"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE78338">
+<property type="protein sequence ID" value="BAE78338"/>
+<property type="gene ID" value="BAE78338"/>
+</dbReference>
+<dbReference type="GeneID" id="948867"/>
+<dbReference type="KEGG" id="ecj:JW4311"/>
+<dbReference type="KEGG" id="eco:b4348"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2338"/>
+<dbReference type="EchoBASE" id="EB0455"/>
+<dbReference type="EcoGene" id="EG10460">
+<property type="gene designation" value="hsdS"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4107XZC">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0732">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000295029"/>
+<dbReference type="InParanoid" id="P05719"/>
+<dbReference type="KO" id="K01154"/>
+<dbReference type="PhylomeDB" id="P05719"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10460-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW4311-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10460-MONOMER"/>
+<dbReference type="EvolutionaryTrace" id="P05719"/>
+<dbReference type="PRO" id="PR:P05719"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009307">
+<property type="term" value="P:DNA restriction-modification system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000055">
+<property type="entry name" value="Restrct_endonuc_typeI_HsdS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01420">
+<property type="entry name" value="Methylase_S"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0680">Restriction system</keyword>
+<feature type="chain" description="Type-1 restriction enzyme EcoKI specificity protein" id="PRO_0000198035">
+<location>
+<begin position="1"/>
+<end position="464"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="464" mass="51395" checksum="1D651D0716B08C04" modified="1988-11-01" version="1">
+MSAGKLPEGWVIAPVSTVTTLIRGVTYKKEQAINYLKDDYLPLIRANNIQNGKFDTTDLV
+FVPKNLVKESQKISPEDIVIAMSSGSKSVVGKSAHQHLPFECSFGAFCGVLRPEKLIFSG
+FIAHFTKSSLYRNKISSLSAGANINNIKPASFDLINIPIPPLAEQKIIAEKLDTLLAQVD
+STKARFEQIPQILKRFRQAVLGGAVNGKLTEKWRNFEPQHSVFKKLNFESILTELRNGLS
+SKPNESGVGHPILRISSVRAGHVDQNDIRFLECSESELNRHKLQDGDLLFTRYNGSLEFV
+GVCGLLKKLQHQNLLYPDKLIRARLTKDALPEYIEIFFSSPSARNAMMNCVKTTSGQKGI
+SGKDIKSQVVLLPPVKEQAEIVRRVEQLFAYADTIEKQVNNALARVNNLTQSILAKAFRG
+ELTAQWRAENPDLISGENSAAALLEKIKAERAASGGKKASRKKS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

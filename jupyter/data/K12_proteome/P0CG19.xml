@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-06-15" modified="2019-06-05" version="53">
+<accession>P0CG19</accession>
+<accession>A0A385XJN7</accession>
+<accession>A8DYQ0</accession>
+<accession>P03842</accession>
+<name>RNPH_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Truncated inactive ribonuclease PH</fullName>
+<shortName>Truncated inactive RNase PH</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="9">Inactive RNase PH</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="7">Truncated RNase PH</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1 7">rph</name>
+<name type="synonym">orfE</name>
+<name type="ordered locus">b3643</name>
+<name type="ordered locus">JW3618</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Genomics" volume="16" first="551" last="561">
+<title>DNA sequence and analysis of 136 kilobases of the Escherichia coli genome: organizational symmetry around the origin of replication.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7686882"/>
+<dbReference type="DOI" id="10.1006/geno.1993.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1993" name="J. Bacteriol." volume="175" first="3401" last="3407">
+<title>The Escherichia coli K-12 'wild types' W3110 and MG1655 have an rph frameshift mutation that leads to pyrimidine starvation due to low pyrE expression levels.</title>
+<authorList>
+<person name="Jensen K.F."/>
+</authorList>
+<dbReference type="PubMed" id="8501045"/>
+<dbReference type="DOI" id="10.1128/jb.175.11.3401-3407.1993"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 208-228 (STRAIN W3110)</scope>
+<scope>EXPRESSION</scope>
+<scope>LOSS OF ACTIVITY IN SOME K12 STRAINS</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+<strain>K12 / W1485</strain>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="RNA" volume="17" first="338" last="345">
+<title>Degradation of ribosomal RNA during starvation: comparison to quality control during steady-state growth and a role for RNase PH.</title>
+<authorList>
+<person name="Basturea G.N."/>
+<person name="Zundel M.A."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="21135037"/>
+<dbReference type="DOI" id="10.1261/rna.2448911"/>
+</citation>
+<scope>FUNCTION IN RIBOSOME DEGRADATION DURING STARVATION</scope>
+<source>
+<strain>K12 / MG1655(Seq)*</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2016" name="RNA" volume="22" first="1163" last="1171">
+<title>Elucidation of pathways of ribosomal RNA degradation: an essential role for RNase E.</title>
+<authorList>
+<person name="Sulthana S."/>
+<person name="Basturea G.N."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="27298395"/>
+<dbReference type="DOI" id="10.1261/rna.056275.116"/>
+</citation>
+<scope>FUNCTION IN RRNA DEGRADATION</scope>
+<source>
+<strain>K12 / MG1655(Seq)*</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2017" name="RNA" volume="23" first="1456" last="1464">
+<title>RNase II regulates RNase PH and is essential for cell survival during starvation and stationary phase.</title>
+<authorList>
+<person name="Sulthana S."/>
+<person name="Quesada E."/>
+<person name="Deutscher M.P."/>
+</authorList>
+<dbReference type="PubMed" id="28625967"/>
+<dbReference type="DOI" id="10.1261/rna.060558.116"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655(Seq)*</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2017" name="J. Bacteriol." volume="199">
+<title>The rph-1-encoded truncated RNase PH protein inhibits RNase P maturation of pre-tRNAs with short leader sequences in the absence of RppH.</title>
+<authorList>
+<person name="Bowden K.E."/>
+<person name="Wiese N.S."/>
+<person name="Perwez T."/>
+<person name="Mohanty B.K."/>
+<person name="Kushner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="28808133"/>
+<dbReference type="DOI" id="10.1128/JB.00301-17"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / MG1693</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="5 6">This an expressed but non-active exoribonuclease allele (PubMed:8501045). The catalytically inactive protein translated in strain K12 MG1655 inhibits the 5'-processing of primary pre-tRNAs with short (&lt;5 nucleotide) leaders in a dominant-negative effect when RNA pyrophosphohydrolase (rppH) is also inactive; perhaps inactive Rph inhibits interaction with RNase P which is exacerbated when RppH cannot cleave the triphosphate of the primary transcript (PubMed:28808133).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 8">Homodimer (By similarity). No interaction between the inactive protein and RppH or RNase P was detected by immunoprecipitation (PubMed:28808133).</text>
+</comment>
+<comment type="induction">
+<text evidence="5">The catalytically inactive protein is present at significantly lower levels than restored wild-type protein (at protein level) (PubMed:28808133).</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5">When the gene is deleted the strain no longer inhibits 5'-processing of pre-tRNAs with short (&lt;5 nucleotide) leaders in the absence of rppH (PubMed:28808133). The truncated allele encoded by this protein has a slight growth defect, which is slightly exacerbated when combined with an rppH deletion (PubMed:28808133). The truncated allele suppresses the loss of viability conferred by deletion of RNase 2 (rnb) during stationary phase at 31 and 42 degrees Celsius or starvation at 42 degrees Celsius (PubMed:28625967).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2 3 4 6">The gene in K12 strains MG1655 and W3110 (and also other derivatives of K12 W1485) has a frameshift mutation that leads to loss of activity, although the protein is translated. Thus in those strains rph is an expressed, catalytically inactive protein (PubMed:8501045). In strain K12 / MG1655(Seq)* the wild-type protein has been restored (PubMed:21135037, PubMed:27298395, PubMed:28625967). For the functional protein without the frameshift mutation see AC P0CG18.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="2 3 4 5">The (restored) wild-type protein plays a significant role in tRNA 3'-end maturation when a C nucleotide follows the mature CCA terminus (PubMed:28808133). Wild-type (restored) protein also plays a critical role in initiating 16S rRNA degradation (leading to ribosome degradation) during starvation, but not in rRNA quality control during steady state growth (PubMed:21135037, PubMed:27298395). The wild-type (restored) protein is rapidly turned over at 42 degrees Celsius during starvation, but not at 31 degrees Celsius with or without starvation; in the absence of RNase 2 (rnb) protein levels do not decline (at protein level) (PubMed:28625967).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the RNase PH family.</text>
+</comment>
+<dbReference type="EMBL" id="V01578">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L10328">
+<property type="protein sequence ID" value="AAA61996.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AYC08250.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X72920">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A04470">
+<property type="entry name" value="QQECPE"/>
+</dbReference>
+<dbReference type="SMR" id="P0CG19"/>
+<dbReference type="DIP" id="DIP-10738N"/>
+<dbReference type="IntAct" id="P0CG19">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="EPD" id="P0CG19"/>
+<dbReference type="jPOST" id="P0CG19"/>
+<dbReference type="PaxDb" id="P0CG19"/>
+<dbReference type="PRIDE" id="P0CG19"/>
+<dbReference type="EcoGene" id="EG10863">
+<property type="gene designation" value="rph"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105ED0">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0689">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="P0CG19"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10863-MONOMER"/>
+<dbReference type="PRO" id="PR:P0CG19"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000175">
+<property type="term" value="F:3'-5'-exoribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009022">
+<property type="term" value="F:tRNA nucleotidyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016075">
+<property type="term" value="P:rRNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006364">
+<property type="term" value="P:rRNA processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008033">
+<property type="term" value="P:tRNA processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd11362">
+<property type="entry name" value="RNase_PH_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.70">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00564">
+<property type="entry name" value="RNase_PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001247">
+<property type="entry name" value="ExoRNase_PH_dom1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015847">
+<property type="entry name" value="ExoRNase_PH_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036345">
+<property type="entry name" value="ExoRNase_PH_dom2_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027408">
+<property type="entry name" value="PNPase/RNase_PH_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002381">
+<property type="entry name" value="RNase_PH_bac-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018336">
+<property type="entry name" value="RNase_PH_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01138">
+<property type="entry name" value="RNase_PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03725">
+<property type="entry name" value="RNase_PH_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55666">
+<property type="entry name" value="SSF55666"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01966">
+<property type="entry name" value="RNasePH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01277">
+<property type="entry name" value="RIBONUCLEASE_PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0698">rRNA processing</keyword>
+<keyword id="KW-0819">tRNA processing</keyword>
+<keyword id="KW-0820">tRNA-binding</keyword>
+<feature type="chain" description="Truncated inactive ribonuclease PH" id="PRO_0000139889">
+<location>
+<begin position="1"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphate (substrate) binding" evidence="1">
+<location>
+<begin position="124"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate (substrate) binding" evidence="1">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00564"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21135037"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27298395"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28625967"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28808133"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8501045"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8501045"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28808133"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8501045"/>
+</source>
+</evidence>
+<sequence length="228" mass="24425" checksum="028BC8F5A6859447" modified="2010-06-15" version="1">
+MRPAGRSNNQVRPVTLTRNYTKHAEGSVLVEFGDTKVLCTASIEEGVPRFLKGQGQGWIT
+AEYGMLPRSTHTRNAREAAKGKQGGRTMEIQRLIARALRAAVDLKALGEFTITLDCDVLQ
+ADGGTRTASITGACVALVDALQKLVENGKLKTNPMKGMVAAVSVGIVNGEAVCDLEYVED
+SAAETDMNVVMTEDGRIIEVQGTAEGEPFTHEELLILLALARGESNPL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

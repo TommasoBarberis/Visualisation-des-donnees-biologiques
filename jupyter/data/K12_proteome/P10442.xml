@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2019-06-05" version="147">
+<accession>P10442</accession>
+<accession>P78265</accession>
+<name>RNH2_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Ribonuclease HII</fullName>
+<shortName>RNase HII</shortName>
+<ecNumber>3.1.26.4</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">rnhB</name>
+<name type="ordered locus">b0183</name>
+<name type="ordered locus">JW0178</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="5735" last="5744">
+<title>Sequence analysis of the Escherichia coli dnaE gene.</title>
+<authorList>
+<person name="Tomasiewicz H.G."/>
+<person name="McHenry C.S."/>
+</authorList>
+<dbReference type="PubMed" id="3316192"/>
+<dbReference type="DOI" id="10.1128/jb.169.12.5735-5744.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-02" db="EMBL/GenBank/DDBJ databases">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 4.0 - 6.0 min (189,987 - 281,416bp) region.</title>
+<authorList>
+<person name="Takemoto K."/>
+<person name="Mori H."/>
+<person name="Murayama N."/>
+<person name="Kataoka K."/>
+<person name="Yano M."/>
+<person name="Itoh T."/>
+<person name="Yamamoto Y."/>
+<person name="Inokuchi H."/>
+<person name="Miki T."/>
+<person name="Hatada E."/>
+<person name="Fukuda R."/>
+<person name="Ichihara S."/>
+<person name="Mizuno T."/>
+<person name="Makino K."/>
+<person name="Nakata A."/>
+<person name="Yura T."/>
+<person name="Sampei G."/>
+<person name="Mizobuchi K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of minutes 4-25 of Escherichia coli.</title>
+<authorList>
+<person name="Chung E."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A.M."/>
+<person name="Davis K."/>
+<person name="Duncan M."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lew H."/>
+<person name="Lin D."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Schramm S."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO 196-198</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Proc. Natl. Acad. Sci. U.S.A." volume="87" first="8587" last="8591">
+<title>Isolation and characterization of a second RNase H (RNase HII) of Escherichia coli K-12 encoded by the rnhB gene.</title>
+<authorList>
+<person name="Itaya M."/>
+</authorList>
+<dbReference type="PubMed" id="2172991"/>
+<dbReference type="DOI" id="10.1073/pnas.87.21.8587"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-11</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="605" last="618">
+<title>Identification of the genes encoding Mn2+-dependent RNase HII and Mg2+-dependent RNase HIII from Bacillus subtilis: classification of RNases H into three families.</title>
+<authorList>
+<person name="Ohtani N."/>
+<person name="Haruki M."/>
+<person name="Morikawa M."/>
+<person name="Crouch R.J."/>
+<person name="Itaya M."/>
+<person name="Kanaya S."/>
+</authorList>
+<dbReference type="PubMed" id="9888800"/>
+<dbReference type="DOI" id="10.1021/bi982207z"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<comment type="function">
+<text evidence="1 2">Endonuclease that specifically degrades the RNA of RNA-DNA hybrids.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>Endonucleolytic cleavage to 5'-phosphomonoester.</text>
+<dbReference type="EC" id="3.1.26.4"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1">Manganese or magnesium. Binds 1 divalent metal ion per monomer in the absence of substrate. May bind a second metal ion after substrate binding.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the RNase HII family.</text>
+</comment>
+<dbReference type="EC" id="3.1.26.4"/>
+<dbReference type="EMBL" id="M19334">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U70214">
+<property type="protein sequence ID" value="AAB08612.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73294.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA77858.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64742">
+<property type="entry name" value="QQECBE"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414725.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000569430.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P10442"/>
+<dbReference type="BioGrid" id="4261585">
+<property type="interactions" value="101"/>
+</dbReference>
+<dbReference type="IntAct" id="P10442">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0183"/>
+<dbReference type="PaxDb" id="P10442"/>
+<dbReference type="PRIDE" id="P10442"/>
+<dbReference type="EnsemblBacteria" id="AAC73294">
+<property type="protein sequence ID" value="AAC73294"/>
+<property type="gene ID" value="b0183"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA77858">
+<property type="protein sequence ID" value="BAA77858"/>
+<property type="gene ID" value="BAA77858"/>
+</dbReference>
+<dbReference type="GeneID" id="944852"/>
+<dbReference type="KEGG" id="ecj:JW0178"/>
+<dbReference type="KEGG" id="eco:b0183"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2096"/>
+<dbReference type="EchoBASE" id="EB0854"/>
+<dbReference type="EcoGene" id="EG10861">
+<property type="gene designation" value="rnhB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4108UH2">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0164">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000100288"/>
+<dbReference type="InParanoid" id="P10442"/>
+<dbReference type="KO" id="K03470"/>
+<dbReference type="PhylomeDB" id="P10442"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10861-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0178-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10861-MONOMER"/>
+<dbReference type="BRENDA" id="3.1.26.4">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P10442"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030145">
+<property type="term" value="F:manganese ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004523">
+<property type="term" value="F:RNA-DNA hybrid ribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006401">
+<property type="term" value="P:RNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd07182">
+<property type="entry name" value="RNase_HII_bacteria_HII_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00052_B">
+<property type="entry name" value="RNase_HII_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022898">
+<property type="entry name" value="RNase_HII"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001352">
+<property type="entry name" value="RNase_HII/HIII"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024567">
+<property type="entry name" value="RNase_HII/HIII_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012337">
+<property type="entry name" value="RNaseH-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036397">
+<property type="entry name" value="RNaseH_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10954">
+<property type="entry name" value="PTHR10954"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10954:SF18">
+<property type="entry name" value="PTHR10954:SF18"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01351">
+<property type="entry name" value="RNase_HII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53098">
+<property type="entry name" value="SSF53098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Ribonuclease HII" id="PRO_0000111571">
+<location>
+<begin position="1"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation" evidence="1">
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation" evidence="1">
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation" evidence="1">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="3">
+<original>LAS</original>
+<variation>TCVLILVSRLSKPESEDV</variation>
+<location>
+<begin position="196"/>
+<end position="198"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2172991"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="198" mass="21526" checksum="25350722EB5D7864" modified="1997-11-01" version="2">
+MIEFVYPHTQLVAGVDEVGRGPLVGAVVTAAVILDPARPIAGLNDSKKLSEKRRLALYEE
+IKEKALSWSLGRAEPHEIDELNILHATMLAMQRAVAGLHIAPEYVLIDGNRCPKLPMPAM
+AVVKGDSRVPEISAASILAKVTRDAEMAALDIVFPQYGFAQHKGYPTAFHLEKLAEHGAT
+EHHRRSFGPVKRALGLAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

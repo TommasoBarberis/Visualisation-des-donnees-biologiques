@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-03-01" modified="2019-06-05" version="131">
+<accession>P24192</accession>
+<accession>Q2MAA0</accession>
+<accession>Q46885</accession>
+<name>HYPD_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Hydrogenase maturation factor HypD</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="7">Hydrogenase isoenzymes formation protein HypD</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">hypD</name>
+<name type="ordered locus">b2729</name>
+<name type="ordered locus">JW2699</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Mol. Microbiol." volume="5" first="123" last="135">
+<title>Molecular characterization of an operon (hyp) necessary for the activity of the three hydrogenase isoenzymes in Escherichia coli.</title>
+<authorList>
+<person name="Lutz S."/>
+<person name="Jacobi A."/>
+<person name="Schlensog V."/>
+<person name="Boehm R."/>
+<person name="Sawers G."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="1849603"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1991.tb01833.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="J. Mol. Biol." volume="324" first="287" last="296">
+<title>Maturation of [NiFe]-hydrogenases in Escherichia coli: the HypC cycle.</title>
+<authorList>
+<person name="Blokesch M."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="12441107"/>
+</citation>
+<scope>INTERACTION WITH HYPC</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="344" first="155" last="167">
+<title>The complex between hydrogenase-maturation proteins HypC and HypD is an intermediate in the supply of cyanide to the active site iron of [NiFe]-hydrogenases.</title>
+<authorList>
+<person name="Blokesch M."/>
+<person name="Albracht S.P."/>
+<person name="Matzanke B.F."/>
+<person name="Drapal N.M."/>
+<person name="Jacobi A."/>
+<person name="Boeck A."/>
+</authorList>
+<dbReference type="PubMed" id="15504408"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.09.040"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH HYPC AND HYPE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="FEBS Lett." volume="580" first="677" last="681">
+<title>Interactions of the Escherichia coli hydrogenase biosynthetic proteins: HybG complex formation.</title>
+<authorList>
+<person name="Butland G."/>
+<person name="Zhang J.W."/>
+<person name="Yang W."/>
+<person name="Sheung A."/>
+<person name="Wong P."/>
+<person name="Greenblatt J.F."/>
+<person name="Emili A."/>
+<person name="Zamble D.B."/>
+</authorList>
+<dbReference type="PubMed" id="16412426"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2005.12.063"/>
+</citation>
+<scope>INTERACTION WITH HYBG AND HYPE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="FEBS Lett." volume="586" first="3882" last="3887">
+<title>[NiFe]-hydrogenase maturation: isolation of a HypC-HypD complex carrying diatomic CO and CN- ligands.</title>
+<authorList>
+<person name="Soboh B."/>
+<person name="Stripp S.T."/>
+<person name="Muhr E."/>
+<person name="Granich C."/>
+<person name="Braussemann M."/>
+<person name="Herzberg M."/>
+<person name="Heberle J."/>
+<person name="Gary Sawers R."/>
+</authorList>
+<dbReference type="PubMed" id="23022438"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2012.09.019"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>INTERACTION WITH HYPC</scope>
+<scope>MUTAGENESIS OF CYS-41</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="Biochemistry" volume="52" first="3289" last="3296">
+<title>HypD is the scaffold protein for Fe-(CN)2CO cofactor assembly in [NiFe]-hydrogenase maturation.</title>
+<authorList>
+<person name="Stripp S.T."/>
+<person name="Soboh B."/>
+<person name="Lindenstrauss U."/>
+<person name="Braussemann M."/>
+<person name="Herzberg M."/>
+<person name="Nies D.H."/>
+<person name="Sawers R.G."/>
+<person name="Heberle J."/>
+</authorList>
+<dbReference type="PubMed" id="23597401"/>
+<dbReference type="DOI" id="10.1021/bi400302v"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>IRON-BINDING</scope>
+<scope>MUTAGENESIS OF CYS-41; CYS-69; CYS-72 AND GLU-357</scope>
+</reference>
+<comment type="function">
+<text evidence="2 4 5 7">Involved in the maturation of [NiFe] hydrogenases. Involved in the biosynthesis of the Fe(CN)(2)CO cofactor (PubMed:15504408, PubMed:23022438). HypD may act as a scaffold on which the Fe(CN)(2)CO cofactor is formed (PubMed:23597401). In complex with HypC, accepts the cyanide ligand generated by HypF and HypE, and also coordinates the carbon monoxide ligand (PubMed:15504408, PubMed:23022438). Required for the formation of all three hydrogenase isoenzymes (Probable).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2 4">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+</comment>
+<comment type="pathway" evidence="7">
+<text>Protein modification; [NiFe] hydrogenase maturation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 2 3 4">Monomer (PubMed:15504408). Interacts with HypC (PubMed:12441107, PubMed:15504408, PubMed:23022438). Forms a complex with HypC, or HybG, and HypE (PubMed:15504408, PubMed:16412426).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-552711"/>
+<interactant intactId="EBI-562426">
+<id>P0AAM7</id>
+<label>hybG</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="domain">
+<text evidence="4">In addition to the iron-sulfur cluster, contains two additional oxygen-labile iron ions.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the HypD family.</text>
+</comment>
+<dbReference type="EMBL" id="X54543">
+<property type="protein sequence ID" value="CAA38415.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U29579">
+<property type="protein sequence ID" value="AAA69239.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC75771.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76806.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S15200">
+<property type="entry name" value="S15200"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_417209.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001212985.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P24192"/>
+<dbReference type="BioGrid" id="4261425">
+<property type="interactions" value="34"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9998N"/>
+<dbReference type="IntAct" id="P24192">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b2729"/>
+<dbReference type="SWISS-2DPAGE" id="P24192"/>
+<dbReference type="jPOST" id="P24192"/>
+<dbReference type="PaxDb" id="P24192"/>
+<dbReference type="PRIDE" id="P24192"/>
+<dbReference type="EnsemblBacteria" id="AAC75771">
+<property type="protein sequence ID" value="AAC75771"/>
+<property type="gene ID" value="b2729"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76806">
+<property type="protein sequence ID" value="BAE76806"/>
+<property type="gene ID" value="BAE76806"/>
+</dbReference>
+<dbReference type="GeneID" id="947189"/>
+<dbReference type="KEGG" id="ecj:JW2699"/>
+<dbReference type="KEGG" id="eco:b2729"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.4012"/>
+<dbReference type="EchoBASE" id="EB0481"/>
+<dbReference type="EcoGene" id="EG10486">
+<property type="gene designation" value="hypD"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CQS">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0409">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000278766"/>
+<dbReference type="InParanoid" id="P24192"/>
+<dbReference type="KO" id="K04654"/>
+<dbReference type="PhylomeDB" id="P24192"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10486-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW2699-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00335"/>
+<dbReference type="PRO" id="PR:P24192"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070025">
+<property type="term" value="F:carbon monoxide binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005506">
+<property type="term" value="F:iron ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006464">
+<property type="term" value="P:cellular protein modification process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051604">
+<property type="term" value="P:protein maturation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.11740">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.11750">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002780">
+<property type="entry name" value="Hyd_form_HypD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042244">
+<property type="entry name" value="HypD_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042243">
+<property type="entry name" value="HypD_2"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30149">
+<property type="entry name" value="PTHR30149"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01924">
+<property type="entry name" value="HypD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF005622">
+<property type="entry name" value="Hydrgn_mat_hypD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00075">
+<property type="entry name" value="hypD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Hydrogenase maturation factor HypD" id="PRO_0000201451">
+<location>
+<begin position="1"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="9">
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="8 9">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="8 9">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect interaction with HypC. Retains the 4Fe-4S cluster, but has less iron than the native complex. Can no longer coordinate CN(-1) and CO." evidence="4 5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Can no longer coordinate CN(-1) and CO. Reduces iron content." evidence="5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Can no longer coordinate CN(-1) and CO. Reduces iron content." evidence="5">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect CN(-1) and CO coordination." evidence="5">
+<original>E</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="357"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12441107"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15504408"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16412426"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23022438"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23597401"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1849603"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<evidence key="8" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23022438"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23597401"/>
+</source>
+</evidence>
+<sequence length="373" mass="41363" checksum="0E4186081FAA4C54" modified="1992-03-01" version="1">
+MRFVDEYRAPEQVMQLIEHLRERASHLSYTAERPLRIMEVCGGHTHAIFKFGLDQLLPEN
+VEFIHGPGCPVCVLPMGRIDTCVEIASHPEVIFCTFGDAMRVPGKQGSLLQAKARGADVR
+IVYSPMDALKLAQENPTRKVVFFGLGFETTMPTTAITLQQAKARDVQNFYFFCQHITLIP
+TLRSLLEQPDNGIDAFLAPGHVSMVIGTDAYNFIASDFHRPLVVAGFEPLDLLQGVVMLV
+QQKIAAHSKVENQYRRVVPDAGNLLAQQAIADVFCVNGDSEWRGLGVIESSGVHLTPDYQ
+RFDAEAHFRPAPQQVCDDPRARCGEVLTGKCKPHQCPLFGNTCNPQTAFGALMVSSEGAC
+AAWYQYRQQESEA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

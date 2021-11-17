@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2019-06-05" version="116">
+<accession>P0AE88</accession>
+<accession>P16244</accession>
+<accession>P76777</accession>
+<accession>Q2M8K9</accession>
+<name>CPXR_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Transcriptional regulatory protein CpxR</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">cpxR</name>
+<name type="synonym">yiiA</name>
+<name type="ordered locus">b3912</name>
+<name type="ordered locus">JW3883</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Gene" volume="136" first="227" last="230">
+<title>The deduced amino-acid sequence of the cloned cpxR gene suggests the protein is the cognate regulator for the membrane sensor, CpxA, in a two-component signal transduction system of Escherichia coli.</title>
+<authorList>
+<person name="Dong J."/>
+<person name="Iuchi S."/>
+<person name="Kwan H.-S."/>
+<person name="Lu Z."/>
+<person name="Lin E."/>
+</authorList>
+<dbReference type="PubMed" id="8294007"/>
+<dbReference type="DOI" id="10.1016/0378-1119(93)90469-J"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>L547</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Nucleic Acids Res." volume="21" first="3391" last="3398">
+<title>Analysis of the Escherichia coli genome. III. DNA sequence of the region from 87.2 to 89.2 minutes.</title>
+<authorList>
+<person name="Plunkett G. III"/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8346018"/>
+<dbReference type="DOI" id="10.1093/nar/21.15.3391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1988" name="J. Mol. Biol." volume="203" first="467" last="478">
+<title>The cpx proteins of Escherichia coli K12. Structure of the cpxA polypeptide as an inner membrane component.</title>
+<authorList>
+<person name="Weber R.F."/>
+<person name="Silverman P.M."/>
+</authorList>
+<dbReference type="PubMed" id="3058985"/>
+<dbReference type="DOI" id="10.1016/0022-2836(88)90013-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 128-232</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="Genes Dev." volume="9" first="387" last="398">
+<title>The Cpx two-component signal transduction pathway of Escherichia coli regulates transcription of the gene specifying the stress-inducible periplasmic protease, DegP.</title>
+<authorList>
+<person name="Danese P.N."/>
+<person name="Snyder W.B."/>
+<person name="Cosma C.L."/>
+<person name="Davis L.J."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="7883164"/>
+<dbReference type="DOI" id="10.1101/gad.9.4.387"/>
+</citation>
+<scope>FUNCTION AS A TRANSCRIPTIONAL ACTIVATOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>PHOSPHORYLATION BY CPXA</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1997" name="EMBO J." volume="16" first="6394" last="6406">
+<title>The chaperone-assisted membrane release and folding pathway is sensed by two signal transduction systems.</title>
+<authorList>
+<person name="Jones C.H."/>
+<person name="Danese P.N."/>
+<person name="Pinkner J.S."/>
+<person name="Silhavy T.J."/>
+<person name="Hultgren S.J."/>
+</authorList>
+<dbReference type="PubMed" id="9351822"/>
+<dbReference type="DOI" id="10.1093/emboj/16.21.6394"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="J. Bacteriol." volume="179" first="7724" last="7733">
+<title>Transduction of envelope stress in Escherichia coli by the Cpx two-component system.</title>
+<authorList>
+<person name="Raivio T.L."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="9401031"/>
+<dbReference type="DOI" id="10.1128/jb.179.24.7724-7733.1997"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION BY CPXA</scope>
+<scope>DNA-BINDING</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="J. Bacteriol." volume="180" first="831" last="839">
+<title>CpxP, a stress-combative member of the Cpx regulon.</title>
+<authorList>
+<person name="Danese P.N."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="9473036"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="37" first="1186" last="1197">
+<title>Tethering of CpxP to the inner membrane prevents spheroplast induction of the cpx envelope stress response.</title>
+<authorList>
+<person name="Raivio T.L."/>
+<person name="Laird M.W."/>
+<person name="Joly J.C."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="10972835"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.02074.x"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="2287" last="2292">
+<title>Surface sensing and adhesion of Escherichia coli controlled by the Cpx-signaling pathway.</title>
+<authorList>
+<person name="Otto K."/>
+<person name="Silhavy T.J."/>
+</authorList>
+<dbReference type="PubMed" id="11830644"/>
+<dbReference type="DOI" id="10.1073/pnas.042521699"/>
+</citation>
+<scope>FUNCTION IN BIOFILM FORMATION</scope>
+<scope>INDUCTION BY ADHESION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="J. Bacteriol." volume="187" first="6622" last="6630">
+<title>Cpx signal transduction is influenced by a conserved N-terminal domain in the novel inhibitor CpxP and the periplasmic protease DegP.</title>
+<authorList>
+<person name="Buelow D.R."/>
+<person name="Raivio T.L."/>
+</authorList>
+<dbReference type="PubMed" id="16166523"/>
+<dbReference type="DOI" id="10.1128/JB.187.19.6622-6630.2005"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<source>
+<strain>K12 / MC4100</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="8583" last="8593">
+<title>Purification, reconstitution, and characterization of the CpxRAP envelope stress system of Escherichia coli.</title>
+<authorList>
+<person name="Fleischer R."/>
+<person name="Heermann R."/>
+<person name="Jung K."/>
+<person name="Hunke S."/>
+</authorList>
+<dbReference type="PubMed" id="17259177"/>
+<dbReference type="DOI" id="10.1074/jbc.M605785200"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>PHOSPHORYLATION BY CPXA</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="Cell Rep." volume="3" first="528" last="537">
+<title>YihE kinase is a central regulator of programmed cell death in bacteria.</title>
+<authorList>
+<person name="Dorsey-Oresto A."/>
+<person name="Lu T."/>
+<person name="Mosel M."/>
+<person name="Wang X."/>
+<person name="Salz T."/>
+<person name="Drlica K."/>
+<person name="Zhao X."/>
+</authorList>
+<dbReference type="PubMed" id="23416055"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2013.01.026"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E107383" last="E107383">
+<title>Dynamic interaction between the CpxA sensor kinase and the periplasmic accessory protein CpxP mediates signal recognition in E. coli.</title>
+<authorList>
+<person name="Tschauner K."/>
+<person name="Hoernschemeyer P."/>
+<person name="Mueller V.S."/>
+<person name="Hunke S."/>
+</authorList>
+<dbReference type="PubMed" id="25207645"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0107383"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>INTERACTION WITH CPXA</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="submission" date="2015-03" db="PDB data bank">
+<title>Structure of the response regulator CpxR.</title>
+<authorList>
+<person name="Mechaly A.E."/>
+<person name="Alzari P.M.A."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.15 ANGSTROMS) OF 131-231</scope>
+</reference>
+<comment type="function">
+<text evidence="6 9 11 13">Response regulator member of the two-component regulatory system CpxA/CpxR which responds to envelope stress response by activating expression of downstream genes including cpxP, degP, dsbA and ppiA (PubMed:7883164, PubMed:9401031). Required for efficient binding of stationary phase cells to hydrophobic surfaces, part of the process of biofilm formation (PubMed:11830644). Induced upon cell surface binding, subsequently induces genes it controls (cpxP, dsbA and spy, degP is only partially induced) (PubMed:11830644). Binds and activates transcription from the degP promoter (PubMed:7883164); binding is enhanced by phosphorylation (PubMed:9401031). This system combats a variety of extracytoplasmic protein-mediated toxicities by increasing the transcription of the periplasmic protease, DegP in concert with sigma factor E (PubMed:7883164), as well as that of CpxP protein. Other downstream effectors may include SrkA (PubMed:23416055).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="5 7 11 12 14">The two-component system is activated by envelope stress such as overexpression of some (misfolded) periplasmic proteins (PubMed:7883164, PubMed:9351822). Activated by spheroplasting (which removes the periplasm) in an autoregulatory cpxA-cpxR-dependent fashion (PubMed:10972835). Cpx two-component system is activated at pH 8.0; in a degP deletion mutant activation is halved (PubMed:9473036, PubMed:16166523). The CpxA kinase activity is inhibited by periplasmic accessory protein CpxP; proteolysis of CpxP relieves inhibition (PubMed:16166523, PubMed:17259177, PubMed:25207645).</text>
+</comment>
+<comment type="subunit">
+<text evidence="10">Interacts with cognate sensor kinase CpxA.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550918"/>
+<interactant intactId="EBI-9141330">
+<id>P0AE82</id>
+<label>cpxA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550918"/>
+<interactant intactId="EBI-553837">
+<id>P00861</id>
+<label>lysA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-550918"/>
+<interactant intactId="EBI-555877">
+<id>P0AG86</id>
+<label>secB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="15">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="6">Induced about 3-fold when stationary phase cells bind to hydrophobic surfaces; requires direct contact with hydrophobic surfaces for up-regulation of Cpx activity (PubMed:11830644).</text>
+</comment>
+<comment type="PTM">
+<text evidence="8 13 16">Phosphorylated by CpxA.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5 6 9 11 14">Loss of the Cpx envelope stress response (PubMed:10972835). A double cpxR-cpxA mutant decreases transcription of degP (PubMed:7883164). Cells are less sensitive to killing by nalidixic acid; double cpxR-srkA disruption mutants are as sensitive to killing as single srkA mutants, suggesting the SrkA protein kinase is partially regulated by CpxR. Hypersensitive to alkaline pH (greater than pH 8.8) (PubMed:9473036). Decreased numbers of stationary phase cells bind to hydrophobic surfaces, cellular adhesion has altered dynamic properties; no induction of cpxR when cells bind to hydrophobic surfaces (PubMed:11830644).</text>
+</comment>
+<dbReference type="EMBL" id="L14579">
+<property type="protein sequence ID" value="AAC36868.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L19201">
+<property type="protein sequence ID" value="AAB03045.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76894.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77397.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X13307">
+<property type="protein sequence ID" value="CAA31686.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M36795">
+<property type="protein sequence ID" value="AAA23599.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C65197">
+<property type="entry name" value="C65197"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418348.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001033722.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="4UHJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=1-123"/>
+</dbReference>
+<dbReference type="PDB" id="4UHK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C=1-123"/>
+</dbReference>
+<dbReference type="PDB" id="4UHS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="5.00"/>
+<property type="chains" value="A/B/C=1-123"/>
+</dbReference>
+<dbReference type="PDB" id="4UHT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.15"/>
+<property type="chains" value="A/B=131-231"/>
+</dbReference>
+<dbReference type="PDBsum" id="4UHJ"/>
+<dbReference type="PDBsum" id="4UHK"/>
+<dbReference type="PDBsum" id="4UHS"/>
+<dbReference type="PDBsum" id="4UHT"/>
+<dbReference type="SMR" id="P0AE88"/>
+<dbReference type="BioGrid" id="4262645">
+<property type="interactions" value="290"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47991N"/>
+<dbReference type="IntAct" id="P0AE88">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3912"/>
+<dbReference type="EPD" id="P0AE88"/>
+<dbReference type="jPOST" id="P0AE88"/>
+<dbReference type="PaxDb" id="P0AE88"/>
+<dbReference type="PRIDE" id="P0AE88"/>
+<dbReference type="EnsemblBacteria" id="AAC76894">
+<property type="protein sequence ID" value="AAC76894"/>
+<property type="gene ID" value="b3912"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77397">
+<property type="protein sequence ID" value="BAE77397"/>
+<property type="gene ID" value="BAE77397"/>
+</dbReference>
+<dbReference type="GeneID" id="948404"/>
+<dbReference type="KEGG" id="ecj:JW3883"/>
+<dbReference type="KEGG" id="eco:b3912"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2792"/>
+<dbReference type="EchoBASE" id="EB0019"/>
+<dbReference type="EcoGene" id="EG10020">
+<property type="gene designation" value="cpxR"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105E3W">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0745">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000034819"/>
+<dbReference type="InParanoid" id="P0AE88"/>
+<dbReference type="KO" id="K07662"/>
+<dbReference type="PhylomeDB" id="P0AE88"/>
+<dbReference type="BioCyc" id="EcoCyc:CPXR-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3883-MONOMER"/>
+<dbReference type="PRO" id="PR:P0AE88"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000160">
+<property type="term" value="P:phosphorelay signal transduction system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010810">
+<property type="term" value="P:regulation of cell-substrate adhesion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd00156">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00383">
+<property type="entry name" value="trans_reg_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011006">
+<property type="entry name" value="CheY-like_superfamily"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001867">
+<property type="entry name" value="OmpR/PhoB-type_DNA-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001789">
+<property type="entry name" value="Sig_transdc_resp-reg_receiver"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039420">
+<property type="entry name" value="WalR-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036388">
+<property type="entry name" value="WH-like_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR26402">
+<property type="entry name" value="PTHR26402"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00072">
+<property type="entry name" value="Response_reg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00486">
+<property type="entry name" value="Trans_reg_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00448">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00862">
+<property type="entry name" value="Trans_reg_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52172">
+<property type="entry name" value="SSF52172"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51755">
+<property type="entry name" value="OMPR_PHOB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50110">
+<property type="entry name" value="RESPONSE_REGULATORY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0130">Cell adhesion</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0902">Two-component regulatory system</keyword>
+<feature type="chain" description="Transcriptional regulatory protein CpxR" id="PRO_0000081078">
+<location>
+<begin position="1"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="domain" description="Response regulatory" evidence="3">
+<location>
+<begin position="3"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="OmpR/PhoB-type" evidence="4">
+<location>
+<begin position="131"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-aspartylphosphate" evidence="3">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="3"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="11"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="27"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="34"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="47"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="55"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="59"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="74"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="83"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="95"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="104"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="134"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="139"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="143"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="147"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="159"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="171"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="178"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="196"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="217"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="225"/>
+<end position="228"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4UHJ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4UHT"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00169"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01091"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10972835"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11830644"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16166523"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17259177"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23416055"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25207645"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7883164"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9351822"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9401031"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9473036"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<evidence key="16" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7883164"/>
+</source>
+</evidence>
+<sequence length="232" mass="26312" checksum="667FC2B246082F46" modified="2005-12-06" version="1">
+MNKILLVDDDRELTSLLKELLEMEGFNVIVAHDGEQALDLLDDSIDLLLLDVMMPKKNGI
+DTLKALRQTHQTPVIMLTARGSELDRVLGLELGADDYLPKPFNDRELVARIRAILRRSHW
+SEQQQNNDNGSPTLEVDALVLNPGRQEASFDGQTLELTGTEFTLLYLLAQHLGQVVSREH
+LSQEVLGKRLTPFDRAIDMHISNLRRKLPDRKDGHPWFKTLRGRGYLMVSAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

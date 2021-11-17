@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2019-05-08" version="162">
+<accession>P00960</accession>
+<accession>Q2M7M2</accession>
+<name>SYGA_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Glycine--tRNA ligase alpha subunit</fullName>
+<ecNumber>6.1.1.14</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Glycyl-tRNA synthetase alpha subunit</fullName>
+<shortName>GlyRS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">glyQ</name>
+<name type="synonym">glyS(A)</name>
+<name type="ordered locus">b3560</name>
+<name type="ordered locus">JW3531</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="J. Biol. Chem." volume="258" first="10637" last="10641">
+<title>Primary structures of both subunits of Escherichia coli glycyl-tRNA synthetase.</title>
+<authorList>
+<person name="Webster T.A."/>
+<person name="Gibson B.W."/>
+<person name="Keng T."/>
+<person name="Biemann K."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="6309809"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="2576" last="2586">
+<title>Analysis of the Escherichia coli genome. V. DNA sequence of the region from 76.0 to 81.5 minutes.</title>
+<authorList>
+<person name="Sofia H.J."/>
+<person name="Burland V."/>
+<person name="Daniels D.L."/>
+<person name="Plunkett G. III"/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="8041620"/>
+<dbReference type="DOI" id="10.1093/nar/22.13.2576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="12503" last="12508">
+<title>Gene for Escherichia coli glycyl-tRNA synthetase has tandem subunit coding regions in the same reading frame.</title>
+<authorList>
+<person name="Keng T."/>
+<person name="Webster T.A."/>
+<person name="Sauer R.T."/>
+<person name="Schimmel P."/>
+</authorList>
+<dbReference type="PubMed" id="6290471"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 268-303</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + glycine + tRNA(Gly) = AMP + diphosphate + glycyl-tRNA(Gly)</text>
+<dbReference type="Rhea" id="RHEA:16013"/>
+<dbReference type="Rhea" id="RHEA-COMP:9664"/>
+<dbReference type="Rhea" id="RHEA-COMP:9683"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:57305"/>
+<dbReference type="ChEBI" id="CHEBI:78442"/>
+<dbReference type="ChEBI" id="CHEBI:78522"/>
+<dbReference type="ChEBI" id="CHEBI:456215"/>
+<dbReference type="EC" id="6.1.1.14"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text>Tetramer of two alpha and two beta subunits.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-551191"/>
+<interactant intactId="EBI-551400">
+<id>P00961</id>
+<label>glyS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-II aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.14"/>
+<dbReference type="EMBL" id="J01622">
+<property type="protein sequence ID" value="AAA23914.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00039">
+<property type="protein sequence ID" value="AAB18537.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC76584.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77734.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J01623">
+<property type="protein sequence ID" value="AAA23916.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B65155">
+<property type="entry name" value="SYECGA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_418017.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="SMR" id="P00960"/>
+<dbReference type="BioGrid" id="4259717">
+<property type="interactions" value="48"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9816N"/>
+<dbReference type="IntAct" id="P00960">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3560"/>
+<dbReference type="EPD" id="P00960"/>
+<dbReference type="jPOST" id="P00960"/>
+<dbReference type="PaxDb" id="P00960"/>
+<dbReference type="PRIDE" id="P00960"/>
+<dbReference type="EnsemblBacteria" id="AAC76584">
+<property type="protein sequence ID" value="AAC76584"/>
+<property type="gene ID" value="b3560"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77734">
+<property type="protein sequence ID" value="BAE77734"/>
+<property type="gene ID" value="BAE77734"/>
+</dbReference>
+<dbReference type="GeneID" id="948079"/>
+<dbReference type="KEGG" id="ecj:JW3531"/>
+<dbReference type="KEGG" id="eco:b3560"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3674"/>
+<dbReference type="EchoBASE" id="EB0404"/>
+<dbReference type="EcoGene" id="EG10409">
+<property type="gene designation" value="glyQ"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0752">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000264291"/>
+<dbReference type="InParanoid" id="P00960"/>
+<dbReference type="KO" id="K01878"/>
+<dbReference type="PhylomeDB" id="P00960"/>
+<dbReference type="BioCyc" id="EcoCyc:GLYQ-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW3531-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:GLYQ-MONOMER"/>
+<dbReference type="PRO" id="PR:P00960"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004820">
+<property type="term" value="F:glycine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006426">
+<property type="term" value="P:glycyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00733">
+<property type="entry name" value="GlyRS_alpha_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00254">
+<property type="entry name" value="Gly_tRNA_synth_alpha"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006194">
+<property type="entry name" value="Gly-tRNA-synth_heterodimer"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002310">
+<property type="entry name" value="Gly-tRNA_ligase_asu"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02091">
+<property type="entry name" value="tRNA-synt_2e"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01044">
+<property type="entry name" value="TRNASYNTHGA"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00388">
+<property type="entry name" value="glyQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50861">
+<property type="entry name" value="AA_TRNA_LIGASE_II_GLYAB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0030">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Glycine--tRNA ligase alpha subunit" id="PRO_0000072836">
+<location>
+<begin position="1"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23914." ref="1" evidence="1">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA23914." ref="1" evidence="1">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000305"/>
+<sequence length="303" mass="34774" checksum="91E20623ADFD4DDB" modified="1994-10-01" version="2">
+MQKFDTRTFQGLILTLQDYWARQGCTIVQPLDMEVGAGTSHPMTCLRELGPEPMAAAYVQ
+PSRRPTDGRYGENPNRLQHYYQFQVVIKPSPDNIQELYLGSLKELGMDPTIHDIRFVEDN
+WENPTLGAWGLGWEVWLNGMEVTQFTYFQQVGGLECKPVTGEITYGLERLAMYIQGVDSV
+YDLVWSDGPLGKTTYGDVFHQNEVEQSTYNFEYADVDFLFTCFEQYEKEAQQLLALENPL
+PLPAYERILKAAHSFNLLDARKAISVTERQRYILRIRTLTKAVAEAYYASREALGFPMCN
+KDK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

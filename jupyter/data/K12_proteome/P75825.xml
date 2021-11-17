@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2019-05-08" version="153">
+<accession>P75825</accession>
+<accession>Q9R7R0</accession>
+<accession>Q9R7R1</accession>
+<name>HCP_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">Hydroxylamine reductase</fullName>
+<ecNumber evidence="4">1.7.99.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Hybrid-cluster protein</fullName>
+<shortName evidence="1">HCP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="6">Prismane protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">hcp</name>
+<name type="synonym">ybjW</name>
+<name type="ordered locus">b0873</name>
+<name type="ordered locus">JW0857</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION TO 134</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="Biochem. Biophys. Res. Commun." volume="260" first="209" last="215">
+<title>Biochemical and spectroscopic characterization of overexpressed fuscoredoxin from Escherichia coli.</title>
+<authorList>
+<person name="Pereira A.S."/>
+<person name="Tavares P."/>
+<person name="Krebs C."/>
+<person name="Huynh B.H."/>
+<person name="Rusnak F."/>
+<person name="Moura I."/>
+<person name="Moura J.J."/>
+</authorList>
+<dbReference type="PubMed" id="10381368"/>
+<dbReference type="DOI" id="10.1006/bbrc.1999.0748"/>
+</citation>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2000" name="Eur. J. Biochem." volume="267" first="666" last="676">
+<title>The hybrid-cluster protein ('prismane protein') from Escherichia coli. Characterization of the hybrid-cluster protein, redox properties of the [2Fe-2S] and [4Fe-2S-2O] clusters and identification of an associated NADH oxidoreductase containing FAD and 2Fe-2S.</title>
+<authorList>
+<person name="van den Berg W.A.M."/>
+<person name="Hagen W.R."/>
+<person name="van Dongen W.M.A.M."/>
+</authorList>
+<dbReference type="PubMed" id="10651802"/>
+<dbReference type="DOI" id="10.1046/j.1432-1327.2000.01032.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="5898" last="5902">
+<title>Hydroxylamine reductase activity of the hybrid cluster protein from Escherichia coli.</title>
+<authorList>
+<person name="Wolfe M.T."/>
+<person name="Heo J."/>
+<person name="Garavelli J.S."/>
+<person name="Ludden P.W."/>
+</authorList>
+<dbReference type="PubMed" id="12374823"/>
+<dbReference type="DOI" id="10.1128/JB.184.21.5898-5902.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2005" name="Biochem. Soc. Trans." volume="33" first="195" last="197">
+<title>Transcriptional regulation of a hybrid cluster (prismane) protein.</title>
+<authorList>
+<person name="Filenko N.A."/>
+<person name="Browning D.F."/>
+<person name="Cole J.A."/>
+</authorList>
+<dbReference type="PubMed" id="15667305"/>
+<dbReference type="DOI" id="10.1042/BST0330195"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="1 3 4">Catalyzes the reduction of hydroxylamine to form NH(3) and H(2)O. Is also able to reduce hydroxylamine analogs such as methylhydroxylamine and hydroxyquinone. Might have a role as a scavenger of potentially toxic by-products of nitrate metabolism.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1 4">
+<text>A + H2O + NH4(+) = AH2 + H(+) + hydroxylamine</text>
+<dbReference type="Rhea" id="RHEA:22052"/>
+<dbReference type="ChEBI" id="CHEBI:13193"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:15429"/>
+<dbReference type="ChEBI" id="CHEBI:17499"/>
+<dbReference type="ChEBI" id="CHEBI:28938"/>
+<dbReference type="EC" id="1.7.99.1"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 2 3">
+<name>[2Fe-2S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49601"/>
+</cofactor>
+<text evidence="1 2 3">Binds 1 [2Fe-2S] cluster.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 2 3">
+<name>hybrid [4Fe-2O-2S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:60519"/>
+</cofactor>
+<text evidence="1 2 3">Binds 1 hybrid [4Fe-2O-2S] cluster.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="4">Inhibited by oxygen. Activated by cyanide except in the prolonged presence of excess cyanide, where the enzyme is inactivated.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">2.5 mM for hydroxylamine (at pH 9)</KM>
+<Vmax evidence="4">92 umol/min/mg enzyme (at pH 7.5)</Vmax>
+<Vmax evidence="4">458 umol/min/mg enzyme (at pH 9)</Vmax>
+</kinetics>
+<phDependence>
+<text evidence="4">Optimum pH is 9.0.</text>
+</phDependence>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="5">By Fnr, NarL and NarP under anaerobic conditions in the presence of either nitrate or nitrite.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the HCP family.</text>
+</comment>
+<dbReference type="EC" id="1.7.99.1" evidence="4"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73960.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA35587.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A64826">
+<property type="entry name" value="A64826"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415394.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000458809.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P75825"/>
+<dbReference type="BioGrid" id="4262100">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9870N"/>
+<dbReference type="IntAct" id="P75825">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0873"/>
+<dbReference type="jPOST" id="P75825"/>
+<dbReference type="PaxDb" id="P75825"/>
+<dbReference type="PRIDE" id="P75825"/>
+<dbReference type="EnsemblBacteria" id="AAC73960">
+<property type="protein sequence ID" value="AAC73960"/>
+<property type="gene ID" value="b0873"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA35587">
+<property type="protein sequence ID" value="BAA35587"/>
+<property type="gene ID" value="BAA35587"/>
+</dbReference>
+<dbReference type="GeneID" id="946592"/>
+<dbReference type="KEGG" id="ecj:JW0857"/>
+<dbReference type="KEGG" id="eco:b0873"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1404"/>
+<dbReference type="EchoBASE" id="EB3456"/>
+<dbReference type="EcoGene" id="EG13692">
+<property type="gene designation" value="hcp"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105EJ7">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1151">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000007176"/>
+<dbReference type="InParanoid" id="P75825"/>
+<dbReference type="KO" id="K05601"/>
+<dbReference type="PhylomeDB" id="P75825"/>
+<dbReference type="BioCyc" id="EcoCyc:G6457-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0857-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:G6457-MONOMER"/>
+<dbReference type="PRO" id="PR:P75825"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051537">
+<property type="term" value="F:2 iron, 2 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050418">
+<property type="term" value="F:hydroxylamine reductase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016491">
+<property type="term" value="F:oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004601">
+<property type="term" value="F:peroxidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046210">
+<property type="term" value="P:nitric oxide catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006807">
+<property type="term" value="P:nitrogen compound metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055114">
+<property type="term" value="P:oxidation-reduction process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042542">
+<property type="term" value="P:response to hydrogen peroxide"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd01914">
+<property type="entry name" value="HCP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1270.20">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.2030">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00069">
+<property type="entry name" value="Hydroxylam_reduct"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004137">
+<property type="entry name" value="HCP/CODH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010048">
+<property type="entry name" value="Hydroxylam_reduct"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016099">
+<property type="entry name" value="Prismane-like_a/b-sand"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011254">
+<property type="entry name" value="Prismane-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016100">
+<property type="entry name" value="Prismane_a-bundle"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30109">
+<property type="entry name" value="PTHR30109"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30109:SF0">
+<property type="entry name" value="PTHR30109:SF0"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03063">
+<property type="entry name" value="Prismane"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000076">
+<property type="entry name" value="HCP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56821">
+<property type="entry name" value="SSF56821"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01703">
+<property type="entry name" value="hybrid_clust"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0001">2Fe-2S</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Hydroxylamine reductase" id="PRO_0000151674">
+<location>
+<begin position="1"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (2Fe-2S)" evidence="1">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (2Fe-2S)" evidence="1">
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (2Fe-2S)" evidence="1">
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (2Fe-2S)" evidence="1">
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S); via tele nitrogen" evidence="1">
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="273"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S); via persulfide group" evidence="1">
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="433"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="458"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="492"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-oxo-sulfur (4Fe-2O-2S)" evidence="1">
+<location>
+<position position="494"/>
+</location>
+</feature>
+<feature type="modified residue" description="Cysteine persulfide" evidence="1">
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC73960." ref="1" evidence="8">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00069"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10381368"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10651802"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12374823"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15667305"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10651802"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12374823"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="550" mass="60064" checksum="CA4958B3143B1F48" modified="2000-05-30" version="2">
+MFCVQCEQTIRTPAGNGCSYAQGMCGKTAETSDLQDLLIAALQGLSAWAVKAREYGIINH
+DVDSFAPRAFFSTLTNVNFDSPRIVGYAREAIALREALKAQCLAVDANARVDNPMADLQL
+VSDDLGELQRQAAEFTPNKDKAAIGENILGLRLLCLYGLKGAAAYMEHAHVLGQYDNDIY
+AQYHKIMAWLGTWPADMNALLECSMEIGQMNFKVMSILDAGETGKYGHPTPTQVNVKATA
+GKCILISGHDLKDLYNLLEQTEGTGVNVYTHGEMLPAHGYPELRKFKHLVGNYGSGWQNQ
+QVEFARFPGPIVMTSNCIIDPTVGAYDDRIWTRSIVGWPGVRHLDGDDFSAVITQAQQMA
+GFPYSEIPHLITVGFGRQTLLGAADTLIDLVSREKLRHIFLLGGCDGARGERHYFTDFAT
+SVPDDCLILTLACGKYRFNKLEFGDIEGLPRLVDAGQCNDAYSAIILAVTLAEKLGCGVN
+DLPLSLVLSWFEQKAIVILLTLLSLGVKNIVTGPTAPGFLTPDLLAVLNEKFGLRSITTV
+EEDMKQLLSA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

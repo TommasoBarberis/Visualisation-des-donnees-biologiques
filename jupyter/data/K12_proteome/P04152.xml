@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-11-01" modified="2019-05-08" version="149">
+<accession>P04152</accession>
+<name>UMUC_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>Protein UmuC</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>DNA polymerase V</fullName>
+<shortName>Pol V</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">umuC</name>
+<name type="ordered locus">b1184</name>
+<name type="ordered locus">JW1173</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="4336" last="4340">
+<title>Structural analysis of the umu operon required for inducible mutagenesis in Escherichia coli.</title>
+<authorList>
+<person name="Kitagawa Y."/>
+<person name="Akaboshi E."/>
+<person name="Shinagawa H."/>
+<person name="Horii T."/>
+<person name="Ogawa H."/>
+<person name="Kato T."/>
+</authorList>
+<dbReference type="PubMed" id="2989817"/>
+<dbReference type="DOI" id="10.1073/pnas.82.13.4336"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="4331" last="4335">
+<title>umuDC and mucAB operons whose products are required for UV light- and chemical-induced mutagenesis: UmuD, MucA, and LexA proteins share homology.</title>
+<authorList>
+<person name="Perry K.L."/>
+<person name="Elledge S.J."/>
+<person name="Mitchell B.B."/>
+<person name="Marsh L."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="2989816"/>
+<dbReference type="DOI" id="10.1073/pnas.82.13.4331"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="DNA Res." volume="3" first="137" last="155">
+<title>A 718-kb DNA sequence of the Escherichia coli K-12 genome corresponding to the 12.7-28.0 min region on the linkage map.</title>
+<authorList>
+<person name="Oshima T."/>
+<person name="Aiba H."/>
+<person name="Baba T."/>
+<person name="Fujita K."/>
+<person name="Hayashi K."/>
+<person name="Honjo A."/>
+<person name="Ikemoto K."/>
+<person name="Inada T."/>
+<person name="Itoh T."/>
+<person name="Kajihara M."/>
+<person name="Kanai K."/>
+<person name="Kashimoto K."/>
+<person name="Kimura S."/>
+<person name="Kitagawa M."/>
+<person name="Makino K."/>
+<person name="Masuda S."/>
+<person name="Miki T."/>
+<person name="Mizobuchi K."/>
+<person name="Mori H."/>
+<person name="Motomura K."/>
+<person name="Nakamura Y."/>
+<person name="Nashimoto H."/>
+<person name="Nishio Y."/>
+<person name="Saito N."/>
+<person name="Sampei G."/>
+<person name="Seki Y."/>
+<person name="Tagami H."/>
+<person name="Takemoto K."/>
+<person name="Wada C."/>
+<person name="Yamamoto Y."/>
+<person name="Yano M."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="8905232"/>
+<dbReference type="DOI" id="10.1093/dnares/3.3.137"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1992" name="Mol. Gen. Genet." volume="233" first="443" last="448">
+<title>Escherichia coli umuDC mutants: DNA sequence alterations and UmuD cleavage.</title>
+<authorList>
+<person name="Koch W.H."/>
+<person name="Ennis D.G."/>
+<person name="Levine A.S."/>
+<person name="Woodgate R."/>
+</authorList>
+<dbReference type="PubMed" id="1320188"/>
+<dbReference type="DOI" id="10.1007/BF00265442"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Mol. Microbiol." volume="35" first="1560" last="1572">
+<title>Identification of additional genes belonging to the LexA regulon in Escherichia coli.</title>
+<authorList>
+<person name="Fernandez De Henestrosa A.R."/>
+<person name="Ogi T."/>
+<person name="Aoyagi S."/>
+<person name="Chafin D."/>
+<person name="Hayes J.J."/>
+<person name="Ohmori H."/>
+<person name="Woodgate R."/>
+</authorList>
+<dbReference type="PubMed" id="10760155"/>
+<dbReference type="DOI" id="10.1046/j.1365-2958.2000.01826.x"/>
+</citation>
+<scope>REGULATION BY LEXA</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>K12 / RW118</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Nature" volume="404" first="1014" last="1018">
+<title>Roles of E. coli DNA polymerases IV and V in lesion-targeted and untargeted SOS mutagenesis.</title>
+<authorList>
+<person name="Tang M."/>
+<person name="Pham P."/>
+<person name="Shen X."/>
+<person name="Taylor J.S."/>
+<person name="O'Donnell M."/>
+<person name="Woodgate R."/>
+<person name="Goodman M.F."/>
+</authorList>
+<dbReference type="PubMed" id="10801133"/>
+<dbReference type="DOI" id="10.1038/35010020"/>
+</citation>
+<scope>FUNCTION IN TRANSLION REPAIR</scope>
+<scope>STIMULATION BY RECA AND BETA SLIDING-CLAMP COMPLEX</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="36" first="845" last="860">
+<title>Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.</title>
+<authorList>
+<person name="Davies B.W."/>
+<person name="Kohanski M.A."/>
+<person name="Simmons L.A."/>
+<person name="Winkler J.A."/>
+<person name="Collins J.J."/>
+<person name="Walker G.C."/>
+</authorList>
+<dbReference type="PubMed" id="20005847"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.11.024"/>
+</citation>
+<scope>INDUCTION BY HYDROXYUREA</scope>
+<source>
+<strain>K12 / MC4100 / ATCC 35695 / DSM 6574</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3">Involved in UV protection and mutation. Poorly processive, error-prone DNA polymerase involved in translesion repair (PubMed:10801133). Essential for induced (or SOS) mutagenesis. Able to replicate DNA across DNA lesions (thymine photodimers and abasic sites, translesion synthesis) in the presence of activated RecA; efficiency is maximal in the presence of the beta sliding-clamp and clamp-loading complex of DNA polymerase III plus single-stranded binding protein (SSB) (PubMed:10801133). RecA and to a lesser extent the beta clamp-complex may target Pol V to replication complexes stalled at DNA template lesions (PubMed:10801133).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1119849"/>
+<interactant intactId="EBI-1122622">
+<id>P0AG11</id>
+<label>umuD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="induction">
+<text evidence="2 5">Repressed by LexA, induced by DNA damage (PubMed:10760155). Induced 1.5-fold by hydroxyurea (PubMed:20005847).</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the DNA polymerase type-Y family.</text>
+</comment>
+<dbReference type="EMBL" id="M10107">
+<property type="protein sequence ID" value="AAA24729.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13387">
+<property type="protein sequence ID" value="AAA98074.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC74268.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAA36031.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E64864">
+<property type="entry name" value="ZWECC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_415702.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000457616.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="SMR" id="P04152"/>
+<dbReference type="BioGrid" id="4261816">
+<property type="interactions" value="142"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-11090N"/>
+<dbReference type="IntAct" id="P04152">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b1184"/>
+<dbReference type="jPOST" id="P04152"/>
+<dbReference type="PaxDb" id="P04152"/>
+<dbReference type="PRIDE" id="P04152"/>
+<dbReference type="EnsemblBacteria" id="AAC74268">
+<property type="protein sequence ID" value="AAC74268"/>
+<property type="gene ID" value="b1184"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAA36031">
+<property type="protein sequence ID" value="BAA36031"/>
+<property type="gene ID" value="BAA36031"/>
+</dbReference>
+<dbReference type="GeneID" id="946359"/>
+<dbReference type="KEGG" id="ecj:JW1173"/>
+<dbReference type="KEGG" id="eco:b1184"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.1103"/>
+<dbReference type="EchoBASE" id="EB1049"/>
+<dbReference type="EcoGene" id="EG11056">
+<property type="gene designation" value="umuC"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CQ3">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0389">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000252172"/>
+<dbReference type="InParanoid" id="P04152"/>
+<dbReference type="KO" id="K03502"/>
+<dbReference type="PhylomeDB" id="P04152"/>
+<dbReference type="BioCyc" id="EcoCyc:EG11056-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW1173-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG11056-MONOMER"/>
+<dbReference type="PRO" id="PR:P04152"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009355">
+<property type="term" value="C:DNA polymerase V complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008094">
+<property type="term" value="F:DNA-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003887">
+<property type="term" value="F:DNA-directed DNA polymerase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003697">
+<property type="term" value="F:single-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009432">
+<property type="term" value="P:SOS response"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019985">
+<property type="term" value="P:translesion synthesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.100">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036775">
+<property type="entry name" value="DNA_pol_Y-fam_lit_finger_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017961">
+<property type="entry name" value="DNA_pol_Y-fam_little_finger"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025188">
+<property type="entry name" value="DUF4113"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024728">
+<property type="entry name" value="PolY_HhH_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001126">
+<property type="entry name" value="UmuC"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13438">
+<property type="entry name" value="DUF4113"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00817">
+<property type="entry name" value="IMS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11799">
+<property type="entry name" value="IMS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11798">
+<property type="entry name" value="IMS_HHH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100879">
+<property type="entry name" value="SSF100879"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50173">
+<property type="entry name" value="UMUC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0741">SOS mutagenesis</keyword>
+<keyword id="KW-0742">SOS response</keyword>
+<feature type="chain" description="Protein UmuC" id="PRO_0000173982">
+<location>
+<begin position="1"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="domain" description="UmuC" evidence="1">
+<location>
+<begin position="2"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In umuC36; non-mutable." evidence="4">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In umuC104; non-mutable." evidence="4">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In umuC25; non-mutable." evidence="4">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="290"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA24729." ref="1" evidence="6">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="152"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00216"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10760155"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10801133"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1320188"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20005847"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="422" mass="47680" checksum="0F1855D802A3F5F8" modified="1997-11-01" version="2">
+MFALCDVNAFYASCETVFRPDLWGKPVVVLSNNDGCVIARNAEAKALGVKMGDPWFKQKD
+LFRRCGVVCFSSNYELYADMSNRVMSTLEELSPRVEIYSIDEAFCDLTGVRNCRDLTDFG
+REIRATVLQRTHLTVGVGIAQTKTLAKLANHAAKKWQRQTGGVVDLSNLERQRKLMSALP
+VDDVWGIGRRISKKLDAMGIKTVLDLADTDIRFIRKHFNVVLERTVRELRGEPCLQLEEF
+APTKQEIICSRSFGERITDYPSMRQAICSYAARAAEKLRSEHQYCRFISTFIKTSPFALN
+EPYYGNSASVKLLTPTQDSRDIINAATRSLDAIWQAGHRYQKAGVMLGDFFSQGVAQLNL
+FDDNAPRPGSEQLMTVMDTLNAKEGRGTLYFAGQGIQQQWQMKRAMLSPRYTTRSSDLLR
+VK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

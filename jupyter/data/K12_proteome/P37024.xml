@@ -1,0 +1,881 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-05-08" version="161">
+<accession>P37024</accession>
+<accession>P75663</accession>
+<accession>Q2MCG2</accession>
+<name>HRPB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName>ATP-dependent RNA helicase HrpB</fullName>
+<ecNumber>3.6.4.13</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">hrpB</name>
+<name type="synonym">yadO</name>
+<name type="ordered locus">b0148</name>
+<name type="ordered locus">JW0144</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nucleic Acids Res." volume="22" first="1637" last="1639">
+<title>Systematic sequencing of the Escherichia coli genome: analysis of the 2.4-4.1 min (110,917-193,643 bp) region.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Mori H."/>
+<person name="Yura T."/>
+<person name="Ishihama A."/>
+</authorList>
+<dbReference type="PubMed" id="8202364"/>
+<dbReference type="DOI" id="10.1093/nar/22.9.1637"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="595" last="598">
+<title>Cloning and characterization of the hrpA gene in the terC region of Escherichia coli that is highly similar to the DEAH family RNA helicase genes of Saccharomyces cerevisiae.</title>
+<authorList>
+<person name="Moriya H."/>
+<person name="Kasai H."/>
+<person name="Isono K."/>
+</authorList>
+<dbReference type="PubMed" id="7899078"/>
+<dbReference type="DOI" id="10.1093/nar/23.4.595"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 61-156</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + H2O = ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:13065"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="3.6.4.13"/>
+</reaction>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the DEAD box helicase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13"/>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAC73259.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE76044.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D42122">
+<property type="protein sequence ID" value="BAA21040.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D64738">
+<property type="entry name" value="D64738"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_414690.4">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001350480.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="PDB" id="6EUD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-809"/>
+</dbReference>
+<dbReference type="PDB" id="6HEG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.02"/>
+<property type="chains" value="A=1-809"/>
+</dbReference>
+<dbReference type="PDBsum" id="6EUD"/>
+<dbReference type="PDBsum" id="6HEG"/>
+<dbReference type="SMR" id="P37024"/>
+<dbReference type="BioGrid" id="4261401">
+<property type="interactions" value="85"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-9938N"/>
+<dbReference type="IntAct" id="P37024">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b0148"/>
+<dbReference type="jPOST" id="P37024"/>
+<dbReference type="PaxDb" id="P37024"/>
+<dbReference type="PRIDE" id="P37024"/>
+<dbReference type="EnsemblBacteria" id="AAC73259">
+<property type="protein sequence ID" value="AAC73259"/>
+<property type="gene ID" value="b0148"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE76044">
+<property type="protein sequence ID" value="BAE76044"/>
+<property type="gene ID" value="BAE76044"/>
+</dbReference>
+<dbReference type="GeneID" id="944845"/>
+<dbReference type="KEGG" id="ecj:JW0144"/>
+<dbReference type="KEGG" id="eco:b0148"/>
+<dbReference type="PATRIC" id="fig|1411691.4.peg.2133"/>
+<dbReference type="EchoBASE" id="EB2233"/>
+<dbReference type="EcoGene" id="EG12329">
+<property type="gene designation" value="hrpB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105CQ7">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1643">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244609"/>
+<dbReference type="InParanoid" id="P37024"/>
+<dbReference type="KO" id="K03579"/>
+<dbReference type="PhylomeDB" id="P37024"/>
+<dbReference type="BioCyc" id="EcoCyc:EG12329-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW0144-MONOMER"/>
+<dbReference type="PRO" id="PR:P37024"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008026">
+<property type="term" value="F:ATP-dependent helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007502">
+<property type="entry name" value="Helicase-assoc_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010225">
+<property type="entry name" value="HrpB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013689">
+<property type="entry name" value="RNA_helicase_ATP-dep_HrpB_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43519">
+<property type="entry name" value="PTHR43519"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04408">
+<property type="entry name" value="HA2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08482">
+<property type="entry name" value="HrpB_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00847">
+<property type="entry name" value="HA2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01970">
+<property type="entry name" value="DEAH_box_HrpB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="ATP-dependent RNA helicase HrpB" id="PRO_0000055180">
+<location>
+<begin position="1"/>
+<end position="809"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="3">
+<location>
+<begin position="14"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="4">
+<location>
+<begin position="195"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="27"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEFH box">
+<location>
+<begin position="123"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="7"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="10"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="23"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="33"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="37"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="49"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="58"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="78"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="87"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="95"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="103"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="117"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="125"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="130"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="143"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="151"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="164"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="173"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="183"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="192"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="196"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="213"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="222"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="240"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="253"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="266"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="273"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="276"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="283"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="292"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="300"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="305"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="314"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="325"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="338"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="351"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="358"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="372"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="383"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="406"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="418"/>
+<end position="426"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="430"/>
+<end position="444"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="448"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="454"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="463"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="485"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="488"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="497"/>
+<end position="499"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="500"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="509"/>
+<end position="512"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="517"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="525"/>
+<end position="528"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="529"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="544"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="556"/>
+<end position="562"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="564"/>
+<end position="566"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="568"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="577"/>
+<end position="580"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="581"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="593"/>
+<end position="599"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="605"/>
+<end position="619"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="621"/>
+<end position="623"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="628"/>
+<end position="643"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="654"/>
+<end position="659"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="661"/>
+<end position="664"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="666"/>
+<end position="668"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="675"/>
+<end position="680"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="683"/>
+<end position="689"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="693"/>
+<end position="702"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="705"/>
+<end position="708"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="714"/>
+<end position="718"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="721"/>
+<end position="723"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="726"/>
+<end position="730"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="731"/>
+<end position="734"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="744"/>
+<end position="747"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="751"/>
+<end position="755"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="761"/>
+<end position="766"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="768"/>
+<end position="773"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="776"/>
+<end position="786"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="788"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="796"/>
+<end position="798"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6EUD"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6HEG"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="809" mass="89148" checksum="413605E1D2D90715" modified="1997-11-01" version="3">
+MSSLPVAAVLPELLTALDCAPQVLLSAPTGAGKSTWLPLQLLAHPGINGKIILLEPRRLA
+ARNVAQRLAELLNEKPGDTVGYRMRAQNCVGPNTRLEVVTEGVLTRMIQRDPELSGVGLV
+ILDEFHERSLQADLALALLLDVQQGLRDDLKLLIMSATLDNDRLQQMLPEAPVVISEGRS
+FPVERRYLPLPAHQRFDDAVAVATAEMLRQESGSLLLFLPGVGEIQRVQEQLASRIGSDV
+LLCPLYGALSLNDQRKAILPAPQGMRKVVLATNIAETSLTIEGIRLVVDCAQERVARFDP
+RTGLTRLITQRVSQASMTQRAGRAGRLEPGISLHLIAKEQAERAAAQSEPEILQSDLSGL
+LMELLQWGCSDPAQMSWLDQPPVVNLLAAKRLLQMLGALEGERLSAQGQKMAALGNDPRL
+AAMLVSAKNDDEAATAAKIAAILEEPPRMGNSDLGVAFSRNQPAWQQRSQQLLKRLNVRG
+GEADSSLIAPLLAGAFADRIARRRGQDGRYQLANGMGAMLDANDALSRHEWLIAPLLLQG
+SASPDARILLALLVDIDELVQRCPQLVQQSDTVEWDDAQGTLKAWRRLQIGQLTVKVQPL
+AKPSEDELHQAMLNGIRDKGLSVLNWTAEAEQLRLRLLCAAKWLPEYDWPAVDDESLLAA
+LETWLLPHMTGVHSLRGLKSLDIYQALRGLLDWGMQQRLDSELPAHYTVPTGSRIAIRYH
+EDNPPALAVRMQEMFGEATNPTIAQGRVPLVLELLSPAQRPLQITRDLSDFWKGAYREVQ
+KEMKGRYPKHVWPDDPANTAPTRRTKKYS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

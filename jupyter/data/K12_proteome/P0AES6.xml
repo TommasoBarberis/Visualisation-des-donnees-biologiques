@@ -1,0 +1,2524 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2019-07-03" version="136">
+<accession>P0AES6</accession>
+<accession>O08438</accession>
+<accession>P06982</accession>
+<accession>Q2M811</accession>
+<name>GYRB_ECOLI</name>
+<protein>
+<recommendedName>
+<fullName evidence="11">DNA gyrase subunit B</fullName>
+<ecNumber evidence="11 13 14 21 22 24">5.6.2.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Type IIA topoisomerase subunit GyrB</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="11">gyrB</name>
+<name type="synonym" evidence="45">acrB</name>
+<name type="synonym">cou</name>
+<name type="synonym">himB</name>
+<name type="synonym">hisU</name>
+<name type="synonym">nalC</name>
+<name type="synonym">parA</name>
+<name type="synonym">pcbA</name>
+<name type="ordered locus">b3699</name>
+<name type="ordered locus">JW5625</name>
+</gene>
+<organism>
+<name type="scientific">Escherichia coli (strain K12)</name>
+<dbReference type="NCBI Taxonomy" id="83333"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="Mol. Gen. Genet." volume="204" first="367" last="373">
+<title>Nalidixic acid-resistant mutations of the gyrB gene of Escherichia coli.</title>
+<authorList>
+<person name="Yamagishi J."/>
+<person name="Yoshida H."/>
+<person name="Yamayoshi M."/>
+<person name="Nakamura S."/>
+</authorList>
+<dbReference type="PubMed" id="3020376"/>
+<dbReference type="DOI" id="10.1007/BF00331012"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1987" name="Nucleic Acids Res." volume="15" first="771" last="784">
+<title>DNA sequence of the E. coli gyrB gene: application of a new sequencing strategy.</title>
+<authorList>
+<person name="Adachi T."/>
+<person name="Mizuuchi M."/>
+<person name="Robinson E.A."/>
+<person name="Appella E."/>
+<person name="O'Dea M.H."/>
+<person name="Gellert M."/>
+<person name="Mizuuchi K."/>
+</authorList>
+<dbReference type="PubMed" id="3029692"/>
+<dbReference type="DOI" id="10.1093/nar/15.2.771"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="13302" last="13308">
+<title>acrB mutation located at carboxyl-terminal region of gyrase B subunit reduces DNA binding of DNA gyrase.</title>
+<authorList>
+<person name="Funatsuki K."/>
+<person name="Tanaka R."/>
+<person name="Inagaki S."/>
+<person name="Konno H."/>
+<person name="Katoh K."/>
+<person name="Nakamura H."/>
+</authorList>
+<dbReference type="PubMed" id="9148951"/>
+<dbReference type="DOI" id="10.1074/jbc.272.20.13302"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF VARIANT ACRB</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBUNIT</scope>
+<scope>DNA-BINDING</scope>
+<scope>ACRIDINE SENSITIVITY</scope>
+<source>
+<strain>K12 / N2879</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1993" name="Genomics" volume="16" first="551" last="561">
+<title>DNA sequence and analysis of 136 kilobases of the Escherichia coli genome: organizational symmetry around the origin of replication.</title>
+<authorList>
+<person name="Burland V.D."/>
+<person name="Plunkett G. III"/>
+<person name="Daniels D.L."/>
+<person name="Blattner F.R."/>
+</authorList>
+<dbReference type="PubMed" id="7686882"/>
+<dbReference type="DOI" id="10.1006/geno.1993.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Science" volume="277" first="1453" last="1462">
+<title>The complete genome sequence of Escherichia coli K-12.</title>
+<authorList>
+<person name="Blattner F.R."/>
+<person name="Plunkett G. III"/>
+<person name="Bloch C.A."/>
+<person name="Perna N.T."/>
+<person name="Burland V."/>
+<person name="Riley M."/>
+<person name="Collado-Vides J."/>
+<person name="Glasner J.D."/>
+<person name="Rode C.K."/>
+<person name="Mayhew G.F."/>
+<person name="Gregor J."/>
+<person name="Davis N.W."/>
+<person name="Kirkpatrick H.A."/>
+<person name="Goeden M.A."/>
+<person name="Rose D.J."/>
+<person name="Mau B."/>
+<person name="Shao Y."/>
+</authorList>
+<dbReference type="PubMed" id="9278503"/>
+<dbReference type="DOI" id="10.1126/science.277.5331.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / MG1655 / ATCC 47076</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Nucleic Acids Res." volume="34" first="1" last="9">
+<title>Escherichia coli K-12: a cooperatively developed annotation snapshot -- 2005.</title>
+<authorList>
+<person name="Riley M."/>
+<person name="Abe T."/>
+<person name="Arnaud M.B."/>
+<person name="Berlyn M.K.B."/>
+<person name="Blattner F.R."/>
+<person name="Chaudhuri R.R."/>
+<person name="Glasner J.D."/>
+<person name="Horiuchi T."/>
+<person name="Keseler I.M."/>
+<person name="Kosuge T."/>
+<person name="Mori H."/>
+<person name="Perna N.T."/>
+<person name="Plunkett G. III"/>
+<person name="Rudd K.E."/>
+<person name="Serres M.H."/>
+<person name="Thomas G.H."/>
+<person name="Thomson N.R."/>
+<person name="Wishart D."/>
+<person name="Wanner B.L."/>
+</authorList>
+<dbReference type="PubMed" id="16397293"/>
+<dbReference type="DOI" id="10.1093/nar/gkj405"/>
+</citation>
+<scope>SEQUENCE REVISION TO 385</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="Mol. Syst. Biol." volume="2" first="E1" last="E5">
+<title>Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110.</title>
+<authorList>
+<person name="Hayashi K."/>
+<person name="Morooka N."/>
+<person name="Yamamoto Y."/>
+<person name="Fujita K."/>
+<person name="Isono K."/>
+<person name="Choi S."/>
+<person name="Ohtsubo E."/>
+<person name="Baba T."/>
+<person name="Wanner B.L."/>
+<person name="Mori H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="16738553"/>
+<dbReference type="DOI" id="10.1038/msb4100049"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1984" name="Nucleic Acids Res." volume="12" first="6389" last="6395">
+<title>DNA sequence and transcription of the region upstream of the E. coli gyrB gene.</title>
+<authorList>
+<person name="Adachi T."/>
+<person name="Mizuuchi K."/>
+<person name="Menzel R."/>
+<person name="Gellert M."/>
+</authorList>
+<dbReference type="PubMed" id="6089112"/>
+<dbReference type="DOI" id="10.1093/nar/12.16.6389"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-106</scope>
+<source>
+<strain>K12</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1987" name="J. Bacteriol." volume="169" first="1272" last="1278">
+<title>Fusions of the Escherichia coli gyrA and gyrB control regions to the galactokinase gene are inducible by coumermycin treatment.</title>
+<authorList>
+<person name="Menzel R."/>
+<person name="Gellert M."/>
+</authorList>
+<dbReference type="PubMed" id="3029031"/>
+<dbReference type="DOI" id="10.1128/jb.169.3.1272-1278.1987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-22</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="21342" last="21349">
+<title>Characterization of the ATP binding site on Escherichia coli DNA gyrase. Affinity labeling of Lys-103 and Lys-110 of the B subunit by pyridoxal 5'-diphospho-5'-adenosine.</title>
+<authorList>
+<person name="Tamura J.K."/>
+<person name="Gellert M."/>
+</authorList>
+<dbReference type="PubMed" id="2174443"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 93-129</scope>
+<scope>ATP-BINDING</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1976" name="Proc. Natl. Acad. Sci. U.S.A." volume="73" first="3872" last="3876">
+<title>DNA gyrase: an enzyme that introduces superhelical turns into DNA.</title>
+<authorList>
+<person name="Gellert M."/>
+<person name="Mizuuchi K."/>
+<person name="O'Dea M.H."/>
+<person name="Nash H.A."/>
+</authorList>
+<dbReference type="PubMed" id="186775"/>
+<dbReference type="DOI" id="10.1073/pnas.73.11.3872"/>
+</citation>
+<scope>FUNCTION IN GENERATING NEGATIVELY SUPERCOILED DNA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ATP-DEPENDENCE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1977" name="Proc. Natl. Acad. Sci. U.S.A." volume="74" first="4772" last="4776">
+<title>Nalidixic acid resistance: a second genetic character involved in DNA gyrase activity.</title>
+<authorList>
+<person name="Gellert M."/>
+<person name="Mizuuchi K."/>
+<person name="O'Dea M.H."/>
+<person name="Itoh T."/>
+<person name="Tomizawa J.I."/>
+</authorList>
+<dbReference type="PubMed" id="337300"/>
+<dbReference type="DOI" id="10.1073/pnas.74.11.4772"/>
+</citation>
+<scope>FUNCTION IN RELAXING SUPERCOILED DNA</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="5339" last="5344">
+<title>Mapping the active site tyrosine of Escherichia coli DNA gyrase.</title>
+<authorList>
+<person name="Horowitz D.S."/>
+<person name="Wang J.C."/>
+</authorList>
+<dbReference type="PubMed" id="3031051"/>
+</citation>
+<scope>REACTION MECHANISM</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1991" name="EMBO J." volume="10" first="467" last="476">
+<title>The peptide antibiotic microcin B17 induces double-strand cleavage of DNA mediated by E. coli DNA gyrase.</title>
+<authorList>
+<person name="Vizan J.L."/>
+<person name="Hernandez-Chico C."/>
+<person name="del Castillo I."/>
+<person name="Moreno F."/>
+</authorList>
+<dbReference type="PubMed" id="1846808"/>
+</citation>
+<scope>MUTANTS MICROCIN B17 RESISTANT</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1992" name="Mol. Microbiol." volume="6" first="1617" last="1624">
+<title>gyrB mutations which confer coumarin resistance also affect DNA supercoiling and ATP hydrolysis by Escherichia coli DNA gyrase.</title>
+<authorList>
+<person name="Contreras A."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="1323022"/>
+<dbReference type="DOI" id="10.1111/j.1365-2958.1992.tb00886.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ARG-136 AND GLY-164</scope>
+<scope>ANTIBIOTIC RESISTANCE</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="11232" last="11236">
+<title>Identifying the catalytic residue of the ATPase reaction of DNA gyrase.</title>
+<authorList>
+<person name="Jackson A.P."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="8248233"/>
+<dbReference type="DOI" id="10.1073/pnas.90.23.11232"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ATPASE ACTIVE SITE</scope>
+<scope>MUTAGENESIS OF HIS-38 AND GLU-42</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1994" name="Antimicrob. Agents Chemother." volume="38" first="1966" last="1973">
+<title>Mechanism of inhibition of DNA gyrase by cyclothialidine, a novel DNA gyrase inhibitor.</title>
+<authorList>
+<person name="Nakada N."/>
+<person name="Gmuender H."/>
+<person name="Hirata T."/>
+<person name="Arisawa M."/>
+</authorList>
+<dbReference type="PubMed" id="7811004"/>
+<dbReference type="DOI" id="10.1128/AAC.38.9.1966"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="9723" last="9729">
+<title>Mutations in the B subunit of Escherichia coli DNA gyrase that affect ATP-dependent reactions.</title>
+<authorList>
+<person name="O'Dea M.H."/>
+<person name="Tamura J.K."/>
+<person name="Gellert M."/>
+</authorList>
+<dbReference type="PubMed" id="8621650"/>
+<dbReference type="DOI" id="10.1074/jbc.271.16.9723"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LYS-103 AND LYS-110</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="14416" last="14421">
+<title>Conversion of DNA gyrase into a conventional type II topoisomerase.</title>
+<authorList>
+<person name="Kampranis S.C."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="8962066"/>
+<dbReference type="DOI" id="10.1073/pnas.93.25.14416"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1997" name="Electrophoresis" volume="18" first="1243" last="1251">
+<title>Escherichia coli proteome analysis using the gene-protein database.</title>
+<authorList>
+<person name="VanBogelen R.A."/>
+<person name="Abshire K.Z."/>
+<person name="Moldover B."/>
+<person name="Olson E.R."/>
+<person name="Neidhardt F.C."/>
+</authorList>
+<dbReference type="PubMed" id="9298644"/>
+<dbReference type="DOI" id="10.1002/elps.1150180805"/>
+</citation>
+<scope>IDENTIFICATION BY 2D-GEL</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1997" name="Genes Dev." volume="11" first="2580" last="2592">
+<title>Topoisomerase IV, not gyrase, decatenates products of site-specific recombination in Escherichia coli.</title>
+<authorList>
+<person name="Zechiedrich E.L."/>
+<person name="Khodursky A.B."/>
+<person name="Cozzarelli N.R."/>
+</authorList>
+<dbReference type="PubMed" id="9334322"/>
+<dbReference type="DOI" id="10.1101/gad.11.19.2580"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="9658" last="9667">
+<title>Identification of a residue involved in transition-state stabilization in the ATPase reaction of DNA gyrase.</title>
+<authorList>
+<person name="Smith C.V."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="9657678"/>
+<dbReference type="DOI" id="10.1021/bi9801309"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF GLN-335 AND LYS-337</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2002" name="J. Mol. Biol." volume="318" first="351" last="359">
+<title>Identification of four GyrA residues involved in the DNA breakage-reunion reaction of DNA gyrase.</title>
+<authorList>
+<person name="Hockings S.C."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="12051842"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)00048-7"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2002" name="J. Mol. Biol." volume="318" first="361" last="371">
+<title>The role of GyrB in the DNA cleavage-religation reaction of DNA gyrase: a proposed two metal-ion mechanism.</title>
+<authorList>
+<person name="Noble C.G."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="12051843"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)00049-9"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF GLU-424; ASP-498; ASP-500 AND ASP-502</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="3738" last="3742">
+<title>The 'GyrA-box' is required for the ability of DNA gyrase to wrap DNA and catalyze the supercoiling reaction.</title>
+<authorList>
+<person name="Kramlinger V.M."/>
+<person name="Hiasa H."/>
+</authorList>
+<dbReference type="PubMed" id="16332690"/>
+<dbReference type="DOI" id="10.1074/jbc.M511160200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2007" name="J. Bacteriol." volume="189" first="5839" last="5849">
+<title>Growth rate toxicity phenotypes and homeostatic supercoil control differentiate Escherichia coli from Salmonella enterica serovar Typhimurium.</title>
+<authorList>
+<person name="Champion K."/>
+<person name="Higgins N.P."/>
+</authorList>
+<dbReference type="PubMed" id="17400739"/>
+<dbReference type="DOI" id="10.1128/JB.00083-07"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF ARG-436</scope>
+<source>
+<strain>K12 / W3110 / ATCC 27325 / DSM 5911</strain>
+</source>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2008" name="Biochemistry" volume="47" first="8538" last="8545">
+<title>DNA gyrase requires DNA for effective two-site coordination of divalent metal ions: further insight into the mechanism of enzyme action.</title>
+<authorList>
+<person name="Sissi C."/>
+<person name="Chemello A."/>
+<person name="Vazquez E."/>
+<person name="Mitchenall L.A."/>
+<person name="Maxwell A."/>
+<person name="Palumbo M."/>
+</authorList>
+<dbReference type="PubMed" id="18642932"/>
+<dbReference type="DOI" id="10.1021/bi800480j"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="1587" last="1594">
+<title>The pentapeptide repeat proteins MfpAMt and QnrB4 exhibit opposite effects on DNA gyrase catalytic reactions and on the ternary gyrase-DNA-quinolone complex.</title>
+<authorList>
+<person name="Merens A."/>
+<person name="Matrat S."/>
+<person name="Aubry A."/>
+<person name="Lascols C."/>
+<person name="Jarlier V."/>
+<person name="Soussy C.J."/>
+<person name="Cavallo J.D."/>
+<person name="Cambau E."/>
+</authorList>
+<dbReference type="PubMed" id="19060136"/>
+<dbReference type="DOI" id="10.1128/JB.01205-08"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2009" name="Science" volume="326" first="1415" last="1418">
+<title>A crystal structure of the bifunctional antibiotic simocyclinone D8, bound to DNA gyrase.</title>
+<authorList>
+<person name="Edwards M.J."/>
+<person name="Flatman R.H."/>
+<person name="Mitchenall L.A."/>
+<person name="Stevenson C.E."/>
+<person name="Le T.B."/>
+<person name="Clarke T.A."/>
+<person name="McKay A.R."/>
+<person name="Fiedler H.P."/>
+<person name="Buttner M.J."/>
+<person name="Lawson D.M."/>
+<person name="Maxwell A."/>
+</authorList>
+<dbReference type="PubMed" id="19965760"/>
+<dbReference type="DOI" id="10.1126/science.1179123"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="18636" last="18644">
+<title>Mechanisms for defining supercoiling set point of DNA gyrase orthologs: I. A nonconserved acidic C-terminal tail modulates Escherichia coli gyrase activity.</title>
+<authorList>
+<person name="Tretter E.M."/>
+<person name="Berger J.M."/>
+</authorList>
+<dbReference type="PubMed" id="22457353"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.345678"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="18645" last="18654">
+<title>Mechanisms for defining supercoiling set point of DNA gyrase orthologs: II. The shape of the GyrA subunit C-terminal domain (CTD) is not a sole determinant for controlling supercoiling efficiency.</title>
+<authorList>
+<person name="Tretter E.M."/>
+<person name="Berger J.M."/>
+</authorList>
+<dbReference type="PubMed" id="22457352"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.345736"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1991" name="Antimicrob. Agents Chemother." volume="35" first="1647" last="1650">
+<title>Quinolone resistance-determining region in the DNA gyrase gyrB gene of Escherichia coli.</title>
+<authorList>
+<person name="Yoshida H."/>
+<person name="Bogaki M."/>
+<person name="Nakamura M."/>
+<person name="Yamanaka L.M."/>
+<person name="Nakamura S."/>
+</authorList>
+<dbReference type="PubMed" id="1656869"/>
+<dbReference type="DOI" id="10.1128/AAC.35.8.1647"/>
+</citation>
+<scope>VARIANTS QUINOLONE-RESISTANT ASN-426 AND GLU-447</scope>
+<source>
+<strain>K16</strain>
+</source>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2013" name="Bioorg. Med. Chem. Lett." volume="23" first="1537" last="1543">
+<title>Pyrrolopyrimidine inhibitors of DNA gyrase B (GyrB) and topoisomerase IV (ParE), Part II: development of inhibitors with broad spectrum, Gram-negative antibacterial activity.</title>
+<authorList>
+<person name="Trzoss M."/>
+<person name="Bensen D.C."/>
+<person name="Li X."/>
+<person name="Chen Z."/>
+<person name="Lam T."/>
+<person name="Zhang J."/>
+<person name="Creighton C.J."/>
+<person name="Cunningham M.L."/>
+<person name="Kwan B."/>
+<person name="Stidham M."/>
+<person name="Nelson K."/>
+<person name="Brown-Driver V."/>
+<person name="Castellano A."/>
+<person name="Shaw K.J."/>
+<person name="Lightstone F.C."/>
+<person name="Wong S.E."/>
+<person name="Nguyen T.B."/>
+<person name="Finn J."/>
+<person name="Tari L.W."/>
+</authorList>
+<dbReference type="PubMed" id="23294697"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2012.11.073"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1991" name="Nature" volume="351" first="624" last="629">
+<title>Crystal structure of an N-terminal fragment of the DNA gyrase B protein.</title>
+<authorList>
+<person name="Wigley D.B."/>
+<person name="Davies G.J."/>
+<person name="Dodson E.J."/>
+<person name="Maxwell A."/>
+<person name="Dodson G."/>
+</authorList>
+<dbReference type="PubMed" id="1646964"/>
+<dbReference type="DOI" id="10.1038/351624a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1-393 IN COMPLEX WITH ATP ANALOG</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1996" name="EMBO J." volume="15" first="1412" last="1420">
+<title>The nature of inhibition of DNA gyrase by the coumarins and the cyclothialidines revealed by X-ray crystallography.</title>
+<authorList>
+<person name="Lewis R.J."/>
+<person name="Singh O.M."/>
+<person name="Smith C.V."/>
+<person name="Skarzynski T."/>
+<person name="Maxwell A."/>
+<person name="Wonacott A.J."/>
+<person name="Wigley D.B."/>
+</authorList>
+<dbReference type="PubMed" id="8635474"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 1-220 IN COMPLEX WITH COUMARIN AND CYCLOTHIALIDINE ANTIBIOTICS</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1997" name="Proteins" volume="28" first="41" last="52">
+<title>The high-resolution crystal structure of a 24-kDa gyrase B fragment from E. coli complexed with one of the most potent coumarin inhibitors, clorobiocin.</title>
+<authorList>
+<person name="Tsai F.T."/>
+<person name="Singh O.M."/>
+<person name="Skarzynski T."/>
+<person name="Wonacott A.J."/>
+<person name="Weston S."/>
+<person name="Tucker A."/>
+<person name="Pauptit R.A."/>
+<person name="Breeze A.L."/>
+<person name="Poyser J.P."/>
+<person name="O'Brien R."/>
+<person name="Ladbury J.E."/>
+<person name="Wigley D.B."/>
+</authorList>
+<dbReference type="PubMed" id="9144789"/>
+<dbReference type="DOI" id="10.1002/(SICI)1097-0134(199705)28:1&lt;41::AID-PROT4>3.3.CO;2-B"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 1-220 IN COMPLEX WITH CHLOROBIOCIN</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1997" name="Biochemistry" volume="36" first="9663" last="9673">
+<title>The entropic penalty of ordered water accounts for weaker binding of the antibiotic novobiocin to a resistant mutant of DNA gyrase: a thermodynamic and crystallographic study.</title>
+<authorList>
+<person name="Holdgate G.A."/>
+<person name="Tunnicliffe A."/>
+<person name="Ward W.H."/>
+<person name="Weston S.A."/>
+<person name="Rosenbrock G."/>
+<person name="Barth P.T."/>
+<person name="Taylor I.W."/>
+<person name="Pauptit R.A."/>
+<person name="Timms D."/>
+</authorList>
+<dbReference type="PubMed" id="9245398"/>
+<dbReference type="DOI" id="10.1021/bi970294+"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 2-220 OF MUTANT HIS-136 IN COMPLEX WITH NOVOBIOCIN</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="9468" last="9475">
+<title>Dimerization of Escherichia coli DNA-gyrase B provides a structural mechanism for activating the ATPase catalytic center.</title>
+<authorList>
+<person name="Brino L."/>
+<person name="Urzhumtsev A."/>
+<person name="Mousli M."/>
+<person name="Bronner C."/>
+<person name="Mitschler A."/>
+<person name="Oudet P."/>
+<person name="Moras D."/>
+</authorList>
+<dbReference type="PubMed" id="10734094"/>
+<dbReference type="DOI" id="10.1074/jbc.275.13.9468"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 2-392 OF MUTANT SER-5 IN COMPLEX WITH ATP ANALOG</scope>
+<scope>ACTIVE SITE</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF 1-MET--LYS-14; TYR-5 AND ILE-10</scope>
+<scope>ATP-BINDING</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2002" name="Biochemistry" volume="41" first="7217" last="7223">
+<title>DNA gyrase interaction with coumarin-based inhibitors: the role of the hydroxybenzoate isopentenyl moiety and the 5'-methyl group of the noviose.</title>
+<authorList>
+<person name="Lafitte D."/>
+<person name="Lamour V."/>
+<person name="Tsvetkov P.O."/>
+<person name="Makarov A.A."/>
+<person name="Klich M."/>
+<person name="Deprez P."/>
+<person name="Moras D."/>
+<person name="Briand C."/>
+<person name="Gilli R."/>
+</authorList>
+<dbReference type="PubMed" id="12044152"/>
+<dbReference type="DOI" id="10.1021/bi0159837"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 15-219 IN COMPLEX WITH CLOROBIOCIN</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2010" name="Bioorg. Med. Chem. Lett." volume="20" first="2828" last="2831">
+<title>Discovery of pyrazolthiazoles as novel and potent inhibitors of bacterial gyrase.</title>
+<authorList>
+<person name="Ronkin S.M."/>
+<person name="Badia M."/>
+<person name="Bellon S."/>
+<person name="Grillot A.L."/>
+<person name="Gross C.H."/>
+<person name="Grossman T.H."/>
+<person name="Mani N."/>
+<person name="Parsons J.D."/>
+<person name="Stamos D."/>
+<person name="Trudeau M."/>
+<person name="Wei Y."/>
+<person name="Charifson P.S."/>
+</authorList>
+<dbReference type="PubMed" id="20356737"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2010.03.052"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 15-217 IN COMPLEX WITH PYRAZOLTHIAZOLE INHIBITOR</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2010" name="Nucleic Acids Res." volume="38" first="7830" last="7844">
+<title>A domain insertion in Escherichia coli GyrB adopts a novel fold that plays a critical role in gyrase function.</title>
+<authorList>
+<person name="Schoeffler A.J."/>
+<person name="May A.P."/>
+<person name="Berger J.M."/>
+</authorList>
+<dbReference type="PubMed" id="20675723"/>
+<dbReference type="DOI" id="10.1093/nar/gkq665"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 388-804</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2012" name="J. Med. Chem." volume="55" first="6413" last="6426">
+<title>Structure-based discovery of substituted 4,5'-bithiazoles as novel DNA gyrase inhibitors.</title>
+<authorList>
+<person name="Brvar M."/>
+<person name="Perdih A."/>
+<person name="Renko M."/>
+<person name="Anderluh G."/>
+<person name="Turk D."/>
+<person name="Solmajer T."/>
+</authorList>
+<dbReference type="PubMed" id="22731783"/>
+<dbReference type="DOI" id="10.1021/jm300395d"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 1-220</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2013" name="Bioorg. Med. Chem. Lett." volume="23" first="1529" last="1536">
+<title>Pyrrolopyrimidine inhibitors of DNA gyrase B (GyrB) and topoisomerase IV (ParE). Part I: Structure guided discovery and optimization of dual targeting agents with potent, broad-spectrum enzymatic activity.</title>
+<authorList>
+<person name="Tari L.W."/>
+<person name="Trzoss M."/>
+<person name="Bensen D.C."/>
+<person name="Li X."/>
+<person name="Chen Z."/>
+<person name="Lam T."/>
+<person name="Zhang J."/>
+<person name="Creighton C.J."/>
+<person name="Cunningham M.L."/>
+<person name="Kwan B."/>
+<person name="Stidham M."/>
+<person name="Shaw K.J."/>
+<person name="Lightstone F.C."/>
+<person name="Wong S.E."/>
+<person name="Nguyen T.B."/>
+<person name="Nix J."/>
+<person name="Finn J."/>
+</authorList>
+<dbReference type="PubMed" id="23352267"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2012.11.032"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 15-220 IN COMPLEX WITH INHIBITOR</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2013" name="PLoS ONE" volume="8" first="E84409" last="E84409">
+<title>Tricyclic GyrB/ParE (TriBE) inhibitors: a new class of broad-spectrum dual-targeting antibacterial agents.</title>
+<authorList>
+<person name="Tari L.W."/>
+<person name="Li X."/>
+<person name="Trzoss M."/>
+<person name="Bensen D.C."/>
+<person name="Chen Z."/>
+<person name="Lam T."/>
+<person name="Zhang J."/>
+<person name="Lee S.J."/>
+<person name="Hough G."/>
+<person name="Phillipson D."/>
+<person name="Akers-Rodriguez S."/>
+<person name="Cunningham M.L."/>
+<person name="Kwan B.P."/>
+<person name="Nelson K.J."/>
+<person name="Castellano A."/>
+<person name="Locke J.B."/>
+<person name="Brown-Driver V."/>
+<person name="Murphy T.M."/>
+<person name="Ong V.S."/>
+<person name="Pillar C.M."/>
+<person name="Shinabarger D.L."/>
+<person name="Nix J."/>
+<person name="Lightstone F.C."/>
+<person name="Wong S.E."/>
+<person name="Nguyen T.B."/>
+<person name="Shaw K.J."/>
+<person name="Finn J."/>
+</authorList>
+<dbReference type="PubMed" id="24386374"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0084409"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 15-220 IN COMPLEX WITH INHIBITOR</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E107289" last="E107289">
+<title>Structure of the N-terminal Gyrase B fragment in complex with ADPPi reveals rigid-body motion induced by ATP hydrolysis.</title>
+<authorList>
+<person name="Stanger F.V."/>
+<person name="Dehio C."/>
+<person name="Schirmer T."/>
+</authorList>
+<dbReference type="PubMed" id="25202966"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0107289"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 2-392 IN OPEN; SEMI-OPEN AND CLOSED STATES IN COMPLEX WITH ADP AND ATP ANALOGS</scope>
+<scope>ATPASE ACTIVITY</scope>
+<scope>PROBABLE MECHANISM</scope>
+<scope>DOMAIN</scope>
+<scope>ATP-BINDING</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2015" name="Acta Crystallogr. D" volume="71" first="996" last="1005">
+<title>The role of monovalent cations in the ATPase reaction of DNA gyrase.</title>
+<authorList>
+<person name="Hearnshaw S.J."/>
+<person name="Chung T.T."/>
+<person name="Stevenson C.E."/>
+<person name="Maxwell A."/>
+<person name="Lawson D.M."/>
+</authorList>
+<dbReference type="PubMed" id="25849408"/>
+<dbReference type="DOI" id="10.1107/S1399004715002916"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 2-393 IN COMPLEX WITH ATP ANALOG AND MONOVALENT CATIONS</scope>
+<scope>ATPASE ACTIVITY</scope>
+</reference>
+<comment type="function">
+<text evidence="13 14 15 16 19 21 22 23 24 25 26 27 28 30 31 32 33 34 35 36 37 38 39 41 42 43 44">DNA gyrase negatively supercoils closed circular double-stranded DNA in an ATP-dependent manner to maintain chromosomes in an underwound state (PubMed:186775, PubMed:3031051, PubMed:1323022, PubMed:8248233, PubMed:7811004, PubMed:8621650, PubMed:9657678, PubMed:12051842, PubMed:12051843, PubMed:18642932, PubMed:19060136, PubMed:19965760, PubMed:22457353, PubMed:23294697, PubMed:20356737, PubMed:20675723, PubMed:23352267, PubMed:24386374, PubMed:25202966, PubMed:25849408). This makes better substrates for topoisomerase 4 (ParC and ParE) which is the main enzyme that unlinks newly replicated chromosomes in E.coli (PubMed:9334322). Gyrase catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes (PubMed:22457352). Relaxes negatively supercoiled DNA in an ATP-independent manner (PubMed:337300). E.coli gyrase has higher supercoiling activity than other characterized bacterial gyrases; at comparable concentrations E.coli gyrase introduces more supercoils faster than M.tuberculosis gyrase, while M.tuberculosis gyrase has higher decatenation than supercoiling activity compared to E.coli (PubMed:22457352). E.coli makes 15% more negative supercoils in pBR322 plasmid DNA than S.typhimurium; the S.typhimurium GyrB subunit is toxic in E.coli, while the E.coli copy can be expressed in S.typhimurium even though the 2 subunits have 777/804 residues identical (PubMed:17400739). The enzymatic differences between E.coli gyrase and topoisomerase IV are largely due to the GyrA C-terminal domain (approximately residues 524-841) and specifically the GyrA-box (PubMed:8962066, PubMed:16332690).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="11 13 14 21 22 24 26 29">
+<text>ATP-dependent breakage, passage and rejoining of double-stranded DNA.</text>
+<dbReference type="EC" id="5.6.2.3"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="11 14 21">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<cofactor evidence="11 14 21">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<cofactor evidence="11 14 21">
+<name>Ca(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29108"/>
+</cofactor>
+<text evidence="11 14 21">Binds two Mg(2+) per subunit. The magnesium ions form salt bridges with both the protein and the DNA. Can also accept other divalent metal cations, such as Mn(2+) or Ca(2+) (PubMed:12051843, PubMed:18642932).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="34">
+<name>K(+)</name>
+<dbReference type="ChEBI" id="CHEBI:29103"/>
+</cofactor>
+<text evidence="34">Binds one K(+) per subunit which interacts with the alpha-phosphate of ATP analog and stimulates ATPase activity of the N-terminal fragment; Na(+) or water bind less well (PubMed:25849408).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="34">
+<name>Na(+)</name>
+<dbReference type="ChEBI" id="CHEBI:29101"/>
+</cofactor>
+<text evidence="34">Binds one Na(+) per subunit, with 4 ligands provided by water; may be able to bind K(+), the functional significance of this ion is unclear (PubMed:25849408).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="23 25 30 31 32 35 36 37 40 42 48">Gyrase is the target of many classes of inhibitors, including coumarins, cyclothialidines, pyrrolopyrimidines, pyrazolthiazoles and (fluoro)quinolones. Coumarins bind to GyrB and are competitive inhibitors of its ATPase activity (PubMed:7811004). Cyclothialidines also bind GyrB and are ATPase competitive inhibitors; they seem to act differently from coumarins (PubMed:7811004, PubMed:8635474). Pyrrolopyrimidines inhibit both GyrB and its paralog in topoisomerase 4 (parE) (PubMed:23294697, PubMed:23352267, PubMed:24386374). Pyrazolthiazoles also inhibit the ATPase activity of GyrB (PubMed:20356737). Quinolones bind GyrA when the enzyme is complexed with DNA and trap the enzyme in a covalent reaction intermediate with DNA (PubMed:3031051, PubMed:12051842, PubMed:337300). Acriflavine inhibits DNA supercoiling and DNA-stimulated ATPase activity (PubMed:9148951). DNA supercoiling activity is protected from fluoroquinolone inhibition by QnrB4; QnrB4 has no effect on supercoiling activity alone (PubMed:19060136).</text>
+</comment>
+<comment type="subunit">
+<text evidence="11 13 14 21 24 26 42">Heterotetramer, composed of two GyrA and two GyrB chains (PubMed:9148951, PubMed:12051842). In the heterotetramer, GyrA contains the active site tyrosine that forms a transient covalent intermediate with the DNA, while GyrB binds cofactors and catalyzes ATP hydrolysis (PubMed:12051843, PubMed:18642932, PubMed:20675723, PubMed:19965760).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-541911"/>
+<interactant intactId="EBI-547129">
+<id>P0AES4</id>
+<label>gyrA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="11">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="12 17 39 52 54">Consists of 3 domains; the ATPase domain (residues 1-220), the transducer domain (221-392) and the toprim domain (393-804) (PubMed:1646964, PubMed:10734094). ATP-binding is cooperative, and both subunits must be wild-type at residue 103 for supercoiling to occur (PubMed:8621650). Non-hydrolyzable ATP analogs (and ATP-binding) induce dimerization and enhance ATPase activity (PubMed:10734094, PubMed:9657678). ATP hydrolysis induces domain shifts that are probably part of the mechanism of DNA cleavage and rejoining (PubMed:25202966).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="35 48">When the enzyme transiently cleaves DNA a phosphotyrosine bond is formed between GyrA and DNA in an ATP-independent manner (PubMed:3031051). In the presence of quinolones this intermediate can be trapped and is used as an indicator of drug toxicity (PubMed:12051842).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the type II topoisomerase family.</text>
+</comment>
+<dbReference type="EC" id="5.6.2.3" evidence="11 13 14 21 22 24"/>
+<dbReference type="EMBL" id="X04341">
+<property type="protein sequence ID" value="CAA27871.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D87842">
+<property type="protein sequence ID" value="BAA20341.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L10328">
+<property type="protein sequence ID" value="AAA62050.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U00096">
+<property type="protein sequence ID" value="AAT48201.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP009048">
+<property type="protein sequence ID" value="BAE77595.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15548">
+<property type="protein sequence ID" value="AAA23949.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D65172">
+<property type="entry name" value="ISECTB"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000072067.1">
+<property type="nucleotide sequence ID" value="NZ_LN832404.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_026241.1">
+<property type="nucleotide sequence ID" value="NC_000913.3"/>
+</dbReference>
+<dbReference type="PDB" id="1AJ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-220"/>
+</dbReference>
+<dbReference type="PDB" id="1EI1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=2-392"/>
+</dbReference>
+<dbReference type="PDB" id="1KZN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=15-219"/>
+</dbReference>
+<dbReference type="PDB" id="3G7E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=15-217"/>
+</dbReference>
+<dbReference type="PDB" id="3NUH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="B=389-804"/>
+</dbReference>
+<dbReference type="PDB" id="4DUH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=1-220"/>
+</dbReference>
+<dbReference type="PDB" id="4HYP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D=15-220"/>
+</dbReference>
+<dbReference type="PDB" id="4KFG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=15-220"/>
+</dbReference>
+<dbReference type="PDB" id="4PRV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-392"/>
+</dbReference>
+<dbReference type="PDB" id="4PRX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-392"/>
+</dbReference>
+<dbReference type="PDB" id="4PU9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=2-392"/>
+</dbReference>
+<dbReference type="PDB" id="4WUB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="4WUC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="4WUD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=2-393"/>
+</dbReference>
+<dbReference type="PDB" id="4XTJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.92"/>
+<property type="chains" value="A=2-392"/>
+</dbReference>
+<dbReference type="PDB" id="4ZVI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=16-392"/>
+</dbReference>
+<dbReference type="PDB" id="5L3J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.83"/>
+<property type="chains" value="A=15-392"/>
+</dbReference>
+<dbReference type="PDB" id="5MMN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-220"/>
+</dbReference>
+<dbReference type="PDB" id="5MMO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A=1-220"/>
+</dbReference>
+<dbReference type="PDB" id="5MMP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A=1-220"/>
+</dbReference>
+<dbReference type="PDB" id="5Z4H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z4O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.73"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.74"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.54"/>
+<property type="chains" value="A=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="5Z9Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=15-221"/>
+</dbReference>
+<dbReference type="PDB" id="6ENG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-393"/>
+</dbReference>
+<dbReference type="PDBsum" id="1AJ6"/>
+<dbReference type="PDBsum" id="1EI1"/>
+<dbReference type="PDBsum" id="1KZN"/>
+<dbReference type="PDBsum" id="3G7E"/>
+<dbReference type="PDBsum" id="3NUH"/>
+<dbReference type="PDBsum" id="4DUH"/>
+<dbReference type="PDBsum" id="4HYP"/>
+<dbReference type="PDBsum" id="4KFG"/>
+<dbReference type="PDBsum" id="4PRV"/>
+<dbReference type="PDBsum" id="4PRX"/>
+<dbReference type="PDBsum" id="4PU9"/>
+<dbReference type="PDBsum" id="4WUB"/>
+<dbReference type="PDBsum" id="4WUC"/>
+<dbReference type="PDBsum" id="4WUD"/>
+<dbReference type="PDBsum" id="4XTJ"/>
+<dbReference type="PDBsum" id="4ZVI"/>
+<dbReference type="PDBsum" id="5L3J"/>
+<dbReference type="PDBsum" id="5MMN"/>
+<dbReference type="PDBsum" id="5MMO"/>
+<dbReference type="PDBsum" id="5MMP"/>
+<dbReference type="PDBsum" id="5Z4H"/>
+<dbReference type="PDBsum" id="5Z4O"/>
+<dbReference type="PDBsum" id="5Z9B"/>
+<dbReference type="PDBsum" id="5Z9E"/>
+<dbReference type="PDBsum" id="5Z9F"/>
+<dbReference type="PDBsum" id="5Z9L"/>
+<dbReference type="PDBsum" id="5Z9M"/>
+<dbReference type="PDBsum" id="5Z9N"/>
+<dbReference type="PDBsum" id="5Z9Q"/>
+<dbReference type="PDBsum" id="6ENG"/>
+<dbReference type="SMR" id="P0AES6"/>
+<dbReference type="BioGrid" id="4259537">
+<property type="interactions" value="175"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2177">
+<property type="entry name" value="GyrA-GyrB complex"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48005N"/>
+<dbReference type="IntAct" id="P0AES6">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="STRING" id="511145.b3699"/>
+<dbReference type="BindingDB" id="P0AES6"/>
+<dbReference type="ChEMBL" id="CHEMBL1826"/>
+<dbReference type="DrugBank" id="DB05488">
+<property type="generic name" value="99mTc-ciprofloxacin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03966">
+<property type="generic name" value="Clorobiocin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04395">
+<property type="generic name" value="Phosphoaminophosphonic Acid-Adenylate Ester"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00817">
+<property type="generic name" value="Rosoxacin"/>
+</dbReference>
+<dbReference type="EPD" id="P0AES6"/>
+<dbReference type="jPOST" id="P0AES6"/>
+<dbReference type="PaxDb" id="P0AES6"/>
+<dbReference type="PRIDE" id="P0AES6"/>
+<dbReference type="EnsemblBacteria" id="AAT48201">
+<property type="protein sequence ID" value="AAT48201"/>
+<property type="gene ID" value="b3699"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="BAE77595">
+<property type="protein sequence ID" value="BAE77595"/>
+<property type="gene ID" value="BAE77595"/>
+</dbReference>
+<dbReference type="GeneID" id="948211"/>
+<dbReference type="KEGG" id="ecj:JW5625"/>
+<dbReference type="KEGG" id="eco:b3699"/>
+<dbReference type="PATRIC" id="fig|511145.12.peg.3823"/>
+<dbReference type="EchoBASE" id="EB0419"/>
+<dbReference type="EcoGene" id="EG10424">
+<property type="gene designation" value="gyrB"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4105C7D">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0187">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000075155"/>
+<dbReference type="InParanoid" id="P0AES6"/>
+<dbReference type="KO" id="K02470"/>
+<dbReference type="PhylomeDB" id="P0AES6"/>
+<dbReference type="BioCyc" id="EcoCyc:EG10424-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL316407:JW5625-MONOMER"/>
+<dbReference type="BioCyc" id="MetaCyc:EG10424-MONOMER"/>
+<dbReference type="BRENDA" id="5.99.1.3">
+<property type="organism ID" value="2026"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0AES6"/>
+<dbReference type="PRO" id="PR:P0AES6"/>
+<dbReference type="Proteomes" id="UP000000318">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000625">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005694">
+<property type="term" value="C:chromosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoCyc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009330">
+<property type="term" value="C:DNA topoisomerase complex (ATP-hydrolyzing)"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034335">
+<property type="term" value="F:DNA supercoiling activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003918">
+<property type="term" value="F:DNA topoisomerase type II (ATP-hydrolyzing) activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008094">
+<property type="term" value="F:DNA-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006265">
+<property type="term" value="P:DNA topological change"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006261">
+<property type="term" value="P:DNA-dependent DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042493">
+<property type="term" value="P:response to drug"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="EcoliWiki"/>
+</dbReference>
+<dbReference type="CDD" id="cd00075">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd03366">
+<property type="entry name" value="TOPRIM_TopoIIA_GyrB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.670">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01898">
+<property type="entry name" value="GyrB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002288">
+<property type="entry name" value="DNA_gyrase_B_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011557">
+<property type="entry name" value="GyrB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041423">
+<property type="entry name" value="GyrB_insert"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036890">
+<property type="entry name" value="HATPase_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001241">
+<property type="entry name" value="Topo_IIA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013760">
+<property type="entry name" value="Topo_IIA-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013759">
+<property type="entry name" value="Topo_IIA_B_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013506">
+<property type="entry name" value="Topo_IIA_bsu_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018522">
+<property type="entry name" value="TopoIIA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006171">
+<property type="entry name" value="TOPRIM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034160">
+<property type="entry name" value="TOPRIM_GyrB"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00204">
+<property type="entry name" value="DNA_gyraseB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00986">
+<property type="entry name" value="DNA_gyraseB_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF18053">
+<property type="entry name" value="GyrB_insert"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02518">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01751">
+<property type="entry name" value="Toprim"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00387">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00433">
+<property type="entry name" value="TOP2c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56719">
+<property type="entry name" value="SSF56719"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01059">
+<property type="entry name" value="gyrB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00177">
+<property type="entry name" value="TOPOISOMERASE_II"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50880">
+<property type="entry name" value="TOPRIM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0413">Isomerase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0630">Potassium</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0915">Sodium</keyword>
+<keyword id="KW-0799">Topoisomerase</keyword>
+<feature type="initiator methionine" description="Removed" evidence="50">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="DNA gyrase subunit B" id="PRO_0000145309">
+<location>
+<begin position="2"/>
+<end position="804"/>
+</location>
+</feature>
+<feature type="domain" description="Toprim" evidence="11">
+<location>
+<begin position="418"/>
+<end position="533"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="12 33 34">
+<location>
+<begin position="102"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="12 33 34">
+<location>
+<begin position="115"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="12 34">
+<location>
+<begin position="335"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="region of interest" description="ATPase domain" evidence="47 50">
+<location>
+<begin position="2"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="region of interest" description="Transducer domain" evidence="47 50">
+<location>
+<begin position="221"/>
+<end position="392"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor (ATPase activity)" evidence="47 53">
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Potassium; via carbonyl oxygen" evidence="34">
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Potassium; via carbonyl oxygen" evidence="34">
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Potassium; via carbonyl oxygen" evidence="34">
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Sodium" evidence="34">
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Sodium" evidence="34">
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Potassium; via carbonyl oxygen" evidence="34">
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Potassium" evidence="34">
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1; catalytic" evidence="11 49 51">
+<location>
+<position position="424"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 1; catalytic" evidence="11 49 51">
+<location>
+<position position="498"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="11 49 51">
+<location>
+<position position="498"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium 2" evidence="11 49 51">
+<location>
+<position position="500"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="33 34 47">
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="binding site" description="ADP" evidence="12 33 34">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="12 33 34">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="12 33 34">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="site" description="Transition state stabilizer" evidence="54">
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="11">
+<location>
+<position position="449"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="11">
+<location>
+<position position="452"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In nal-24, nal-102, nal-103, nal-107, nal-108, nal-111, nal-114, en-2 and en-5 mutants; resistant to nalidixic acid and to enoxacin." evidence="18">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="426"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In nal-31, nal-109, nal-115 and nal-120 mutants; resistant to nalidixic acid." evidence="18">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="447"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In microcin B17 resistant mutant." evidence="20">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="751"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In acriflavine susceptible mutant acrB, decreased supercoiling activity, ATPase activity no longer stimulated by DNA, decreased DNA-binding, bind GyrA normally." evidence="42">
+<original>SR</original>
+<variation>RC</variation>
+<location>
+<begin position="759"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No dimerization of residues 15-393, fragment has no ATPase activity." evidence="12">
+<location>
+<begin position="1"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="5- to 10-fold reduced dimerization of residues 2-393, fragment has 3- to 5-fold reduced ATPase activity. Fragment dimerizes upon crystallization." evidence="12">
+<original>Y</original>
+<variation>F</variation>
+<variation>S</variation>
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No dimerization of residues 2-393, fragment has significantly decreased ATPase activity." evidence="12">
+<original>I</original>
+<variation>G</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="0.2% supercoiling activity, 7% DNA-dependent ATPase activity, binds ATP normally, complements the N4177 ts mutant." evidence="38">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No supercoiling or DNA-dependent ATPase activity, 25% fluoroquinolone-induced DNA cleavage, 50% ATP-independent DNA relaxation, binds ATP normally, does not complement the N4177 ts mutant." evidence="38">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="7% supercoiling activity, 16% DNA-dependent ATPase activity, fluoroquinolone-induced DNA cleavage normal, 40% ATP-independent DNA relaxation, binds ATP normally, complements the N4177 ts mutant." evidence="38">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No supercoiling or DNA-dependent ATPase activity, binds ATP normally, does not complement the N4177 ts mutant." evidence="38">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retains ATP-independent DNA relaxation and quinolone-induced DNA cleavage; loss of supercoiling activity, loss of ATPase, does not bind ATP analogs." evidence="39">
+<original>K</original>
+<variation>E</variation>
+<variation>I</variation>
+<variation>T</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Binds about 50% ATP analog, 2- to 3-fold decreased ATPase, retains ATP-independent DNA relaxation, quinolone-induced DNA cleavage and negative supercoiling activity." evidence="39">
+<original>K</original>
+<variation>E</variation>
+<variation>V</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Resistance to coumarin antibiotics, decreased ATPase and DNA supercoiling." evidence="15">
+<original>R</original>
+<variation>C</variation>
+<variation>H</variation>
+<variation>S</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Resistance to coumarin antibiotics, decreased ATPase and DNA supercoiling." evidence="15">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Wild-type ATP analog-binding and ATPase activity in N-terminal fragment GyrB43 (residues 2-393), in whole protein wild-type DNA supercoiling and ATP-independent DNA relaxation, 50% ATPase activity which is not stimulated by DNA, complements the N4177 ts mutant." evidence="44">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="335"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Binds about 60% ATP analog but strongly decreased enzyme turnover for ATPase activity in N-terminal fragment GyrB43 (residues 2-393), in whole protein &lt;1% DNA supercoiling and ATPase activity not stimulated by DNA, wild-type ATP-independent DNA relaxation and quinolone-induced DNA cleavage, does not complement the N4177 ts mutant." evidence="44">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly reduced DNA supercoiling and relaxation activity. Reduces ATP hydrolysis in response to DNA binding, but has only minor effect on the basal rate of ATP hydrolysis." evidence="14">
+<original>E</original>
+<variation>A</variation>
+<variation>Q</variation>
+<location>
+<position position="424"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Cannot be made, suggesting it is lethal. This is temperature-sensitive in S.typhimurium, but not lethal." evidence="19">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="436"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly reduced DNA supercoiling and relaxation activity. Reduces ATP hydrolysis in response to DNA binding, but has only minor effect on the basal rate of ATP hydrolysis." evidence="14">
+<original>D</original>
+<variation>A</variation>
+<variation>N</variation>
+<location>
+<position position="498"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly reduced DNA supercoiling and relaxation activity. Reduces ATP hydrolysis in response to DNA binding, but has only minor effect on the basal rate of ATP hydrolysis." evidence="14">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="500"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Alters metal-dependency of ATP-independent DNA relaxation, prefers Mn(2+) and Co(2+) over wild-type Mg(2+)." evidence="14">
+<original>D</original>
+<variation>C</variation>
+<variation>H</variation>
+<location>
+<position position="500"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly reduced DNA supercoiling and relaxation activity. Reduces ATP hydrolysis in response to DNA binding, but has only minor effect on the basal rate of ATP hydrolysis." evidence="14">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="502"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Alters metal-dependency of ATP-independent DNA relaxation, prefers Mn(2+) and Co(2+) over wild-type Mg(2+)." evidence="14">
+<original>D</original>
+<variation>C</variation>
+<variation>H</variation>
+<location>
+<position position="502"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAA62050." ref="4" evidence="46">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="385"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAA20341." ref="3" evidence="46">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="436"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="7"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="16"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="24"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="30"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="34"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="58"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="69"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="84"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="90"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="98"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="104"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="114"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="120"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="127"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="139"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="149"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="155"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="164"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="173"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="184"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="201"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="208"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="213"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="221"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="235"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="241"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="250"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="265"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="273"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="280"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="302"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="309"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="312"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="319"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="332"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="343"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="365"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="419"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="425"/>
+<end position="435"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="438"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="441"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="465"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="491"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="501"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="505"/>
+<end position="517"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="519"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="527"/>
+<end position="530"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="534"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="542"/>
+<end position="546"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="549"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="564"/>
+<end position="571"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="573"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="577"/>
+<end position="596"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="597"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="603"/>
+<end position="611"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="617"/>
+<end position="621"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="623"/>
+<end position="640"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="646"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="660"/>
+<end position="667"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="669"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="679"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="685"/>
+<end position="699"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="700"/>
+<end position="703"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="704"/>
+<end position="711"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="713"/>
+<end position="718"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="719"/>
+<end position="730"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="731"/>
+<end position="733"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="735"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="742"/>
+<end position="744"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="747"/>
+<end position="754"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="757"/>
+<end position="759"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="762"/>
+<end position="764"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="767"/>
+<end position="780"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1AJ6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1EI1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3NUH"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4DUH"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4KFG"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4PU9"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4WUB"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5L3J"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5Z9L"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6ENG"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01898"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10734094"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12051842"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12051843"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1323022"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16332690"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1646964"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1656869"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17400739"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1846808"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18642932"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="186775"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19060136"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19965760"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20356737"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20675723"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22457352"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22457353"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22731783"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23294697"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23352267"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24386374"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25202966"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25849408"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3031051"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="337300"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7811004"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8248233"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8621650"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8635474"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8962066"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9148951"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9334322"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9657678"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9148951"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000305"/>
+<evidence key="47" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="10734094"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12051842"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12051843"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="1646964"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="18642932"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25202966"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8248233"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9657678"/>
+</source>
+</evidence>
+<sequence length="804" mass="89950" checksum="D831B95FFB3A7EE3" modified="2007-01-23" version="2">
+MSNSYDSSSIKVLKGLDAVRKRPGMYIGDTDDGTGLHHMVFEVVDNAIDEALAGHCKEII
+VTIHADNSVSVQDDGRGIPTGIHPEEGVSAAEVIMTVLHAGGKFDDNSYKVSGGLHGVGV
+SVVNALSQKLELVIQREGKIHRQIYEHGVPQAPLAVTGETEKTGTMVRFWPSLETFTNVT
+EFEYEILAKRLRELSFLNSGVSIRLRDKRDGKEDHFHYEGGIKAFVEYLNKNKTPIHPNI
+FYFSTEKDGIGVEVALQWNDGFQENIYCFTNNIPQRDGGTHLAGFRAAMTRTLNAYMDKE
+GYSKKAKVSATGDDAREGLIAVVSVKVPDPKFSSQTKDKLVSSEVKSAVEQQMNELLAEY
+LLENPTDAKIVVGKIIDAARAREAARRAREMTRRKGALDLAGLPGKLADCQERDPALSEL
+YLVEGDSAGGSAKQGRNRKNQAILPLKGKILNVEKARFDKMLSSQEVATLITALGCGIGR
+DEYNPDKLRYHSIIIMTDADVDGSHIRTLLLTFFYRQMPEIVERGHVYIAQPPLYKVKKG
+KQEQYIKDDEAMDQYQISIALDGATLHTNASAPALAGEALEKLVSEYNATQKMINRMERR
+YPKAMLKELIYQPTLTEADLSDEQTVTRWVNALVSELNDKEQHGSQWKFDVHTNAEQNLF
+EPIVRVRTHGVDTDYPLDHEFITGGEYRRICTLGEKLRGLLEEDAFIERGERRQPVASFE
+QALDWLVKESRRGLSIQRYKGLGEMNPEQLWETTMDPESRRMLRVTVKDAIAADQLFTTL
+MGDAVEPRRAFIEENALKAANIDI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
