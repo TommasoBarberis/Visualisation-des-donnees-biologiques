@@ -1,2 +1,3 @@
 # linguist overrides
 *.Rmd linguist-detectable=true
+*.ipynb linguist-detectable=false
